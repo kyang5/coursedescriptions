@@ -1,0 +1,41 @@
+COMP 331: Cryptography
+======================
+
+Aliases
+---------------------
+
+|math331|
+
+Prerequisites
+---------------------
+
+Mathematical Preparation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:doc:`comp163`, |math313|, or |math201|)
+
+Programming Foundations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:doc:`comp125`, :doc:`comp170`, or :doc:`comp215` (or equivalent)
+
+Description
+--------------------
+
+This course introduces the formal foundations of cryptography and also
+investigates some well-known standards and protocols. The intended audience is
+senior undergraduate and beginning graduate students. The course will include
+topics selected from the following: information-theoretic security, private
+key encryption, DES, public key encryption, background on modular arithmetic,
+RSA, hashing and message authentication codes (MACs), digital signatures, DSS,
+key distribution and management, PGP, network security, and Fiat-Shamir
+protocol.
+
+Syllabi
+----------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Date", "Instructor", "URL"

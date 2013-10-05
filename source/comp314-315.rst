@@ -1,0 +1,62 @@
+
+
+COMP 314/315: Problem Solving Strategies
+========================================
+
+Overlaps with the ACM Programming Team
+
+Credit Hours
+-----------------------
+
+for 314: 1; for 315: 2
+
+Prerequisites
+---------------------
+
+For COMP 314: 
+
+:doc:`comp271` (or corequisite)
+
+For COMP 315:
+
+COMP 314
+
+Description
+--------------------
+
+
+This course started as a means to give ACM programing team members
+academic credit for their participation. The class work will be designed
+to help these people. We will mostly work old programming team
+competition problems, alone and in groups, and discuss strategies for
+solving such problems effectively. You do not need to be interested in
+the official team to find these problems and the discussions about them
+interesting. You do NOT need to agree to be on the team to be in the
+class. You are welcomed to be in the class if you just want to sharpen
+your problem solving skills. The competition problems are reasonable
+ones to work on with or without the competition.
+
+By enrolling in the sequence 314-315 over two years, you satisfy 3 units
+of elective credit in Computer Science department majors.
+
+In keeping with the programming competition format, we will arrange a
+schedule to meet about every two weekends for a 5 hour practice/problem
+solving session, with a weekday followup discussion for 1-1.5 hours on a
+weekday in the following week.
+
+The organizational meeting to agree on practice and discussion times
+will be in the afternoon in the first week of classes. The time will be
+posted.
+
+Contact Dr. Harrington if you cannot attend that session. Try to let him
+know ahead of time your available weekend times through October.
+
+Syllabi
+----------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Date", "Instructor", "URL"
+
