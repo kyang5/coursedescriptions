@@ -42,6 +42,8 @@ rst_epilog = """
 
 .. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math331/index.shtml>`__
 
+.. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`__
+
 .. |phil120| replace:: `PHIL 120 <http://luc.edu/philosophy/coursedescriptions.shtml>`__
 
 
