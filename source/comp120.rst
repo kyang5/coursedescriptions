@@ -1,6 +1,8 @@
 COMP 120: Introduction to Computer Applications
 ===============================================
 
+This course, intended for non-science majors, offers a hands-on introduction to the development, functions, and applications of computers. It includes weekly lab assignments.
+
 Alias
 -----------------------
 
@@ -14,7 +16,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Math Placement Test or Math 099
+Math 100 or equivalent
 
 Description
 --------------------
@@ -26,6 +28,11 @@ desktop software, statistical packages, and programming. Uses of computing
 technology in business and the arts. We also review ethical, security, and
 privacy issues as they relate to computers and the world today. There are also
 weekly lab assignments in this course.
+
+Outcome
+---------------------
+
+Experience with Internet tools, desktop publishing, spreadsheets, databases, statistical packages, and some programming, and with applications to business and the arts; an understanding of ethical, security, and privacy issues relating to computers and the Internet.
 
 Syllabi
 ----------------------

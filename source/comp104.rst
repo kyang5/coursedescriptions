@@ -1,8 +1,7 @@
 COMP 104: Computer Animation
 ============================
 
-An animation course for the web with no prerequisites - appropriate for
-all.
+The course introduces techniques for understanding and developing dynamic and interactive media by using sound, motion, images, and text. Relevant software knowledge areas are covered.
 
 Credit hours
 ---------------------
@@ -37,10 +36,10 @@ programming segments in a special language called Actionscript.
 `Information
 flyer <http://www.cs.luc.edu/academics/courses/Animation_Course.pdf>`__
 
-Syllabus
+Outcome
+---------------------
 
-Download .Doc file
-`here <http://www.cs.luc.edu/academics/courses/COMP%20388.doc>`__ .
+Ability to publish created animated media projects to the web in a process that involves understanding human interface design.
 
 Syllabi
 ----------------------

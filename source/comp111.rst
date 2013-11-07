@@ -1,6 +1,8 @@
 COMP 111: History of Computing
 ==============================
 
+The social and organizational history of humanity is intricately entangled with the history of technology in general and the technology of information in particular. Advances in this area have often been closely involved in social and political transformations. While the contemporary period is often referred to by such names as the Computing and Information Age, this is the culmination of a series of historical transformations that have been centuries in the making. This course will provide a venue for students to learn about history through the evolution of number systems and arithmetic, calculating and computing machines, and advanced communication technology via the internet.
+
 Credit Hours
 -----------------------
 
@@ -9,7 +11,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-None
+CORE Historical Knowledge
 
 
 Description

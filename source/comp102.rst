@@ -1,6 +1,8 @@
 COMP 102: Web Design and Multimedia Publishing
 ==============================================
 
+This course introduces foundations of the world wide web technology, HTML, and multimedia publishing techniques. Topics include HTML syntax, CSS, XML, RSS, and various multimedia formats.
+
 Credit Hours
 -----------------------
 
@@ -21,6 +23,10 @@ appropriate for each of these will be discussed. Other topics may
 include CGI programming and graphics editors. The course is taught in a
 laboratory environment with hands-on instruction.
 
+Outcome
+----------------------
+
+An understanding of the technologies behind web sites and the ability to use them effectively.
 
 Syllabi
 ----------------------
@@ -28,6 +34,3 @@ Syllabi
 .. csv-table:: 
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
-
-	"Fall 2004", "Chandra Sekharan", "http://webpages.cs.luc.edu/%7Echandra/COMP102/Day1-102.htm"
-
