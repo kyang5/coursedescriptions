@@ -1,6 +1,8 @@
 COMP 125: Visual Information Processing
 =======================================
 
+This course, intended primarily for non-majors, provides an introduction to computer programming using a language well-suited to beginning programmers and practical applications, e.g., Visual Basic.Net.
+
 Credit Hours
 -----------------------
 
@@ -19,6 +21,11 @@ Visual Basic. Topics include variables, formatted input/output, arrays,
 looping, conditional execution, subroutines, functions, computer
 graphics, animation. Applications to other disciplines are stressed.
 
+Outcome
+----------------------
+
+Understanding of computer mechanisms for representing and analyzing numerical and logical information and the power of programmability; practical ability to implement useful computing tools.
+
 
 Syllabi
 ----------------------
@@ -28,3 +35,4 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Date", "Instructor", "URL"
+	"Fall 2011", "Dr. Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c125f11.pdf"
