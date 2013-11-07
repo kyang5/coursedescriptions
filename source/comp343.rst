@@ -1,7 +1,7 @@
-
-
 COMP 343: Introduction to Computer Networks
 ===========================================
+
+This course surveys packet-switched computer networks and attendant communication protocols, using the TCP/IP protocol suite on which the Internet is based as the primary model.  Some Java programming is required. 
 
 Credit Hours
 -----------------------
@@ -11,11 +11,10 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp271`
+:doc:`comp264` or :doc:`comp271`
 
 Description
 --------------------
-
 
 This course surveys the various levels of a packet-switched computer
 network, using the TCP/IP protocol suite as the primary model. Other
@@ -31,8 +30,11 @@ ftp, and electronic mail are examined, together with the related issues
 of security and authentication. Some programming in the C language is
 required.
 
-Taught by `Dr.
-Dorda <http://webpages.cs.luc.edu/~pld/courses/443/fall13/>`__\ l in
-Fall 2013.
+Syllabi
+----------------------
 
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
+	"Fall 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/443/fall13/"
