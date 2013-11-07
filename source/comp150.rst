@@ -1,5 +1,7 @@
 COMP 150: Introduction to Computing
 ===================================
+
+The world overflows with electronic data.  This course introduces programming in a simple, powerful language like Python, with selection, repetition, functions, graphical effects, and dynamic interaction with the Internet, plus connections to lower level computer organization and computer implications in the wider world.
  
 Credit Hours
 -----------------------
@@ -26,7 +28,10 @@ This course serves as a terminal course for students who want a
 one-course introduction to the field, as well as a preliminary course to
 upper-level computer science offerings.
 
-Outcome: Ability to write programs to manage and transform data; broad
+Outcome
+----------------------
+
+Ability to write programs to manage and transform data; broad
 understanding of foundations of computing.
 
 Syllabi
