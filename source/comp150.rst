@@ -1,6 +1,6 @@
 COMP 150: Introduction to Computing
 ===================================
-
+ 
 Credit Hours
 -----------------------
 
