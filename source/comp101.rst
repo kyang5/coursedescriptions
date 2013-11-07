@@ -5,7 +5,7 @@ How to take one's place on the internet - using and developing web resources.
 
 Credit Hours
 -----------------------
- 
+
 1
 
 Prerequisites
