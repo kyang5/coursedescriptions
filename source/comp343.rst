@@ -30,6 +30,11 @@ ftp, and electronic mail are examined, together with the related issues
 of security and authentication. Some programming in the C language is
 required.
 
+Outcome
+---------
+
+Students will understand how the Internet is constructed, how data is routed to its destination, how connections are made, how congestion is handled, and how security can be addressed.
+
 Syllabi
 ----------------------
 
