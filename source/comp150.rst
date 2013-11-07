@@ -41,5 +41,6 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Date", "Instructor", "URL"
+	"Fall 2011", "Dr. Albert", "http://mva.me/edu/comp150/"
+	"Fall 2013", "Dr. Harrington", "http://anh.cs.luc.edu/150/index.html"
 
