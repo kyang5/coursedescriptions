@@ -1,7 +1,9 @@
-
-
 COMP 338: Server-Based Software Development
-===========================================
+============================================
+
+Server-based web applications and services have become part of everyday life. 
+This programming-intensive course covers analysis, design, implementation, and 
+testing of multi-tiered server-based software systems along with typical tier-specific technologies.
 
 Credit Hours
 -----------------------
@@ -18,7 +20,6 @@ Prerequisites
 Description
 --------------------
 
-
 This course studies the architecture, design, and implementation of
 multi-tiered server-based software systems. Each tier is studied along
 with the pertinent mechanisms: markup languages in the client tier, web
@@ -28,8 +29,22 @@ integration, testing, security, and performance are discussed.
 Coursework includes several substantial programming projects (using a
 platform such as Java 2 Enterprise Edition).
 
-Syllabus
+Outcome
+----------
 
-Taught by `Dr. Läufer <http://www.cs.luc.edu/laufer/teaching/338>`__
+An understanding of software architecture and integration in the development of 
+multi-tiered server-based software; familiarity with object-oriented modeling and 
+development tools and test-driven development.
+
+Syllabi
+----------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2012", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/442"
+        "Fall 2013", "Dr. Zewdie", "need digital copy"
+
 
 
