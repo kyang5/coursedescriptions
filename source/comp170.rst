@@ -1,6 +1,8 @@
 COMP 170: Introduction to Object-Oriented Programming
 =====================================================
 
+This programming intensive course with its weekly lab component introduces basic concepts of object-oriented programming in a language such as Java.
+
 Credit Hours
 -----------------------
 
@@ -42,7 +44,7 @@ repetition, choice, arrays, subprograms,classes/objects, OO principles,
 and recursion.
 
 Course Goals
-~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Upon successful completion of the course, the student will be able to:
 
@@ -57,6 +59,11 @@ Upon successful completion of the course, the student will be able to:
 #. Be able to read, understand, and interpret programs written by others
    in the same language.
 
+Outcome
+---------------------
+
+Ability to take a problem, break it into parts, specify algorithms, and express a solution in terms of variables, data types, input/output, repetition, choice, arrays, subprograms, classes, and objects; ability to judge a good program.
+
 Syllabi
 ----------------------
 
@@ -64,7 +71,6 @@ Syllabi
    :header: "Semester/Year", "Instructor", "URL"
    :widths: 15, 25, 50
 
-   "Spring 2013", "Andrew N. Harrington", "http://anh.cs.luc.edu/170/index.html"
-	"Fall 2013", "George K. Thiruvathukal", "http://introcs.cs.luc.edu"
-   "Fall 2013", "Bob Yacobellis", "http://introcs.cs.luc.edu"
-   "Fall 2013", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP170/syllabus.html"
+	"Spring 2013", "Andrew N. Harrington", "http://anh.cs.luc.edu/170/index.html"
+	"Fall 2013", "George K. Thiruvathukal", "https://docs.google.com/document/d/1MhW_P0OArY-R6U9RuIUD7_uj_CrdCgTSjnQfKQEEcw8/edit"
+	"Fall 2013", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP170/syllabus.html"
