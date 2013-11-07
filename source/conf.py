@@ -18,6 +18,8 @@ import sphinx_bootstrap_theme
 
 rst_epilog = """
 
+.. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`__
+
 .. |math117| replace:: `MATH 117: College Algebra <http://luc.edu/math/academics/courses/math117/index.shtml>`__
 
 .. |math118| replace:: `MATH 118: Precalculus <http://luc.edu/math/academics/courses/math118/index.shtml>`__

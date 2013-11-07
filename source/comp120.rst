@@ -16,7 +16,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Math 100 or equivalent
+|math100| or equivalent
 
 Description
 --------------------

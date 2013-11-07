@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-CORE Historical Knowledge
+None
 
 
 Description

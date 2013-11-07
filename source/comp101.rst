@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------
 
-none
+None
 
 Description
 --------------------
