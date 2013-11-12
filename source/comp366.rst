@@ -25,6 +25,12 @@ sequential circuits; memory devices; data acquisition, manipulation and
 transfer circuitry; machine and assembly languages; microprocessor
 support devices.
 
-
 Syllabi
----------------------
+--------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
+

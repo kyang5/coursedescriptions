@@ -1,6 +1,8 @@
 COMP 364: High-Performance Computing
 ====================================
 
+This course covers parallel architectures and parallel models of computation.  Algorithms for achieving high performance in various computational contexts are discussed.  Models such as shared memory, message passing, and hybrid modes of computing are introduced. 
+
 Credit Hours
 -----------------------
 
@@ -25,11 +27,19 @@ This course makes use of departmental HPC resources. Please see
 the Systems Handbook at http://syshandbook.cs.luc.edu for details 
 about our various HPC computing systems and partner resources.
 
+Outcome
+---------
+
+Students will learn how to engineer solutions to practical problems in multiprocessor architectures and using large physical memories.
 
 Syllabi
-------------------------
+--------------------
 
-None
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Dr. Thiruvathukal and Sekharan have both taught this course in recent years.
-Syllabi needed.
+	"Year", "Dr. Thiruvathukal", "URL"
+
+        "Year", Dr. Sekharan", "URL"
+
