@@ -1,6 +1,8 @@
 COMP 305: Database Administration
 =================================
 
+Business and scientific institutions increasingly use large commercial data base systems. This course teaches the theory and practice for the definition, security, backup, tuning, and recovery of these systems.
+
 Credit Hours
 -----------------------
 
@@ -14,7 +16,6 @@ Prerequisites
 Description
 --------------------
 
-
 Businesses and scientific institutions have started using commercial grade
 database servers increasingly. Hence it has become important to install,
 configure, and manage the servers in an efficient manner to increase
@@ -25,7 +26,12 @@ processes work are needed for successful administration of the server.
 Typically, the database administrator cares for security of data, backup and
 recovery, and space management. This course takes a user through the stages of
 setting up a database server environment, to design of a database, and finally
-tuning
+tuning.
+
+Outcome
+----------------------
+
+Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration environments.
 
 Syllabi
 ----------------------
