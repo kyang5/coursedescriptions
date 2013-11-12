@@ -1,6 +1,8 @@
 COMP 370: Software Quality, Metrics, and Testing
 ================================================
 
+The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing, test case development, and regression testing. 
+
 Credit Hours
 -----------------------
 
@@ -36,7 +38,17 @@ After taking this course, students should be able to:
 -  Possess the basic skills necessary to create, test, deploy, and
    maintain an application written for a cloud computing environment.
 
+Outcome
+----------
+
+Students will learn how to prevent errors, how to get 'bugs' out of software, and be able to apply this knowledge in other courses and projects.
+
 Syllabi
 --------------------
 
-None
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2012", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP370/syllabus.html"
+
