@@ -1,5 +1,3 @@
-
-
 COMP 309: Numerical Methods
 ===========================
 
@@ -20,7 +18,6 @@ Prerequisites
 
 Course Description
 --------------------
-
 
 Introduction to error analysis, numerical solution of equations,
 interpolation and approximation, numerical differentiation and
