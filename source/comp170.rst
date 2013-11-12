@@ -71,6 +71,6 @@ Syllabi
    :header: "Semester/Year", "Instructor", "URL"
    :widths: 15, 25, 50
 
-	"Spring 2013", "Andrew N. Harrington", "http://anh.cs.luc.edu/170/index.html"
-	"Fall 2013", "George K. Thiruvathukal", "https://docs.google.com/document/d/1MhW_P0OArY-R6U9RuIUD7_uj_CrdCgTSjnQfKQEEcw8/edit"
-	"Fall 2013", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP170/syllabus.html"
+	"Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/170/index.html"
+	"Fall 2013", "Dr. Thiruvathukal", "https://docs.google.com/document/d/1MhW_P0OArY-R6U9RuIUD7_uj_CrdCgTSjnQfKQEEcw8/edit"
+	"Fall 2013", "Dr. Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP170/syllabus.html"
