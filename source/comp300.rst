@@ -1,7 +1,7 @@
-
-
 COMP 300: Data Warehousing and Data Mining
 ==========================================
+
+This course covers theory and practice of extremely large information storage (warehousing) and analysis (mining) mechanisms. With data growing at exponential rates knowledge gathering and exploration techniques are essential for gaining useful intelligence. 
 
 Credit Hours
 -----------------------
@@ -32,6 +32,11 @@ then teaches high volume data processing mechanisms by building warehouse
 schemas such as snowflake, and star. OLAP query retrieval techniques are also
 introduced.
 
+Outcome
+----------------------
+
+Students will be able to define and critically analyze data warehouse and mining approaches for fields such as security, forensics, privacy, and marketing.
+
 Syllabi
 ----------------------
 
@@ -40,4 +45,3 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Date", "Instructor", "URL"
-	
