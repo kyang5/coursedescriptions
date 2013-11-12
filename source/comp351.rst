@@ -1,6 +1,8 @@
 COMP 351: Network Management
 ============================
 
+This course introduces the current state of the art in automated management of computer networks, including  protocols such as SNMP and its attendant naming conventions, network management systems, and important issues in administrative network configuration. 
+
 Credit Hours
 -----------------------
 
@@ -32,9 +34,18 @@ and Tivoli.
 
 Class meets with INFS 793.
 
-Syllabi
-----------------------
+Outcome
+---------
 
-Taught by `Dr.
-Dordal <http://webpages.cs.luc.edu/~pld/courses/netmgmt/spr11/>`__ in
-Spring 2011.
+Students will become familiar with the SNMP protocol, with how large-scale Network Management Systems operate and are configured, and with advanced network configuration.
+
+Syllabi
+--------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2011", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/netmgmt/spr11/"
+
+

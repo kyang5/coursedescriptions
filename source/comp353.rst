@@ -1,6 +1,8 @@
 COMP 353: Database Programming
 ==============================
 
+This course introduces relational and object databases  to support database creation and application development. Use of commercial database products will give a practical orientation.
+
 Credit Hours
 -----------------------
 
@@ -14,18 +16,25 @@ Prerequisites
 Description
 --------------------
 
-
 This course covers the fundamentals of database application development
 using C++, C, or Java by accessing a transaction-oriented database
 server. A commercial database environment such as Oracle is used.
 Apitional topics may include enabling access to database via the web,
 and administering large databases.
 
+Outcome
+------------
+
+Students will learn SQL, database design and application development using the latest software tools.  Students will also learn techniques for web based data retrieval and manipulation.
+
 Syllabi
----------------------
+--------------------
 
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by `Dr.
-Sekharan <http://webpages.cs.luc.edu/%7Echandra/DBPA/DBPA-Day1.htm>`__
+	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/353/spr13/"
 
+        "Fall 2013", "Dr. Sekharan", "need digital copy"
 
