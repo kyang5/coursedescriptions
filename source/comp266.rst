@@ -1,9 +1,7 @@
 COMP 266: Digital Electronics Laboratory
 ========================================
 
-Also Offered As
-
-PHYS 266
+Also Offered As |phys266|
 
 Credit Hours
 -----------------------
@@ -13,7 +11,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-PHYS 112 or 114 or permission.
+|phys112| or permission.
 
 Description
 --------------------
