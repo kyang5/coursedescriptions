@@ -6,7 +6,7 @@ Scripting languages are rapid prototyping languages that are used extensively.  
 Credit Hours
 -----------------------
 
-3
+1
 
 Prerequisites
 ------------------------------

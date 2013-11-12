@@ -1,6 +1,8 @@
 COMP 215: Object-Oriented Programming with Mathematics
 ======================================================
 
+This is an introductory programming course for students interested in mathematics and scientific computing. Students will program primarily in a general object-oriented language such as Python, with supplementary exercises in a computer algebra system. Examples will be drawn primarily from applications of calculus, elementary number theory, and cryptography.
+
 Credit Hours
 -----------------------
 
@@ -20,7 +22,10 @@ general object-oriented language such as Python, with supplementary exercises
 in a computer algebra system. Examples will be drawn primarily from
 applications of calculus, elementary number theory, and cryptography.
 
-Outcome: Students will learn basic scripting and object-oriented programming,
+Outcome
+----------------------
+
+Students will learn basic scripting and object-oriented programming,
 with the goal of being able to solve mathematical and scientific problems.
 
 Syllabi
@@ -30,7 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Date", "Christine Haught", "URL"
- 
-
-
+	"Date", "Instructor", "URL"
