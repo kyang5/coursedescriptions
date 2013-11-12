@@ -1,7 +1,7 @@
-
-
 COMP 312: Free/Open Source Computing
 ====================================
+
+This course will cover the fundamentals of Free and Open Source software development. Topics to be addressed include licensing, Linux, typical software development tools, applications, and techniques for managing remote servers.
 
 Credit Hours
 -----------------------
@@ -23,6 +23,11 @@ tools, and version control software), applications, and techniques for
 managing remote servers. Students will work on a significant
 developmentproject involving free and open-source software and learn how
 to participate in open-source projects effectively.
+
+Outcome
+----------------------
+
+Students will learn to implement projects involving Free and Open Source software and learn how to participate in open-source projects effectively.
 
 Syllabi
 ----------------------
