@@ -1,7 +1,7 @@
-
-
 COMP 348: Network Security
 ==========================
+
+This course continues some of the topics introduced in COMP 347.  The course covers methods and tactics to keep network attackers at bay and teaches mechanisms to identify and potentially stop potential intruders.  Analyses of specific attack mechanisms may be considered. 
 
 Credit Hours
 -----------------------
@@ -26,5 +26,17 @@ frameworks. The goal is to gain an understanding of how to secure
 computers and computing environments. Instructor permission is based on
 relevant industry experience with networking including TCP/IP.
 
+Outcome
+----------
+
+An understanding of how to secure networks using encryption, authentication, firewalls, NAT/PAT, restricted access policies, intrusion detection and other security frameworks.
+
 Syllabi
 --------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
+

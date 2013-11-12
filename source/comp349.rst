@@ -1,6 +1,8 @@
 COMP 349: Wireless Networks and Security
 ========================================
 
+This course will explore the wireless standards, authentication issues, and common configuration models for commercial versus institutional installations and analyze the security concerns associated with this ad-hoc method of networking. 
+
 Credit Hours
 ----------------------- 
 
@@ -21,9 +23,18 @@ common configuration models for commercial versus institution installs
 and analyze the security concerns associated with ad-hoc and
 standards-based methods of networking.
 
-Syllabus 
---------------------------
+Outcome
+----------------------
 
-Taught by Professor Corby Schmitz
+Students will gain an understanding of wireless networking, protocols, and standards and security issues.
+
+Syllabi
+--------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
 
 
