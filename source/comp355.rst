@@ -11,7 +11,6 @@ Prerequisites
 
 :doc:`comp271` and :doc:`comp353`
 
-
 Description
 --------------------
 

@@ -1,6 +1,8 @@
 COMP 363: Design and Analysis of Computer Algorithms
 ====================================================
 
+Theoretical design and analysis of computer algorithms may be supplemented by small amounts of programming. 
+
 Credit Hours
 -----------------------
 
@@ -29,16 +31,19 @@ to classification of computational problems into different complexity
 classes. The course will include a small amount of actual programming in
 addition to theoretical analysis.
 
+Outcome
+-------------
+
+The ability to design and analyze efficient algorithms; understanding of the necessary models and mathematical tools; understanding of a variety of useful data structures and fundamental algorithms; exposure to the classification of computational problems into different complexity classes.
+
 Syllabi
------------------------
+--------------------
 
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by `Dr.
-Greenberg <http://webpages.cs.luc.edu/~rig/courses/syllabi/c260f04.tty>`__ Spring
-2005.
+	"Fall 2013", "Dr. Albert", "http://comp363.pacsites.org/"
 
-Taught by `Dr.
-Harrington <http://webpages.cs.luc.edu/~anh/363/groundrules.html>`__
-2003.
-
+        "Spring 2013", Dr. Harrington", "http://anh.cs.luc.edu/363/index.html"
 
