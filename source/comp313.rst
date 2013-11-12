@@ -1,6 +1,8 @@
 COMP 313: Intermediate Object-Oriented Development
 ==================================================
 
+Object-orientation continues to be a dominant approach to software development.  This intermediate programming-intensive course studies the use of classes and objects with an emphasis on collaboration among objects.
+
 Credit Hours
 -----------------------
 
@@ -9,15 +11,12 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-
 :doc:`comp271` is the prerequisite.
 
-`COMP 271 </cs/academics/courses/courselisting/comp271/>`__ (strictly
-enforced)
+`comp271`__ (strictly enforced)
 
 Description
 --------------------
-
 
 Object-orientation continues to be a dominant approach to software
 development. This intermediate programming-intensive course studies the
@@ -42,6 +41,7 @@ objects.
    profiling (NetBeans)
 
 Outcome
+----------------------
 
 A thorough understanding of the principles of object-orientation:
 abstraction, delegation, inheritance, and polymorphism; exposure to
@@ -59,11 +59,6 @@ software engineering practices, including:
 -  Refactoring
 -  Test-driven development (TDD)
 
-Syllabus
-
-Taught by `Dr. Läufer <http://laufer.cs.luc.edu/teaching/313>`__ in Fall
-2013.
-
 Syllabi
 ----------------------
 
@@ -71,5 +66,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Date", "Instructor", "URL"
-
+	"Fall 2013", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/313"
