@@ -1,6 +1,8 @@
 COMP 171: Scripting Languages
 =============================
 
+Scripting languages are rapid prototyping languages that are used extensively.  This course covers the principles, syntax and semantics of widely used scripting languages.
+
 Credit Hours
 -----------------------
 
@@ -21,6 +23,11 @@ for use, (b) be able to program in Perl (c) be able to program in Python, and
 (d) have an understanding of their applicability to scientific and business
 domains.
 
+Outcome
+----------------------
+
+Students will learn how a program can be put together quickly and efficiently to solve problems.
+
 Syllabi
 ----------------------
 
@@ -28,4 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Date", "Instructor", "URL"
+	"Spring 2012", "William Honig", "http://people.cs.luc.edu/whonig/comp-171-scripting-practicum/Comp171Syllabus16Jan12.pdf"
