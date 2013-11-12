@@ -35,4 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2012", "William Honig", "http://people.cs.luc.edu/whonig/comp-171-scripting-practicum/Comp171Syllabus16Jan12.pdf"
+	"Spring 2012", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-171-scripting-practicum/Comp171Syllabus16Jan12.pdf"
