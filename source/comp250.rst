@@ -39,4 +39,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2012", "Ron Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c250s12.pdf"
+	"Spring 2012", "Dr. Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c250s12.pdf"
