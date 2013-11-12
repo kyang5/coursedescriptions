@@ -1,4 +1,4 @@
-COMP 251: Introduction to Database Systems
+COMP 251: Introduction to Database Systems 
 ==========================================
 
 This course explores ways in which data collections are organized, stored, analyzed, and manipulated. Topics include relational databases, the SQL query language, and the basics of XML and web interfaces to data sets. Applications from a variety of domains illustrate the course's key concepts.
