@@ -1,6 +1,8 @@
 COMP 271: Data Structures
 =========================
 
+This course introduces key data structures such as lists, sets, and maps, as well as their implementations. Performance and analysis of algorithms are covered along with applications in sorting and searching.
+
 Credit Hours
 -----------------------
 
@@ -17,7 +19,6 @@ Prerequisites
 Description
 --------------------
 
-
 This continuation of :doc:`comp170` introduces the concepts of data
 abstraction and data structure, including stacks, queues, lists, sets, and
 trees. The issues of implementing a data structure in a language such as Java
@@ -27,15 +28,16 @@ of algorithms are developed. Time/space comparisons of iterative algorithms
 with recursive algorithms are made. The course includes several major
 programming projects. A weekly lab component is required.
 
+Outcome
+----------------------
+
+Students will learn to design new data structures as well as learn to use existing data structures in applications.
 
 Syllabi
 ----------------------
-
-Get from Matt Bone, Chandra, and Catherine
 
 .. csv-table:: 
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2009", "Konstantin Läufer", "http://www.cs.luc.edu/laufer/teaching/271"
-	
+	"Fall 2011", "Dr. Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP271/syllabus.html"
