@@ -52,6 +52,7 @@ rst_epilog = """
 
 .. |phys112| replace:: `PHYS 112 <http://www.luc.edu/physics/courses.shtml#112>`__
 
+.. |biol101| replace:: `BIOL 101 <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
 """
 
