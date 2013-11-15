@@ -43,9 +43,6 @@ Outcome
 An understanding of the theoretical underpinnings of computability and complexity in computer science.
 
 Syllabi
-----------------------
-
-Syllabi
 ---------------------
 
 .. csv-table:: 
