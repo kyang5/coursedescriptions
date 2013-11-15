@@ -1,6 +1,8 @@
 COMP 373: Objects, Frameworks, and Patterns
 ===========================================
 
+Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective. 
+
 Credit Hours
 -----------------------
 
@@ -58,11 +60,17 @@ existing class libraries and software components is emphasized.
 Grading will be based upon the following components: programming
 projects, quizzes, in-class exams, and the final exam.
 
+Outcome
+------------
+
+Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development.
+
 Syllabi
----------------------
+--------------------
 
-FIX
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by `Dr. Läufer <../../laufer/teaching/473>`__ in Fall 2011.
-
+	"Fall 2011", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/473"
 
