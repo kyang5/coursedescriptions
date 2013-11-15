@@ -20,7 +20,6 @@ Prerequisites
 Description
 --------------------
 
-
 This course studies the architecture, design, and implementation of
 concurrent software systems. Process algebras, formal specification, and
 testing are used as tools in the engineering of concurrent systems;
