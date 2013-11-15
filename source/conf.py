@@ -48,11 +48,13 @@ rst_epilog = """
 
 .. |phil120| replace:: `PHIL 120 <http://luc.edu/philosophy/coursedescriptions.shtml>`__
 
-.. |phys266| replace:: `PHYS 266 <http://www.luc.edu/physics/courses.shtml#266>`__
+.. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`__
 
-.. |phys112| replace:: `PHYS 112 <http://www.luc.edu/physics/courses.shtml#112>`__
+.. |phys112| replace:: `PHYS 112: College Physics II <http://www.luc.edu/physics/courses.shtml#112>`__
 
-.. |biol101| replace:: `BIOL 101 <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+.. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+
+.. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
 """
 
