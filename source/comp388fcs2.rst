@@ -17,8 +17,9 @@ Description
 This course is aimed at Graduate Students who are entering the MS
 programs in Computer Science, Software Engineering, or Information
 Technology who are lacking the prerequisite knowledge from introductory
-computer science courses, :doc:`comp264` and :doc:`comp271`. The
-detailed description will appear shortly.
+computer science courses, :doc:`comp264` and :doc:`comp271`. 
+
+The detailed description will appear shortly.
 
 Syllabi
 ---------------------
