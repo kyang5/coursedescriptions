@@ -1,6 +1,8 @@
 COMP 380: Introduction to Computer Graphics
 ===========================================
 
+This course introduces modern theory and practices in 3-D computer graphics, stressing real-time interactive applications using libraries like OpenGL. 
+
 Credit Hours
 -----------------------
 
@@ -35,7 +37,14 @@ There will be 7-8 programming assignments, a midterm, and a final. You
 will probably do your assignments using Visual C++ under either Windows
 95 or Windows NT.
 
-Syllabus
----------------------
+Outcome
+----------------
 
-None
+Student will learn how to program real-time interactive applications using libraries like OpenGL.
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
+
