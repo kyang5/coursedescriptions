@@ -1,6 +1,8 @@
 COMP 382: Introduction to Compilers
 ===================================
 
+This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler. 
+
 Credit Hours
 -----------------------
 
@@ -8,6 +10,8 @@ Credit Hours
 
 Prerequisites
 ------------------------------
+
+.. LOCUS says COMP 260 and 272  
 
 :doc:`comp264` and :doc:`comp313`
 
@@ -20,10 +24,15 @@ analysis, top-down and LR parsing, syntax-directed translation, and code
 generation and optimization. Students will write a small compiler.
 
 Outcome
+-------------
 
 Students will learn how a compiler is built.
 
 Syllabi
----------------------
+-------------
 
-None
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
