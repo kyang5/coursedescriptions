@@ -1,6 +1,8 @@
 COMP 376: Formal Languages and Automata
 =======================================
 
+This course introduces formal language theory, including such topics as finite automata and regular expressions, pushdown automata and context-free grammars, Turing machines, undecidability, and the halting problem.
+
 Credit Hours
 -----------------------
 
@@ -35,7 +37,19 @@ undecidability, recursive and recursively enumerable languages,
 reductions among languages, resource-bounded computation, Kolmogorov
 complexity.
 
+Outcome
+------------
+
+An understanding of the theoretical underpinnings of computability and complexity in computer science.
+
 Syllabi
 ----------------------
 
-FIX
+Syllabi
+---------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Year", "Instructor", "URL"
