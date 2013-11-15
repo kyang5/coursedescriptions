@@ -1,6 +1,8 @@
 COMP 398: Independent Study
 ===========================
 
+The student and a sponsoring faculty member will determine an advanced topic for the student to work on. 
+
 Credit Hours
 -----------------------
 
@@ -13,7 +15,6 @@ Undergraduate Program Director approval
 
 Description
 -----------------------
-
 
 Independent study of selected topics in computer science under the
 supervision of a faculty member.
@@ -36,6 +37,10 @@ The Process
 -  The department administrator should email all concerned when the
    registration is completed.
 
+Outcome
+----------
+
+Knowledge of an advanced topic.
 
 Syllabi
 -----------------------

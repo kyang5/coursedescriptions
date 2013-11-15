@@ -1,7 +1,10 @@
 COMP 391: Internship in Computer Science
 ========================================
 
-Editors Note: REWRITE THIS
+ 	
+Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer. 
+
+.. Editors Note: REWRITE THIS
 
 Credits
 --------------------
@@ -37,7 +40,6 @@ Selection for Internships in Computer Science:
    supervisor, student, and Undergraduate Internship Coordinator,
    outlining the expectations of all parties.
 
-
 Presently the standard expectation is 50 hours of work relevant to a
 computer science education for each unit of credit. Hence 150 hours are
 expected for 3 credits. Work may overlap terms, and then credit is
@@ -62,7 +64,7 @@ sure the end date on the internship is early enough to fit with that.
 You may continue with more hours in your job after the for-credit
 internship part.
 
-Note 3: You do not need to be classified as an ``intern`` in your job.
+Note 3: You do not need to be classified as an "intern" in your job.
 It can be a regular job. The internship only comes from the relationship
 to your academic credit and the supporting documents indicated in the
 MOU. The overhead for the employer is comparable to a letter of
@@ -73,5 +75,10 @@ received are posted here and in the department on the fourth floor of
 Lewis Towers. Another resource is the `university career and internship
 center <http://www.luc.edu/career/>`__. Students may also find a
 position through their own contacts.
+
+Outcome
+-----------
+
+Application of classroom skills to real-world situations.
 
 
