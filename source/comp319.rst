@@ -25,6 +25,11 @@ internals, UNIX system administration, the X windowing system, and
 systems programming. Programming assignments involve the UNIX shell
 script language.
 
+Outcome
+----------------------
+
+After taking this course, students will develop working knowledge of Unix and be able to use modern Unix operating systems such as
+Linux, OS X, or Solaris.
 
 Syllabi
 ----------------------
