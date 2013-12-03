@@ -1,6 +1,8 @@
 COMP 317: Social, Legal, and Ethical Issues in Computing
 ========================================================
 
+This course covers social, legal, and ethical issues commonly arising in key areas related to computing technologies. 
+
 Credit Hours
 -----------------------
 
