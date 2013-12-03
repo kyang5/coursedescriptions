@@ -22,6 +22,11 @@ professional ethics, dealing with the ethical responsibilities of the
 programmer, and social issues, dealing with concerns we all have as
 citizens.
 
+Outcome
+-------------------
+
+Understanding of laws and issues in areas such as privacy, encryption, freedom of speech, copyrights and patents, computer crime, and computer/software reliability and safety; understanding of philosophical perspectives such as utilitarianism versus deontological ethics and basics of the U.S. legal system.
+
 Recent Syllabi
 -------------------
 
@@ -29,6 +34,4 @@ Recent Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Peter Dordal", "http://www.cs.luc.edu/pld/courses/ethics/"
-
-
+	"Fall 2013", "Peter Dordal", "http://webpages.cs.luc.edu/~pld/courses/ethics/fall13/"
