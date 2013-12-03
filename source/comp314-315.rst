@@ -1,14 +1,12 @@
-
-
 COMP 314/315: Problem Solving Strategies
 ========================================
 
-Overlaps with the ACM Programming Team
+This course allows students to sharpen problem-solving skills along with, or as part of, the ACM Programming Team. Groups generally work on old competition problems on alternate weekends, with short follow-ups during the next week.
 
 Credit Hours
 -----------------------
 
-for 314: 1; for 315: 2
+For 314: 1; For 315: 2
 
 Prerequisites
 ---------------------
@@ -19,11 +17,10 @@ For COMP 314:
 
 For COMP 315:
 
-COMP 314
+:doc:`comp314`
 
 Description
 --------------------
-
 
 This course started as a means to give ACM programing team members
 academic credit for their participation. The class work will be designed
@@ -58,5 +55,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Date", "Instructor", "URL"
-
+	"Fall 2013", "Dr. Harrington", "http://anh.cs.luc.edu/314-315/"
