@@ -1,6 +1,9 @@
 COMP 336: Markup Languages
 ==========================
 
+This course is concerned with XML and its various component frameworks. The core frameworks to be covered include Document Object Model
+(DOM), Simple API for XML processing (SAX), the XML Path language (XPath), and XSLT. 
+
 Credit Hours
 -----------------------
 
@@ -32,6 +35,12 @@ structures, such as trees, lists, and maps (collections found in Java). You
 are encouraged to study these topics on your own. Little time will be spent
 rehashing this preliminary knowledge.
 
+Outcome
+---------------------
+
+After taking this course, students will have working knowledge of XML and its connections to other ideas such as HTML, object models,
+relational databases, and network services.
+
 Syllabus
 ---------------------
 
@@ -40,5 +49,4 @@ Syllabus
     :header: "Offering", "Instructor", "URL"
     :widths: 15, 25, 50
 
-    "Spring 2012", "George K. Thiruvathukal", "http://markuplanguages.cs.courseclouds.com"
-    "Fall 2014", "Matt Bone", "http://markuplanguages.cs.courseclouds.com"
+    "Spring 2012", "Dr. Thiruvathukal", "http://markuplanguages.cs.courseclouds.com"
