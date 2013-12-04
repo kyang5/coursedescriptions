@@ -1,11 +1,7 @@
-
-
 COMP 337: Introduction to Concurrency
 =====================================
 
-Official title
-
-Introduction to Concurrency
+Many real-world software systems rely on concurrency for performance and modularity.  This programming-intensive course covers analysis, design, implementation, and testing of concurrent software systems. 
 
 Credit Hours
 -----------------------
@@ -30,8 +26,18 @@ applications of concurrency and event-driven programming such as
 graphical user interfaces and distributed services using Remote Method
 Invocation (RMI).
 
-Syllabus
+Outcome
+--------------------
 
-Taught by `Dr. Läufer <http://www.cs.luc.edu/laufer/teaching/337>`__
+An in-depth understanding of event-based and thread-based views of concurrency; the ability to develop concurrent software components
+using suitable languages, frameworks, and design patterns; familiarity with object-oriented modeling and development tools and test
+driven development.
 
+Syllabi
+----------------------
 
+.. csv-table:: 
+   :header: "Semester/Year", "Instructor", "URL"
+   :widths: 15, 25, 50
+
+	"Date", "Instructor", "URL"
