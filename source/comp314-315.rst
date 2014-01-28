@@ -17,7 +17,7 @@ For COMP 314:
 
 For COMP 315:
 
-:doc:`comp314`
+COMP 314: Problem Solving Strategies
 
 Description
 --------------------

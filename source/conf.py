@@ -36,21 +36,37 @@ rst_epilog = """
 
 .. |math212| replace:: `MATH 212: Linear Algebra <http://luc.edu/math/academics/courses/math212/index.shtml>`__
 
+.. |math263| replace:: `MATH 263: Multivariable Calculus <http://luc.edu/math/academics/courses/math263/index.shtml>`__
+
 .. |math264| replace:: `MATH 264: Ordinary Differential Equations <http://luc.edu/math/academics/courses/math264/index.shtml>`__
+
+.. |math304| replace:: `MATH 304: Probability and Statistics I <http://luc.edu/math/academics/courses/math304/index.shtml>`__
 
 .. |math309| replace:: `MATH 309: Numerical Methods <http://luc.edu/math/academics/courses/math309/index.shtml>`__
 
+.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math331/index.shtml>`__
+
+.. |math314| replace:: `MATH 314: Advanced Topics in Abstract Algebra <http://luc.edu/math/academics/courses/math314/index.shtml>`__
+
+.. |math315| replace:: `MATH 315: Advanced Topics in Linear Algebra <http://luc.edu/math/academics/courses/math315/index.shtml>`__
+
 .. |math331| replace:: `MATH 331: Cryptography <http://luc.edu/math/academics/courses/math331/index.shtml>`__
 
-.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math331/index.shtml>`__
+.. |math351| replace:: `MATH 351: Introduction to Real Analysis I <http://luc.edu/math/academics/courses/math351/index.shtml>`__
+
+.. |math352| replace:: `MATH 352: Introduction to Real Analysis II <http://luc.edu/math/academics/courses/math352/index.shtml>`__
+
+.. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`__
 
 .. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`__
 
+.. |stat304| replace:: `STAT 304: Probability and Statistics I <http://luc.edu/math/academics/courses/stat304/index.shtml>`__
+
 .. |phil120| replace:: `PHIL 120 <http://luc.edu/philosophy/coursedescriptions.shtml>`__
 
-.. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`__
-
 .. |phys112| replace:: `PHYS 112: College Physics II <http://www.luc.edu/physics/courses.shtml#112>`__
+
+.. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`__
 
 .. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 

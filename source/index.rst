@@ -9,6 +9,7 @@ Undergraduate Degree Programs
 
    bscns
    bscs
+   bsmcs
 
 Undergraduate Courses
 --------------------------

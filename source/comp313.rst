@@ -11,9 +11,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp271` is the prerequisite.
-
-`comp271`__ (strictly enforced)
+:doc:`comp271` (strictly enforced)
 
 Description
 --------------------
