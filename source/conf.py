@@ -66,7 +66,29 @@ rst_epilog = """
 
 .. |phys112| replace:: `PHYS 112: College Physics II <http://www.luc.edu/physics/courses.shtml#112>`__
 
+.. |phys125| replace:: `PHYS 125: General Physics I <http://www.luc.edu/physics/courses.shtml#125>`__
+
+.. |phys126| replace:: `PHYS 126: General Physics II <http://www.luc.edu/physics/courses.shtml#126>`__
+
+.. |phys135| replace:: `PHYS 135: General Physics Lab I <http://www.luc.edu/physics/courses.shtml#135>`__
+
+.. |phys136| replace:: `PHYS 136: General Physics Lab II <http://www.luc.edu/physics/courses.shtml#136>`__
+
+.. |phys235| replace:: `PHYS 235: Modern Physics <http://www.luc.edu/physics/courses.shtml#235>`__
+
+.. |phys237| replace:: `PHYS 237: Modern Physics Lab <http://www.luc.edu/physics/courses.shtml#237>`__
+
 .. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`__
+
+.. |phys303| replace:: `PHYS 303: Electronics I <http://www.luc.edu/physics/courses.shtml#303>`__
+
+.. |phys310| replace:: `PHYS 310: Optics <http://www.luc.edu/physics/courses.shtml#310>`__
+
+.. |phys314| replace:: `PHYS 314: Theoretical Mechanics I <http://www.luc.edu/physics/courses.shtml#314>`__
+
+.. |phys328| replace:: `PHYS 328: Thermal Physics & Statistical Mechanics <http://www.luc.edu/physics/courses.shtml#328>`__
+
+.. |phys351| replace:: `PHYS 351: Electricity & Magnetism I <http://www.luc.edu/physics/courses.shtml#351>`__
 
 .. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
