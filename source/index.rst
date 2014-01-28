@@ -1,6 +1,14 @@
 Welcome to the CS Course Catalog
 ====================================
 
+Undergraduate Degree Programs
+--------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   bscs
+
 Undergraduate Courses
 --------------------------
 

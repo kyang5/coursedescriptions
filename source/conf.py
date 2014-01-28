@@ -56,6 +56,8 @@ rst_epilog = """
 
 .. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
+.. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
+
 """
 
 # If extensions (or modules to document with autodoc) are in another directory,
