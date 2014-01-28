@@ -7,6 +7,7 @@ Undergraduate Degree Programs
 .. toctree::
    :maxdepth: 1
 
+   bscns
    bscs
 
 Undergraduate Courses
