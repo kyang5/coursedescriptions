@@ -72,5 +72,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2011", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/473"
+	"Fall 2014", "Berhane Zewdie", "https://luc.app.box.com/files/0/f/1557043627/1/f_13809629297"
 
