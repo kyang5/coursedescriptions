@@ -35,6 +35,6 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Year", "Instructor", "URL"
+	"Summer 2013", "Corby Schmitz", "https://luc.app.box.com/files/0/f/1557043627/1/f_13809614217"
 
 
