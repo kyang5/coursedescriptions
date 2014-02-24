@@ -8,7 +8,7 @@ Computers are extremely pervasive in the modern world, and important connections
 
 (A more specific interdisciplinary minor is also offered, see :doc:`minorccf`, and interdisciplinary majors are offered in Bioinformatics, :doc:`bsmcs`, and :doc:`bspcs`.)
 
-Requirements
+Curriculum
 -------------
 
 -   :doc:`comp150`

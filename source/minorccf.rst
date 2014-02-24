@@ -15,7 +15,7 @@ Career Opportunities
 
 With the minor, a student can pursue the career path of a computer forensic examiner, or an electronic discovery specialist, or pursue a legal career specializing in criminal and civil law related to computers (IP, internal fraud, misappropriation of trade secrets etc.).A scan of jobs posted in Hotjobs.com and Monster.com reveals that computer forensics specialists are much in demand. Jobs are available across a wide variety of industry segments, pharmaceuticals, accounting firms, financial services, and law firms. Typical titles of jobs advertised in the online jobs websites are: technology litigation support specialist, incident management engineers, computer forensics manager, law enforcement officers, information security specialist, electronic discovery specialist etc.
 
-Requirements
+Curriculum
 ------------
 
 All of the following must be taken:
