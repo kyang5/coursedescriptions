@@ -11,6 +11,7 @@ Undergraduate Degree Programs
    bscs
    bsmcs
    bspcs
+   bsit
 
 Undergraduate Courses
 --------------------------
@@ -70,6 +71,7 @@ Undergraduate Courses
    comp373
    comp374
    comp376
+   comp377
    comp378
    comp380
    comp381

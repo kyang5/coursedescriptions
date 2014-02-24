@@ -58,6 +58,8 @@ rst_epilog = """
 
 .. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`__
 
+.. |stat103| replace:: `STAT 103: Fundamentals of Statistics <http://www.luc.edu/math/academics/courses/stat103/>`__
+
 .. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`__
 
 .. |stat304| replace:: `STAT 304: Probability and Statistics I <http://luc.edu/math/academics/courses/stat304/index.shtml>`__
@@ -95,6 +97,12 @@ rst_epilog = """
 .. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
 .. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
+
+.. |isom241| replace:: `ISOM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+
+.. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
+
+.. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
 """
 
