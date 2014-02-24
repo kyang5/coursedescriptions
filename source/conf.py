@@ -36,6 +36,8 @@ rst_epilog = """
 
 .. |math212| replace:: `MATH 212: Linear Algebra <http://luc.edu/math/academics/courses/math212/index.shtml>`__
 
+.. |math215| replace:: `MATH 215: Object Oriented Math Programming <http://luc.edu/math/academics/courses/math215/index.shtml>`__
+
 .. |math263| replace:: `MATH 263: Multivariable Calculus <http://luc.edu/math/academics/courses/math263/index.shtml>`__
 
 .. |math264| replace:: `MATH 264: Ordinary Differential Equations <http://luc.edu/math/academics/courses/math264/index.shtml>`__
@@ -103,6 +105,12 @@ rst_epilog = """
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
+
+.. |cjc101| replace:: `CJC 101: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
+.. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
+.. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 """
 

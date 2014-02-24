@@ -13,6 +13,8 @@ Undergraduate Degree Programs
    bspcs
    bsit
    bsse
+   minorcs
+   minorccf
 
 Undergraduate Courses
 --------------------------
