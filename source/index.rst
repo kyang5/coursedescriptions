@@ -12,6 +12,7 @@ Undergraduate Degree Programs
    bsmcs
    bspcs
    bsit
+   bsse
 
 Undergraduate Courses
 --------------------------
