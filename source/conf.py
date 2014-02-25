@@ -205,8 +205,12 @@ html_theme_options = {
     # Switching to -1 shows all levels.
     'globaltoc_depth': 2,
 
+
+    'navbar_sidebarrel': False,
+
     # A list of tuples containting pages to link to.  The value should
     # be in the form [(name, page), ..]
+
     'navbar_links': [('Index', 'genindex')],
     
     # Include hidden TOCs in Site navbar?
@@ -238,7 +242,7 @@ html_theme_options = {
     # Note that this is served off CDN, so won't be available offline.
     'bootswatch_theme': "united",
 
-    'bootstrap_version' : "2"
+    'bootstrap_version' : "3"
 
 }
 
