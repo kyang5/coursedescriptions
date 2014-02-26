@@ -11,17 +11,15 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Co-requisite or prerequisite:
+Students are required to have taken |math117| as a prerequisite or to have been placed in |math118| or higher.
+
+Alternatively, students can take any **one** of the following courses as a prerequisite or as a co-requisite:
 
 - :doc:`comp163`
 - :doc:`comp150`
 - |math118|
-- |math131| or |math161|
-
-Prerequisite
-
-|math117| or |math118| (or higher)
-
+- |math131|
+- |math161|
 
 Description
 --------------------
