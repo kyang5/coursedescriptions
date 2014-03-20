@@ -44,7 +44,5 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Spring 2012", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/442"
-        "Fall 2013", "Dr. Zewdie", "need digital copy"
-
 
 
