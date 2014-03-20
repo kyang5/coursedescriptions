@@ -38,8 +38,10 @@ course.
 
 Class meets with INFS 494.
 
+
 Syllabi
------------------------
+----------------------
 
-None
-
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
