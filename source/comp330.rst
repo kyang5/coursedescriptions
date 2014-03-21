@@ -34,4 +34,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Honig", "https://luc.app.box.com/files/0/f/1557043627/1/f_13809627637"
+	"Spring 2014", "Dr. Honig", "https://drive.google.com/file/d/0B5gClDnivRb5MXEwQXIwTThkYXc/edit?usp=sharing"

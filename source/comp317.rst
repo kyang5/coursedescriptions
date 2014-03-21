@@ -34,4 +34,5 @@ Recent Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Peter Dordal", "http://webpages.cs.luc.edu/~pld/courses/ethics/fall13/"
+	"Spring 2014", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/ethics/spr14/"
+	"Spring 2014", "Benjamin Galatzer-Levy", "https://drive.google.com/file/d/0B5gClDnivRb5SUVDTFlQdXZDaG8/edit?usp=sharing"

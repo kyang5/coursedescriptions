@@ -49,4 +49,5 @@ Syllabus
     :header: "Offering", "Instructor", "URL"
     :widths: 15, 25, 50
 
+	"Fall 2013", "Matt Bone", "http://markup.cs.courseclouds.com/fall2013/syllabus.html"
     "Spring 2012", "Dr. Thiruvathukal", "http://markuplanguages.cs.courseclouds.com"

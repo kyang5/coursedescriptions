@@ -40,4 +40,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2011", "Dr. Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP271/syllabus.html"
+	"Spring 2014", "Maria Saenz", "https://drive.google.com/file/d/0B5gClDnivRb5UXpVNFkyODU4ZGM/edit?usp=sharing"
+	"Fall 2013", "Dr. Sekharan", "https://drive.google.com/file/d/0B5gClDnivRb5T21CTWNlUHhnUTQ/edit?usp=sharing"

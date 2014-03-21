@@ -35,5 +35,3 @@ Syllabi
 .. csv-table:: 
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
-
-	"Date", "Instructor", "URL"

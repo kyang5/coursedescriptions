@@ -35,5 +35,4 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/353/spr13/"
-        "Fall 2013", "Dr. Sekharan", "need digital copy"
-
+	"Spring 2013", "Dr. Sekharan", "https://drive.google.com/file/d/0B5gClDnivRb5SVhFck9JYzJzMTg/edit?usp=sharing"

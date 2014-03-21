@@ -34,6 +34,6 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2011", "Dr. Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c125f11.pdf"
-	"Fall 2013", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-125/Comp125Syllabus21Oct11.pdf"
-	"Fall 2013", "Channah Naiman", "http://webpages.cs.luc.edu/~cnaiman/COMP125/FA13/COMP125syllFA13.html"
+	"Spring 2014", "Channah Naiman", "http://webpages.cs.luc.edu/%7Ecnaiman/COMP125/SP14/COMP125syllSP14.html"
+	"Fall 2011", "Dr. William Honig", "http://people.cs.luc.edu/whonig/comp-125/Comp125Syllabus21Oct11.pdf"
+	"Fall 2011", "Dr. Ron Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c125f11.pdf"

@@ -41,6 +41,7 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2011", "Dr. Albert", "http://mva.me/edu/comp150/"
-	"Fall 2013", "Dr. Harrington", "http://anh.cs.luc.edu/150/index.html"
-
+	"Spring 2014", "Curtis Tuckey", "http://logicophilosophicus.org/loyola/cs-150/"
+	"Fall 2013", "Dr. Andrew Harrington", "http://anh.cs.luc.edu/150/groundrules.html"
+	"Fall 2013", "Dr. Robert Yacobellis", "https://drive.google.com/file/d/0B5gClDnivRb5OV80Tkh3bjVKSVE/edit?usp=sharing"
+	"Fall 2011", "Dr. Mark Albert", "http://mva.me/edu/comp150/"
