@@ -11,7 +11,7 @@ The Department of Labor projects a 57% (106,000) increase in the demand for Netw
 Curriculum
 -----------
 
-.. If you enrolled prior to Fall 2013 you may use the old Communication Networks and Security B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscns/oldcurriculum/>`_.
+If you enrolled prior to Fall 2013 you may use the old Communication Networks and Security B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscns/oldcurriculum/>`_.
 
 Major Requirements (48 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

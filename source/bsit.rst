@@ -11,7 +11,7 @@ Enterprises have an ever-growing investment in the exploding quantity of informa
 Curriculum
 -----------
 
-.. If you enrolled prior to Fall 2013 you may use the old Information Technology B.S. Curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsit/oldcurriculum/>`_.
+If you enrolled prior to Fall 2013 you may use the old Information Technology B.S. Curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsit/oldcurriculum/>`_.
 
 Major Requirements (48 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

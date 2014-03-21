@@ -10,7 +10,7 @@ The B.S. degree program in computer science provides a balance between theoretic
 Curriculum
 -----------
 
-.. If you enrolled prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
+If you enrolled prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
 
 Major Requirements (51 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
