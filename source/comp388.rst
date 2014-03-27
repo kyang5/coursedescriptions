@@ -47,5 +47,5 @@ Syllabi
 	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
 	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5eFRSblFtQ25NdUE/edit?usp=sharing"
 	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", ""
-	"Robotics", "Fall 2011", "William Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
-	"Web Services Programming", "Fall 2012", "Konstantin Laufer", "http://laufer.cs.luc.edu/teaching/433"
+	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
+	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
