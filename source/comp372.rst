@@ -35,5 +35,3 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Spring 2014", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/372"
-
-
