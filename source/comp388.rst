@@ -41,4 +41,10 @@ Syllabi
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 40, 15, 25, 50
 
-	"Human-Computer Interaction", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
+	"Human-Computer Interface Design", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
+	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
+	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
+	"Web Services Programming", "Fall 2014", "Berhane Zewdie", ""
+	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", ""
+	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
+	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5eFRSblFtQ25NdUE/edit?usp=sharing"
