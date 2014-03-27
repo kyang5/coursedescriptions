@@ -32,5 +32,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Year", "Instructor", "URL"
+	"Fall 2012", "Dr. Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP370/syllabus.html"
 

@@ -40,5 +40,5 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Year", "Dr. Thiruvathukal", "URL"
-        "Year", "Dr. Sekharan", "URL"
+    "Year", "Dr. Sekharan", "URL"
 
