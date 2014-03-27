@@ -30,6 +30,3 @@ Student will learn basic theory of artificial intelligence and be able to build 
 .. csv-table:: 
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
-
-	"Spring 2005", "Dr. Greenberg", "http://webpages.cs.luc.edu/~rig/courses/syllabi/c378-484s05.tty"
-
