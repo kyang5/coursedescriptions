@@ -24,5 +24,8 @@ The detailed description will appear shortly.
 Syllabi
 ---------------------
 
-None
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
+	"Spring 2014", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/388/spr14/"
