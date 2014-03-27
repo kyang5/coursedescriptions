@@ -37,4 +37,8 @@ Understand an emerging area of Computer Science.
 Syllabi
 ----------------------
 
-None
+.. csv-table:: 
+   	:header: "Topic", "Semester/Year", "Instructor", "URL"
+   	:widths: 40, 15, 25, 50
+
+	"Human-Computer Interaction", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
