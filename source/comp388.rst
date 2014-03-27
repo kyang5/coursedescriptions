@@ -39,7 +39,7 @@ Syllabi
 
 .. csv-table:: 
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
-   	:widths: 40, 15, 25, 50
+   	:widths: 60, 15, 25, 60
 
 	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
 	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
