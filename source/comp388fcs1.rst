@@ -23,3 +23,10 @@ The detailed description will appear shortly.
 
 Syllabi
 ---------------------
+
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/388Intro/index.html"
+
