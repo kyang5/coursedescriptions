@@ -40,4 +40,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Year", "Dr. Putonti", "URL"
+	"Spring 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5QlNwa05tSjVFWkU/edit?usp=sharing"
