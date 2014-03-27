@@ -45,6 +45,3 @@ Student will learn how to program real-time interactive applications using libra
 .. csv-table:: 
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
-
-	"Year", "Instructor", "URL"
-
