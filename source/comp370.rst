@@ -51,4 +51,3 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Fall 2012", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP370/syllabus.html"
-
