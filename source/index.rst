@@ -1,6 +1,14 @@
 Welcome to the CS Course Catalog
 ====================================
 
+Schedules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   longterm
+
 Undergraduate Degree Programs
 --------------------------------
 
@@ -17,6 +25,17 @@ Undergraduate Degree Programs
    bsmsprograms
    minorcs
    minorccf
+
+Graduate Degree Programs
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   mscs
+   msit
+   msse
+   madh
 
 Undergraduate Courses
 --------------------------
@@ -119,6 +138,7 @@ Graduate Courses
    comp447
    comp448
    comp449
+   comp451
    comp453
    comp460
    comp462
@@ -149,9 +169,9 @@ MS IT Graduate Courses/Quinlan Business School
    csis496
    csis498
    csis591
-   csis769
    csis793
    csis794
+   csis796
    isom349
 
 
