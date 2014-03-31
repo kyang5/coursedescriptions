@@ -1,14 +1,6 @@
 Welcome to the CS Course Catalog
 ====================================
 
-Schedules
-----------
-
-.. toctree::
-   :maxdepth: 1
-
-   longterm
-
 Undergraduate Degree Programs
 --------------------------------
 
