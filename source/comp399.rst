@@ -1,12 +1,10 @@
-COMP 399: Honors Tutorial
-=========================
-
-The honors student and a sponsoring faculty member will determine an advanced topic for the student to work on. 
+COMP 399: Computer Science Seminar
+==================================
 
 Credit Hours
 -----------------------
 
-Variable (presently 1-3)
+1 (may be taken up to three times)
 
 Prerequisites
 -----------------------
@@ -16,13 +14,12 @@ Undergraduate Program Director approval
 Description
 --------------------
 
-Independent study of selected topics in computer science for students in
-the honors program.
+The department seminar is designed to bring together students interested in understanding and potentially engaging in extracurricular applications of computer science, with a focus on ongoing research. Speakers will include department faculty, research students, and invited outside speakers. Students will be asked to read relevant literature and participate in discussions.
 
 Outcome
 ---------------
 
-Knowledge of an advanced topic.
+Students will be exposed to a wide range of topics in computer science, participate in discussions, and provide feedback to assess their general understanding of the presented material.
 
 Syllabi
 ---------------------
