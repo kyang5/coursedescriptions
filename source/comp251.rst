@@ -28,7 +28,6 @@ Students will organize data in ways to emphasize relationships,
 write simple programs to process, visualize and graphically display data, mine
 data for patterns, and design web interfaces to data.
 
-
 Syllabi
 ----------------------
 

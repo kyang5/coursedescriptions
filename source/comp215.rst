@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-|math131| or |math161| or permission of Instructor
+|math132| or |math162| or permission of Instructor
 
 Description
 --------------------
