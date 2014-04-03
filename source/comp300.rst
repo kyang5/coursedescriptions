@@ -16,7 +16,7 @@ Prerequisites
 Description
 --------------------
 
-Data warehousing and Data mining are two major areas of exploration for
+Data warehousing and data mining are two major areas of exploration for
 knowledge discovery in databases. These topics have gained great relevance
 especially in the 1990’s and early 2000’s with web data growing at an
 exponential rate. As more data is collected by businesses and scientific
