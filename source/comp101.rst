@@ -22,10 +22,3 @@ Outcome
 ----------------------
 
 Students will be able to establish their own web resources.
-
-Syllabi
-----------------------
-
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50

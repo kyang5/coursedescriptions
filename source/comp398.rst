@@ -41,8 +41,3 @@ Outcome
 ----------
 
 Knowledge of an advanced topic.
-
-Syllabi
------------------------
-
-None

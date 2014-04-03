@@ -28,11 +28,3 @@ and new media communications. The History of Computing will be organized
 around the historical perspective. The relationships between social
 organization, intellectual climate, and technology will be examined and
 stressed.
-
-
-Syllabi
-----------------------
-
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50

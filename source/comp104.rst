@@ -40,10 +40,3 @@ Outcome
 ---------------------
 
 Ability to publish created animated media projects to the web in a process that involves understanding human interface design.
-
-Syllabi
-----------------------
-
-.. csv-table:: 
-   :header: "Semester/Year", "Instructor", "URL"
-   :widths: 15, 25, 50

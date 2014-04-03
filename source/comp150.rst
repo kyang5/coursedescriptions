@@ -31,8 +31,7 @@ upper-level computer science offerings.
 Outcome
 ----------------------
 
-Ability to write programs to manage and transform data; broad
-understanding of foundations of computing.
+Empowerment to manage and transform masses of data; understanding of technical, societal, and ethical issues involved.
 
 Syllabi
 ----------------------

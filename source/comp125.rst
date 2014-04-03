@@ -26,7 +26,6 @@ Outcome
 
 Understanding of computer mechanisms for representing and analyzing numerical and logical information and the power of programmability; practical ability to implement useful computing tools.
 
-
 Syllabi
 ----------------------
 

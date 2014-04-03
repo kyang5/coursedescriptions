@@ -27,10 +27,3 @@ Outcome
 ----------------------
 
 An understanding of the technologies behind web sites and the ability to use them effectively.
-
-Syllabi
-----------------------
-
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
