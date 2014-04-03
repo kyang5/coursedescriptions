@@ -46,9 +46,9 @@ expected for 3 credits. Work may overlap terms, and then credit is
 offered for the term in which the internship is completed. For more
 formal details, please see the Computer Science Internship Memorandum of
 Understanding (MOU), in `PDF
-format </media/lucedu/computerscience/documents/CS-Undergrad-Internship-MOU.pdf>`__
+format <https://drive.google.com/file/d/0Bz_4VraMwHUoVjFWYU1sVW9NdTA/edit?usp=sharing>`__
 or in `MS-Word
-format </media/lucedu/computerscience/documents/CS-Undergrad-Internship-MOU.doc>`__.
+format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5WFU/edit?usp=sharing>`__.
 
 Note 1: This is a course like any other where you need to be
 registered on time for the term (fall semester, spring semester, or
