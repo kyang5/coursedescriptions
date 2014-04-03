@@ -28,5 +28,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/388Intro/index.html"
+	"Spring 2014", "Dr. Harrington", "http://anh.cs.luc.edu/388Intro/index.html"
 
