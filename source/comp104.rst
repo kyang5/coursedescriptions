@@ -33,8 +33,6 @@ artists. The salient feature of the course is that very little
 programming knowledge is needed although students should be comfortable
 in using software tools and be able to think logically to write simple,
 programming segments in a special language called Actionscript.
-`Information
-flyer <http://www.cs.luc.edu/academics/courses/Animation_Course.pdf>`__
 
 Outcome
 ---------------------
