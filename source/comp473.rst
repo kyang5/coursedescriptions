@@ -28,29 +28,33 @@ constituents of the object-oriented methodology:
 
 OOP = abstraction + inheritance + polymorphism
 
-Building on this foundation, the course studies three major topics.
+Building on this foundation, the course studies three major topics:
 
-DESIGN PATTERNS
+Design Patterns
+~~~~~~~~~~~~~~~~
 
 First, the course discusses patterns, reusable solutions to recurring software
 design problems. Common design patterns such as Composite, Decorator, and
 Command typically involve several classes related by composition and
 inheritance.
 
-IMPLEMENTATION
+Implementation
+~~~~~~~~~~~~~~~
 
 Next, the course examines how object-oriented language features such as
 composition, encapsulation, inheritance, and dynamic binding can be
 implemented. These features are studied in the context of an interpreter for a
 simplified object-oriented language.
 
-COMPONENTS
+Components
+~~~~~~~~~~~
 
 Finally, the course explores programming with reusable components.
 Specifically, the standard features of component architectures are discussed:
 properties, events, methods, and persistence, and introspection.
 
-OTHER INFORMATION
+Other Information
+~~~~~~~~~~~~~~~~~~
 
 This course is heavily project-oriented. Students study each major topic in
 the context of a substantial programming project. The reuse of existing class
@@ -61,6 +65,8 @@ the final exam.
 Syllabi
 ----------------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by Dr. Läufer in Fall 2011.
+	"Fall 2014", "Berhane Zewdie", "https://drive.google.com/file/d/0B5gClDnivRb5RGZteWNnN0x4R0U/edit?usp=sharing"
