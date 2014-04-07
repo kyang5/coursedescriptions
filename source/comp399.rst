@@ -19,13 +19,12 @@ The department seminar is designed to bring together students interested in unde
 Outcome
 ---------------
 
-<<<<<<< local
 Knowledge of an advanced topic.
-=======
+
 Students will be exposed to a wide range of topics in computer science, participate in discussions, and provide feedback to assess their general understanding of the presented material.
 
 Syllabi
 ---------------------
 
 None
->>>>>>> other
+
