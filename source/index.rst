@@ -154,14 +154,9 @@ MS IT Graduate Courses/Quinlan Business School
    :maxdepth: 1
 
    csis472
-   csis478
    csis483
    csis484
    csis494
-   csis496
-   csis498
-   csis591
-   csis793
    csis794
    csis796
    isom349
