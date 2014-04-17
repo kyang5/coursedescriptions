@@ -43,4 +43,9 @@ Test-driven development (TDD)
 Syllabi
 -------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2014", "Dr. Yacobellis", "https://drive.google.com/file/d/0B5gClDnivRb5LWpEdndWZ2xTbE0/edit?usp=sharing"
+	"Fall 2013", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/313"

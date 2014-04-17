@@ -27,4 +27,9 @@ effectively.
 Syllabi
 ----------------
 
-http://foss.etl.luc.edu
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Summer 2014", "George K. Thiruvathukal", "http://foss.etl.luc.edu"
+	"Spring 2014", "Matt Butcher", "https://drive.google.com/file/d/0B5gClDnivRb5Ni15MlpialZJNzg/edit?usp=sharing"
