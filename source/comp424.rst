@@ -22,4 +22,8 @@ This course provides an in-depth study of the concepts and methods required for 
 Syllabi
 -------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Topic", "Semester/Year", "Instructor", "URL"
+   	:widths: 60, 15, 25, 60
+
+	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"

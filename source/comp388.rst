@@ -41,11 +41,11 @@ Syllabi
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 60, 15, 25, 60
 
+	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg/edit?usp=sharing"
+	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU/edit?usp=sharing"	
+	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"	
 	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
-	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
 	"Human-Computer Interface Design", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
 	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
-	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg/edit?usp=sharing"
-	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", ""
-	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
 	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
+	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"

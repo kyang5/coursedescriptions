@@ -20,4 +20,8 @@ This course will explore a variety of ethical and legal issues facing those who 
 Syllabi
 -------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2014", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/ethics/spr14/"
