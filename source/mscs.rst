@@ -59,8 +59,13 @@ General Electives (12 Credits)
 
 .. include:: general_electives.inc
 
+
+.. index:: thesis option
+
+.. _thesis_option:
+
 Thesis Option
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 MS students in the Computer Science degree program (only) 
 may elect the MS thesis option.
@@ -73,4 +78,117 @@ would be considering a PhD program at another institution.
 Students wishing to do a thesis should discuss this option as early as 
 possible with the GPD. 
 
-See the `Graduate Student Handbook <http://gradhandbook.cs.luc.edu/html/ms_programs.html#thesis-option/>`_ for more information.
+Theses may involve research in purely theoretical computer science 
+(for example, development or analysis of algorithms), 
+or may involve development of a software package, 
+or may involve instrumentation, measurement and analysis of existing systems 
+(for example, studying network performance). 
+Because of this wide range, there is no one
+formal course in research methods. 
+Courses in the restricted-electives list above contain a significant 
+component of area-specific integrated research-methods material. 
+Students interested in writing a thesis are strongly urged to seek 
+advising from the GPD or other faculty as early as possible as to which 
+electives in this group will be the most appropriate for the student's 
+proposed area of research.
+
+Here is an outline of the steps toward your thesis.  The ones in boldface
+are formal steps with documentation required by the Graduate School:
+
+#.  If you wish to write a thesis, first identify a faculty advisor and 
+    select a tentative topic or area of research. 
+    The existing program allows you to take up to 6.0 hours of 
+    :doc:`comp490`. 
+    You will typically begin their research program in such a course, 
+    though you may also identify an advisor and select a tentative topic 
+    as part of a conventional classroom course.
+
+#.  Thesis/Dissertation Committee Recommendation
+
+    -  The next step is for you to secure permission to pursue the thesis 
+       option from the Graduate Program Director. 
+    -  The Graduate Program Director, in consultation with you and your 
+       chosen advisor, recommends a thesis committee to the Graduate School. 
+       The committee will consist of at least three faculty members; 
+       normally the committee director will be the advisor.  
+    -  **For the formal Graduate School process** 
+       **you create the committee at the gsps link**
+       https://gsps.luc.edu/. An email will then
+       be sent to the director for approval and then the GPD.
+    -  You will receives an email if your committee is formally approved by
+       the Graduate School.
+
+    At least 50% of the committee must be comprised of Loyola graduate
+    faculty; the director of the committee must have full graduate faculty
+    status – see
+    http://www.luc.edu/gradschool/about\_facultystaff.shtml
+    for the current list of full members.
+
+#.  Once the committee is approved, you may continue with your 
+    research in subsequent semesters registering for the 
+    zero-credit-hour Comp 595: Thesis Supervision, if available, or  
+    Comp 605: Masters Study, if Comp 595 is not listed.  If you still
+    need credit hours and have not already had the full number of hours
+    of :doc:`comp490`, you can register for that instead.
+    Students may register for any number of semesters of Comp 595/605, 
+    subject to time-to-degree-completion constraints.
+
+#.  Once you have your thesis committee approved, 
+    the thesis becomes a degree requirement. 
+    (This is important for international students.) 
+    You may, however, petition to revert back to non-thesis status; 
+    this requires permission of the Graduate Program Director and the Graduate School. 
+    At that point, you would be able to graduate without writing a thesis, 
+    if the coursework requirements were met. 
+    No reimbursement or credit will be received for any Comp 595, Comp 605, 
+    or other thesis-specific courses taken.
+
+#.  Ballot for the Approval of a Thesis/Dissertation Proposal
+
+    -  You will then prepare a formal research proposal, 
+       in consultation with your advisor.
+       This proposal must be submitted to your committee for review.  
+       This sequence is monitored through gsps.
+    -  If you are submitting your proposal to the Institutional Review Board
+       (IRB), you must have approval or exemption *before* the Graduate
+       School approves your proposal. You do not need to submit proof,
+       Graduate School will confirm. 
+       (This step is required for the use of human and animal subjects,
+       and is not common for Computer Science.)
+    -  **A simple one to two paragraph abstract must be included**
+       **in the proposal form on gsps.**
+    -  You will get notified once all members of the committee, the GPD,
+       and the Graduate School approve the proposal through gsps.
+    -  You are now ready to "conduct research" for the project. 
+  
+#.  Ballot for Text and Oral Defense Form
+
+    -  Upon completion of your thesis, you will be required to formally
+       defend your research. Schedule this with your committee.
+       You thesis should be in nearly final form.
+    -  Typically you should give the committee three weeks to read the final
+       draft of the thesis before the defense date.
+    -  **For this requirement, you must download the defense ballot**
+       http://www.luc.edu/media/lucedu/gradschool/pdfs/T%20&%20D%20defense%20ballot--DB.pdf
+       and bring it with you to your defense. Your director and other
+       committee member(s) will sign the ballot – this ballot then needs to
+       go to the GPD for final approval. 
+    -  The committee may require modifications before approving the thesis,
+       or possibly reject it.
+    -  Once approved, the GPD will upload
+       the ballot in gsps for Graduate School approval. 
+    -  You will be notified
+       once the process is complete.
+  
+
+#.  Formatting the Thesis/Dissertation
+
+    -   Every thesis/dissertation needs to be formatted according to the rules
+        stated in the Graduate School's formatting manual
+        http://www.luc.edu/gradschool/formatting.shtml.
+    -   **Format check is a required step**; the deadlines, depending on the
+        conferral date, are posted on the Key Dates and Deadlines page on the
+        Graduate School website.  These deadlines are well before the end of the
+        semester - be sure to check and satisfy them.
+    -   **Final Copy, both electronic and hard copies also have deadlines**,
+        depending on the conferral date.
