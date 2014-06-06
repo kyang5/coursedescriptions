@@ -1,5 +1,14 @@
-Welcome to the CS Course Catalog
-====================================
+CS Course Catalog
+======================
+
+Welcome to the Course Catalog for the Computer Science Department
+of Loyola University Chicago!
+
+Below you can find information on all of our Course Offerings as well as our
+Undergraduate and Graduate Degree Programs.
+
+If you want another format of this document (html, pdf, ebook), 
+see :ref:`download_other_formats`.
 
 Undergraduate Degree Programs
 --------------------------------
@@ -162,6 +171,14 @@ MS IT Graduate Courses/Quinlan Business School
    csis794
    csis796
    isom349
+
+Downloading
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   downloading
 
 
 Indices and tables
