@@ -24,6 +24,10 @@ key distribution and management, PGP, network security, and Fiat-Shamir
 protocol.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2013", "Stephen Doty", "https://drive.google.com/file/d/0B5gClDnivRb5RVZfVDM4d3RadTg/edit?usp=sharing"

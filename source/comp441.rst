@@ -23,8 +23,11 @@ acquire an awareness of different design and evaluation methods as well as
 practical, effective, and cost-conscience methods for improving systems and
 their interfaces.
 
-
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"

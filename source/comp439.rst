@@ -25,6 +25,10 @@ Various distributed frameworks and technologies will be explored, e.g. DNS,
 CORBA, Java RMI, SOAP (XML-based RPCs), and Globus.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2013", "Dr. Thiruvathukal", "http://distributed.cs.courseclouds.com/html/syllabus.html"
