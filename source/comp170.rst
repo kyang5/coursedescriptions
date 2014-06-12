@@ -70,6 +70,6 @@ Syllabi
    :widths: 15, 25, 50
 
 	"Spring 2014", "Dr. Yacobellis", "https://drive.google.com/file/d/0B5gClDnivRb5blREeFZGRWc4N2c/edit?usp=sharing"
-	"Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/170/index.html"
 	"Fall 2013", "Dr. Thiruvathukal", "https://docs.google.com/document/d/1MhW_P0OArY-R6U9RuIUD7_uj_CrdCgTSjnQfKQEEcw8/edit"
+	"Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/170/index.html"
 

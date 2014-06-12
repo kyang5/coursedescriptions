@@ -38,3 +38,8 @@ Outcome
 ---------------------
 
 Ability to publish created animated media projects to the web in a process that involves understanding human interface design.
+
+Syllabi
+----------------------
+
+No recent syllabi available.

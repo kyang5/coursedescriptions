@@ -33,3 +33,8 @@ Outcome
 ---------------------
 
 Experience with Internet tools, desktop publishing, spreadsheets, databases, statistical packages, and some programming, and with applications to business and the arts; an understanding of ethical, security, and privacy issues relating to computers and the Internet.
+
+Syllabi
+----------------------
+
+No recent syllabi available.

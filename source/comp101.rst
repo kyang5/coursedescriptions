@@ -22,3 +22,8 @@ Outcome
 ----------------------
 
 Students will be able to establish their own web resources.
+
+Syllabi
+----------------------
+
+No recent syllabi available.
