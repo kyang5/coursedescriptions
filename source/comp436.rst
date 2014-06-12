@@ -35,6 +35,6 @@ are encouraged to study these topics on your own. Little time will be spent
 rehashing this preliminary knowledge.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

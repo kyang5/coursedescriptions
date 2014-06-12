@@ -26,6 +26,6 @@ programming such as graphical user interfaces and distributed services using
 Remote Method Invocation (RMI).
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

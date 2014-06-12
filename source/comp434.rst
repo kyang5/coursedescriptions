@@ -23,6 +23,6 @@ monitors. The course covers architecture of EJB, entity and message and
 session beans.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

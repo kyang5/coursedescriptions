@@ -28,6 +28,6 @@ OTHER INFORMATION
 Text: Applied Combinatorics, 4th edition, by Alan Tucker.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

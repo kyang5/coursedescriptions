@@ -36,6 +36,6 @@ undecidability, recursive and recursively enumerable languages, reductions
 among languages, resource-bounded computation, Kolmogorov complexity.
 
 Syllabi
--------------------------------
+----------------------
 
-TABLE
+No recent syllabi available.

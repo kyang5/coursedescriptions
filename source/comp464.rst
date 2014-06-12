@@ -30,6 +30,6 @@ foundational understanding as well as a set of practical tools to gain insight
 into performance engineering of software.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

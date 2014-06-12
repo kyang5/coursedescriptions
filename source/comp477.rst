@@ -24,3 +24,8 @@ that specifies project objectives, schedules, work breakdown structure, and
 responsibilities, an written interim report, and a final oral and written
 report. The course will likely include both business and computer science
 students working together on a student team.
+
+Syllabi
+----------------------
+
+No recent syllabi available.

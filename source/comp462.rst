@@ -38,6 +38,6 @@ multiprocessor systems, and distributed shared memory systems.
 
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

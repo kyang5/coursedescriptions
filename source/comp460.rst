@@ -23,6 +23,6 @@ will be an introduction to the theory of NP-completeness, whereby certain
 computation problems can be classified as being difficult in a formal sense.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

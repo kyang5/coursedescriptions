@@ -34,6 +34,6 @@ probably do your assignments using Visual C++ under either Windows 95 or
 Windows NT.
 
 Syllabi
-----------------------------
+----------------------
 
-Taught by Dr. McDonald Fall 2004.
+No recent syllabi available.

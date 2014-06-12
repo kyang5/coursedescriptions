@@ -26,6 +26,6 @@ the product. The objective is to provide management with relevant information
 for constructing an acceptable inventory policy.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+No recent syllabi available.

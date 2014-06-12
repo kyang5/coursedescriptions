@@ -17,11 +17,7 @@ OTHER INFORMATION
 
 There will be a midterm and final exam and some programming assignments.
 
-Syllabus
------------------------------
+Syllabi
+----------------------
 
-.. csv-table:: 
-        :header: "Semester/Year", "Instructor", "URL"
-        :widths: 15, 25, 50
-
-        "Date", "Instructor", "URL"
+No recent syllabi available.

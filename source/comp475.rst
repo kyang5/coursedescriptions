@@ -27,6 +27,6 @@ special emphasis to the impact of the Open Source movement on software
 standards.
 
 Syllabi
-------------
+----------------------
 
-TABLE
+No recent syllabi available.
