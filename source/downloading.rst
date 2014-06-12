@@ -7,7 +7,7 @@ In addition to the html version on the server, http://courses.cs.luc.edu/html,
 we also provide the following formats for offline reading:
 
 - `PDF <http://courses.cs.luc.edu/latex/LoyolaComputerScienceCourseHandbook.pdf>`_ 
-  for printing or desktop reading
+  for printing or sequential desktop reading
 - `ePub <http://courses.cs.luc.edu/epub/LoyolaComputerScienceCourseHandbook.epub>`_ 
   (for e-reading devices, e.g. e-readers, tablets, or Adobe Digital Editions on desktop)
 
