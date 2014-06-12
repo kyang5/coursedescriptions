@@ -42,3 +42,9 @@ Students will become familiar with the SNMP protocol, with how large-scale Netwo
 Syllabi
 --------------------
 
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2011", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/netmgmt/spr11/"
+

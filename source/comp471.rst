@@ -26,8 +26,10 @@ mechanisms for describing language syntax and semantics; programming
 experience in several representative languages.
 
 Syllabi
-----------------------------
+--------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by Dr. Läufer in Fall 2010.
+	"Spring 2014", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/372"

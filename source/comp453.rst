@@ -23,6 +23,11 @@ include enabling access to database via the web, and administering large
 databases.
 
 Syllabi
--------------
+--------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2013", "Dr. Sekharan", "https://drive.google.com/file/d/0B5gClDnivRb5SVhFck9JYzJzMTg/edit?usp=sharing"
+	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/353/spr13/"
