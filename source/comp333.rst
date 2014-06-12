@@ -36,6 +36,4 @@ methods and tools, such as UML and ESC.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-    :header: "Semester/Year", "Instructor", "URL"
-    :widths: 15, 25, 50
+No recent syllabi available.

@@ -21,3 +21,7 @@ Outcome
 
 Students will learn time management, work-flow management, and team dynamics to design, implement and test large-scale software projects.
 
+Syllabi
+----------------------
+
+No recent syllabi available.

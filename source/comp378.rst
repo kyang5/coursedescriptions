@@ -27,6 +27,7 @@ Outcome
 
 Student will learn basic theory of artificial intelligence and be able to build small applications based on it.
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+Syllabi
+----------------------
+
+No recent syllabi available.

@@ -42,6 +42,7 @@ Outcome
 
 Student will learn how to program real-time interactive applications using libraries like OpenGL.
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+Syllabi
+----------------------
+
+No recent syllabi available.

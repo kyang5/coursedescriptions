@@ -33,12 +33,7 @@ Outcome
 Students will learn how to engineer solutions to practical problems in multiprocessor architectures and using large physical memories.
 
 Syllabi
---------------------
+----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-    		"Year", "Dr. Thiruvathukal", "URL"
-    		"Year", "Dr. Sekharan", "URL"
+No recent syllabi available.
 

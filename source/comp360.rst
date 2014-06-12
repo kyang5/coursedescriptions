@@ -21,4 +21,6 @@ techniques, hierarchical memory organization, field programmable gate
 arrays (FPGA's) and reconfigurable computers.
 
 Syllabi
----------------------
+----------------------
+
+No recent syllabi available.
