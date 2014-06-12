@@ -21,8 +21,10 @@ a small team) will learn to plan, design, implement, and test a large software
 project.
 
 Syllabi
-----------------------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
-Taught by Dr. Honig in Fall 2005.
+	"Spring 2014", "Dr. Honig", "https://drive.google.com/file/d/0B5gClDnivRb5MXEwQXIwTThkYXc/edit?usp=sharing"
