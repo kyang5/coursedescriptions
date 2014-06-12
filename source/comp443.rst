@@ -30,6 +30,10 @@ the related issues of security and authentication. Some programming in the C
 language is required.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/443/fall13/"

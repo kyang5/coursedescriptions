@@ -26,6 +26,10 @@ substantial programming projects (using a platform such as Java 2 Enterprise
 Edition).
 
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2012", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/442"

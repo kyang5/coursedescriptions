@@ -22,7 +22,11 @@ control, congestion control, routing; local area networks (Ethernet, Token
 Ring and FDDI); transport.
 
 Syllabi
--------------
+----------------------
 
-TABLE
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/346/spr13/"
 
