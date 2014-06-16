@@ -22,6 +22,10 @@ Outcome
 Students will learn time management, work-flow management, and team dynamics to design, implement and test large-scale software projects.
 
 Syllabi
-----------------------
+--------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2014", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP477/syllabus.html"

@@ -26,6 +26,10 @@ report. The course will likely include both business and computer science
 students working together on a student team.
 
 Syllabi
-----------------------
+--------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2014", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP477/syllabus.html"
