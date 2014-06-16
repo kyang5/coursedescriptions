@@ -26,6 +26,10 @@ transfer circuitry; machine and assembly languages; microprocessor
 support devices.
 
 Syllabi
-----------------------
+--------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2014", "William Honig", "http://cs.luc.edu/whonig/comp-366-488"
