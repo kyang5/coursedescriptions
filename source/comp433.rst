@@ -23,4 +23,8 @@ Web services are building blocks for enterprise applications that use open data 
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Topic", "Semester/Year", "Instructor", "URL"
+   	:widths: 60, 15, 25, 60
+
+	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
