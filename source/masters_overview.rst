@@ -28,6 +28,10 @@ associated with another program.
 A separate interdisciplinary program, partnered with Computer Science, is
 the :doc:`madh`.
 
+**Administrative and admissions information** for the graduate program is in a
+separate document,
+http://gradhandbook.cs.luc.edu/.
+
 .. index:: time for program
 
 Time and Residence Requirements
