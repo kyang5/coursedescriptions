@@ -34,15 +34,19 @@ http://gradhandbook.cs.luc.edu/.
 
 .. index:: time for program
 
-Time and Residence Requirements
+Time Requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Normally it takes 16 months for full-time students to earn a 
 MS in Computer Science, Software Engineering, or Information Technology from Loyola. 
-Students who attend part time must complete the program within five years. 
-This period may be extended only by special action of the Dean of the Graduate School.
-The MS in Computer Science with the :ref:`thesis_option` 
-may also need extra time.
+The MS in Computer Science 
+may need extra time **if** the :ref:`thesis_option` is chosen.
+Students who attend part time normally take 2-3 years. Though rarely an issue,
+there is 
+a five year overall time limit,
+and
+this period may be extended only by special action of the Dean of the Graduate School.
+
 
 .. index:: multiple MS degrees
    non-degree students
