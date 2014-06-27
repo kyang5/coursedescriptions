@@ -111,9 +111,13 @@ Undergraduate Courses
    comp391
    comp398
    comp399
+   isom349
 
 Graduate Courses
 ----------------------------
+
+For administrative information on course loads, registration, and course selection, 
+please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
 
 .. toctree::
    :maxdepth: 1
@@ -171,7 +175,6 @@ MS IT Graduate Courses/Quinlan Business School
    csis494
    csis794
    csis796
-   isom349
 
 Downloading
 ----------------

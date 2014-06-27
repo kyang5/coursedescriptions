@@ -8,7 +8,7 @@ Credit Hours
 Prerequisites
 ------------------
 
-.. include:: fcs.txt
+None
 
 Description
 -------------------
@@ -22,4 +22,4 @@ effective project teams.
 Syllabi
 --------------
 
-TABLE
+No recent syllabus available.
