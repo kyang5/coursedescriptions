@@ -8,7 +8,7 @@ Credit Hours
 Prerequisites
 ------------------
 
-None
+Junior Standing; Grade of C- or higher in ACCT 201 & MGMT 201
 
 Description
 -------------------
