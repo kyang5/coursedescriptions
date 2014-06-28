@@ -206,7 +206,11 @@ html_theme_options = {
     'globaltoc_depth': 2,
 
 
-    'navbar_sidebarrel': False,
+    # A list of tuples containting pages to link to.  The value should
+    # be in the form [(name, page), ..]
+    'navbar_links': [('Index', 'genindex')],
+
+    'navbar_sidebarrel': True,
 
     # A list of tuples containting pages to link to.  The value should
     # be in the form [(name, page), ..]
