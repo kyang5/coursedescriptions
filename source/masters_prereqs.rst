@@ -1,4 +1,4 @@
-Masters Programs Preqrequisites
+Masters Programs Prerequisites
 =================================
 
 All students need the equivalent knowledge 
