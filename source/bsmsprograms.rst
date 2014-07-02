@@ -122,11 +122,13 @@ on-line Graduate Application Form through the Graduate School web-site.
 The application will be evaluated upon completion of the following:
 
 -   `The Graduate Application Form <https://gpem.luc.edu/apply/>`_; 
-    applicants are to select the B.S./M.S. option, and the 
+    applicants are to select the B.S./M.S. option.  Be careful of the
+    misleading entry named "starting semester": The 
     *starting semester for the program should be the first semester when the*
-    *student will be in*  **graduate** *status* (after expected completion
+    *student will be in pure*  **graduate** *status* (after expected completion
     of the B.S.).  This is *not* the semester coming right after the student 
-    has filled out the application. 
+    has filled out the application.  This is *after* all double-counted
+    courses are completed.
 -   A one page personal statement of purpose; 
     this is inserted as part of the Graduate Application Form;
 -   Three letters of recommendation, at least two coming from faculty 
