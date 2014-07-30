@@ -49,8 +49,6 @@ this period may be extended only by special action of the Dean of the Graduate S
 
 
 .. index:: multiple MS degrees
-   non-degree students
-   continuing education
 
 Pursuing Multiple MS Degrees
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,6 +64,9 @@ after completing *one* graduate degree.
 
 .. index:: non-degree students
    continuing education
+
+Non-Degree Students and Continuing Education
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Students who wish to continue taking courses may do so after completing their degree 
 as non-degree students. We also
