@@ -1,3 +1,6 @@
+.. index:: graduate level independent project
+   independent project
+
 COMP 490: Independent Project
 =======================================================
 
