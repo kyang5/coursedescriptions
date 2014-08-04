@@ -1,3 +1,5 @@
+.. index:: server-based software development
+
 COMP 338: Server-Based Software Development
 ============================================
 

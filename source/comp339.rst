@@ -1,3 +1,5 @@
+.. index:: distributed systems
+
 COMP 339: Distributed Systems
 ==============================
 

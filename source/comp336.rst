@@ -1,3 +1,5 @@
+.. index:: markup languages
+
 COMP 336: Markup Languages
 ==========================
 

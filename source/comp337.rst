@@ -1,3 +1,6 @@
+.. index:: introduction to concurrency
+   concurrency
+
 COMP 337: Introduction to Concurrency
 =====================================
 

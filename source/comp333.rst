@@ -1,3 +1,5 @@
+.. index:: formal methods in software engineering
+
 COMP 333: Formal Methods in Software Engineering
 ================================================
 
