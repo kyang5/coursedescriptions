@@ -1,3 +1,5 @@
+.. index:: topics in computer science
+
 COMP 488: Topics in Computer Science
 =======================================================
 

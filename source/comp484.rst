@@ -1,3 +1,5 @@
+.. index:: artificial intelligence
+
 COMP 484: Artificial Intelligence
 ===================================
 

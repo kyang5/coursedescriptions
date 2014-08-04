@@ -1,3 +1,5 @@
+.. index:: computer graphics
+
 COMP 480: Computer Graphics
 =======================================================
 
