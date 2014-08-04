@@ -1,3 +1,7 @@
+.. index:: web design and multimedia publishing
+   web design
+   multimedia publishing
+
 COMP 102: Web Design and Multimedia Publishing
 ==============================================
 

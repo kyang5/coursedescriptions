@@ -1,3 +1,5 @@
+.. index:: computer animation
+
 COMP 104: Computer Animation
 ============================
 

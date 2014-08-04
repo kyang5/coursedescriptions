@@ -1,3 +1,5 @@
+.. index:: exploring the internet
+
 COMP 101: Exploring the Internet
 =====================================
 
