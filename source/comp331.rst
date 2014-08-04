@@ -1,3 +1,5 @@
+.. index:: cryptography
+
 COMP 331: Cryptography
 ======================
 

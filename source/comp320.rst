@@ -1,3 +1,5 @@
+.. index:: software systems analysis
+
 COMP 320: Software Systems Analysis
 ===================================
 

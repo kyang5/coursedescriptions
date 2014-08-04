@@ -1,3 +1,6 @@
+.. index:: introduction to unix
+   unix
+
 COMP 319: Introduction to Unix
 ==============================
 

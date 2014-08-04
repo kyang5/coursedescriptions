@@ -1,4 +1,8 @@
-COMP 332: Design Patterns and Object Oriented Design
+.. index:: design patterns and object-oriented design
+   design patterns
+   object-oriented design
+
+COMP 332: Design Patterns and Object-Oriented Design
 ====================================================
 
 Credit Hours
