@@ -1,3 +1,7 @@
+.. index:: introduction to computer networks
+   computer networks
+   networks
+
 COMP 343: Introduction to Computer Networks
 ===========================================
 

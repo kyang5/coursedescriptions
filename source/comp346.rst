@@ -1,3 +1,6 @@
+.. index:: introduction to telecommunications
+   telecommunications
+
 COMP 346: Introduction to Telecommunications
 ============================================
 
