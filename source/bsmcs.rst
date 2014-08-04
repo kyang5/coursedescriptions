@@ -1,3 +1,6 @@
+.. index:: b.s. in mathematics and computer science
+   mathematics and computer science
+
 B.S. in Mathematics and Computer Science
 ==========================================
 

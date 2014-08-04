@@ -1,3 +1,6 @@
+.. index:: b.s. in software engineering
+   software engineering
+
 B.S. in Software Engineering
 ============================
 

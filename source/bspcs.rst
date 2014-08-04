@@ -1,3 +1,6 @@
+.. index:: b.s. in physics and computer science
+   physics and computer science
+
 B.S. in Physics and Computer Science
 =====================================
 

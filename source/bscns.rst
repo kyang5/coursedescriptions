@@ -1,3 +1,6 @@
+.. index:: b.s. in communication networks and security
+   communication networks and security
+
 B.S. in Communication Networks and Security
 ============================================
 

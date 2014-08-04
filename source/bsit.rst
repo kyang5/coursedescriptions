@@ -1,3 +1,6 @@
+.. index:: b.s. in information technology
+   information technology
+
 B.S. in Information Technology
 ==============================
 

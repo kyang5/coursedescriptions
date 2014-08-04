@@ -1,3 +1,6 @@
+.. index:: b.s. / m.s. dual degree programs
+   dual degree programs
+
 B.S./M.S. Dual Degree Programs
 ==============================
 
