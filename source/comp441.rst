@@ -1,3 +1,5 @@
+.. index:: human-computer interface design
+
 COMP 441: Human-Computer Interface Design
 =======================================================
 

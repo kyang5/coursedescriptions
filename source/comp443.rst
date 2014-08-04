@@ -1,3 +1,6 @@
+.. index:: computer networks
+   networks
+
 COMP 443: Computer Networks
 =======================================================
 

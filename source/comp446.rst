@@ -1,3 +1,5 @@
+.. index:: telecommunications
+
 COMP 446: Telecommunications
 =======================================================
 

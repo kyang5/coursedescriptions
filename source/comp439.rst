@@ -1,3 +1,5 @@
+.. index:: distributed systems
+
 COMP 439: Distributed Systems
 =======================================================
 

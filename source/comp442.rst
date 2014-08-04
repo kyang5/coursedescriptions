@@ -1,3 +1,5 @@
+.. index:: server-side software development
+
 COMP 442: Server-Side Software Development
 =======================================================
 
