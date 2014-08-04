@@ -7,8 +7,17 @@ of Loyola University Chicago!
 Below you can find information on all of our Course Offerings as well as our
 Undergraduate and Graduate Degree Programs.
 
+* :ref:`undergraduate-degree-programs`
+* :ref:`undergraduate-courses`
+* :ref:`graduate-degree-programs`
+* :ref:`graduate-courses`
+* :ref:`ms-it-graduate-courses/quinlan-business-school`
+* :ref:`downloading`
+
 If you want another format of this document (html, pdf, ebook), 
 see :ref:`download_other_formats`.
+
+.. _undergraduate-degree-programs:
 
 Undergraduate Degree Programs
 --------------------------------
@@ -27,18 +36,7 @@ Undergraduate Degree Programs
    minorcs
    minorccf
 
-Graduate Degree Programs
----------------------------
-
-.. toctree::
-   :maxdepth: 1
-  
-   masters_overview
-   masters_prereqs
-   mscs
-   msit
-   msse
-   madh
+.. _undergraduate-courses:
 
 Undergraduate Courses
 --------------------------
@@ -113,6 +111,23 @@ Undergraduate Courses
    comp399
    isom349
 
+.. _graduate-degree-programs:
+
+Graduate Degree Programs
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+  
+   masters_overview
+   masters_prereqs
+   mscs
+   msit
+   msse
+   madh
+
+.. _graduate-courses:
+
 Graduate Courses
 ----------------------------
 
@@ -163,6 +178,8 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp490
    comp499
 
+.. _ms-it-graduate-courses/quinlan-business-school:
+
 MS IT Graduate Courses/Quinlan Business School
 -------------------------------------------------
 
@@ -175,6 +192,8 @@ MS IT Graduate Courses/Quinlan Business School
    csis494
    csis794
    csis796
+
+.. _downloading:
 
 Downloading
 ----------------
