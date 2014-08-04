@@ -1,5 +1,8 @@
-MS in Information Technology
-============================
+.. index:: m.s. in information technology
+   information technology
+
+M.S. in Information Technology
+==============================
 
 Overview
 --------

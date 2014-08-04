@@ -1,5 +1,8 @@
-MA in Digital Humanities
-=========================
+.. index:: m.a. in digital humanities
+   digital humanities
+
+M.A. in Digital Humanities
+===========================
 
 The Computer Science department is a partner in the MA in Digital Humanities program. 
 While not a department-specific
@@ -7,7 +10,7 @@ program, we encourage students with interdisciplinary interests at the
 intersection of culture and technology to 
 consider this degree, which allows one to elect courses from the CS department.
 
-The Digital Humanities MA program at Loyola Unviersity's
+The Digital Humanities M.A. program at Loyola Unviersity's
 Center for Textual Studies and Digital Humanities (CTSDH) combines 
 theoretical and practical courses. 
 Its aims are ultimately practical and professional, 

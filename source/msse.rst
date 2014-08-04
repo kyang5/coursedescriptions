@@ -1,10 +1,13 @@
-MS in Software Engineering
-==========================
+.. index:: m.s. in software engineering
+   software engineering
+
+M.S. in Software Engineering
+============================
 
 Overview
 ---------
 
-The MS in Software Engineering caters to students interested in software engineering 
+The M.S. in Software Engineering caters to students interested in software engineering 
 and also other contemporary topics of long-term value to the industry. 
 Most early careers in the industry are based on either software development or 
 managerial aspects of software development. 

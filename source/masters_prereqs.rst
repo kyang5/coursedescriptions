@@ -1,3 +1,5 @@
+.. index:: masters prerequisites
+
 Masters Programs Prerequisites
 =================================
 

@@ -1,10 +1,13 @@
-MS in Computer Science
-=======================
+.. index:: m.s. in computer science
+   computer science
+
+M.S. in Computer Science
+========================
 
 Overview
 --------
 
-The MS in Computer Science provides foundations of Computer Science, while
+The M.S. in Computer Science provides foundations of Computer Science, while
 acknowledging that Computer Science is key to algorithms in the sciences.
 Other programs in the Computer Science Department with different foci are 
 :doc:`msit` and the :doc:`msse`.
