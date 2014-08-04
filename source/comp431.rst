@@ -1,6 +1,7 @@
+.. index:: cryptography
+
 COMP 431: Cryptography
 ============================
-
 
 Prerequisites
 ----------------------------

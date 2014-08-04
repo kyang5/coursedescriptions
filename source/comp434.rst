@@ -1,3 +1,5 @@
+.. index:: enterprise software development
+
 COMP 434: Enterprise Software Development
 =======================================================
 

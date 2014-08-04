@@ -1,3 +1,5 @@
+.. index:: web services programming
+
 COMP 433: Web Services Programming
 =======================================================
 
