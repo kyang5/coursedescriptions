@@ -53,15 +53,17 @@ Tracks (9 credits)
 Enterprise Information Management (EIM) Track
     *   :doc:`comp453`
     *   :doc:`csis494`
-    *   :doc:`csis496`
     *   :doc:`csis796`
+
+.. old :doc:`csis496`
 
 Technology Management (TM) Track
     *   :doc:`comp477` / :doc:`csis484`
     *   :doc:`csis483`
     *   :doc:`csis794`
     *   :doc:`csis472`
-    *   :doc:`csis478`
+
+.. old :doc:`csis478`
 
 Information Assurance (IA) Track
     *   :doc:`comp431`
@@ -75,8 +77,10 @@ Enterprise Networking (EN) Track
     *   :doc:`comp446`
     *   :doc:`comp448`
     *   :doc:`comp449`
-    *   :doc:`csis591`
-    *   :doc:`comp451` or :doc:`csis793`
+    *   :doc:`comp451`
+
+.. old :doc:`csis591`
+   :doc:`csis793`
 
 General Electives (18 Credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

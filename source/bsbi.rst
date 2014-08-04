@@ -1,3 +1,6 @@
+.. index:: b.s. in bioinformatics
+   bioinformatics
+
 B.S. in Bioinformatics
 ============================================
 
