@@ -1,3 +1,5 @@
+.. index:: project management
+
 ISOM 349: Project Management
 ==================================
 

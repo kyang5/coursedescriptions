@@ -1,3 +1,5 @@
+.. index:: project management
+
 CSIS 484: Project Management
 =================================
 

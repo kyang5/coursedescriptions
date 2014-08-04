@@ -1,3 +1,5 @@
+.. index:: management of service operations
+
 CSIS 483: Management of Service Operations
 =============================================
 

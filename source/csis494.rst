@@ -1,3 +1,4 @@
+.. index:: data mining
 
 CSIS 494: Data Mining
 =================================

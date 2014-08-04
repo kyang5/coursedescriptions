@@ -1,3 +1,5 @@
+.. index:: data warehousing
+
 CSIS 796: Data Warehousing
 =================================
 

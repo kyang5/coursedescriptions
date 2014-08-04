@@ -1,3 +1,5 @@
+.. index:: managing emerging technologies
+
 CSIS 794: Managing Emerging Technologies
 =================================================
 

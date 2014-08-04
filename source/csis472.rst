@@ -1,3 +1,5 @@
+.. index:: organizational change and development
+
 CSIS 472: Organizational Change and Development
 ====================================================
 
