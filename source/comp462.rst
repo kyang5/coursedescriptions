@@ -1,3 +1,5 @@
+.. index:: computer architecture
+
 COMP 462: Computer Architecture
 =======================================================
 

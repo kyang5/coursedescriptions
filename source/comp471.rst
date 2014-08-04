@@ -1,3 +1,5 @@
+.. index:: programming languages
+
 COMP 471: Programming Languages
 =======================================================
 

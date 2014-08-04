@@ -1,3 +1,6 @@
+.. index:: algorithms and complexity
+   algorithms
+
 COMP 460: Algorithms and Complexity
 =======================================================
 

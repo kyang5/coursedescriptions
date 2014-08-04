@@ -1,3 +1,5 @@
+.. index:: high-performance computing
+
 COMP 464: High-Performance Computing
 =======================================================
 

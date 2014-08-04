@@ -1,3 +1,5 @@
+.. index:: database programming
+
 COMP 453: Database Programming
 =======================================================
 
