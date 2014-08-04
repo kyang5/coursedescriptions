@@ -1,3 +1,5 @@
+.. index:: discrete structures
+
 COMP 163: Discrete Structures
 =============================
 
