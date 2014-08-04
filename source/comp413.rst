@@ -1,3 +1,6 @@
+.. index:: intermediate object-oriented development
+   object-oriented development
+
 COMP 413: Intermediate Object-Oriented Development
 =======================================================
 

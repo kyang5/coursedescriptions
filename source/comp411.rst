@@ -1,3 +1,5 @@
+.. index:: computer systems administration
+
 COMP 411: Computer Systems Administration
 =======================================================
 

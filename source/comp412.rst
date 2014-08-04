@@ -1,3 +1,5 @@
+.. index:: free/open source computing
+
 COMP 412: Free/Open Source Computing
 =======================================================
 

@@ -1,3 +1,5 @@
+.. index:: operating systems
+
 COMP 410: Operating Systems
 =======================================================
 
