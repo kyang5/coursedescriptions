@@ -1,3 +1,5 @@
+.. index:: software engineering
+
 COMP 474: Software Engineering
 =======================================================
 

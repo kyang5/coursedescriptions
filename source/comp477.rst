@@ -1,3 +1,5 @@
+.. index:: it project management
+
 COMP 477: IT Project Management
 =======================================================
 

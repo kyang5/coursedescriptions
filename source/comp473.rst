@@ -1,3 +1,5 @@
+.. index:: object-oriented programming
+
 COMP 473: Object-Oriented Programming
 =======================================================
 

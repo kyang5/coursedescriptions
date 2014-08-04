@@ -1,3 +1,5 @@
+.. index:: system standards and requirements
+
 COMP 475: System Standards and Requirements
 =======================================================
 
