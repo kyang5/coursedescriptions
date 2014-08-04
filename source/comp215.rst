@@ -1,3 +1,6 @@
+.. index:: object-oriented programming with mathematics
+   object-oriented programming
+
 COMP 215: Object-Oriented Programming with Mathematics
 ======================================================
 

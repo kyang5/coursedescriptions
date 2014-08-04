@@ -1,3 +1,6 @@
+.. index:: introduction to computer systems
+   computer systems
+
 COMP 264: Introduction to Computer Systems
 ==========================================
 

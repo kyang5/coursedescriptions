@@ -1,3 +1,6 @@
+.. index:: introduction to database systems
+   database systems
+
 COMP 251: Introduction to Database Systems 
 ==========================================
 
