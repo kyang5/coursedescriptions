@@ -1,3 +1,5 @@
+.. index:: computational bioinformatics
+
 COMP 383: Computational Bioinformatics
 ======================================
 
