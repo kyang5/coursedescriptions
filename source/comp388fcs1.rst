@@ -1,3 +1,5 @@
+.. index:: foundations of computer science 1
+
 COMP 388: Foundations of Computer Science 1
 ===========================================
 
