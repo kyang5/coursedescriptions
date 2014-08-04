@@ -6,17 +6,17 @@ COMP 374: Introduction to Operating Systems
 
 This course introduces principles of operating systems and how they are designed.  Various important parts of operating systems such as memory addressing, file structures, processes, and threads are covered. 
 
-CREDIT HOURS
+Credit Hours
 -------------------
 
 3
 
-PREREQUISITES
+Prerequisites
 --------------------
 
 :doc:`comp264` or :doc:`comp271`
 
-DESCRIPTION
+Description
 --------------------
 
 This is an introductory course in Operating Systems discussing both standalone
