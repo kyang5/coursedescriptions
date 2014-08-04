@@ -1,3 +1,7 @@
+.. index:: data warehousing and data mining
+   data warehousing
+   data mining
+
 COMP 300: Data Warehousing and Data Mining
 ==========================================
 

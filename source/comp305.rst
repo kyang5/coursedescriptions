@@ -1,3 +1,5 @@
+.. index:: database administration
+
 COMP 305: Database Administration
 =================================
 

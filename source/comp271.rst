@@ -1,3 +1,5 @@
+.. index:: data structures
+
 COMP 271: Data Structures
 =========================
 
