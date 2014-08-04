@@ -1,3 +1,7 @@
+.. index:: problem solving strategies
+   acm programming team
+   programming team
+
 COMP 314/315: Problem Solving Strategies
 ========================================
 

@@ -1,3 +1,5 @@
+.. index:: free/open source computing
+
 COMP 312: Free/Open Source Computing
 ====================================
 

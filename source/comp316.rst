@@ -1,3 +1,5 @@
+.. index:: ethics and computers
+
 COMP 316: Ethics and Computers
 ==============================
 

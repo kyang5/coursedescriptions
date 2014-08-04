@@ -1,3 +1,5 @@
+.. index:: social legal and ethical issues in computing
+
 COMP 317: Social, Legal, and Ethical Issues in Computing
 ========================================================
 
