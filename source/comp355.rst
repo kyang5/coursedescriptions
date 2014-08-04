@@ -1,3 +1,7 @@
+.. index:: introduction to data mining and knowledge discovery
+   data mining and knowledge discovery
+   data mining
+
 COMP 355: Introduction to Data Mining and Knowledge Discovery
 =============================================================
 

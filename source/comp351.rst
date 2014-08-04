@@ -1,3 +1,5 @@
+.. index:: network management
+
 COMP 351: Network Management
 ============================
 

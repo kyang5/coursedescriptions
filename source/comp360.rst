@@ -1,3 +1,5 @@
+.. index:: computer organization
+
 COMP 360: Computer Organization
 ===============================
 

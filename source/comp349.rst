@@ -1,3 +1,5 @@
+.. index:: wireless networks and security
+
 COMP 349: Wireless Networks and Security
 ========================================
 
