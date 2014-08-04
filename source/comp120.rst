@@ -1,3 +1,5 @@
+.. index:: introduction to computer applications
+
 COMP 120: Introduction to Computer Applications
 ===============================================
 

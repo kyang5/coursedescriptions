@@ -1,3 +1,5 @@
+.. index:: history of computing
+
 COMP 111: History of Computing
 ==============================
 
