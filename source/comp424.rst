@@ -1,3 +1,6 @@
+.. index:: client-side web design
+   web design
+
 COMP 424: Client-Side Web Design
 =======================================================
 

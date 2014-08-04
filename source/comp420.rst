@@ -1,3 +1,5 @@
+.. index:: software systems analyis
+
 COMP 420: Software Systems Analysis
 =======================================================
 

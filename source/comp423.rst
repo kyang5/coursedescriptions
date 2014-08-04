@@ -1,3 +1,5 @@
+.. index:: combinatorial mathematics
+
 COMP 423: Combinatorial Mathematics
 =======================================================
 

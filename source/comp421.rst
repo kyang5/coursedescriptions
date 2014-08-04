@@ -1,3 +1,5 @@
+.. index:: mathematical modeling and simulation
+
 COMP 421: Mathematical Modeling and Simulation
 =======================================================
 
