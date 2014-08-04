@@ -1,3 +1,7 @@
+.. index:: intrusion detection and computer forensics
+   intrusion detection
+   computer forensics
+
 COMP 447: Intrusion Detection and Computer Forensics
 =======================================================
 

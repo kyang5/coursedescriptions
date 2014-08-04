@@ -1,3 +1,5 @@
+.. index:: network management
+
 COMP 451: Network Management
 =======================================================
 

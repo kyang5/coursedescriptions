@@ -1,3 +1,5 @@
+.. index:: network security
+
 COMP 448: Network Security
 =======================================================
 

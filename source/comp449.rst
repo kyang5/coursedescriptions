@@ -1,3 +1,5 @@
+.. index:: wireless networks and security
+
 COMP 449: Wireless Networks and Security
 =======================================================
 
