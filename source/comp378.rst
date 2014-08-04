@@ -1,3 +1,5 @@
+.. index:: artificial intelligence
+
 COMP 378: Artificial Intelligence
 =================================
 

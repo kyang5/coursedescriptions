@@ -1,3 +1,6 @@
+.. index:: introduction to operating systems
+   operating systems
+
 COMP 374: Introduction to Operating Systems
 =====================================================
 
