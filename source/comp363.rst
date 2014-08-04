@@ -1,3 +1,7 @@
+.. index:: design and analysis of computer algorithms
+   computer algorithms
+   algorithms
+
 COMP 363: Design and Analysis of Computer Algorithms
 ====================================================
 

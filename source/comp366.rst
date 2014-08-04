@@ -1,3 +1,5 @@
+.. index:: microcomputer design and interfacing
+
 COMP 366: Microcomputer Design and Interfacing
 ==============================================
 

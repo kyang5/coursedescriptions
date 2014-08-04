@@ -1,3 +1,5 @@
+.. index:: high-performance computing
+
 COMP 364: High-Performance Computing
 ====================================
 

@@ -1,3 +1,5 @@
+.. index:: programming languages
+
 COMP 372: Programming Languages
 ===============================
 

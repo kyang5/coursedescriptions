@@ -1,3 +1,5 @@
+.. index:: software quality metrics and testing
+
 COMP 370: Software Quality, Metrics, and Testing
 ================================================
 
