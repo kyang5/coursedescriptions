@@ -58,7 +58,7 @@ Some further special rules:
 
 #.   All students need to take :doc:`comp271` 
      as part of their undergraduate major.
-#.   Students pursing an MS in Software Engineering or Computer Science 
+#.   Students pursuing an MS in Software Engineering or Computer Science 
      must take :doc:`comp313` by their senior year.
 #.   Students may take at most 6 credits total of internship at the 
      undergraduate and graduate level, :doc:`comp391` plus :doc:`comp499`.
