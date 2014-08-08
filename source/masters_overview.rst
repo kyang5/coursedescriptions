@@ -56,7 +56,7 @@ Pursuing Multiple M.S. Degrees
 We are often asked about whether it is possible to complete more than one M.S. degree 
 (e.g. and M.S. in Computer Science and an M.S. in Software Engineering). 
 The answer is no, unless you complete 54 hours of study (30 hours of courses for
-the each degree, except for 6 credits transfered into the second degree). 
+the each degree, except for 6 credits transferred into the second degree). 
 It is impractical and expensive, and we don't think it serves students well. 
 Our goal is to prepare you
 for a serious career (professional and/or academic) 
