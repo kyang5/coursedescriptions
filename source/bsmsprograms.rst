@@ -16,7 +16,7 @@ The applicant can be pursuing any of the B.S. degrees offered by the
 Department of Computer Science, including the joint majors with Mathematics 
 or Physics or the interdisciplinary Bioinformatics.
 
-These programs reduce the total number of courses needed and the the 
+These programs reduce the total number of courses needed and the 
 total time needed for the combined degrees.
 
 Students may not automatically enroll in the BS/MS program 

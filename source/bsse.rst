@@ -14,7 +14,7 @@ The department of Labor estimates there will be a 39% (184,000) increase in dema
 Curriculum
 -----------
 
-This Degree was previously known as Software Devlopment.
+This Degree was previously known as Software Development.
 
 If you were enrolled prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
 
