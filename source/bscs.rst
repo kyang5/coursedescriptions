@@ -7,7 +7,7 @@ B.S. in Computer Science
 Overview
 ---------
 
-The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want pursue a career as an industry practicioners and/or as an academic.
+The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want pursue a career as an industry practitioners and/or as an academic.
 
 
 Curriculum

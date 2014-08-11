@@ -37,4 +37,4 @@ One course from the following:
 
 -   :doc:`comp264` (requires :doc:`comp170` prerequisite)
 -   :doc:`comp317`
--   :doc:`comp343` (requires :doc:`comp170` and :doc:`comp271` sequence as prerequistes)
+-   :doc:`comp343` (requires :doc:`comp170` and :doc:`comp271` sequence as prerequisites)
