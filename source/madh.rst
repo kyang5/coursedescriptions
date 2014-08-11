@@ -10,7 +10,7 @@ program, we encourage students with interdisciplinary interests at the
 intersection of culture and technology to 
 consider this degree, which allows one to elect courses from the CS department.
 
-The Digital Humanities M.A. program at Loyola Unviersity's
+The Digital Humanities M.A. program at Loyola University's
 Center for Textual Studies and Digital Humanities (CTSDH) combines 
 theoretical and practical courses. 
 Its aims are ultimately practical and professional, 
