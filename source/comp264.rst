@@ -14,7 +14,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp170` or :doc:`comp215`
+:doc:`comp170` or :doc:`comp215` or
 :doc:`comp163` or |math201| (corequisite or prerequisite)
 
 Description

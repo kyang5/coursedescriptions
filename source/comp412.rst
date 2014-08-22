@@ -1,4 +1,6 @@
-.. index:: free/open source computing
+.. index:: 
+   single: free/open source computing; graduate
+   single: open source; graduate
 
 COMP 412: Free/Open Source Computing
 =======================================================
