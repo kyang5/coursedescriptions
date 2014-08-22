@@ -1,6 +1,5 @@
-.. index:: 
-   single: free/open source computing; undergraduate
-   single: open source; undergraduate
+.. index:: free/open source computing
+   open source
 
 COMP 312: Free/Open Source Computing
 ====================================
