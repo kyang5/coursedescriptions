@@ -25,7 +25,8 @@ We plan to examine the following topics: permutations and combinations, the incl
 
 This course is a combined undergraduate/graduate course. The requirements of the course for the graduate students will be different from the requirements for the undergraduates. The material should be comprehensible for any student who has completed MATH 162.
 
-OTHER INFORMATION
+Other Information
+------------------
 
 Text: Applied Combinatorics, 4th edition, by Alan Tucker.
 

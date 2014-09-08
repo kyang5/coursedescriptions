@@ -31,6 +31,9 @@ This course is used to introduce emerging topics in computer science that do not
 -  Topics in Algorithms
 -  Web Services Programming
 
+Outcome
+----------
+
 Understand an emerging area of Computer Science.
 
 Syllabi

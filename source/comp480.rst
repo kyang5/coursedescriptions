@@ -29,7 +29,8 @@ Open GL graphics library, which has quickly become an industry standard.
 A word of warning-computer graphics makes considerable use of mathematics-
 elementary linear algebra, vector analysis and differential calculus.
 
-OTHER INFORMATION
+Other Information
+------------------
 
 There will be 7-8 programming assignments, a midterm, and a final. You will
 probably do your assignments using Visual C++ under either Windows 95 or
