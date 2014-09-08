@@ -30,28 +30,25 @@ Object-oriented programming has become the dominant software development
 paradigm of the 1990s. This course assumes familiarity with the main
 constituents of the object-oriented methodology:
 
-OOP = abstraction + inheritance + polymorphism
+-   OOP = abstraction + inheritance + polymorphism
 
 Building on this foundation, the course studies three major topics:
 
-Design Patterns
-~~~~~~~~~~~~~~~~
+**Design Patterns**
 
 First, the course discusses patterns, reusable solutions to recurring
 software design problems. Common design patterns such as Composite,
 Decorator, and Command typically involve several classes related by
 composition and inheritance.
 
-Implementation
-~~~~~~~~~~~~~~~
+**Implementation**
 
 Next, the course examines how object-oriented language features such as
 composition, encapsulation, inheritance, and dynamic binding can be
 implemented. These features are studied in the context of an interpreter
 for a simplified object-oriented language.
 
-Components
-~~~~~~~~~~~
+**Components**
 
 Finally, the course explores programming with reusable components.
 Specifically, the standard features of component architectures are

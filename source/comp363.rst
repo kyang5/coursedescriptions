@@ -48,4 +48,4 @@ Syllabi
    	:widths: 15, 25, 50
 
 	"Fall 2013", "Dr. Albert", "http://comp363.pacsites.org/"
-    "Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/363/index.html"
+        "Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/363/index.html"

@@ -14,13 +14,11 @@ Aliases
 Prerequisites
 ---------------------
 
-Mathematical Preparation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Mathematical Preparation**
 
 :doc:`comp163`, |math313|, or |math201|)
 
-Programming Foundations
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Programming Foundations**
 
 :doc:`comp125`, :doc:`comp170`, or :doc:`comp215` (or equivalent)
 

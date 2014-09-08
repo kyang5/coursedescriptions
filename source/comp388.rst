@@ -31,7 +31,8 @@ varies. Recent topics have included
 -  Topics in Algorithms
 -  Web Services Programming
 
-Course Goals
+Outcome
+-------------
 
 Understand an emerging area of Computer Science.
 
