@@ -46,6 +46,6 @@ reading required in this course.
 Syllabi
 ------------------
 
-TABLE
+No recent syllabi available.
 
 

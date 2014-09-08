@@ -31,4 +31,4 @@ lodging, food service, and utilities.
 Syllabi
 ------------------
 
-TABLE
+No recent syllabi available.

@@ -31,4 +31,4 @@ in individual, group, and organizational situations.
 Syllabi
 ------------------
 
-TABLE
+No recent syllabi available.

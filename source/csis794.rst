@@ -33,4 +33,4 @@ This course is offered by the Quinlan Business School.
 Syllabi
 -------------
 
-TABLE
+No recent syllabi available.

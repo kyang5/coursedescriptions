@@ -25,4 +25,4 @@ Provides a core set of skills for planning, managing and executing systems analy
 Syllabi
 ------------------
 
-TABLE
+No recent syllabi available.

@@ -30,4 +30,4 @@ Class meets with INFS 796.
 Syllabi
 -------------
 
-TABLE
+No recent syllabi available.
