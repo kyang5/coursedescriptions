@@ -188,11 +188,11 @@ Category V: offered irregulary
 
 :doc:`comp171` (last offered spring 12)
 
-:doc:`comp362` / :doc:`comp462` (last offered spring 98)
+:doc:`comp362` : Computer Architecture / :doc:`comp462` (last offered spring 98)
 
 :doc:`comp380` / :doc:`comp480` (last offered spring 05)
 
-:doc:`comp382` / :doc:`comp472` (last offered spring 00)
+:doc:`comp382` / :doc:`comp472` : Intro to Compilers (last offered spring 00)
 
 :doc:`comp388` / :doc:`comp434`
 
@@ -205,13 +205,13 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 
 :doc:`comp309` / :doc:`comp409` (last offered fall 11)
 
-:doc:`comp318` / :doc:`comp418` (last offered spring 14)
+:doc:`comp318` : Combinatorial Mathematics / :doc:`comp418` : Combinatorial Mathematics (last offered spring 14)
 
-:doc:`comp328` / :doc:`comp428` (last offered spring 14)
+:doc:`comp328` : Algebraic Coding Theory / :doc:`comp428` : Algebraic Coding Theory (last offered spring 14)
 
 :doc:`comp331` / :doc:`comp431` (last offered fall 13)
 
-:doc:`comp356` / :doc:`comp421` (last offered fall 13)
+:doc:`comp356` : Computer Principles of Modeling & Simulation / :doc:`comp421` (last offered fall 13)
 
 :doc:`comp376` / :doc:`comp476` (next offered fall 14)
 
