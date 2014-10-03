@@ -509,7 +509,7 @@ Day(s): Thursday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-2: Advanced Algorithms & Complexity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -522,7 +522,7 @@ Day(s): Tuesday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-3: IT Project Management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -535,7 +535,7 @@ Day(s): Friday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-4: Topics in Computers Science
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -550,7 +550,7 @@ Day(s): Monday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-5: Topics in Computers Science
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -565,7 +565,7 @@ Day(s): Monday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-6: Computational Neuroscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -578,7 +578,7 @@ Day(s): Thursday
 
 Campus: Lakeshore
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-7: Advanced Bioinformatics Research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -591,7 +591,7 @@ Day(s): TBD
 
 Campus: Online
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 388-8: Research Methods in Comp Sci
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -604,7 +604,7 @@ Day(s): TBD
 
 Campus: Online
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp388`
 
 COMP 391-01E: Internship in Computer Science
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -942,7 +942,7 @@ Day(s): Monday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp488`
 
 COMP 488-2: Database Administration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -955,7 +955,7 @@ Day(s): Tuesday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp488`
 
 COMP 488-3: Computer Forensics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -968,7 +968,7 @@ Day(s): Wednesday
 
 Campus: Water Tower
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp488`
 
 COMP 488-6: Computational Neuroscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -981,7 +981,7 @@ Day(s): Thursday
 
 Campus: Lakeshore
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp488`
 
 COMP 488-7: Advanced Bioinformatics Research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -994,7 +994,7 @@ Day(s): TBD
 
 Campus: Online
 
-Course Description: See http://www.luc.edu/cs/schedules/spring2015/comptopics/
+Course Description: :doc:`comp488`
 
 COMP 490-1: Independent Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
