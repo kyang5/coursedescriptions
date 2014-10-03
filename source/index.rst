@@ -4,9 +4,10 @@ CS Course Catalog
 Welcome to the Course Catalog for the Computer Science Department
 of Loyola University Chicago!
 
-Below you can find information on all of our Course Offerings as well as our
+Below you can find information on all of our Course Offerings and Scedules as well as our
 Undergraduate and Graduate Degree Programs.
 
+* :ref:`schedules`
 * :ref:`undergraduate-degree-programs`
 * :ref:`undergraduate-courses`
 * :ref:`graduate-degree-programs`
@@ -16,6 +17,17 @@ Undergraduate and Graduate Degree Programs.
 
 If you want another format of this document (html, pdf, ebook), 
 see :ref:`download_other_formats`.
+
+.. _schedules:
+
+Schedules
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   currentschedule
+   longtermschedule
 
 .. _undergraduate-degree-programs:
 
