@@ -24,6 +24,15 @@ development. This intermediate programming-intensive course studies the
 use of classes and objects with an emphasis on collaboration among
 objects.
 
+**Overall Series of Object-Oriented Courses**
+  
+- :doc:`comp170` (CS1) - simple objects representing scalars
+- :doc:`comp271` (CS2) - collections of simple objects
+- :doc:`comp313` / :doc:`comp413` - complex, interacting objects; basic design patterns
+- :doc:`comp373` / :doc:`comp473` - advanced design patterns and topics such as AOP(Aspect-Oriented programming)
+
+:doc:`comp313` / :doc:`comp413` is also a prerequisite for other advanced software courses. Students interested in advanced software courses are encouraged to take :doc:`comp313` / :doc:`comp413` as soon as they have completed :doc:`comp271` so as to be eligible for these further courses.
+
 **Course Topics**
 
 -  Data Structures of various types – linear vs. nonlinear, indexing vs.
