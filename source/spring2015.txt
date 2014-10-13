@@ -518,35 +518,38 @@ Campus: Water Tower
 
 Course Description: :doc:`comp388`
 
-COMP 388-4: Topics in Computers Science
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+COMP 388-4: Foundations of Computer Science I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This course meets during the first 8 week session of the semester.**
 
 Instructor: Andrew N Harrington 
 
-Time: 5:30 PM - 9:30 PM
-
-Day(s): Monday 
+Time and Days: Seven weeks from start of semester, ending before
+vacation week. Classes 5:30-9:30PM all Mondays except MLK Day,
+plus two Fridays labeled in this list: January 12, 16 (Friday),
+23 (Friday), 26, February 2, 9, 16, 23; labs each of those weeks on
+Wednesday, 4:30-6:45PM, Jan 14 - Feb 25.
 
 Campus: Water Tower
 
-Course Description: :doc:`comp388`
+Course Description: :doc:`comp388fcs1`
 
-COMP 388-5: Topics in Computers Science
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+COMP 388-5: Foundations of Computer Science II
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **This course meets during the second 8 week session of the semester.**
 
 Instructor: Peter L Dordal 
 
-Time: 5:30 PM - 9:30 PM
-
-Day(s): Monday 
+Time and Days: Eight weeks after vacation, including two meetings
+in finals week. Mondays 5:30-9:30PM March 9 through April 27,
+Wednesdays 4:30-6:45PM March 11 through April 29, excluding
+Easter Break: April 1.
 
 Campus: Water Tower
 
-Course Description: :doc:`comp388`
+Course Description: :doc:`comp388fcs2`
 
 COMP 388-6: Computational Neuroscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
