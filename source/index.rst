@@ -189,6 +189,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp488
    comp490
    comp499
+   comp605
 
 .. _ms-it-graduate-courses/quinlan-business-school:
 
