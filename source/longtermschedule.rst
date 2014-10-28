@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 7.0, 30 Jul 2014
+Version 7.1, 28 Oct 2014
 
 .. _category_one:
 
@@ -21,9 +21,9 @@ Category I: every fall and spring semester
 
 :doc:`comp170` (3-4)
 
-:doc:`comp215` (offered by Math/Stat Department in fall, CS department in spring)
+:doc:`comp215` *(offered by Math/Stat Department in fall, CS department in spring)*
 
-:doc:`comp250` (writing-intensive) (1-2)
+:doc:`comp250` *(writing-intensive)* (1-2)
 
 :doc:`comp251`
 
@@ -35,11 +35,11 @@ Category I: every fall and spring semester
 
 :doc:`comp317`
 
-:doc:`comp388fcs1` (graduate only)
+:doc:`comp388fcs1` *(graduate only)*
 
-:doc:`comp388fcs2` (graduate only)
+:doc:`comp388fcs2` *(graduate only)*
 
-:doc:`comp413` (fall: online, spring: on-site)
+:doc:`comp413`
 
 :doc:`comp417` (fall: on-site, spring: online)
 
@@ -165,21 +165,40 @@ Category IVd: every even fall semester (fall 14, fall 16, …)
 Category IVe: summer
 ---------------------
 
-:doc:`comp125`
+:doc:`comp125` (online)
 
-:doc:`comp150`
+:doc:`comp150` (online)
 
-:doc:`comp170`
+:doc:`comp170` (online)
+
+:doc:`comp312` / :doc:`comp412` (online)
 
 :doc:`comp317` / :doc:`comp417`
 
-:doc:`comp349` / :doc:`comp449`
+:doc:`comp346` / :doc:`comp446` (odd summers)
+
+:doc:`comp349` / :doc:`comp449` (on-site and/or online) 
+
+:doc:`comp351` / :doc:`comp451` (even summers)
 
 
-Additional summer classes are typically selected from :ref:`category_one` and :ref:`category_five`, along with one or more high-demand courses from the subsection of category III corresponding to the preceding fall; e.g., :ref:`category_three_c` for summer 13, :ref:`category_three_b` for summer 14, and :ref:`category_three_a` for summer 15.
+Additional summer classes are typically selected from
+:ref:`category_one` and :ref:`category_five`, along with high-demand
+courses from other categories.
 
+.. the subsection of :ref:`category_three`corresponding to the
+   preceding fall; e.g., :ref:`category_three_c` for summer 13,
+   :ref:`category_three_b` for summer 14, and :ref:`category_three_a` for
+   summer 15.
 
-All summer classes are pending instructor availability and meeting enrollment thresholds.
+*All summer classes are pending instructor availability and meeting enrollment thresholds.*
+
+.. _category_four_f:
+
+Category IVf: January term
+--------------------------
+
+:doc:`comp125` (online)
 
 .. _category_five:
 
@@ -226,7 +245,6 @@ All CSIS courses are offered and scheduled by the Department of Information Syst
 
 :doc:`csis496` (fall quarter, Aug-Nov)
 
-
 :doc:`csis483` (winter quarter, Nov-Feb)
 
 :doc:`csis794` (winter quarter, Nov-Feb)
@@ -235,8 +253,6 @@ All CSIS courses are offered and scheduled by the Department of Information Syst
 
 :doc:`csis796` (spring quarter, Feb-May)
 
-
 :doc:`csis484` (summer quarter, May-Jul)
-
 
 :doc:`csis472` (last offered spring quarter 2012, Feb-May)
