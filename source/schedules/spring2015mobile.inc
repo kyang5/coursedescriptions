@@ -1,5 +1,5 @@
 Mobile Format - Spring 2015 - Schedule
-=======================================
+==========================================================
 
 The following courses will (tentatively) be held during the Spring 2015 semester.
 
@@ -11,6 +11,7 @@ Note: While we update this page regularly, please check `LOCUS <http://www.luc.e
 
 QuickLinks
 ~~~~~~~~~~~~~
+
 * :ref:`undergraduate_courses_list`
 * :ref:`graduate_courses_list`
 

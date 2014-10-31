@@ -1,5 +1,5 @@
 Desktop Format - Spring 2015 - Schedule
-========================================
+==================================================
 
 The following courses will (tentatively) be held during the Spring 2015 semester.
 
@@ -11,10 +11,11 @@ Note: While we update this page regularly, please check `LOCUS <http://www.luc.e
 
 QuickLinks
 ~~~~~~~~~~~~~
-* :ref:`undergraduate_courses`
-* :ref:`graduate_courses`
 
-.. _undergraduate_courses:
+* :ref:`undergraduate_courses_table`
+* :ref:`graduate_courses_table`
+
+.. _undergraduate_courses_table:
 
 Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -282,7 +283,7 @@ Undergraduate Courses
 
     1, Mark Albert, 12:35 PM - 1:25 PM, F, Lakeshore, N/A 
 
-.. _graduate_courses:
+.. _graduate_courses_table:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~
