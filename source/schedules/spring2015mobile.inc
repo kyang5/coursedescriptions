@@ -549,9 +549,9 @@ COMP 388-4: Foundations of Comp Sci I
 
 Instructor: Andrew N Harrington 
 
-Time: 5:30 PM - 9:30 PM
+Time: See Note
 
-Day(s): Monday 
+Day(s): See Note 
 
 Campus: Water Tower
 
@@ -566,9 +566,9 @@ COMP 388-5: Foundations of Comp Sci II
 
 Instructor: Peter L Dordal 
 
-Time: 5:30 PM - 9:30 PM
+Time: See Note
 
-Day(s): Monday 
+Day(s): See Note 
 
 Campus: Water Tower
 
