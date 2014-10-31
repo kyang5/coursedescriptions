@@ -231,19 +231,6 @@ Campus: Lakeshore
 
 Course Description: :doc:`comp170`
 
-COMP 204-: Honors
-~~~~~~~~~~~~~~~~~~~
-
-Instructor: Mark Albert 
-
-Time: 10:00 AM - 11:15 AM
-
-Day(s): Tuesday Thursday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp204`
-
 COMP 250-01W: Introduction to Scientific and Technical Communication
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
