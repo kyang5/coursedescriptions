@@ -235,8 +235,8 @@ Undergraduate Courses
     1, Human-Computer Interface Design, Nicholas Hayward, 7:00 PM - 9:30 PM, Tr, Water Tower, N/A 
     2, Advanced Algorithms & Complexity, Chandra N Sekharan, 4:15 PM - 6:45 PM, T, Water Tower, See [#]_ 
     3, IT Project Management, Conrad Weisert, 4:15 PM - 6:45 PM, F, Water Tower, N/A 
-    4, Foundations of Comp Sci I, Andrew N Harrington, 5:30 PM - 9:30 PM, M, Water Tower, See [#]_ 
-    5, Foundations of Comp Sci II, Peter L Dordal, 5:30 PM - 9:30 PM, M, Water Tower, See [#]_ 
+    4, Foundations of Comp Sci I, Andrew N Harrington, See Note, See Note, Water Tower, See [#]_ 
+    5, Foundations of Comp Sci II, Peter L Dordal, See Note, See Note, Water Tower, See [#]_ 
     6, Computational Neuroscience, Mark Albert, 4:15 PM - 6:45 PM, Tr, Lakeshore, N/A 
     7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
     8, Research Methods in Comp Sci, Mark Albert, TBD, TBD, Online, N/A 
