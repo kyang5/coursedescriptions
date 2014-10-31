@@ -28,10 +28,10 @@ Note: While we update this page regularly, please check `LOCUS <http://www.luc.e
 QuickLinks
 ~~~~~~~~~~~~~
 
-* :ref:`undergraduate_courses`
-* :ref:`graduate_courses`
+* :ref:`undergraduate_courses_list`
+* :ref:`graduate_courses_list`
 
-.. _undergraduate_courses:
+.. _undergraduate_courses_list:
 
 Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -794,7 +794,7 @@ Campus: Lakeshore
 
 Course Description: :doc:`comp399`
 
-.. _graduate_courses:
+.. _graduate_courses_list:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~
