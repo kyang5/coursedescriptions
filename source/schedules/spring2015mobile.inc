@@ -49,7 +49,7 @@ Course Description: :doc:`comp125`
 COMP 150-1: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Jiwan Pokharel 
+Instructor: Zachary Romer 
 
 Time: 2:30 PM - 3:45 PM
 
@@ -62,7 +62,7 @@ Course Description: :doc:`comp150`
 COMP 150-2: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Jiwan Pokharel 
+Instructor: Zachary Romer 
 
 Time: 11:30 AM - 12:45 PM
 
@@ -75,7 +75,7 @@ Course Description: :doc:`comp150`
 COMP 150-3: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Zachary Romer 
+Instructor: TBD 
 
 Time: 12:10 PM - 1:25 PM
 
@@ -576,19 +576,6 @@ Notes: Time and Days: Eight weeks after vacation, including two meetings in fina
 
 Course Description: :doc:`comp388`
 
-COMP 388-6: Computational Neuroscience
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Mark Albert 
-
-Time: 4:15 PM - 6:45 PM
-
-Day(s): Thursday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp388`
-
 COMP 388-7: Advanced Bioinformatics Research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -612,6 +599,19 @@ Time: TBD
 Day(s): TBD 
 
 Campus: Online
+
+Course Description: :doc:`comp388`
+
+COMP 388-9: Computational Neuroscience
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Mark Albert 
+
+Time: 11:30 AM - 12:45 PM
+
+Day(s): Tuesday Thursday 
+
+Campus: Lakeshore
 
 Course Description: :doc:`comp388`
 
@@ -984,19 +984,6 @@ Campus: Water Tower
 
 Course Description: :doc:`comp488`
 
-COMP 488-6: Computational Neuroscience
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Mark Albert 
-
-Time: 4:15 PM - 6:45 PM
-
-Day(s): Thursday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp488`
-
 COMP 488-7: Advanced Bioinformatics Research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1007,6 +994,19 @@ Time: TBD
 Day(s): TBD 
 
 Campus: Online
+
+Course Description: :doc:`comp488`
+
+COMP 488-9: Computational Neuroscience
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Mark Albert 
+
+Time: 11:30 AM - 12:45 PM
+
+Day(s): Tuesday Thursday 
+
+Campus: Lakeshore
 
 Course Description: :doc:`comp488`
 

@@ -37,9 +37,9 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Jiwan Pokharel, 2:30 PM - 3:45 PM, TTr, Lakeshore, N/A 
-    2, Jiwan Pokharel, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
-    3, Zachary Romer, 12:10 PM - 1:25 PM, MW, Lakeshore, N/A 
+    1, Zachary Romer, 2:30 PM - 3:45 PM, TTr, Lakeshore, N/A 
+    2, Zachary Romer, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
+    3, TBD, 12:10 PM - 1:25 PM, MW, Lakeshore, N/A 
 
 :doc:`comp163`
 ----------------
@@ -233,13 +233,13 @@ Undergraduate Courses
     :widths: 10, 100, 75, 75, 30, 50, 50
 
     1, Human-Computer Interface Design, Nicholas Hayward, 7:00 PM - 9:30 PM, Tr, Water Tower, N/A 
-    2, Advanced Algorithms & Complexity, Chandra N Sekharan, 4:15 PM - 6:45 PM, T, Water Tower, See [#]_ 
+    2, Advanced Algorithms & Complexity, Chandra N Sekharan, 4:15 PM - 6:45 PM, T, Water Tower, [#]_ 
     3, IT Project Management, Conrad Weisert, 4:15 PM - 6:45 PM, F, Water Tower, N/A 
-    4, Foundations of Comp Sci I, Andrew N Harrington, See Note, See Note, Water Tower, See [#]_ 
-    5, Foundations of Comp Sci II, Peter L Dordal, See Note, See Note, Water Tower, See [#]_ 
-    6, Computational Neuroscience, Mark Albert, 4:15 PM - 6:45 PM, Tr, Lakeshore, N/A 
+    4, Foundations of Comp Sci I, Andrew N Harrington, See Note, See Note, Water Tower, [#]_ 
+    5, Foundations of Comp Sci II, Peter L Dordal, See Note, See Note, Water Tower, [#]_ 
     7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
     8, Research Methods in Comp Sci, Mark Albert, TBD, TBD, Online, N/A 
+    9, Computational Neuroscience, Mark Albert, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
 
 .. rubric:: Notes
 
@@ -407,8 +407,8 @@ Graduate Courses
     1, Data Warehousing and Data Mining, Channah Naiman, 4:15 PM - 6:45 PM, W, Water Tower, N/A 
     2, Database Administration, Peter L Dordal, 4:15 PM - 6:45 PM, T, Water Tower, N/A 
     3, Computer Forensics, Thomas Yarrish, 7:00 PM - 9:30 PM, W, Water Tower, N/A 
-    6, Computational Neuroscience, Mark Albert, 4:15 PM - 6:45 PM, Tr, Lakeshore, N/A 
     7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
+    9, Computational Neuroscience, Mark Albert, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
 
 :doc:`comp490`
 ----------------
