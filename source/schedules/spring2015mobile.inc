@@ -14,6 +14,7 @@ QuickLinks
 
 * :ref:`undergraduate_courses_list`
 * :ref:`graduate_courses_list`
+* :ref:`csis_courses_list`
 
 .. _undergraduate_courses_list:
 
@@ -1178,3 +1179,5 @@ Day(s): TBD
 Campus: Water Tower
 
 Course Description: :doc:`comp605`
+
+.. include:: schedules/spring2015csismobile.inc

@@ -14,6 +14,7 @@ QuickLinks
 
 * :ref:`undergraduate_courses_table`
 * :ref:`graduate_courses_table`
+* :ref:`csis_courses_table`
 
 .. _undergraduate_courses_table:
 
@@ -446,3 +447,5 @@ Graduate Courses
     :widths: 10, 175, 75, 30, 50, 50
 
     1, Andrew N Harrington, TBD, TBD, Water Tower, N/A 
+
+.. include:: schedules/spring2015csisdesktop.inc
