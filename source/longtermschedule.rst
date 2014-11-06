@@ -237,22 +237,36 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 .. _category_seven:
 
 Category VII: Courses offered by the Quinlan School of Business
-----------------------------------------------------------------
+---------------------------------------------------------------
 
-All CSIS courses are offered and scheduled by the Department of Information Systems and Operations Management and Department of Management in the Quinlan School of Business. The number of available seats in each CSIS section is limited. Recent offerings are listed below. Be sure to check `LOCUS <http://www.luc.edu/locus/>`_ for current and upcoming offerings.
+All CSIS courses are offered and scheduled by the Department of
+Information Systems and Operations Management and Department of
+Management in the Quinlan School of Business. The number of available
+eats in each CSIS section is limited. Below is a tentative list of
+current and upcoming offerings; be sure to check `LOCUS
+<http://www.luc.edu/locus/>`_ for up-to-date information on these
+offerings.
 
-:doc:`csis494` (fall quarter, Aug-Nov)
+:doc:`csis472` (MGMT 472, spring quarter, Feb-May): Opens two weeks after Quinlan registration opens
 
-:doc:`csis496` (fall quarter, Aug-Nov)
+:doc:`csis483` (OPMG 483, winter quarter, Nov-Feb, and spring quarter, Feb-May): Opens two weeks after Quinlan registration opens
 
-:doc:`csis483` (winter quarter, Nov-Feb)
+:doc:`csis494` (INFS 494, fall quarter, Aug-Nov): Opens two weeks after Quinlan registration opens
 
-:doc:`csis794` (winter quarter, Nov-Feb)
+:doc:`csis794` (INFS 799, spring quarter, Feb-May): Opens on the first day of Quinlan registration
 
-:doc:`csis483` (spring quarter, Feb-May)
+:doc:`csis796` (INFS 796, spring quarter, Feb-May): Opens on the first day of Quinlan registration
 
-:doc:`csis796` (spring quarter, Feb-May)
+*The following courses are not available to students in the Department of Computer Science at this time:*
 
-:doc:`csis484` (summer quarter, May-Jul)
+CSIS/MGMT 478
 
-:doc:`csis472` (last offered spring quarter 2012, Feb-May)
+CSIS/ISOM 484 (:doc:`csis484`): Please take :doc:`comp477` instead.
+
+CSIS/INFS 496 (:doc:`csis496`): Please take :doc:`comp420` instead.
+
+CSIS/INFS 498
+
+CSIS/INFS 591
+
+CSIS/INFS 793
