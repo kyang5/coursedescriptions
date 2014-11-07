@@ -13,6 +13,7 @@ Note: While we update these pages regularly, please check `LOCUS <http://www.luc
 * Spring Semester
      * :doc:`springdesktop`
      * :doc:`springmobile`
+     * `Textbook Information <https://docs.google.com/spreadsheet/ccc?key=0Aj_4VraMwHUodEdONlp1UW1tX203cURYV2dwQWl2VUE&usp=drive_web#gid=0>`_
 
 * Summer Semester
      * TBD
