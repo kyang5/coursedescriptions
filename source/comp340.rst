@@ -13,7 +13,7 @@ Credit Hours
 Prerequisities
 --------------------
 
-:doc:`comp150`
+:doc:`comp150` or :doc:`comp170` or :doc:`comp215`/|math215|
 
 :doc:`comp264` or :doc:`comp317` or :doc:`comp343`
 
