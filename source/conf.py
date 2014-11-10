@@ -60,6 +60,8 @@ rst_epilog = """
 
 .. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`__
 
+.. |math409| replace:: `MATH 409: Advanced Numerical Anaylsis <http://luc.edu/math/academics/courses/math409/index.shtml>`__
+
 .. |stat103| replace:: `STAT 103: Fundamentals of Statistics <http://www.luc.edu/math/academics/courses/stat103/>`__
 
 .. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`__

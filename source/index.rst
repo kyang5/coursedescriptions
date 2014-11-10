@@ -150,6 +150,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 .. toctree::
    :maxdepth: 1
 
+   comp409
    comp410
    comp411
    comp412
