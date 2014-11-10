@@ -242,7 +242,7 @@ Category VII: Courses offered by the Quinlan School of Business
 All CSIS courses are offered and scheduled by the Department of
 Information Systems and Operations Management and Department of
 Management in the Quinlan School of Business. The number of available
-eats in each CSIS section is limited. Below is a tentative list of
+seats in each CSIS section is limited. Below is a tentative list of
 current and upcoming offerings; be sure to check `LOCUS
 <http://www.luc.edu/locus/>`_ for up-to-date information on these
 offerings.
