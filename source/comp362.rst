@@ -1,7 +1,10 @@
 .. index:: computer architecture
 
-COMP 462: Computer Architecture
+COMP 362: Computer Architecture
 =======================================================
+
+This course covers computer design from the level of digital logic and circuit design to high-level
+computer organization.
 
 Credit Hours
 -----------------------------------
@@ -18,8 +21,6 @@ Prerequisites
 - some familiarity with assembly language
 - ability to understand simple C programs and to run programs in a UNIX environment, and
 - familiarity with the representation of numbers in digital computers
-
-.. include:: fcs.txt
 
 Description
 ----------------------------
@@ -40,9 +41,9 @@ multiprocessor systems, and distributed shared memory systems.
 Outcome
 -------------
 
-Students gain an understanding of the design of the memory hierarchy in modern digital
-computers, caching and virtual storage techniques, multiprocessor systems, and distributed
-shared memory systems.
+A basic understanding of how computers work at many levels and how to use 
+various analytical tools and techniques to design computer components.
+
 
 Syllabi
 ----------------------

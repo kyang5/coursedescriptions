@@ -100,6 +100,7 @@ Undergraduate Courses
    comp353
    comp355
    comp360
+   comp362
    comp363
    comp364
    comp366
