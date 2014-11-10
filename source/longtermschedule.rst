@@ -230,7 +230,7 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 
 :doc:`comp331` / :doc:`comp431` (last offered fall 13)
 
-:doc:`comp356` : Computer Principles of Modeling & Simulation / :doc:`comp421` (last offered fall 13)
+:doc:`comp356` / :doc:`comp421` (last offered fall 13)
 
 :doc:`comp376` / :doc:`comp476` (next offered fall 14)
 
