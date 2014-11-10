@@ -4,7 +4,7 @@
 COMP 328: Algebraic Coding Theory
 =====================================
 
-Alias
+Aliases
 -----------
 
 |math328|
