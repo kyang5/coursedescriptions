@@ -82,6 +82,7 @@ Undergraduate Courses
    comp317
    comp319
    comp320
+   comp328
    comp330
    comp331
    comp332
@@ -161,6 +162,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp421
    comp422
    comp424
+   comp428
    comp431
    comp433
    comp434

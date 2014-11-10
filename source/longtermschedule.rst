@@ -226,7 +226,7 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 
 :doc:`comp418` (last offered spring 14)
 
-:doc:`comp328` : Algebraic Coding Theory / :doc:`comp428` : Algebraic Coding Theory (last offered spring 14)
+:doc:`comp328` / :doc:`comp428` (last offered spring 14)
 
 :doc:`comp331` / :doc:`comp431` (last offered fall 13)
 

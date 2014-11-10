@@ -52,6 +52,8 @@ rst_epilog = """
 
 .. |math315| replace:: `MATH 315: Advanced Topics in Linear Algebra <http://luc.edu/math/academics/courses/math315/index.shtml>`__
 
+.. |math328| replace:: `MATH 328: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math328/index.shtml>`__
+
 .. |math331| replace:: `MATH 331: Cryptography <http://luc.edu/math/academics/courses/math331/index.shtml>`__
 
 .. |math351| replace:: `MATH 351: Introduction to Real Analysis I <http://luc.edu/math/academics/courses/math351/index.shtml>`__
@@ -61,6 +63,8 @@ rst_epilog = """
 .. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`__
 
 .. |math409| replace:: `MATH 409: Advanced Numerical Anaylsis <http://luc.edu/math/academics/courses/math409/index.shtml>`__
+
+.. |math428| replace:: `MATH 428: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math428/index.shtml>`__
 
 .. |stat103| replace:: `STAT 103: Fundamentals of Statistics <http://www.luc.edu/math/academics/courses/stat103/>`__
 
