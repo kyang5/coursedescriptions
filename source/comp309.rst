@@ -16,7 +16,11 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp170`, |math212|, or |math264|
+|math215| or :doc:`comp215` or :doc:`comp170`
+
+|math212|
+
+|math264|
 
 Course Description
 --------------------

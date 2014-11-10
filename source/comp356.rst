@@ -11,7 +11,11 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-|stat203| and :doc:`comp170`
+|math215| or :doc:`comp215` or :doc:`comp170`
+
+|math132| or |math162|
+
+|stat203|
 
 Description
 ----------------------------

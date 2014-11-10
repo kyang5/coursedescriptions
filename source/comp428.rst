@@ -17,7 +17,9 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-|math212|; :doc:`comp211` or |math313|
+|math212|
+
+:doc:`comp163` or |math313|
 
 .. include:: fcs.txt
 
