@@ -1,6 +1,6 @@
 .. index:: combinatorial mathematics
 
-COMP 423: Combinatorial Mathematics
+COMP 418: Combinatorial Mathematics
 =======================================================
 
 Credit Hours

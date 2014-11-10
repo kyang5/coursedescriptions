@@ -154,10 +154,10 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp412
    comp413
    comp417
+   comp418
    comp420
    comp421
    comp422
-   comp423
    comp424
    comp431
    comp433
