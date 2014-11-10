@@ -180,6 +180,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp462
    comp464
    comp471
+   comp472
    comp473
    comp474
    comp475

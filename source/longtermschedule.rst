@@ -207,11 +207,11 @@ Category V: offered irregulary
 
 :doc:`comp171` (last offered spring 12)
 
-:doc:`comp362` : Computer Architecture / :doc:`comp462` (last offered spring 98)
+:doc:`comp362` / :doc:`comp462` (last offered spring 98)
 
 :doc:`comp380` / :doc:`comp480` (last offered spring 05)
 
-:doc:`comp382` / :doc:`comp472` : Intro to Compilers (last offered spring 00)
+:doc:`comp382` / :doc:`comp472` (last offered spring 00)
 
 :doc:`comp388` / :doc:`comp434`
 
