@@ -1,5 +1,5 @@
 Mobile/Single Column Format - Spring 2015 - Schedule
-==========================================================
+==================================================================
 
 The following courses will (tentatively) be held during the Spring 2015 semester.
 
@@ -124,6 +124,8 @@ Day(s): Tuesday Thursday
 
 Campus: Lakeshore
 
+Notes: Enrolling in this course will also enroll you in its lab section (01L). Meeting time is effectively 10:00 AM - 11:55 AM.
+
 Course Description: :doc:`comp170`
 
 COMP 170-2: Introduction to Object-Oriented Programming
@@ -136,6 +138,9 @@ Time: 1:00 PM - 2:15 PM
 Day(s): Tuesday Thursday 
 
 Campus: Lakeshore
+
+Notes: Enrolling in this course will also enroll you in its lab section (02L). Meeting time is effectively 12:20 PM - 2:15 PM.
+
 
 Course Description: :doc:`comp170`
 
@@ -150,6 +155,9 @@ Day(s): Tuesday
 
 Campus: Lakeshore
 
+Notes: Enrolling in this course will also enroll you in its lab section (03L). Meeting time is effectively 4:15 PM - 7:45 PM.
+
+
 Course Description: :doc:`comp170`
 
 COMP 170-4: Introduction to Object-Oriented Programming
@@ -162,6 +170,9 @@ Time: 10:25 AM - 11:15 AM
 Day(s): Monday Wednesday Friday 
 
 Campus: Lakeshore
+
+Notes: Enrolling in this course will also enroll you in its lab section (04L). Meeting time is effectively 10:25 AM - 11:55 AM, except on Fridays when it is 10:25 AM - 11:15 AM.
+
 
 Course Description: :doc:`comp170`
 
@@ -176,6 +187,8 @@ Day(s): Tuesday Thursday
 
 Campus: Lakeshore
 
+Notes: This is the lab section for 170-001.
+
 Course Description: :doc:`comp170`
 
 COMP 170-02L: Introduction to Object-Oriented Programming
@@ -188,6 +201,8 @@ Time: 12:20 PM - 12:45 PM
 Day(s): Tuesday Thursday 
 
 Campus: Lakeshore
+
+Notes: This is the lab section for 170-002.
 
 Course Description: :doc:`comp170`
 
@@ -202,6 +217,8 @@ Day(s): Tuesday
 
 Campus: Lakeshore
 
+Notes: This is the lab section for 170-003.
+
 Course Description: :doc:`comp170`
 
 COMP 170-04L: Introduction to Object-Oriented Programming
@@ -214,6 +231,8 @@ Time: 11:30 AM - 11:55 AM
 Day(s): Monday Wednesday 
 
 Campus: Lakeshore
+
+Notes: This is the lab section for 170-004.
 
 Course Description: :doc:`comp170`
 
@@ -280,6 +299,8 @@ Day(s): Tuesday Thursday
 
 Campus: Lakeshore
 
+Notes: Enrolling in this course will also enroll you in its lab section (01L). Meeting time is effectively 7:00 PM - 8:55 PM.
+
 Course Description: :doc:`comp271`
 
 COMP 271-2: Data Structures
@@ -292,6 +313,8 @@ Time: 4:15 PM - 6:45 PM
 Day(s): Wednesday 
 
 Campus: Lakeshore
+
+Notes: Enrolling in this course will also enroll you in its lab section (02L). Meeting time is effectively 4:15 PM - 7:50 PM.
 
 Course Description: :doc:`comp271`
 
@@ -306,6 +329,8 @@ Day(s): Tuesday Thursday
 
 Campus: Lakeshore
 
+Notes: This is the lab section for 271-001.
+
 Course Description: :doc:`comp271`
 
 COMP 271-02L: Data Structures
@@ -318,6 +343,8 @@ Time: 7:00 PM - 7:50 PM
 Day(s): Wednesday 
 
 Campus: Lakeshore
+
+Notes: This is the lab section for 271-002.
 
 Course Description: :doc:`comp271`
 
@@ -817,6 +844,21 @@ Campus: Water Tower
 
 Course Description: :doc:`comp417`
 
+COMP 418-1: Combinatorial Mathematics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Aaron Lauve 
+
+Time: 10:25 AM - 11:15 AM
+
+Day(s): Monday Wednesday Friday 
+
+Campus: Lakeshore
+
+Notes: Register for MATH 418-001
+
+Course Description: :doc:`comp418`
+
 COMP 441-1: Human-Computer Interface Design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1181,4 +1223,37 @@ Campus: Water Tower
 
 Course Description: :doc:`comp605`
 
-.. include:: schedules/spring2015csismobile.inc
+.. _csis_courses_list:
+
+CSIS Courses
+~~~~~~~~~~~~~~~~~~
+
+CSIS 794-1: Managing Emerging Technologies
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Serhat Cicekoglu 
+
+Time: 6:00 PM - 9:00 PM
+
+Day(s): Monday 
+
+Campus: Water Tower
+
+Notes: Meeting Dates: 02/19/2015 - 05/09/2015
+
+Course Description: :doc:`csis794`
+
+CSIS 796-1: Data Warehousing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Abishek Sharma 
+
+Time: 6:00 PM - 9:00 PM
+
+Day(s): Monday 
+
+Campus: Water Tower
+
+Notes: Meeting Dates: 02/19/2015 - 05/09/2015
+
+Course Description: :doc:`csis796`

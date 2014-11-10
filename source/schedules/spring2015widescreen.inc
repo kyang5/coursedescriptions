@@ -1,5 +1,5 @@
 Widescreen/Table Format - Spring 2015 - Schedule
-======================================================
+=============================================================
 
 The following courses will (tentatively) be held during the Spring 2015 semester.
 
@@ -60,14 +60,28 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Robert Yacobellis, 10:00 AM - 11:15 AM, TTr, Lakeshore, N/A 
-    2, Andrew N Harrington, 1:00 PM - 2:15 PM, TTr, Lakeshore, N/A 
-    3, Channah Naiman, 4:15 PM - 6:45 PM, T, Lakeshore, N/A 
-    4, George Thiruvathukal, 10:25 AM - 11:15 AM, MWF, Lakeshore, N/A 
-    01L, Robert Yacobellis, 11:30 AM - 11:55 AM, TTr, Lakeshore, N/A 
-    02L, Andrew N Harrington, 12:20 PM - 12:45 PM, TTr, Lakeshore, N/A 
-    03L, Channah Naiman, 7:00 PM - 7:45 PM, T, Lakeshore, N/A 
-    04L, George Thiruvathukal, 11:30 AM - 11:55 AM, MW, Lakeshore, N/A 
+    1, Robert Yacobellis, 10:00 AM - 11:15 AM, TTr, Lakeshore, [#]_ 
+    2, Andrew N Harrington, 1:00 PM - 2:15 PM, TTr, Lakeshore, [#]_ 
+    3, Channah Naiman, 4:15 PM - 6:45 PM, T, Lakeshore, [#]_ 
+    4, George Thiruvathukal, 10:25 AM - 11:15 AM, MWF, Lakeshore, [#]_ 
+    01L, Robert Yacobellis, 11:30 AM - 11:55 AM, TTr, Lakeshore, [#]_ 
+    02L, Andrew N Harrington, 12:20 PM - 12:45 PM, TTr, Lakeshore, [#]_ 
+    03L, Channah Naiman, 7:00 PM - 7:45 PM, T, Lakeshore, [#]_ 
+    04L, George Thiruvathukal, 11:30 AM - 11:55 AM, MW, Lakeshore, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Enrolling in this course will also enroll you in its lab section (01L). Meeting time is effectively 10:00 AM - 11:55 AM.
+.. [#] Enrolling in this course will also enroll you in its lab section (02L). Meeting time is effectively 12:20 PM - 2:15 PM.
+
+.. [#] Enrolling in this course will also enroll you in its lab section (03L). Meeting time is effectively 4:15 PM - 7:45 PM.
+
+.. [#] Enrolling in this course will also enroll you in its lab section (04L). Meeting time is effectively 10:25 AM - 11:55 AM, except on Fridays when it is 10:25 AM - 11:15 AM.
+
+.. [#] This is the lab section for 170-001.
+.. [#] This is the lab section for 170-002.
+.. [#] This is the lab section for 170-003.
+.. [#] This is the lab section for 170-004.
 
 :doc:`comp250`
 ----------------
@@ -104,10 +118,17 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Maria Saenz, 7:00 PM - 8:15 PM, TTr, Lakeshore, N/A 
-    2, Catherine Putonti, 4:15 PM - 6:45 PM, W, Lakeshore, N/A 
-    01L, Maria Saenz, 8:30 PM - 8:55 PM, TTr, Lakeshore, N/A 
-    02L, Catherine Putonti, 7:00 PM - 7:50 PM, W, Lakeshore, N/A 
+    1, Maria Saenz, 7:00 PM - 8:15 PM, TTr, Lakeshore, [#]_ 
+    2, Catherine Putonti, 4:15 PM - 6:45 PM, W, Lakeshore, [#]_ 
+    01L, Maria Saenz, 8:30 PM - 8:55 PM, TTr, Lakeshore, [#]_ 
+    02L, Catherine Putonti, 7:00 PM - 7:50 PM, W, Lakeshore, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Enrolling in this course will also enroll you in its lab section (01L). Meeting time is effectively 7:00 PM - 8:55 PM.
+.. [#] Enrolling in this course will also enroll you in its lab section (02L). Meeting time is effectively 4:15 PM - 7:50 PM.
+.. [#] This is the lab section for 271-001.
+.. [#] This is the lab section for 271-002.
 
 :doc:`comp300`
 ----------------
@@ -317,6 +338,19 @@ Graduate Courses
 
     1, Peter L Dordal, 4:15 PM - 6:45 PM, Tr, Water Tower, N/A 
 
+:doc:`comp418`
+----------------
+
+.. csv-table::
+    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+    :widths: 10, 175, 75, 30, 50, 50
+
+    1, Aaron Lauve, 10:25 AM - 11:15 AM, MWF, Lakeshore, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Register for MATH 418-001
+
 :doc:`comp441`
 ----------------
 
@@ -449,4 +483,33 @@ Graduate Courses
 
     1, Andrew N Harrington, TBD, TBD, Water Tower, N/A 
 
-.. include:: schedules/spring2015csiswidescreen.inc
+.. _csis_courses_table:
+
+CSIS Courses
+~~~~~~~~~~~~~~~~~~
+
+:doc:`csis794`
+----------------
+
+.. csv-table::
+    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+    :widths: 10, 175, 75, 30, 50, 50
+
+    1, Serhat Cicekoglu, 6:00 PM - 9:00 PM, M, Water Tower, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Meeting Dates: 02/19/2015 - 05/09/2015
+
+:doc:`csis796`
+----------------
+
+.. csv-table::
+    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+    :widths: 10, 175, 75, 30, 50, 50
+
+    1, Abishek Sharma, 6:00 PM - 9:00 PM, M, Water Tower, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Meeting Dates: 02/19/2015 - 05/09/2015
