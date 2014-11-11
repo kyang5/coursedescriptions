@@ -17,7 +17,15 @@ requiring you to get experience with a broad range of core
 computer science concepts.  It is our only program with a :ref:`thesis_option`.  
 Students from this program are the ones most likely to go on to a PhD program.
 
-Computer Science is a broad and moving target. 
+
+:doc:`masters_prereqs` are required for all programs.
+
+Undergraduates presently in our department with strong background are urged to 
+consider overlapping one of these programs with their undergraduate work 
+via the  
+:doc:`bsmsprograms`.
+
+**Electives:** Computer Science is a broad and moving target. 
 The full range of electives common to all programs is very helpful 
 in providing breadth and flexibility. 
 Only 3-5 courses out of 10 are specified or limited by the individual program. 
@@ -29,8 +37,13 @@ A separate interdisciplinary program, partnered with Computer Science, is
 the :doc:`madh`.
 
 **Administrative and admissions information** for the graduate program is in a
-separate document,
-http://gradhandbook.cs.luc.edu/.
+separate graduate handbook, with formats 
+`html <http://gradhandbook.cs.luc.edu/>`_ and 
+`pdf <http://gradhandbook.cs.luc.edu/latex/LoyolaComputerScienceGradHandbook.pdf>`_.
+In particular note the Graduate Handbook sections for 
+
+* `Prospective students <http://gradhandbook.cs.luc.edu/html/prospective_students.html>`_ 
+* `Teaching assistantships and financial aid <http://gradhandbook.cs.luc.edu/html/assistantships.html>`_
 
 .. index:: time for program
 
