@@ -33,8 +33,8 @@ The overlap also means that it is generally fairly easy to switch programs
 if your interest is particularly stimulated by an elective more strongly 
 associated with another program.
 
-A separate interdisciplinary program, partnered with Computer Science, is
-the :doc:`madh`.
+The :doc:`madh`
+is a separate interdisciplinary program, partnered with Computer Science.
 
 **Administrative and admissions information** for the graduate program is in a
 separate graduate handbook, with formats 
