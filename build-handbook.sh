@@ -2,5 +2,5 @@
 
 make clean
 make html
-make latexpdf
+make LATEXOPTS=' -interaction=batchmode ' latexpdf
 make epub
