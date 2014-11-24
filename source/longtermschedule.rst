@@ -109,7 +109,7 @@ Category IIb: every spring semester
 
 :doc:`comp388` / :doc:`comp460`
 
-:doc:`comp388` / :doc:`comp477`
+:doc:`comp377` / :doc:`comp477`
 
 :doc:`comp388` / :doc:`comp488` : Advanced Experimental Computing (starting TBD)
 
