@@ -30,6 +30,7 @@ This course is used to introduce emerging topics in computer science that do not
 -  System Standards and Requirements
 -  Topics in Algorithms
 -  Web Services Programming
+-  Introduction to Digital Humanites Design and Programming
 
 Outcome
 ----------
@@ -43,6 +44,7 @@ Syllabi
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 60, 15, 25, 60
 
+        "Introduction to Digital Humanites Design and Programming", "Spring 2015", "Nicholas Hayward", "https://drive.google.com/file/d/0Bz_4VraMwHUoaEdueV9HeXllWkE/view?usp=sharing"
 	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
 	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
 	"Human-Computer Interface Design", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
