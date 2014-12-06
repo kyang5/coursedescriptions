@@ -445,6 +445,7 @@ Graduate Courses
     3, Computer Forensics, Thomas Yarrish, 7:00 PM - 9:30 PM, W, Water Tower, N/A 
     7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
     9, Computational Neuroscience, Mark Albert, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
+    10, Introduction to Digital Humanites Design and Programming, Nicholas Hayward, 4:15 PM - 6:45 PM, W, Water Tower, N/A
 
 :doc:`comp490`
 ----------------

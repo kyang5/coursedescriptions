@@ -1054,6 +1054,19 @@ Campus: Lakeshore
 
 Course Description: :doc:`comp488`
 
+COMP 488-10: Introduction to Digital Humanites Design and Programming
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Nicholas Hayward
+
+Time: 4:15 PM - 6:45 PM
+
+Day(s): Wednesday
+
+Campus: Water Tower
+
+Course Description: :doc:`comp488`
+
 COMP 490-1: Independent Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
