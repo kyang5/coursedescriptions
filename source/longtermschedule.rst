@@ -33,7 +33,7 @@ Category I: every fall and spring semester
 
 :doc:`comp313`
 
-:doc:`comp317`
+:doc:`comp317` (online)
 
 :doc:`comp388fcs1` *(graduate only)*
 
@@ -50,6 +50,8 @@ Category IIa: every fall semester
 
 :doc:`comp314-315`
 
+:doc:`comp333` / :doc:`comp488` :  Formal Methods in Software Engineering (starting fall 2016)
+
 :doc:`comp336` / :doc:`comp436`
 
 :doc:`comp339` / :doc:`comp439` (online)
@@ -59,8 +61,6 @@ Category IIa: every fall semester
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
 
 :doc:`comp363`
-
-:doc:`comp370` / :doc:`comp488` : Software Quality and Testing
 
 :doc:`comp374` / :doc:`comp410`
 
@@ -89,9 +89,9 @@ Category IIb: every spring semester
 
 :doc:`comp305` / :doc:`comp488` : Database Administration
 
-:doc:`comp312` / :doc:`comp412` (online)
+:doc:`comp312` / :doc:`comp412`
 
-:doc:`comp330` / :doc:`comp474`
+:doc:`comp330`
 
 :doc:`comp340` / :doc:`comp488` : Computer Forensics
 
@@ -113,6 +113,7 @@ Category IIb: every spring semester
 
 :doc:`comp388` / :doc:`comp488` : Advanced Experimental Computing (starting TBD)
 
+:doc:`comp474`
 
 
 HONR 204H: Science and Society
@@ -138,7 +139,9 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 Category IVb: every odd fall semester (fall 15, fall 17, …)
 ------------------------------------------------------------
 
-:doc:`comp320` / :doc:`comp420`
+:doc:`comp320` / :doc:`comp420` (starting fall 2015)
+
+:doc:`comp338` / :doc:`comp442`
 
 :doc:`comp364` / :doc:`comp464`
 
@@ -149,7 +152,7 @@ Category IVc: every even spring semester (spring 16, spring 18, …)
 
 :doc:`comp383` / :doc:`comp488` : Computational Biology
 
-:doc:`comp388` / :doc:`comp433` (also fall 14)
+:doc:`comp388` / :doc:`comp488` : Robotics Software Development
 
 .. _category_four_d:
 
@@ -158,7 +161,9 @@ Category IVd: every even fall semester (fall 14, fall 16, …)
 
 :doc:`comp370` / :doc:`comp488` : Software Quality and Testing
 
-:doc:`comp388` / :doc:`comp488` : Computational Neuroscience (starting fall 16)
+:doc:`comp346` / :doc:`comp446`
+
+:doc:`comp388` / :doc:`comp433`
 
 .. _category_four_e:
 
