@@ -10,6 +10,6 @@ Status
 About
 ==================
 
-Course Descriptions for CS Department ant Loyola University Chicago
+Course Descriptions for the CS Department of Loyola University Chicago.
 
 
