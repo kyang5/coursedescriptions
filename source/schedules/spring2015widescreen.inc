@@ -50,7 +50,6 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Curtis D Tuckey, 7:00 PM - 8:15 PM, MW, Lakeshore, N/A 
     2, Curtis D Tuckey, 4:15 PM - 5:30 PM, MW, Lakeshore, N/A 
 
 :doc:`comp170`
@@ -173,7 +172,11 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Matthew Paul Butcher, TBD, TBD, Online, N/A 
+    1, Matthew Paul Butcher, TBD, TBD, Online, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] This is an online class.  All lectures will be pre-recorded. Students are asked to attend smaller-group online interactive discussions at regular intervals during the semester, with possible times chosen to fit different groups' schedules.
 
 :doc:`comp330`
 ----------------
@@ -260,7 +263,6 @@ Undergraduate Courses
     3, IT Project Management, Conrad Weisert, 4:15 PM - 6:45 PM, F, Water Tower, N/A 
     4, Foundations of Comp Sci I, Andrew N Harrington, See Note, See Note, Water Tower, [#]_ 
     5, Foundations of Comp Sci II, Peter L Dordal, See Note, See Note, Water Tower, [#]_ 
-    7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
     8, Research Methods in Comp Sci, Mark Albert, TBD, TBD, Online, N/A 
     9, Computational Neuroscience, Mark Albert, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
 
@@ -443,9 +445,8 @@ Graduate Courses
     1, Data Warehousing and Data Mining, Channah Naiman, 4:15 PM - 6:45 PM, W, Water Tower, N/A 
     2, Database Administration, Peter L Dordal, 4:15 PM - 6:45 PM, T, Water Tower, N/A 
     3, Computer Forensics, Thomas Yarrish, 7:00 PM - 9:30 PM, W, Water Tower, N/A 
-    7, Advanced Bioinformatics Research, Catherine Putonti, TBD, TBD, Online, N/A 
     9, Computational Neuroscience, Mark Albert, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
-    10, Introduction to Digital Humanites Design and Programming, Nicholas Hayward, 4:15 PM - 6:45 PM, W, Water Tower, N/A
+    10, Introduction to Digital Humanites Design and Programming, Nicholas Hayward, 4:15 PM - 6:45 PM, W, Water Tower, N/A 
 
 :doc:`comp490`
 ----------------

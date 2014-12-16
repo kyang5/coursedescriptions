@@ -87,19 +87,6 @@ Campus: Lakeshore
 
 Course Description: :doc:`comp150`
 
-COMP 163-1: Discrete Structures
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Curtis D Tuckey 
-
-Time: 7:00 PM - 8:15 PM
-
-Day(s): Monday Wednesday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp163`
-
 COMP 163-2: Discrete Structures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -411,6 +398,8 @@ Day(s): TBD
 
 Campus: Online
 
+Notes: This is an online class.  All lectures will be pre-recorded. Students are asked to attend smaller-group online interactive discussions at regular intervals during the semester, with possible times chosen to fit different groups' schedules.
+
 Course Description: :doc:`comp317`
 
 COMP 330-1: Software Engineering
@@ -602,19 +591,6 @@ Day(s): See Note
 Campus: Water Tower
 
 Notes: Time and Days: Eight weeks after vacation, including two meetings in finals week. Mondays 5:30-9:30PM March 9 through April 27, Wednesdays 4:30-6:45PM March 11 through April 29, excluding Easter Break: April 1.
-
-Course Description: :doc:`comp388`
-
-COMP 388-7: Advanced Bioinformatics Research
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Catherine Putonti 
-
-Time: TBD
-
-Day(s): TBD 
-
-Campus: Online
 
 Course Description: :doc:`comp388`
 
@@ -1028,19 +1004,6 @@ Campus: Water Tower
 
 Course Description: :doc:`comp488`
 
-COMP 488-7: Advanced Bioinformatics Research
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Catherine Putonti 
-
-Time: TBD
-
-Day(s): TBD 
-
-Campus: Online
-
-Course Description: :doc:`comp488`
-
 COMP 488-9: Computational Neuroscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1055,13 +1018,13 @@ Campus: Lakeshore
 Course Description: :doc:`comp488`
 
 COMP 488-10: Introduction to Digital Humanites Design and Programming
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Nicholas Hayward
+Instructor: Nicholas Hayward 
 
 Time: 4:15 PM - 6:45 PM
 
-Day(s): Wednesday
+Day(s): Wednesday 
 
 Campus: Water Tower
 
