@@ -590,7 +590,7 @@ Day(s): See Note
 
 Campus: Water Tower
 
-Notes: Time and Days: Eight weeks after vacation, including two meetings in finals week. Mondays 5:30-9:30PM March 9 through April 27, Wednesdays 4:30-6:45PM March 11 through April 29, excluding Easter Break: April 1.
+Notes: Time and Days: Eight weeks after vacation, including two meetings in finals week. Mondays 5:30-9:30PM March 9 through April 27, Wednesdays 4:30-6:45PM March 11 through April 29.
 
 Course Description: :doc:`comp388`
 
