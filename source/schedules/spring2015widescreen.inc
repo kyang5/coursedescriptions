@@ -270,7 +270,7 @@ Undergraduate Courses
 
 .. [#] prerequisite: COMP 363
 .. [#] Time and Days: Seven weeks from start of semester, ending before vacation week. Classes 5:30-9:30PM all Mondays except MLK Day, plus two Fridays labeled in this list: January 12, 16 (Friday), 23 (Friday), 26, February 2, 9, 16, 23; labs each of those weeks on Wednesday, 4:30-6:45PM, Jan 14 - Feb 25. 
-.. [#] Time and Days: Eight weeks after vacation, including two meetings in finals week. Mondays 5:30-9:30PM March 9 through April 27, Wednesdays 4:30-6:45PM March 11 through April 29, excluding Easter Break: April 1.
+.. [#] Time and Days: Eight weeks after vacation, including two meetings in finals week. Mondays 5:30-9:30PM March 9 through April 27, Wednesdays 4:30-6:45PM March 11 through April 29.
 
 :doc:`comp391`
 ----------------
