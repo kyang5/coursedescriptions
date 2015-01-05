@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 7.1, 28 Oct 2014
+Version 2015.1, 2 Jan 2015
 
 .. _category_one:
 
@@ -17,7 +17,7 @@ Category I: every fall and spring semester
 
 :doc:`comp150` (3)
 
-:doc:`comp163` (2-3)
+:doc:`comp163` (1-3)
 
 :doc:`comp170` (3-4)
 
@@ -31,6 +31,8 @@ Category I: every fall and spring semester
 
 :doc:`comp271` (2)
 
+:doc:`comp312` / :doc:`comp412` (fall: online, spring: on-campus)
+
 :doc:`comp313`
 
 :doc:`comp317` (online)
@@ -41,20 +43,20 @@ Category I: every fall and spring semester
 
 :doc:`comp413`
 
-:doc:`comp417` (fall: on-site, spring: online)
+:doc:`comp417` (fall: on-campus, spring: online)
 
 .. _category_two_a:
 
 Category IIa: every fall semester
 ----------------------------------
 
+:doc:`comp111`  (starting fall 2015)
+
 :doc:`comp314-315`
 
 :doc:`comp333` / :doc:`comp488` :  Formal Methods in Software Engineering (starting fall 2016)
 
 :doc:`comp336` / :doc:`comp436`
-
-:doc:`comp339` / :doc:`comp439` (online)
 
 :doc:`comp343` / :doc:`comp443` (on-campus and online)
 
@@ -70,28 +72,30 @@ Category IIa: every fall semester
 
 :doc:`comp388` / :doc:`comp424`
 
+:doc:`comp388` / :doc:`comp433` (starting fall 2015)
+
 :doc:`comp388` / :doc:`comp488` : Rapid Application Development Methodology (.NET)
 
 :doc:`comp388` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
-COMP 388-0XE / :doc:`comp488` : Advanced Experimental Computing and Entrepreneurship Topics (starting TBD)
+:doc:`comp388` / :doc:`comp488` : Metagenomics
 
-COMP 390-0XE: Broadening Participation in STEM (Science, Technology, Engineering & Math)
+:doc:`comp390`: Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
-:doc:`comp453`
+:doc:`comp453` (on-campus and online)
 
 .. _category_two_b:
 
 Category IIb: every spring semester
 ------------------------------------
 
-:doc:`comp300` / :doc:`comp488` : Data Warehousing and Data Mining 
+:doc:`comp300` / :doc:`comp488` : Data Warehousing and Data Mining (on-campus and online)
 
 :doc:`comp305` / :doc:`comp488` : Database Administration
 
-:doc:`comp312` / :doc:`comp412`
-
 :doc:`comp330`
+
+:doc:`comp339` / :doc:`comp439` (starting spring 2016)
 
 :doc:`comp340` / :doc:`comp488` : Computer Forensics
 
@@ -101,8 +105,6 @@ Category IIb: every spring semester
 
 :doc:`comp372` / :doc:`comp471`
 
-:doc:`comp373` / :doc:`comp473`
-
 :doc:`comp378` / :doc:`comp484`
 
 :doc:`comp388` / :doc:`comp441`
@@ -111,7 +113,7 @@ Category IIb: every spring semester
 
 :doc:`comp377` / :doc:`comp477`
 
-:doc:`comp388` / :doc:`comp488` : Advanced Experimental Computing (starting TBD)
+:doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
 
 :doc:`comp474`
 
@@ -132,6 +134,8 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp366` / :doc:`comp450`
 
+:doc:`comp373` / :doc:`comp473` (starting spring 2015)
+
 :doc:`comp388` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
@@ -141,14 +145,14 @@ Category IVb: every odd fall semester (fall 15, fall 17, …)
 
 :doc:`comp320` / :doc:`comp420` (starting fall 2015)
 
-:doc:`comp338` / :doc:`comp442`
-
 :doc:`comp364` / :doc:`comp464`
 
 .. _category_four_c:
 
 Category IVc: every even spring semester (spring 16, spring 18, …)
 -------------------------------------------------------------------
+
+:doc:`comp338` / :doc:`comp442` (starting spring 2016)
 
 :doc:`comp383` / :doc:`comp488` : Computational Biology
 
@@ -162,8 +166,6 @@ Category IVd: every even fall semester (fall 14, fall 16, …)
 :doc:`comp370` / :doc:`comp488` : Software Quality and Testing
 
 :doc:`comp346` / :doc:`comp446`
-
-:doc:`comp388` / :doc:`comp433`
 
 .. _category_four_e:
 
@@ -182,7 +184,7 @@ Category IVe: summer
 
 :doc:`comp346` / :doc:`comp446` (odd summers)
 
-:doc:`comp349` / :doc:`comp449` (on-site and/or online) 
+:doc:`comp349` / :doc:`comp449` (on-campus and/or online) 
 
 :doc:`comp351` / :doc:`comp451` (even summers)
 
