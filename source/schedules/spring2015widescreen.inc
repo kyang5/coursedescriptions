@@ -41,7 +41,7 @@ Undergraduate Courses
 
     1, Zachary Romer, 2:30 PM - 3:45 PM, TTr, Lakeshore, N/A 
     2, Zachary Romer, 11:30 AM - 12:45 PM, TTr, Lakeshore, N/A 
-    3, TBD, 12:10 PM - 1:25 PM, MW, Lakeshore, N/A 
+    3, Curtis D Tuckey, 12:10 PM - 1:25 PM, MW, Lakeshore, N/A 
 
 :doc:`comp163`
 ----------------

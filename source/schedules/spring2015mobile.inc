@@ -77,7 +77,7 @@ Course Description: :doc:`comp150`
 COMP 150-3: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: TBD 
+Instructor: Curtis D Tuckey 
 
 Time: 12:10 PM - 1:25 PM
 
