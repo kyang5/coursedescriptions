@@ -8,6 +8,7 @@ Note: While we update these pages regularly, please check `LOCUS <http://www.luc
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
 * Fall Semester
+     * :doc:`fallwidescreen`
      * :doc:`fallmobile`
 
 * Spring Semester
