@@ -318,6 +318,9 @@ Undergraduate Courses
 
    001, Mark Albert, 12:35:00 PM - 1:25:00 PM, F, LSC, N/A
 
+Graduate Courses
+~~~~~~~~~~~~~~~~
+
 :doc:`comp410`
 --------------------------
 
