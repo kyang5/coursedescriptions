@@ -16,6 +16,7 @@ QuickLinks
 * :ref:`undergraduate_courses_table`
 * :ref:`graduate_courses_table`
 * :ref:`csis_courses_table`
+
 .. _undergraduate_courses_table:
 
 Undergraduate Courses
@@ -147,11 +148,13 @@ Undergraduate Courses
 :doc:`comp314`
 --------------------------
 
+.. _Programming Team: http://anh.cs.luc.edu/314-315/prog-team.html
+
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Andrew N Harrington, 3:00:00 PM - 4:00:00 PM, M, WTC, N/A
+  001, Andrew N Harrington, TBD, M, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See also the `Programming Team`_.
 
 :doc:`comp315`
 --------------------------
@@ -160,7 +163,7 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Andrew N Harrington, 3:00:00 PM - 4:00:00 PM, M, WTC, N/A
+  001, Andrew N Harrington, TBD, M, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See also the `Programming Team`_.
 
 :doc:`comp317`
 --------------------------
@@ -252,8 +255,8 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001,  Louis (new BIOI hire) Pasteur, 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
-   002,  Louis (new BIOI hire) Pasteur, 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
+   001,  Louis Pasteur (new BIOI hire), 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
+   002,  Louis Pasteur (new BIOI hire), 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
 
 :doc:`comp388`
 --------------------------
@@ -262,16 +265,16 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, N/A
-   002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, N/A
-   003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, N/A
-   004, Andrew N Harrington, 4:15:00 PM - 8:15:00 PM, M, WTC, N/A
-   004, Andrew N Harrington, 4:15:00 PM - 6:45:00 PM, W, WTC, N/A
-   005, Peter L Dordal, 4:15:00 PM - 8:15:00 PM, M, WTC, N/A
-   005, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, W, WTC, N/A
-   422, Robin (CS hire) Milner, 2:45:00 PM - 5:15:00 PM, F, LSC, N/A
-   424, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, N/A
-   433, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, N/A
+   001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, RAD.net
+   002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, Machine Learning
+   003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
+   004, Andrew N Harrington, 4:15:00 PM - 8:15:00 PM, M, WTC, Foundations of CS I
+   004, Andrew N Harrington, 4:15:00 PM - 6:45:00 PM, W, WTC, Foundations of CS I
+   005, Peter L Dordal, 4:15:00 PM - 8:15:00 PM, M, WTC, Foundations of CS II
+   005, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, W, WTC, Foundations of CS II
+   422, Robin Milner (CS hire), 2:45:00 PM - 5:15:00 PM, F, LSC, Software Development for Wireless/Mobile Devices
+   424, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, Client-Side Web Design
+   433, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, Web Services Programming
 
 :doc:`comp390`
 --------------------------
@@ -457,11 +460,11 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, N/A
-   002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, N/A
-   003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, N/A
-   381,  Louis (new BIOI hire) Pasteur, 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
-   382,  Louis (new BIOI hire) Pasteur, 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
+   001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, RAD.NET
+   002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, Machine Learning
+   003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
+   381, Louis Pasteur (new BIOI hire), 4:15:00 PM - 5:30:00 PM, TTr, LSC, Bioinformatics
+   382, Louis Pasteur (new BIOI hire), 4:15:00 PM - 6:45:00 PM, W, LSC, Bioinformatics
 
 :doc:`comp490`
 --------------------------
