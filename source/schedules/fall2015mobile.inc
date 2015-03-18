@@ -14,9 +14,11 @@ Note: While we update this page regularly, please check
 QuickLinks
 ~~~~~~~~~~
 
+* :doc:`fallwidescreen`
 * :ref:`undergraduate_courses_list`
 * :ref:`graduate_courses_list`
 * :ref:`csis_courses_list`
+
 .. _undergraduate_courses_list:
 
 Undergraduate Courses
@@ -319,25 +321,25 @@ Schedule: 2:45:00 PM - 5:15:00 PM (W)
 
 Course Description: :doc:`comp313`
 
-COMP314-001: Problem Solving Strategies I
+COMP314-001: Problem Solving Seminar I
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructor: Andrew N Harrington
 
 Location: WTC
 
-Schedule: 3:00:00 PM - 4:00:00 PM (M) 
+Schedule: TBD
 
 Course Description: :doc:`comp314`
 
-COMP315-001: Problem Solving Strategies II
+COMP315-001: Problem Solving Seminar II
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructor: Andrew N Harrington
 
 Location: WTC
 
-Schedule: 3:00:00 PM - 4:00:00 PM (M) 
+Schedule: TBD
 
 Course Description: :doc:`comp315`
 
