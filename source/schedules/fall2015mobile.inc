@@ -19,8 +19,8 @@ QuickLinks
 * :ref:`csis_courses_list`
 .. _undergraduate_courses_list:
 
-Courses
-~~~~~~~
+Undergraduate Courses
+~~~~~~~~~~~~~~~~~~~~~
 
 COMP111-01W: History of Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -736,6 +736,9 @@ Location: LSC
 Schedule: 12:35:00 PM - 1:25:00 PM (F) 
 
 Course Description: :doc:`comp399`
+
+Graduate Courses
+~~~~~~~~~~~~~~~~
 
 COMP410-001: Operating Systems
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
