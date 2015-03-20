@@ -15,11 +15,11 @@ QuickLinks
 ~~~~~~~~~~
 
 * :doc:`fallwidescreen`
-* :ref:`undergraduate_courses_list`
-* :ref:`graduate_courses_list`
-* :ref:`csis_courses_list`
+* :ref:`fallm_undergraduate_courses_list`
+* :ref:`fallm_graduate_courses_list`
+* :ref:`fallm_csis_courses_list`
 
-.. _undergraduate_courses_list:
+.. _fallm_undergraduate_courses_list:
 
 Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -330,7 +330,7 @@ Location: WTC
 
 Schedule: TBD
 
-Course Description: :doc:`comp314`
+Course Description: :doc:`comp314-315`
 
 COMP315-001: Problem Solving Seminar II
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -341,7 +341,7 @@ Location: WTC
 
 Schedule: TBD
 
-Course Description: :doc:`comp315`
+Course Description: :doc:`comp314-315`
 
 COMP317-01W: Social, Legal, and Ethical Issues in Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -739,6 +739,8 @@ Schedule: 12:35:00 PM - 1:25:00 PM (F)
 
 Course Description: :doc:`comp399`
 
+.. _fallm_graduate_courses_list:
+
 Graduate Courses
 ~~~~~~~~~~~~~~~~
 
@@ -1094,16 +1096,6 @@ Schedule:  -  ()
 
 Course Description: :doc:`comp490`
 
-CSIS494-001: Data Mining
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Adam (ISOM faculty) Smith
-
-Location: WTC
-
-Schedule: TBD/ISOM - TBD/ISOM (TBD/ISOM) 
-
-Course Description: :doc:`csis494`
 
 COMP499-001: Internship
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -1137,3 +1129,19 @@ Location: WTC
 Schedule:  -  () 
 
 Course Description: :doc:`comp605`
+
+.. _fallm_csis_courses_list:
+
+CSIS Courses
+~~~~~~~~~~~~
+
+CSIS494-001: Data Mining
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructor: Adam Smith (ISOM faculty)
+
+Location: WTC
+
+Schedule: TBD/ISOM - TBD/ISOM (TBD/ISOM) 
+
+Course Description: :doc:`csis494`
