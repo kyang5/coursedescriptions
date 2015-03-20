@@ -13,11 +13,11 @@ QuickLinks
 ~~~~~~~~~~
 
 * :doc:`fallmobile`
-* :ref:`undergraduate_courses_table`
-* :ref:`graduate_courses_table`
-* :ref:`csis_courses_table`
+* :ref:`fallw_undergraduate_courses`
+* :ref:`fallw_graduate_courses`
+* :ref:`fallw_csis_courses`
 
-.. _undergraduate_courses_table:
+.. _fallw_undergraduate_courses:
 
 Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -145,19 +145,10 @@ Undergraduate Courses
 
    001, Konstantin Laufer, 2:45:00 PM - 5:15:00 PM, W, LSC, N/A
 
-:doc:`comp314`
+:doc:`comp314-315`
 --------------------------
 
 .. _Programming Team: http://anh.cs.luc.edu/314-315/prog-team.html
-
-.. csv-table::
-  :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
-
-  001, Andrew N Harrington, TBD, M, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See also the `Programming Team`_.
-
-:doc:`comp315`
---------------------------
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
@@ -320,6 +311,8 @@ Undergraduate Courses
   :widths: 10, 175, 75, 30, 50, 50
 
    001, Mark Albert, 12:35:00 PM - 1:25:00 PM, F, LSC, N/A
+
+.. _fallw_graduate_courses:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~
@@ -484,15 +477,6 @@ Graduate Courses
    009, Chandra N Sekharan,  - , , WTC, N/A
    010, Robert Yacobellis,  - , , WTC, N/A
 
-:doc:`csis494`
---------------------------
-
-.. csv-table::
-  :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
-
-   001, Adam (ISOM faculty) Smith, TBD/ISOM - TBD/ISOM, TBD/ISOM, WTC, N/A
-
 :doc:`comp499`
 --------------------------
 
@@ -511,3 +495,17 @@ Graduate Courses
   :widths: 10, 175, 75, 30, 50, 50
 
    001, Andrew N Harrington,  - , , WTC, N/A
+
+.. _fallw_csis_courses:
+
+CSIS Courses
+~~~~~~~~~~~~
+
+:doc:`csis494`
+--------------------------
+
+.. csv-table::
+  :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+  :widths: 10, 175, 75, 30, 50, 50
+
+   001, Adam (ISOM faculty) Smith, TBD/ISOM - TBD/ISOM, TBD/ISOM, WTC, N/A
