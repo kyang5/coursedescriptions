@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 2015.1, 2 Jan 2015
+Version 2015.2, 2 Apr 2015
 
 .. _category_one:
 
@@ -24,8 +24,6 @@ Category I: every fall and spring semester
 :doc:`comp215` *(offered by Math/Stat Department in fall, CS department in spring)*
 
 :doc:`comp250` *(writing-intensive)* (1-2)
-
-:doc:`comp251`
 
 :doc:`comp264`
 
@@ -50,7 +48,9 @@ Category I: every fall and spring semester
 Category IIa: every fall semester
 ----------------------------------
 
-:doc:`comp111`  (starting fall 2015)
+:doc:`comp111` *(writing-intensive)* (starting fall 2015)
+
+:doc:`comp251`
 
 :doc:`comp314-315`
 
@@ -117,8 +117,7 @@ Category IIb: every spring semester
 
 :doc:`comp474`
 
-
-HONR 204H: Science and Society
+`HONR 204H: Science and Society <http://www.luc.edu/honors/courses.shtml#Science%20and%20Society>`_
 
 .. _category_three:
 
@@ -235,11 +234,11 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 
 :doc:`comp328` / :doc:`comp428` (last offered spring 14)
 
-:doc:`comp331` / :doc:`comp431` (last offered fall 13)
+:doc:`comp331` / :doc:`comp431` (last offered fall 15)
 
 :doc:`comp356` / :doc:`comp421` (last offered fall 13)
 
-:doc:`comp376` / :doc:`comp476` (next offered fall 14)
+:doc:`comp376` / :doc:`comp476` (last offered fall 14)
 
 .. _category_seven:
 
