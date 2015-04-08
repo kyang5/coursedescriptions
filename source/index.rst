@@ -61,6 +61,7 @@ Undergraduate Courses
    comp104
    comp111
    comp120
+   comp122
    comp125
    comp150
    comp163
@@ -117,12 +118,15 @@ Undergraduate Courses
    comp381
    comp382
    comp383
+   comp384 
+   comp386
    comp388
    comp388fcs1
    comp388fcs2
    comp390
    comp391
    comp398
+   comp397
    comp399
    isom349
 
@@ -209,6 +213,7 @@ MS IT Graduate Courses/Quinlan Business School
    csis483
    csis484
    csis494
+   csis496 
    csis794
    csis796
 
