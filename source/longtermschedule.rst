@@ -39,6 +39,8 @@ Category I: every fall and spring semester
 
 :doc:`comp388fcs2` *(graduate only)*
 
+:doc:`comp399`
+
 :doc:`comp413`
 
 :doc:`comp417` (fall: on-campus, spring: online)
@@ -68,6 +70,8 @@ Category IIa: every fall semester
 
 :doc:`comp381` / :doc:`comp488` : Bioinfomatics
 
+:doc:`comp384` / :doc:`comp488` : Metagenomics 
+
 :doc:`comp388` / :doc:`comp422` (starting fall 2015)
 
 :doc:`comp388` / :doc:`comp424`
@@ -78,9 +82,7 @@ Category IIa: every fall semester
 
 :doc:`comp388` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
-:doc:`comp388` / :doc:`comp488` : Metagenomics
-
-:doc:`comp390`: Broadening Participation in STEM (Science, Technology, Engineering & Math)
+:doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
 :doc:`comp453` (on-campus and online)
 
@@ -88,6 +90,8 @@ Category IIa: every fall semester
 
 Category IIb: every spring semester
 ------------------------------------
+
+:doc:`comp122`
 
 :doc:`comp300` / :doc:`comp488` : Data Warehousing and Data Mining (on-campus and online)
 
@@ -105,17 +109,21 @@ Category IIb: every spring semester
 
 :doc:`comp372` / :doc:`comp471`
 
+:doc:`comp377` / :doc:`comp477`
+
 :doc:`comp378` / :doc:`comp484`
 
 :doc:`comp388` / :doc:`comp441`
 
-:doc:`comp388` / :doc:`comp460`
+:doc:`comp397`
 
-:doc:`comp377` / :doc:`comp477`
-
-:doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
+:doc:`comp460`
 
 :doc:`comp474`
+
+:doc:`comp488` : Introduction to Digital Humanities Design & Programming
+
+.. :doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
 
 `HONR 204H: Science and Society <http://www.luc.edu/honors/courses.shtml#Science%20and%20Society>`_
 
@@ -135,7 +143,7 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp373` / :doc:`comp473` (starting spring 2015)
 
-:doc:`comp388` / :doc:`comp488` : Computational Neuroscience
+:doc:`comp386` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
 
