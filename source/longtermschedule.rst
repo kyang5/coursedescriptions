@@ -82,7 +82,7 @@ Category IIa: every fall semester
 
 :doc:`comp388` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
-:doc:`comp390`: Broadening Participation in STEM (Science, Technology, Engineering & Math)
+:doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
 :doc:`comp453` (on-campus and online)
 
@@ -120,6 +120,8 @@ Category IIb: every spring semester
 :doc:`comp460`
 
 :doc:`comp474`
+
+:doc:`comp488` : Introduction to Digital Humanities Design & Programming
 
 .. :doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
 
