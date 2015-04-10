@@ -57,6 +57,8 @@ Schedule: 4:15:00 PM - 6:45:00 PM (T)
 
 Course Description: :doc:`comp125`
 
+Info: *Tentative, may not be offered*
+
 COMP150-001: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -343,7 +345,7 @@ Schedule: TBD
 
 Course Description: :doc:`comp314-315`
 
-COMP317-01W: Social, Legal, and Ethical Issues in Computing
+COMP317-001: Social, Legal, and Ethical Issues in Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructor: Matthew Paul Butcher
