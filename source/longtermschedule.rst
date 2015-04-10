@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 2015.1, 2 Jan 2015
+Version 2015.2, 2 Apr 2015
 
 .. _category_one:
 
@@ -25,8 +25,6 @@ Category I: every fall and spring semester
 
 :doc:`comp250` *(writing-intensive)* (1-2)
 
-:doc:`comp251`
-
 :doc:`comp264`
 
 :doc:`comp271` (2)
@@ -41,6 +39,8 @@ Category I: every fall and spring semester
 
 :doc:`comp388fcs2` *(graduate only)*
 
+:doc:`comp399`
+
 :doc:`comp413`
 
 :doc:`comp417` (fall: on-campus, spring: online)
@@ -50,7 +50,9 @@ Category I: every fall and spring semester
 Category IIa: every fall semester
 ----------------------------------
 
-:doc:`comp111`  (starting fall 2015)
+:doc:`comp111` *(writing-intensive)* (starting fall 2015)
+
+:doc:`comp251`
 
 :doc:`comp314-315`
 
@@ -68,6 +70,8 @@ Category IIa: every fall semester
 
 :doc:`comp381` / :doc:`comp488` : Bioinfomatics
 
+:doc:`comp384` / :doc:`comp488` : Metagenomics 
+
 :doc:`comp388` / :doc:`comp422` (starting fall 2015)
 
 :doc:`comp388` / :doc:`comp424`
@@ -78,9 +82,7 @@ Category IIa: every fall semester
 
 :doc:`comp388` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
-:doc:`comp388` / :doc:`comp488` : Metagenomics
-
-:doc:`comp390`: Broadening Participation in STEM (Science, Technology, Engineering & Math)
+:doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
 :doc:`comp453` (on-campus and online)
 
@@ -88,6 +90,8 @@ Category IIa: every fall semester
 
 Category IIb: every spring semester
 ------------------------------------
+
+:doc:`comp122`
 
 :doc:`comp300` / :doc:`comp488` : Data Warehousing and Data Mining (on-campus and online)
 
@@ -105,20 +109,23 @@ Category IIb: every spring semester
 
 :doc:`comp372` / :doc:`comp471`
 
+:doc:`comp377` / :doc:`comp477`
+
 :doc:`comp378` / :doc:`comp484`
 
 :doc:`comp388` / :doc:`comp441`
 
-:doc:`comp388` / :doc:`comp460`
+:doc:`comp397`
 
-:doc:`comp377` / :doc:`comp477`
-
-:doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
+:doc:`comp460`
 
 :doc:`comp474`
 
+:doc:`comp488` : Introduction to Digital Humanities Design & Programming
 
-HONR 204H: Science and Society
+.. :doc:`comp388` / :doc:`comp488` : Technology and Entrepreneurship Seminar (*engaged learning section*, starting spring 2016) 
+
+`HONR 204H: Science and Society <http://www.luc.edu/honors/courses.shtml#Science%20and%20Society>`_
 
 .. _category_three:
 
@@ -136,7 +143,7 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp373` / :doc:`comp473` (starting spring 2015)
 
-:doc:`comp388` / :doc:`comp488` : Computational Neuroscience
+:doc:`comp386` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
 
@@ -235,11 +242,11 @@ Category VI: Courses offered by the Department of Mathematics and Statistics
 
 :doc:`comp328` / :doc:`comp428` (last offered spring 14)
 
-:doc:`comp331` / :doc:`comp431` (last offered fall 13)
+:doc:`comp331` / :doc:`comp431` (last offered fall 15)
 
 :doc:`comp356` / :doc:`comp421` (last offered fall 13)
 
-:doc:`comp376` / :doc:`comp476` (next offered fall 14)
+:doc:`comp376` / :doc:`comp476` (last offered fall 14)
 
 .. _category_seven:
 
