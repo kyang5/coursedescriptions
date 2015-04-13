@@ -39,7 +39,7 @@ Undergraduate Courses
   :widths: 10, 175, 75, 30, 50, 50
 
    001, Channah Naiman, 1:00:00 PM - 2:15:00 PM, TTr, LSC, N/A
-   002, Channah Naiman, 4:15:00 PM - 6:45:00 PM, T, LSC, N/A
+   002, Channah Naiman, 4:15:00 PM - 6:45:00 PM, T, LSC, Tentative: May not be offered
 
 :doc:`comp150`
 --------------------------
@@ -163,7 +163,7 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   01W, Matthew Paul Butcher, 7:00:00 PM - 9:30:00 PM, T, LSC, N/A
+   001, Matthew Paul Butcher, 7:00:00 PM - 9:30:00 PM, T, LSC, N/A
 
 :doc:`comp320`
 --------------------------
