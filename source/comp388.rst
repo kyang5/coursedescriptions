@@ -36,7 +36,6 @@ Outcome
 
 Understand an emerging area of Computer Science.
 
-
 Syllabi
 ----------------------
 
@@ -52,3 +51,6 @@ Syllabi
 	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
 	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
 	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
+  "Foundations of Computer Science I", "Fall 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
+  "Foundations of Computer Science II", "Fall 2015", "Peter L. Dordal", "http://anh.cs.luc.edu/388Intro"
+
