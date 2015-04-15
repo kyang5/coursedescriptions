@@ -45,6 +45,7 @@ Undergraduate Degree Programs
    bsit
    bsse
    bsmsprograms
+   minorit
    minorcs
    minorccf
 
