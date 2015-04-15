@@ -504,6 +504,6 @@ CSIS Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, Adam (ISOM faculty) Smith, TBD/ISOM - TBD/ISOM, TBD/ISOM, WTC, N/A
+   001, Adam (ISOM faculty) Smith, TBD/ISOM - TBD/ISOM, TBD/ISOM, WTC, Any CSIS courses will not open for our students until at least after August 2 and possibly never if the course fills with Business School students first and stays full.
