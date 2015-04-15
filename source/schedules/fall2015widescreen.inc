@@ -132,9 +132,9 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   01E, George Thiruvathukal,  - , , ONLN, N/A
+   01E, George Thiruvathukal,  - , , ONLN, This is an online class that includes synchronous and asynchronous interaction among students and Instructor. All sessions will be recorded. Specific synchronous meetings will be scheduled in consultation with students
 
 :doc:`comp313`
 --------------------------
@@ -152,7 +152,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
   001, Andrew N Harrington, TBD, M, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See also the `Programming Team`_.
 
@@ -197,9 +197,9 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, N/A
+   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
    002, Peter L Dordal,  - , , ONLN, N/A
 
 :doc:`comp347`
@@ -207,9 +207,9 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, N/A
+   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
    002, Corby Schmitz,  - , , ONLN, N/A
 
 :doc:`comp363`
@@ -254,15 +254,13 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
    001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, RAD.net
    002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, Machine Learning
    003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
-   004, Andrew N Harrington, 4:15:00 PM - 8:15:00 PM, M, WTC, Foundations of CS I
-   004, Andrew N Harrington, 4:15:00 PM - 6:45:00 PM, W, WTC, Foundations of CS I
-   005, Peter L Dordal, 4:15:00 PM - 8:15:00 PM, M, WTC, Foundations of CS II
-   005, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, W, WTC, Foundations of CS II
+   004, Andrew N Harrington, See Note, M/W, WTC, Foundations of CS I - Meets for the first 8 weeks Mondays 4:15-8:15PM replacing holidays with Fridays 4:15-8:15PM. It also meets 8 consecutive Wednesdays Aug 26-Oct 14 (4:15-6:30PM).  
+   005, Peter L Dordal, See Note, M/W, WTC, Foundations of CS II - Meets Mondays for the last 8 weeks of the semester Oct 19-Dec 7 (4:15-8:15PM) and also Wednesdays Oct 21 - Dec 9 (4:15-6:30PM) excluding Weds Nov 25 during Thanksgiving vacation.
    422, Robin Milner (CS hire), 2:45:00 PM - 5:15:00 PM, F, LSC, Software Development for Wireless/Mobile Devices
    424, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, Client-Side Web Design
    433, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, Web Services Programming
@@ -331,9 +329,9 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, George Thiruvathukal,  - , , ONLN, N/A
+   001, George Thiruvathukal,  - , , ONLN, This is an online class that includes synchronous and asynchronous interaction among students and Instructor. All sessions will be recorded. Specific synchronous meetings will be scheduled in consultation with students
 
 :doc:`comp413`
 --------------------------
@@ -412,9 +410,9 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, N/A
+   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
    002, Peter L Dordal,  - , , ONLN, N/A
 
 :doc:`comp447`
@@ -422,9 +420,9 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
-   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, N/A
+   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
    002, Corby Schmitz,  - , , ONLN, N/A
 
 :doc:`comp453`
