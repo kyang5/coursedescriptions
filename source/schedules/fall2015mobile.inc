@@ -312,6 +312,10 @@ Schedule:  -  ()
 
 Course Description: :doc:`comp312`
 
+Note: This is an online class that includes synchronous and asynchronous
+interaction among students and Instructor.   All sessions will be recorded.
+Specific synchronous meetings will be scheduled in consultation with students
+
 COMP313-001: Intermediate Object-Oriented Development
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -400,6 +404,11 @@ Schedule: 4:15:00 PM - 6:45:00 PM (T)
 
 Course Description: :doc:`comp343`
 
+Note: This is an online class that includes 
+synchronous and asynchronous interaction 
+among students and instructor. Participation
+in synchronous sessions is strongly recommended.
+
 COMP343-002: Intro to Computer Networks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -421,6 +430,11 @@ Location: WTC
 Schedule: 5:45:00 PM - 8:15:00 PM (F) 
 
 Course Description: :doc:`comp347`
+
+Note: This is an online class. The classroom session will be broadcast live on
+Friday evenings via AdobeConnect allowing online student interaction.  Sessions
+will also be recorded and made available. Students may participate
+synchronously or asynchronously at their discretion.
 
 COMP347-002: Intrusion Detection and Computer Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -532,16 +546,10 @@ Schedule: 4:15:00 PM - 8:15:00 PM (M)
 
 Course Description: :doc:`comp388`
 
-COMP388-004: Foundations of CS 1
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Andrew N Harrington
-
-Location: WTC
-
-Schedule: 4:15:00 PM - 6:45:00 PM (W) 
-
-Course Description: :doc:`comp388`
+Note: This course meets for the first 8 weeks, 
+Mondays 4:15-8:15PM, replacing holiday/vacation
+Mondays with Fridays 4:15-8:15PM. It also meets 
+8 consecutive Wednesdays, 4:15-6:30PM, Aug 26 - Oct 14.  
 
 COMP388-005: Foundations of CS 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -554,16 +562,10 @@ Schedule: 4:15:00 PM - 8:15:00 PM (M)
 
 Course Description: :doc:`comp388`
 
-COMP388-005: Foundations of CS 2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Peter L Dordal
-
-Location: WTC
-
-Schedule: 4:15:00 PM - 6:45:00 PM (W) 
-
-Course Description: :doc:`comp388`
+Note: Comp 388-5 meets Mondays for the last 8 
+weeks of the semester, Oct 19 - Dec 7 4:15-8:15PM
+and also Wednesdays 4:15-6:30PM, Oct 21 - Dec 9, 
+excluding Weds Nov 25, during Thanksgiving vacation.
 
 COMP388-422: Software Development for Wireless/Mobile Devices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -867,6 +869,11 @@ Schedule: 4:15:00 PM - 6:45:00 PM (T)
 
 Course Description: :doc:`comp443`
 
+Info: This is an online class that includes
+synchronous and asynchronous interaction
+among students and instructor. Participation
+in synchronous sessions is strongly recommended.
+
 COMP443-002: Computer Networks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -888,6 +895,11 @@ Location: WTC
 Schedule: 5:45:00 PM - 8:15:00 PM (F) 
 
 Course Description: :doc:`comp447`
+
+Note: This is an online class. The classroom session will be broadcast live on
+Friday evenings via AdobeConnect allowing online student interaction.  Sessions
+will also be recorded and made available. Students may participate
+synchronously or asynchronously at their discretion.
 
 COMP447-002: Intrusion Detection and Computer Forensics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
