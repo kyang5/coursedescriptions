@@ -26,9 +26,30 @@ Schedules
 .. toctree::
    :maxdepth: 1
 
-   currentschedule
+   fallwidescreen
+   fallmobile
+   summer
+   springwidescreen
+   springmobile
+   
+If you wish to look forward further, see 
+
+.. toctree::
+   :maxdepth: 1
+   
    longtermschedule
 
+Or look further back:
+
+.. toctree::
+   :maxdepth: 1
+   
+   schedulearchive
+
+Tutoring
+   
+* http://luc.edu/cs/schedules/tutoringhours/
+   
 .. _undergraduate-degree-programs:
 
 Undergraduate Degree Programs

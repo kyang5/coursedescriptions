@@ -1,4 +1,4 @@
-Widescreen/Table Format - Fall 2015 - Schedule
+Fall 2015 Schedule (Widescreen/Table Format)
 =============================================================
 The following courses will (tentatively) be held during the Fall 2015 semester.
 
@@ -9,12 +9,13 @@ Note: While we update this page regularly, please check
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-`Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit#gid=0>`_
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit#gid=0>`_.
 
-QuickLinks
-~~~~~~~~~~
+Alternate Mobile format page: :doc:`fallmobile`.
 
-* :doc:`fallmobile`
+Headings in this Page
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 * :ref:`fallw_undergraduate_courses`
 * :ref:`fallw_graduate_courses`
 * :ref:`fallw_csis_courses`
