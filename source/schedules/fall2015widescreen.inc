@@ -9,6 +9,8 @@ Note: While we update this page regularly, please check
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+`Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit#gid=0>`_
+
 QuickLinks
 ~~~~~~~~~~
 
@@ -48,7 +50,7 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Robin (CS hire) Milner, 2:45:00 PM - 4:00:00 PM, MW, LSC, N/A
+   001, Dima Dligach, 2:45:00 PM - 4:00:00 PM, MW, LSC, N/A
    002, Chandra N Sekharan, 11:30:00 AM - 12:45:00 PM, TTr, LSC, N/A
    003, Grace (PT) Hopper, 12:35:00 PM - 1:25:00 PM, MWF, LSC, N/A
 
@@ -148,13 +150,15 @@ Undergraduate Courses
 :doc:`comp314-315`
 --------------------------
 
-.. _Programming Team: http://anh.cs.luc.edu/314-315/prog-team.html
+.. was not working?
+   replaced
+   .. _Programming Team: http://anh.cs.luc.edu/314-315/prog-team.html
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-  001, Andrew N Harrington, TBD, M, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See also the `Programming Team`_.
+  001, Andrew N Harrington, TBD, TBD, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
 
 :doc:`comp317`
 --------------------------
@@ -199,8 +203,8 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
-   002, Peter L Dordal,  - , , ONLN, N/A
+   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, N/A
+   002, Peter L Dordal,  - , , ONLN, This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
 
 :doc:`comp347`
 --------------------------
@@ -209,9 +213,9 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
-   002, Corby Schmitz,  - , , ONLN, N/A
-
+   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, N/A
+   002, Corby Schmitz,  - , , ONLN, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
+   
 :doc:`comp363`
 --------------------------
 
@@ -246,11 +250,13 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001,  Louis Pasteur (new BIOI hire), 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
-   002,  Louis Pasteur (new BIOI hire), 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
+   001,  Heather Wheeler, 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
+   002,  Heather Wheeler, 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
 
 :doc:`comp388`
 --------------------------
+
+Each section is a totally different course.  The course title is in the Note column.
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
@@ -261,7 +267,7 @@ Undergraduate Courses
    003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
    004, Andrew N Harrington, See Note, M/W, WTC, Foundations of CS I - Meets for the first 8 weeks Mondays 4:15-8:15PM replacing holidays with Fridays 4:15-8:15PM. It also meets 8 consecutive Wednesdays Aug 26-Oct 14 (4:15-6:30PM).  
    005, Peter L Dordal, See Note, M/W, WTC, Foundations of CS II - Meets Mondays for the last 8 weeks of the semester Oct 19-Dec 7 (4:15-8:15PM) and also Wednesdays Oct 21 - Dec 9 (4:15-6:30PM) excluding Weds Nov 25 during Thanksgiving vacation.
-   422, Robin Milner (CS hire), 2:45:00 PM - 5:15:00 PM, F, LSC, Software Development for Wireless/Mobile Devices
+   422, Dima Dligach , 2:45:00 PM - 5:15:00 PM, F, LSC, Software Development for Wireless/Mobile Devices
    424, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, Client-Side Web Design
    433, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, Web Services Programming
 
@@ -367,7 +373,7 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Robin (CS hire) Milner, 2:45:00 PM - 5:15:00 PM, F, LSC, N/A
+   001, Dima Dligach, 2:45:00 PM - 5:15:00 PM, F, LSC, N/A
 
 :doc:`comp424`
 --------------------------
@@ -412,8 +418,9 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
-   002, Peter L Dordal,  - , , ONLN, N/A
+   001, Peter L Dordal, 4:15:00 PM - 6:45:00 PM, T, WTC, N/A
+   002, Peter L Dordal,  - , , ONLN,  This is an online class that includes synchronous and asynchronous interaction among students and instructor. Participation in synchronous sessions is strongly recommended.
+
 
 :doc:`comp447`
 --------------------------
@@ -422,8 +429,8 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
-   002, Corby Schmitz,  - , , ONLN, N/A
+   001, Corby Schmitz, 5:45:00 PM - 8:15:00 PM, F, WTC, N/A
+   002, Corby Schmitz,  - , , ONLN, This is an online class. The classroom session will be broadcast live on Friday evenings via AdobeConnect allowing online student interaction.  Sessions will also be recorded and made available. Students may participate synchronously or asynchronously at their discretion.
 
 :doc:`comp453`
 --------------------------
@@ -446,6 +453,8 @@ Graduate Courses
 
 :doc:`comp488`
 --------------------------
+
+Each section is a totally different course.  The course title is in the Note column.
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
@@ -499,11 +508,11 @@ Graduate Courses
 CSIS Courses
 ~~~~~~~~~~~~
 
-:doc:`csis494`
---------------------------
+:doc:`csis494`  (meets with INFS 494 in fall Quarter)
+------------------------------------------------------
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-   001, Adam (ISOM faculty) Smith, TBD/ISOM - TBD/ISOM, TBD/ISOM, WTC, Any CSIS courses will not open for our students until at least after August 2 and possibly never if the course fills with Business School students first and stays full.
+   001, Mary Malliaris (ISOM faculty), 6-9PM, M, WTC, Any CSIS courses will not open for our students until at least after August 2 and possibly never if the course fills with Business School students first and stays full.

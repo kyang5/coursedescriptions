@@ -9,6 +9,8 @@ Note: While we update this page regularly, please check `LOCUS <http://www.luc.e
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+`Textbook Information <https://docs.google.com/spreadsheet/ccc?key=0Aj_4VraMwHUodEdONlp1UW1tX203cURYV2dwQWl2VUE&usp=drive_web#gid=0>`_
+
 QuickLinks
 ~~~~~~~~~~~~~
 

@@ -11,6 +11,8 @@ Note: While we update this page regularly, please check
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+`Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit#gid=0>`_
+
 QuickLinks
 ~~~~~~~~~~
 
@@ -62,7 +64,7 @@ Info: *Tentative, may not be offered*
 COMP150-001: Introduction to Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Robin (CS hire) Milner
+Instructor: Dima Dligach
 
 Location: LSC
 
@@ -338,6 +340,11 @@ Schedule: TBD
 
 Course Description: :doc:`comp314-315`
 
+One organizational meeting Monday August 24 (3-4PM) to agree on 
+5 weekend practice times through the end of October. 
+See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
+
+
 COMP315-001: Problem Solving Seminar II
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -348,6 +355,10 @@ Location: WTC
 Schedule: TBD
 
 Course Description: :doc:`comp314-315`
+
+One organizational meeting Monday August 24 (3-4PM) to agree on 
+5 weekend practice times through the end of October. 
+See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
 
 COMP317-001: Social, Legal, and Ethical Issues in Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -404,11 +415,6 @@ Schedule: 4:15:00 PM - 6:45:00 PM (T)
 
 Course Description: :doc:`comp343`
 
-Note: This is an online class that includes 
-synchronous and asynchronous interaction 
-among students and instructor. Participation
-in synchronous sessions is strongly recommended.
-
 COMP343-002: Intro to Computer Networks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -419,6 +425,11 @@ Location: ONLN
 Schedule:  -  () 
 
 Course Description: :doc:`comp343`
+
+Note: This is an online class that includes 
+synchronous and asynchronous interaction 
+among students and instructor. Participation
+in synchronous sessions is strongly recommended.
 
 COMP347-001: Intrusion Detection and Computer Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -431,11 +442,6 @@ Schedule: 5:45:00 PM - 8:15:00 PM (F)
 
 Course Description: :doc:`comp347`
 
-Note: This is an online class. The classroom session will be broadcast live on
-Friday evenings via AdobeConnect allowing online student interaction.  Sessions
-will also be recorded and made available. Students may participate
-synchronously or asynchronously at their discretion.
-
 COMP347-002: Intrusion Detection and Computer Security
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -446,6 +452,11 @@ Location: ONLN
 Schedule:  -  () 
 
 Course Description: :doc:`comp347`
+
+Note: This is an online class. The classroom session will be broadcast live on
+Friday evenings via AdobeConnect allowing online student interaction.  Sessions
+will also be recorded and made available. Students may participate
+synchronously or asynchronously at their discretion.
 
 COMP363-001: Desgn and Analysis Computer Algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -483,7 +494,7 @@ Course Description: :doc:`comp374`
 COMP381-001: Bioinfomatics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor:  Louis (new BIOI hire) Pasteur
+Instructor:  Heather Wheeler
 
 Location: LSC
 
@@ -494,7 +505,7 @@ Course Description: :doc:`comp381`
 COMP381-002: Bioinfomatics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor:  Louis (new BIOI hire) Pasteur
+Instructor:  Heather Wheeler
 
 Location: LSC
 
@@ -570,7 +581,7 @@ excluding Weds Nov 25, during Thanksgiving vacation.
 COMP388-422: Software Development for Wireless/Mobile Devices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Robin (CS hire) Milner
+Instructor: Dima Dligach
 
 Location: LSC
 
@@ -806,7 +817,7 @@ Course Description: :doc:`comp420`
 COMP422-001: Software Development for Wireless/Mobile Devices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Robin (CS hire) Milner
+Instructor: Dima Dligach
 
 Location: LSC
 
@@ -869,11 +880,6 @@ Schedule: 4:15:00 PM - 6:45:00 PM (T)
 
 Course Description: :doc:`comp443`
 
-Info: This is an online class that includes
-synchronous and asynchronous interaction
-among students and instructor. Participation
-in synchronous sessions is strongly recommended.
-
 COMP443-002: Computer Networks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -884,6 +890,11 @@ Location: ONLN
 Schedule:  -  () 
 
 Course Description: :doc:`comp443`
+
+Info: This is an online class that includes
+synchronous and asynchronous interaction
+among students and instructor. Participation
+in synchronous sessions is strongly recommended.
 
 COMP447-001: Intrusion Detection and Computer Forensics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -896,11 +907,6 @@ Schedule: 5:45:00 PM - 8:15:00 PM (F)
 
 Course Description: :doc:`comp447`
 
-Note: This is an online class. The classroom session will be broadcast live on
-Friday evenings via AdobeConnect allowing online student interaction.  Sessions
-will also be recorded and made available. Students may participate
-synchronously or asynchronously at their discretion.
-
 COMP447-002: Intrusion Detection and Computer Forensics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -911,6 +917,11 @@ Location: ONLN
 Schedule:  -  () 
 
 Course Description: :doc:`comp447`
+
+Note: This is an online class. The classroom session will be broadcast live on
+Friday evenings via AdobeConnect allowing online student interaction.  Sessions
+will also be recorded and made available. Students may participate
+synchronously or asynchronously at their discretion.
 
 COMP453-001: Database Programming
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -981,7 +992,7 @@ Course Description: :doc:`comp488`
 COMP488-381: Bioinfomatics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor:  Louis (new BIOI hire) Pasteur
+Instructor:  Heather Wheeler
 
 Location: LSC
 
@@ -992,7 +1003,7 @@ Course Description: :doc:`comp488`
 COMP488-382: Bioinfomatics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor:  Louis (new BIOI hire) Pasteur
+Instructor:  Heather Wheeler
 
 Location: LSC
 
@@ -1152,10 +1163,15 @@ CSIS Courses
 CSIS494-001: Data Mining
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Adam Smith (ISOM faculty)
+Instructor: Mary Malliaris (ISOM faculty)
 
 Location: WTC
 
-Schedule: TBD/ISOM - TBD/ISOM (TBD/ISOM) 
+Schedule: 6-9PM, M - quarter course INFS 494
 
 Course Description: :doc:`csis494`
+
+Any CSIS courses will not open for our students until at least after 
+August 2 and possibly never if the course fills with 
+Business School students first and stays full.  
+
