@@ -39,21 +39,27 @@ have transitioned from other fields.
     
    * This can be done before entering the Graduate program as a non-degree undergrad 
      (cheaper undergraduate tuition).  
-   * You can do special compressed 
-     prep courses :doc:`comp388fcs1` and :doc:`comp388fcs2`
-     while taking a graduate course that does not 
-     require the prerequisites. (faster full-time finish!) See below.
+   * You can get both prerequisites in one semester with our special compressed 
+     prep courses :doc:`comp388fcs1` and :doc:`comp388fcs2`. 
+     See a fuller discussion below.
+   * The compressed prerequisites can be taken after admission to the 
+     graduate program.  Then you become a full-time 
+     graduate student if you add a third course - a
+     graduate course not 
+     requiring the prerequisites. 
+     (faster full-time finish!) 
 
+**Compressed prep courses**: 
 In fall or spring you have the opportunity to take a compressed intensive 
 sequence of prerequisites in one semester:  two 7-8 weeks courses in succession,
-with the same total contact hours of regular 15 week courses.  
+each with the same total contact hours of regular 15 week courses.  
 These cover at least the content of 
 :doc:`comp170` and :doc:`comp271`.
-You can be a full-time graduate student at the same 
-time by adding the required :doc:`comp417`, 
+To be a full-time graduate student at the same 
+time, the most common additional course is  the required :doc:`comp417`, 
 which has no prerequisite.  
 Note that 6 1/4 hours of class a week in the 
-compressed prerequisite versions with 
+compressed prerequisites with 
 all the work that goes with them does require some dedication!   
 Many transitioning students with full-time jobs have found this to be 
 *too much* to take on even without an additional grad course.  You can see the
@@ -65,11 +71,13 @@ looking at the text used by Comp 170
 and the compressed version:  
 The text by Dr. Harrington and Dr. Thiruvathukal is free online,
 http://introcs.cs.luc.edu/, with accompanying videos.  
-You are welcomed to use the book whether you formally take our course or not.
+You are welcomed to use the online book 
+whether you formally take our course or not.
 
 Comp 170 or the compressed :doc:`comp388fcs1` do not require any background 
 in programming, but if you have no background in programming, 
-then it IS important to able to deal easily with math courses through a 
+then it IS important to have a math background in which you are comfortable 
+with the material in a   
 precalculus course like our Math 118, which includes 
 *significant manipulation of functions*.  
 If you have a previous modest introduction to programming, including 
@@ -77,9 +85,9 @@ defining and using
 functions, then the formal math background is not so important.  
 
 *Students who neither have this math background* 
-*nor any programming at all* may want to get a more gentle introduction to 
-programming first, as in our Comp 150, which is offered fall and spring 
-and online in the summer. If you do need preparation like in Comp 150, 
+*nor any programming at all* may well want to get a more gentle introduction to 
+programming first, as in our Comp 150.  It is offered fall and spring 
+and online in the summer. If you do need the extra preparation like in Comp 150, 
 then this will slow you down by a semester.
 
 Please contact the Graduate Program Director with any questions at gpd@cs.luc.edu. 
