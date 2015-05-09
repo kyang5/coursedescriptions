@@ -17,12 +17,12 @@ of foundational undergraduate courses.  This would include the addition of
 equivalents of our
 :doc:`comp163` and
 :doc:`comp264`
-and likely :doc:`comp363`
-to the two courses already listed. 
+and :doc:`comp363`
+to the two courses already listed above. 
 
 Software Engineering students are in the middle.   
 The background for the Computer Science student is helpful, but adept
-transitioning students may manage with the courses two basic courses 
+transitioning students may manage with the two basic courses 
 that the IT students need.
 
 Many of our best students in Information Technology and Software Engineering
@@ -39,31 +39,48 @@ have transitioned from other fields.
     
    * This can be done before entering the Graduate program as a non-degree undergrad 
      (cheaper undergraduate tuition).  
-   * Or you can do prep courses while taking a graduate course that does not 
-     require the prerequisites. (faster full-time finish!)
+   * You can do special compressed 
+     prep courses :doc:`comp388fcs1` and :doc:`comp388fcs2`
+     while taking a graduate course that does not 
+     require the prerequisites. (faster full-time finish!) See below.
 
 In fall or spring you have the opportunity to take a compressed intensive 
-sequence of prerequisites in one semester:  two 7-8 weeks courses in succession.  
-:doc:`comp388fcs1` and :doc:`comp388fcs2`.  These cover at least the content of :doc:`comp170` and :doc:`comp271`.
+sequence of prerequisites in one semester:  two 7-8 weeks courses in succession,
+with the same total contact hours of regular 15 week courses.  
+These cover at least the content of 
+:doc:`comp170` and :doc:`comp271`.
 You can be a full-time graduate student at the same 
 time by adding the required :doc:`comp417`, 
 which has no prerequisite.  
+Note that 6 1/4 hours of class a week in the 
+compressed prerequisite versions with 
+all the work that goes with them does require some dedication!   
+Many transitioning students with full-time jobs have found this to be 
+*too much* to take on even without an additional grad course.  You can see the
+speed of topics in :doc:`comp388fcs1` by looking at the course website,
+http://anh.cs.luc.edu/388Intro.
 
-The free online text used for :doc:`comp388fcs1`,
-by Dr. Harrington and Dr. Thiruvathukal, 
-assumes no background in programming.  
-It has the full contact hours of a regular 15 week course, but in 7-8 weeks.  
-You are welcomed to look at or independently use the materials on the course web site 
-http://anh.cs.luc.edu/388Intro, including the text and videos linked there.  
-Starting to look early is advised, since 6 1/4 hours of class a week and 
-all the work that goes with it does require some dedication!   
-Some of the transitioning students with full-time jobs have found this to be 
-*too much* to take on even as their *only* course.
+You can spread your work out by getting an early start
+looking at the text used by Comp 170 
+and the compressed version:  
+The text by Dr. Harrington and Dr. Thiruvathukal is free online,
+http://introcs.cs.luc.edu/, with accompanying videos.  
+You are welcomed to use the book whether you formally take our course or not.
 
-For students with a fairly pure humanities background, 
-and very little sequential symbolic experience, 
-you may want to take a slower approach through traditional undergraduate courses, 
-but this will slow you down by at least an extra semester.
+Comp 170 or the compressed :doc:`comp388fcs1` do not require any background 
+in programming, but if you have no background in programming, 
+then it IS important to able to deal easily with math courses through a 
+precalculus course like our Math 118, which includes 
+*significant manipulation of functions*.  
+If you have a previous modest introduction to programming, including 
+defining and using 
+functions, then the formal math background is not so important.  
+
+*Students who neither have this math background* 
+*nor any programming at all* may want to get a more gentle introduction to 
+programming first, as in our Comp 150, which is offered fall and spring 
+and online in the summer. If you do need preparation like in Comp 150, 
+then this will slow you down by a semester.
 
 Please contact the Graduate Program Director with any questions at gpd@cs.luc.edu. 
 
@@ -87,7 +104,7 @@ If you took these subjects elsewhere, you are not likely to have the exact
 same collection of topics, but if you are close, 
 there should not be much problem filling holes as needed. 
 
-**Expectations from COMP 170/ISOM 370**
+**Expectations from Introduction to Computer Science, COMP 170**
 
 List of top ten concepts you should understand at the end of :doc:`comp170` / ISOM 370, 
 Introductory Object Oriented Programming (in Java, C#, C++ or a similar
