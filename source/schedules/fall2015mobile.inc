@@ -335,15 +335,16 @@ COMP314-001: Problem Solving Seminar I
 
 Instructor: Andrew N Harrington
 
-Location: WTC
+Location: See below
 
-Schedule: TBD
+Schedule: See below
 
 Course Description: :doc:`comp314-315`
 
-One organizational meeting Monday August 24 (3-4PM) to agree on 
-5 weekend practice times through the end of October. 
-See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
+There will be one organizational meeting Monday August 24, 3-4PM in LT 410, 
+to agree on 5 weekend practice times through the end of October. 
+See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_, 
+particularly if you cannot attend the organizational session.
 
 
 COMP315-001: Problem Solving Seminar II
@@ -351,15 +352,16 @@ COMP315-001: Problem Solving Seminar II
 
 Instructor: Andrew N Harrington
 
-Location: WTC
+Location: See below
 
-Schedule: TBD
+Schedule: See below
 
 Course Description: :doc:`comp314-315`
 
-One organizational meeting Monday August 24 (3-4PM) to agree on 
-5 weekend practice times through the end of October. 
-See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
+There will be one organizational meeting Monday August 24, 3-4PM in LT 410, 
+to agree on 5 weekend practice times through the end of October. 
+See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_, 
+particularly if you cannot attend the organizational session.
 
 COMP317-001: Social, Legal, and Ethical Issues in Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

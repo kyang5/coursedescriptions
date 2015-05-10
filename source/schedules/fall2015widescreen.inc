@@ -159,7 +159,7 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 50, 75, 30, 50, 175
 
-  001, Andrew N Harrington, TBD, TBD, WTC, One organizational meeting Monday August 24 (3-4PM) to agree on 5 weekend practice times through the end of October. See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
+  001, Andrew N Harrington, See Note, TBD, TBD, "One organizational meeting Monday August 24 3-4PM in LT 410 to agree on 5 weekend practice times through the end of October. See the `Programming Team <http://anh.cs.luc.edu/314-315/prog-team.html>`_.
 
 :doc:`comp317`
 --------------------------
