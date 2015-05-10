@@ -16,36 +16,37 @@ INFS 494 (Quinlan School of Business)
 Prerequisites
 -----------------
 
-:doc:`comp271` and :doc:`comp353`
+:doc:`comp271` and :doc:`comp353` and *a background in statistics*
+as in ISOM 491
 
 .. include:: fcs.txt
 
 Description
 ------------------
 
-Very large collections of data - millions or even hundreds of millions of
-individual records are now being compiled into centralized data warehouses and
-reorganized globally by topic, allowing analysts to make use of powerful
-statistical and machine learning methods to examine data more comprehensively.
-Data mining is the art and science of using more powerful algorithms, than
-traditional query tools such as SQL, to extract more useful information. KDD -
-Knowledge Discovery in Databases is the term given to the complete process of
-data preparation, information extraction and analysis. This course introduces
-the key terminology for KDD used in industry. It covers each step of the KDD
-process with the emphasis on data mining extraction methods of regression,
-classification, dependency modeling, and clustering. The preprocessing step
-will focus on the use of a data warehouse and various data cleaning
-techniques. The analysis phase will focus on statistical methods as well as
-visualization tools. The CD-ROM that comes with the text provides a look at
-various industry tools. Students will also implement parts of data mining
-algorithms in C++. We will look at these techniques using both the theoretical
-as well as practical approach. Students will be given a number of handouts
-throughout the course as a supplement to the text. There will be extensive
-reading required in this course.
+The goal of the course is to introduce students to the current theories, 
+practices, tools and techniques in data mining. 
+Because many topics and concepts in data mining are learned most
+efficiently through hands-on work with data sets, we will spend time with 
+software analyzing and mining data. 
+The goal is to gain a better understanding of how data mining is applied and
+what is involved in data mining projects. 
+
+Course Objectives and Learning Outcomes
+
+At the end of the course students will be able to:
+
+* Explain how businesses can gain competitive advantage through the mining of
+  data.
+* Describe when and how various data mining techniques should be applied.
+* Understand the basic process and mechanics of data mining.
+* Be able to make strategic recommendations based on data mining results.
+* Execute basic data mining techniques using IBM’s SPSS Modeler and interpret the
+  result
 
 Syllabi
 ------------------
 
-No recent syllabi available.
+`Dr. Mary Malliaris Fall 2014 (INFS 494) <http://www.luc.edu/media/lucedu/quinlan-graduate/syllabi/fallquarter2014/INFS494%20Malliaris,%20Mary%20Fa2014.pdf>`_
 
 

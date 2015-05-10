@@ -356,7 +356,8 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 175, 75, 30, 50, 50
 
-   001, Roxanne Schwab, 4:15:00 PM - 6:45:00 PM, W, WTC, N/A
+   001, Roxanne Schwab, 4:15:00 PM - 6:45:00 PM, W, **LSC**, Students needing to get to a 7PM WTC class will be allowed to leave early.
+
 
 :doc:`comp420`
 --------------------------

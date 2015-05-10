@@ -798,13 +798,17 @@ COMP417-001: Social and Ethical Issues in Computing
 
 Instructor: Roxanne Schwab
 
-Location: WTC
+Location: **LSC**
 
 Schedule: 4:15:00 PM - 6:45:00 PM (W) 
 
 Course Description: :doc:`comp417`
 
 COMP420-001: Software Systems Analysis
+
+Students needing to get to a 7PM WTC class will be allowed to
+leave early.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructor: Conrad Weisert
