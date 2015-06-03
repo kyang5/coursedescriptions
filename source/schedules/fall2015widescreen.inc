@@ -30,7 +30,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    01W, George Thiruvathukal, 12:35:00 PM - 1:25:00 PM, MWF, LSC, N/A
 
@@ -39,7 +39,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Channah Naiman, 1:00:00 PM - 2:15:00 PM, TTr, LSC, N/A
    002, Channah Naiman, 4:15:00 PM - 6:45:00 PM, T, LSC, Tentative: May not be offered
@@ -49,7 +49,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Dima Dligach, 2:45:00 PM - 4:00:00 PM, MW, LSC, N/A
    002, Chandra N Sekharan, 11:30:00 AM - 12:45:00 PM, TTr, LSC, N/A
@@ -60,7 +60,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Ronald I Greenberg, 11:30:00 AM - 12:20:00 PM, MWF, LSC, N/A
    002, Curtis D Tuckey, 4:15:00 PM - 5:30:00 PM, MW, LSC, N/A
@@ -71,7 +71,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Robert Yacobellis, 10:00:00 AM - 11:15:00 AM, TTr, LSC, N/A
    002, Robert Yacobellis, 1:00:00 PM - 2:15:00 PM, TTr, LSC, N/A
@@ -87,7 +87,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Christine A Haught, 2:30:00 PM - 3:45:00 PM, TTr, LSC, N/A
 
@@ -96,7 +96,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    01W, Roxanne Schwab, 2:45:00 PM - 4:00:00 PM, MW, LSC, N/A
 
@@ -105,7 +105,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Guy Bevente, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
 
@@ -114,7 +114,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Ronald I Greenberg, 10:25:00 AM - 11:15:00 AM, MWF, LSC, N/A
 
@@ -123,7 +123,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Chandra N Sekharan, 2:30:00 PM - 3:45:00 PM, TTr, LSC, N/A
    002, Maria Del Carmen Saenz, 6:00:00 PM - 8:30:00 PM, Tr, LSC, N/A
@@ -144,7 +144,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Konstantin Laufer, 2:45:00 PM - 5:15:00 PM, W, LSC, N/A
 
@@ -166,7 +166,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Matthew Paul Butcher, 7:00:00 PM - 9:30:00 PM, T, LSC, N/A
 
@@ -175,7 +175,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Conrad Weisert, 4:15:00 PM - 6:45:00 PM, M, WTC, N/A
 
@@ -184,7 +184,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Stephen Doty, 9:20:00 AM - 10:10:00 AM, MWF, LSC, N/A
 
@@ -193,7 +193,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Matthew William Bone, 7:00:00 PM - 9:30:00 PM, W, WTC, N/A
 
@@ -222,7 +222,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Mark Albert, 2:45:00 PM - 5:15:00 PM, M, LSC, N/A
 
@@ -231,7 +231,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Sharan Kalwani, 7:00:00 PM - 9:30:00 PM, W, WTC, N/A
 
@@ -240,7 +240,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Joseph Paul Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
 
@@ -249,7 +249,7 @@ Undergraduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001,  Heather Wheeler, 4:15:00 PM - 5:30:00 PM, TTr, LSC, N/A
    002,  Heather Wheeler, 4:15:00 PM - 6:45:00 PM, W, LSC, N/A
@@ -277,7 +277,7 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    01E, Ronald I Greenberg, 1:40:00 PM - 2:30:00 PM, MW, LSC, N/A
 
@@ -286,7 +286,7 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    01E, Robert Yacobellis,  - , , WTC, N/A
 
@@ -295,7 +295,7 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    01E, Konstantin Laufer,  - , , WTC, N/A
    02E, Mark Albert,  - , , WTC, N/A
@@ -313,7 +313,7 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Mark Albert, 12:35:00 PM - 1:25:00 PM, F, LSC, N/A
 
@@ -327,7 +327,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Joseph Paul Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
 
@@ -345,7 +345,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Robert Yacobellis, 4:15:00 PM - 6:45:00 PM, T, WTC, N/A
 
@@ -354,7 +354,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Roxanne Schwab, 4:15:00 PM - 6:45:00 PM, W, **LSC**, Students needing to get to a 7PM WTC class will be allowed to leave early.
 
@@ -364,7 +364,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Conrad Weisert, 4:15:00 PM - 6:45:00 PM, M, WTC, N/A
 
@@ -373,7 +373,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Dima Dligach, 2:45:00 PM - 5:15:00 PM, F, LSC, N/A
 
@@ -382,7 +382,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, N/A
 
@@ -391,7 +391,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Stephen Doty, 9:20:00 AM - 10:10:00 AM, MWF, LSC, N/A
 
@@ -400,7 +400,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, N/A
 
@@ -409,7 +409,7 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Matthew William Bone, 7:00:00 PM - 9:30:00 PM, W, WTC, N/A
 
@@ -439,17 +439,17 @@ Graduate Courses
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 50, 75, 30, 50, 175
 
    001, Channah Naiman, 7:00:00 PM - 9:30:00 PM, Tr, WTC, N/A
-   002, Channah Naiman,  - , , ONLN, N/A
+   002, Channah Naiman,  - , , ONLN, This is an online class.  All lectures will be recorded. Students may be asked to attend smaller-group online interactive discussions during the semester.
 
 :doc:`comp464`
 --------------------------
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Sharan Kalwani, 7:00:00 PM - 9:30:00 PM, W, WTC, N/A
 
@@ -460,20 +460,20 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, RAD.NET
    002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, Machine Learning
    003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
-   381, Louis Pasteur (new BIOI hire), 4:15:00 PM - 5:30:00 PM, TTr, LSC, Bioinformatics
-   382, Louis Pasteur (new BIOI hire), 4:15:00 PM - 6:45:00 PM, W, LSC, Bioinformatics
+   381, Heather Wheeler, 4:15:00 PM - 5:30:00 PM, TTr, LSC, Bioinformatics
+   382, Heather Wheeler, 4:15:00 PM - 6:45:00 PM, W, LSC, Bioinformatics
 
 :doc:`comp490`
 --------------------------
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Konstantin Laufer,  - , , WTC, N/A
    002, Mark Albert,  - , , WTC, N/A
@@ -491,7 +491,7 @@ Each section is a totally different course.  The course title is in the Note col
 
 .. csv-table::
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-  :widths: 10, 175, 75, 30, 50, 50
+  :widths: 10, 100, 75, 30, 50, 50
 
    001, Andrew N Harrington,  - , , WTC, N/A
    002, Andrew N Harrington,  - , , WTC, N/A

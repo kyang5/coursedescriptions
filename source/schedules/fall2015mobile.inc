@@ -952,6 +952,10 @@ Schedule:  -  ()
 
 Course Description: :doc:`comp453`
 
+Note:  This is an online class.  All lectures will be recorded. 
+Students may be asked to attend smaller-group online interactive 
+discussions during the semester.
+
 COMP464-001: High-Performance Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
