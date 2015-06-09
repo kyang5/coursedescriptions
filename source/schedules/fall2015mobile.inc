@@ -265,7 +265,7 @@ COMP271-001: Data Structures: Algorithms and Applications
 
 Instructor: Chandra N Sekharan
 
-Location: LSC
+Location: WTC
 
 Schedule: 2:30:00 PM - 3:45:00 PM (TTr) 
 
@@ -287,7 +287,7 @@ COMP271-01L: Data Structures: Algorithms and Applications
 
 Instructor: Chandra N Sekharan
 
-Location: LSC
+Location: WTC
 
 Schedule: 3:45:00 PM - 4:05:00 PM (TTr) 
 

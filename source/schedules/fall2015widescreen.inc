@@ -125,9 +125,9 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 100, 75, 30, 50, 50
 
-   001, Chandra N Sekharan, 2:30:00 PM - 3:45:00 PM, TTr, LSC, N/A
+   001, Chandra N Sekharan, 2:30:00 PM - 3:45:00 PM, TTr, WTC, N/A
    002, Maria Del Carmen Saenz, 6:00:00 PM - 8:30:00 PM, Tr, LSC, N/A
-   01L, Chandra N Sekharan, 3:45:00 PM - 4:05:00 PM, TTr, LSC, N/A
+   01L, Chandra N Sekharan, 3:45:00 PM - 4:05:00 PM, TTr, WTC, N/A
    02L, Maria Del Carmen Saenz, 8:30:00 PM - 9:20:00 PM, Tr, LSC, N/A
 
 :doc:`comp312`
