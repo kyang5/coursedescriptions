@@ -109,7 +109,7 @@ Course Description: :doc:`comp163`
 COMP163-002: Discrete Structures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Curtis D Tuckey
+Instructor: Ada (PT) Lovelace
 
 Location: LSC
 
@@ -120,7 +120,7 @@ Course Description: :doc:`comp163`
 COMP163-003: Discrete Structures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Curtis D Tuckey
+Instructor: Ada (PT) Lovelace
 
 Location: LSC
 
