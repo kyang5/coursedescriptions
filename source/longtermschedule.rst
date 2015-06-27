@@ -109,6 +109,8 @@ Category IIb: every spring semester
 
 :doc:`comp372` / :doc:`comp471`
 
+:doc:`comp373` / :doc:`comp473` (starting spring 2016) 
+
 :doc:`comp377` / :doc:`comp477`
 
 :doc:`comp378` / :doc:`comp484`
@@ -141,8 +143,6 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp366` / :doc:`comp450`
 
-:doc:`comp373` / :doc:`comp473` (starting spring 2015)
-
 :doc:`comp386` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
@@ -158,8 +158,6 @@ Category IVb: every odd fall semester (fall 15, fall 17, …)
 
 Category IVc: every even spring semester (spring 16, spring 18, …)
 -------------------------------------------------------------------
-
-:doc:`comp338` / :doc:`comp442` (starting spring 2016)
 
 :doc:`comp383` / :doc:`comp488` : Computational Biology
 
@@ -220,6 +218,8 @@ Category V: offered irregulary
 -------------------------------
 
 :doc:`comp171` (last offered spring 12)
+
+:doc:`comp338` / :doc:`comp442`
 
 :doc:`comp362` / :doc:`comp462` (last offered spring 98)
 
