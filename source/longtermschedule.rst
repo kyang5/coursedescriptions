@@ -13,6 +13,8 @@ Version 2015.2, 2 Apr 2015
 Category I: every fall and spring semester
 -------------------------------------------
 
+:doc:`comp111` *(writing-intensive)* (starting spring 2016) 
+
 :doc:`comp125` (1-2)
 
 :doc:`comp150` (3)
@@ -45,12 +47,12 @@ Category I: every fall and spring semester
 
 :doc:`comp417` (fall: on-campus, spring: online)
 
+:doc:`comp388` / :doc:`comp424` (starting spring 2016)
+
 .. _category_two_a:
 
 Category IIa: every fall semester
 ----------------------------------
-
-:doc:`comp111` *(writing-intensive)* (starting fall 2015)
 
 :doc:`comp251`
 
@@ -73,8 +75,6 @@ Category IIa: every fall semester
 :doc:`comp384` / :doc:`comp488` : Metagenomics 
 
 :doc:`comp388` / :doc:`comp422` (starting fall 2015)
-
-:doc:`comp388` / :doc:`comp424`
 
 :doc:`comp388` / :doc:`comp433` (starting fall 2015)
 
