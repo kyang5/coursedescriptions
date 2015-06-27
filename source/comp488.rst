@@ -20,15 +20,18 @@ Description
 
 This course is used to introduce emerging topics in computer science that do not yet have a regular course number. Content of the course varies. Recent topics have included
 
+-  Bioinformatics
+-  Computational Biology
+-  Computational Neuroscience
 -  Enterprise Software Development
 -  Human-Computer Interaction
+-  Introduction to Digital Humanites Design and Programming
 -  IT Project Management
 -  Rapid Application Development Metholodgy (.NET)
 -  Robotics Software Development
 -  Software Development for Wireless and Mobile Devices
 -  System Standards and Requirements
 -  Topics in Algorithms
--  Introduction to Digital Humanites Design and Programming
 
 Outcome
 ----------
