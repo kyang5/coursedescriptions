@@ -37,6 +37,8 @@ Category I: every fall and spring semester
 
 :doc:`comp317` (online)
 
+:doc:`comp363`
+
 :doc:`comp388fcs1` *(graduate only)*
 
 :doc:`comp388fcs2` *(graduate only)*
@@ -65,8 +67,6 @@ Category IIa: every fall semester
 :doc:`comp343` / :doc:`comp443` (on-campus and online)
 
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
-
-:doc:`comp363`
 
 :doc:`comp374` / :doc:`comp410`
 
