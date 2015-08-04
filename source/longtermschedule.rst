@@ -13,6 +13,8 @@ Version 2015.2, 2 Apr 2015
 Category I: every fall and spring semester
 -------------------------------------------
 
+:doc:`comp111` *(writing-intensive)* (starting spring 2016) 
+
 :doc:`comp125` (1-2)
 
 :doc:`comp150` (3)
@@ -35,6 +37,8 @@ Category I: every fall and spring semester
 
 :doc:`comp317` (online)
 
+:doc:`comp363`
+
 :doc:`comp388fcs1` *(graduate only)*
 
 :doc:`comp388fcs2` *(graduate only)*
@@ -45,12 +49,12 @@ Category I: every fall and spring semester
 
 :doc:`comp417` (fall: on-campus, spring: online)
 
+:doc:`comp388` / :doc:`comp424` (starting spring 2016)
+
 .. _category_two_a:
 
 Category IIa: every fall semester
 ----------------------------------
-
-:doc:`comp111` *(writing-intensive)* (starting fall 2015)
 
 :doc:`comp251`
 
@@ -64,8 +68,6 @@ Category IIa: every fall semester
 
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
 
-:doc:`comp363`
-
 :doc:`comp374` / :doc:`comp410`
 
 :doc:`comp381` / :doc:`comp488` : Bioinfomatics
@@ -73,8 +75,6 @@ Category IIa: every fall semester
 :doc:`comp384` / :doc:`comp488` : Metagenomics 
 
 :doc:`comp388` / :doc:`comp422` (starting fall 2015)
-
-:doc:`comp388` / :doc:`comp424`
 
 :doc:`comp388` / :doc:`comp433` (starting fall 2015)
 
@@ -109,6 +109,8 @@ Category IIb: every spring semester
 
 :doc:`comp372` / :doc:`comp471`
 
+:doc:`comp373` / :doc:`comp473` (starting spring 2016) 
+
 :doc:`comp377` / :doc:`comp477`
 
 :doc:`comp378` / :doc:`comp484`
@@ -141,8 +143,6 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp366` / :doc:`comp450`
 
-:doc:`comp373` / :doc:`comp473` (starting spring 2015)
-
 :doc:`comp386` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
@@ -158,8 +158,6 @@ Category IVb: every odd fall semester (fall 15, fall 17, …)
 
 Category IVc: every even spring semester (spring 16, spring 18, …)
 -------------------------------------------------------------------
-
-:doc:`comp338` / :doc:`comp442` (starting spring 2016)
 
 :doc:`comp383` / :doc:`comp488` : Computational Biology
 
@@ -220,6 +218,8 @@ Category V: offered irregulary
 -------------------------------
 
 :doc:`comp171` (last offered spring 12)
+
+:doc:`comp338` / :doc:`comp442`
 
 :doc:`comp362` / :doc:`comp462` (last offered spring 98)
 

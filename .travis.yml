@@ -1,13 +1,21 @@
+sudo: false
 language: python
 python:
-  - "2.7"
-  - "3.4"
-
-# This build depends on Sphinx (a Python tool), which depends on an essential TeXLive setup.
+- '3.4'
+addons:
+  apt:
+    packages:
+    - texlive-latex-base
+    - texlive-latex-recommended
+    - texlive-latex-extra
+    - texlive-fonts-recommended
+    - texinfo
+    - mercurial
 install:
-  - pip install sphinx
-  - pip install sphinx_bootstrap_theme
-  - sudo apt-get update -qq
-  - sudo apt-get install -qq help2man python-sphinx texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texinfo
+- pip install sphinx
+- pip install sphinx_bootstrap_theme
 script:
-  - sh build-handbook.sh
+- GH_USER=LoyolaChicagoCS GH_REPO=coursedescriptions "./gh-pages.sh"
+env:
+  global:
+  - secure: Wt8lqr0vx4nAyTlUPqdOZfDxuZ10IVyo1o2KL/JOkn4+mIxR5AoieN7xyImK5qhMKPy8fNxowz6CkMypCGNVT26kpnLJYXYF2lZf8H/6teYZTDMPLcj+A46rkBxYALtQrgpEbC4j6BI6Sk78LrLBs8+VC+MjpGB2/zq0qBi2FKc=

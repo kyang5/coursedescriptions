@@ -63,8 +63,8 @@ Undergraduate Courses
   :widths: 10, 100, 75, 30, 50, 50
 
    001, Ronald I Greenberg, 11:30:00 AM - 12:20:00 PM, MWF, LSC, N/A
-   002, Curtis D Tuckey, 4:15:00 PM - 5:30:00 PM, MW, LSC, N/A
-   003, Curtis D Tuckey, 6:00:00 PM - 7:15:00 PM, MW, LSC, N/A
+   002, Ada (PT) Lovelace, 4:15:00 PM - 5:30:00 PM, MW, LSC, N/A
+   003, Ada (PT) Lovelace, 6:00:00 PM - 7:15:00 PM, MW, LSC, N/A
 
 :doc:`comp170`
 --------------------------
