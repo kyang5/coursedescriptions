@@ -556,14 +556,10 @@ Instructor: Andrew N Harrington
 
 Location: WTC
 
-Schedule: 4:15:00 PM - 8:15:00 PM (M) 
+Schedule: This course meets for the first eight weeks of the semester, Mondays: 4:15 PM - 8:15 PM, replacing holiday/vacation Mondays with Fridays, also 4:15 PM - 8:15 PM.  So the Monday/Friday class schedule is:  Mon Aug 24; Mon Aug 31; Fri Sep 11; Mon Sep 14; Mon Sept 21; Monday, Sept 28; Fri Oct 9; Mon Oct 12.  It also meets eight consecutive Thursdays: 4:15 PM -6:30 PM, Aug 27 - Oct 15.  
 
 Course Description: :doc:`comp388`
-
-Note: This course meets for the first 8 weeks, 
-Mondays 4:15-8:15PM, replacing holiday/vacation
-Mondays with Fridays 4:15-8:15PM. It also meets 
-8 consecutive Wednesdays, 4:15-6:30PM, Aug 26 - Oct 14.  
+  
 
 COMP388-005: Foundations of CS 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -572,14 +568,10 @@ Instructor: Peter L Dordal
 
 Location: WTC
 
-Schedule: 4:15:00 PM - 8:15:00 PM (M) 
+Schedule: Meets for the last 8 weeks of the semester, Mondays Oct 19-Dec 7 (4:15-8:15PM) and also Thursdays Oct 22 - Dec 10 (4:15-6:30PM) excluding Thurs Nov 26, Thanksgiving. 
 
 Course Description: :doc:`comp388`
 
-Note: Comp 388-5 meets Mondays for the last 8 
-weeks of the semester, Oct 19 - Dec 7 4:15-8:15PM
-and also Wednesdays 4:15-6:30PM, Oct 21 - Dec 9, 
-excluding Weds Nov 25, during Thanksgiving vacation.
 
 COMP388-422: Software Development for Wireless/Mobile Devices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

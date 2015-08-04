@@ -40,8 +40,8 @@ Syllabi
 ----------------------
 
 .. csv-table:: 
-   	:header: "Topic", "Semester/Year", "Instructor", "URL"
-   	:widths: 60, 15, 25, 60
+   :header: "Topic", "Semester/Year", "Instructor", "URL"
+   :widths: 60, 15, 25, 60
 
 	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg/edit?usp=sharing"
 	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU/edit?usp=sharing"	
@@ -51,6 +51,6 @@ Syllabi
 	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
 	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
 	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
-  "Foundations of Computer Science I", "Fall 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
-  "Foundations of Computer Science II", "Fall 2015", "Peter L. Dordal", "http://anh.cs.luc.edu/388Intro"
+    "Foundations of Computer Science I", "Spring 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
+    "Foundations of Computer Science II", "Spring 2015", "Peter L. Dordal", "http://pld.cs.luc.edu/courses/388/spr15/"
 

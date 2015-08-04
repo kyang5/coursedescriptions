@@ -266,8 +266,8 @@ Each section is a totally different course.  The course title is in the Note col
    001, Karim Kabani, 10:00:00 AM - 12:30:00 PM, Sa, WTC, RAD.net
    002, Mark Albert, 7:00:00 PM - 9:30:00 PM, Tr, LSC, Machine Learning
    003, Catherine Putonti, 4:15:00 PM - 6:45:00 PM, T, LSC, Metagenomics
-   004, Andrew N Harrington, See Note, M/W, WTC, Foundations of CS I - Meets for the first 8 weeks Mondays 4:15-8:15PM replacing holidays with Fridays 4:15-8:15PM. It also meets 8 consecutive Wednesdays Aug 26-Oct 14 (4:15-6:30PM).  
-   005, Peter L Dordal, See Note, M/W, WTC, Foundations of CS II - Meets Mondays for the last 8 weeks of the semester Oct 19-Dec 7 (4:15-8:15PM) and also Wednesdays Oct 21 - Dec 9 (4:15-6:30PM) excluding Weds Nov 25 during Thanksgiving vacation.
+   004, Andrew N Harrington, See Note, M/Th, WTC, Foundations of CS I: compressed version of Comp 170 meets for the first eight weeks of the Semester Mondays (4:15 PM - 8:15 PM) replacing holiday/vacation Mondays with Fridays (4:15 PM - 8:15 PM).  So the Monday/Friday class schedule is:  Mon Aug 24; Mon Aug 31; Fri Sep 11; Mon Sep 14; Mon Sept 21; Monday Sept 28; Fri Oct 9; Mon Oct 12.  It also meets eight consecutive Thursdays: 4:15 PM - 6:30 PM Aug 27 - Oct 15.  
+   005, Peter L Dordal, See Note, M/Th, WTC, Foundations of CS II: compressed version of Comp 271 meets for the last 8 weeks of the semester Mondays Oct 19-Dec 7 (4:15-8:15PM) and also Thursdays Oct 22 - Dec 10 (4:15-6:30PM) excluding Thursday Nov 26 (Thanksgiving).
    422, Dima Dligach , 2:45:00 PM - 5:15:00 PM, F, LSC, Software Development for Wireless/Mobile Devices
    424, Nicholas Hayward, 4:15:00 PM - 6:45:00 PM, Tr, WTC, Client-Side Web Design
    433, Berhane Zewdie, 7:00:00 PM - 9:30:00 PM, T, WTC, Web Services Programming
