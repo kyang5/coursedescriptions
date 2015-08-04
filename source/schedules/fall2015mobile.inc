@@ -556,7 +556,7 @@ Instructor: Andrew N Harrington
 
 Location: WTC
 
-Schedule: This course meets for the first eight weeks of the semester, Mondays: 4:15 PM - 8:15 PM, replacing holiday/vacation Mondays with Fridays, also 4:15 PM - 8:15 PM.  So the Monday/Friday class schedule is:  Mon Aug 24; Mon Aug 31; Fri Sep 11; Mon Sep 14; Mon Sept 21; Monday, Sept 28; Fri Oct 9; Mon Oct 12.  It also meets eight consecutive Thursdays: 4:15 PM -6:30 PM, Aug 27 - Oct 15.  
+Schedule: This course is a compressed version of Comp 170 that meets for the first eight weeks of the semester, Mondays: 4:15 PM - 8:15 PM, replacing holiday/vacation Mondays with Fridays, also 4:15 PM - 8:15 PM.  So the Monday/Friday class schedule is:  Mon Aug 24; Mon Aug 31; Fri Sep 11; Mon Sep 14; Mon Sept 21; Monday, Sept 28; Fri Oct 9; Mon Oct 12.  It also meets eight consecutive Thursdays: 4:15 PM -6:30 PM, Aug 27 - Oct 15.  
 
 Course Description: :doc:`comp388`
   
@@ -568,7 +568,7 @@ Instructor: Peter L Dordal
 
 Location: WTC
 
-Schedule: Meets for the last 8 weeks of the semester, Mondays Oct 19-Dec 7 (4:15-8:15PM) and also Thursdays Oct 22 - Dec 10 (4:15-6:30PM) excluding Thurs Nov 26, Thanksgiving. 
+Schedule: This course is a compressed version of Comp 271 that meets for the last 8 weeks of the semester, Mondays Oct 19-Dec 7 (4:15-8:15PM) and also Thursdays Oct 22 - Dec 10 (4:15-6:30PM) excluding Thurs Nov 26, Thanksgiving. 
 
 Course Description: :doc:`comp388`
 
