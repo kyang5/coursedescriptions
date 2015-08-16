@@ -35,7 +35,7 @@ Category I: every fall and spring semester
 
 :doc:`comp313`
 
-:doc:`comp317` (online)
+:doc:`comp317` (fall: online, spring: online and on-campus/WI)
 
 :doc:`comp363`
 
@@ -49,7 +49,7 @@ Category I: every fall and spring semester
 
 :doc:`comp417` (fall: on-campus, spring: online)
 
-:doc:`comp388` / :doc:`comp424` (starting spring 2016)
+:doc:`comp324` / :doc:`comp424` (starting spring 2016)
 
 .. _category_two_a:
 
@@ -76,7 +76,7 @@ Category IIa: every fall semester
 
 :doc:`comp388` / :doc:`comp422` (starting fall 2015)
 
-:doc:`comp388` / :doc:`comp433` (starting fall 2015)
+:doc:`comp344` / :doc:`comp433` (starting fall 2015)
 
 :doc:`comp388` / :doc:`comp488` : Rapid Application Development Methodology (.NET)
 

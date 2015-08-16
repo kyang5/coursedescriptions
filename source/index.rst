@@ -78,7 +78,6 @@ Undergraduate Courses
 .. toctree::
    :maxdepth: 1
 
-   comp101
    comp102
    comp104
    comp111
@@ -105,17 +104,19 @@ Undergraduate Courses
    comp317
    comp319
    comp320
+   comp324
    comp328
    comp330
    comp331
-   comp332
    comp333
    comp336
    comp337
    comp338
    comp339
    comp340
+   comp341
    comp343
+   comp344
    comp346
    comp347
    comp348
