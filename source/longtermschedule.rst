@@ -49,7 +49,7 @@ Category I: every fall and spring semester
 
 :doc:`comp417` (fall: on-campus, spring: online)
 
-:doc:`comp324` / :doc:`comp424` (starting fall 2016)
+:doc:`comp324` / :doc:`comp424` (starting spring 2016)
 
 .. _category_two_a:
 
