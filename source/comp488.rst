@@ -24,14 +24,11 @@ This course is used to introduce emerging topics in computer science that do not
 -  Computational Biology
 -  Computational Neuroscience
 -  Enterprise Software Development
--  Human-Computer Interaction
--  Introduction to Digital Humanites Design and Programming
--  IT Project Management
+-  Introduction to Digital Humanities Design and Programming
+-  Machine Learning
+-  Metagenomics
 -  Rapid Application Development Metholodgy (.NET)
 -  Robotics Software Development
--  Software Development for Wireless and Mobile Devices
--  System Standards and Requirements
--  Topics in Algorithms
 
 Outcome
 ----------
@@ -45,10 +42,12 @@ Syllabi
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 60, 15, 25, 60
 
-        "Introduction to Digital Humanites Design and Programming", "Spring 2015", "Nicholas Hayward", "https://drive.google.com/file/d/0Bz_4VraMwHUoaEdueV9HeXllWkE/view?usp=sharing"
-	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
-	"Human-Computer Interface Design", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
-	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
-	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg/edit?usp=sharing"
-	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", ""
+	"Advanced Experimental Computing: Pervasive Systems", "Spring 2014", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
+	"Bioinformatics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5UVVGblJLUFZycHc"
+	"Computational Biology", "Spring 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5QlNwa05tSjVFWkU"
+  	"Computational Neuroscience", "Spring 2015", "Dr.Albert", "http://compneuro.pacsites.org"
+        "Introduction to Digital Humanities Design and Programming", "Spring 2015", "Nicholas Hayward", "https://drive.google.com/file/d/0Bz_4VraMwHUoaEdueV9HeXllWkE"
+	"Machine Learning", "Fall 2015", "Dr. Albert", "http://machinelearning.pacsites.org"
+	"Metagenomics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg"
+	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU"
 	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"

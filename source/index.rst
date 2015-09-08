@@ -100,10 +100,10 @@ Undergraduate Courses
    comp312
    comp313
    comp314-315
-   comp316
    comp317
    comp319
    comp320
+   comp322
    comp324
    comp328
    comp330
@@ -123,9 +123,7 @@ Undergraduate Courses
    comp349
    comp351
    comp353
-   comp355
    comp356
-   comp360
    comp362
    comp363
    comp364
@@ -137,6 +135,7 @@ Undergraduate Courses
    comp376
    comp377
    comp378
+   comp379
    comp380
    comp381
    comp382
@@ -148,8 +147,8 @@ Undergraduate Courses
    comp388fcs2
    comp390
    comp391
+   comp397 
    comp398
-   comp397
    comp399
    isom349
 
