@@ -20,16 +20,11 @@ This course is used to introduce emerging topics in computer science
 that do not yet have a regular course number. Content of the course
 varies. Recent topics have included
 
--  Client-Side Web Design
 -  Enterprise Software Development
--  Human-Computer Interaction
--  IT Project Management
 -  Rapid Application Development Metholodgy (.NET)
 -  Robotics Software Development
--  Software Development for Wireless and Mobile Devices
 -  System Standards and Requirements
 -  Topics in Algorithms
--  Web Services Programming
 
 Outcome
 -------------
@@ -43,14 +38,10 @@ Syllabi
    :header: "Topic", "Semester/Year", "Instructor", "URL"
    :widths: 60, 15, 25, 60
 
-	"Metagenomics", "Fall 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg/edit?usp=sharing"
-	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU/edit?usp=sharing"	
-	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"	
-	"Advanced Experimental Computing: Pervasive Systems", "Spring 2013", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
-	"Human-Computer Interface Design", "Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
-	"IT Project Management", "Spring 2013", "Dr. Weisert", ""
-	"Web Services Programming", "Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
+	"Advanced Experimental Computing: Pervasive Systems", "Spring 2014", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
+	"Metagenomics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg"
+	"Rapid Application Development Methodology", "Fall 2015", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU"
 	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
-    "Foundations of Computer Science I", "Spring 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
-    "Foundations of Computer Science II", "Spring 2015", "Peter L. Dordal", "http://pld.cs.luc.edu/courses/388/spr15/"
+        "Foundations of Computer Science I", "Fall 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
+        "Foundations of Computer Science II", "Fall 2015", "Peter L. Dordal", "http://pld.cs.luc.edu/courses/388/spr15"
 

@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 2015.2, 2 Apr 2015
+Version 2015.3, 8 Sep 2015
 
 .. _category_one:
 
@@ -74,13 +74,13 @@ Category IIa: every fall semester
 
 :doc:`comp384` / :doc:`comp488` : Metagenomics 
 
-:doc:`comp388` / :doc:`comp422` (starting fall 2015)
+:doc:`comp322` / :doc:`comp422` (starting fall 2015)
 
 :doc:`comp344` / :doc:`comp433` (starting fall 2015)
 
 :doc:`comp388` / :doc:`comp488` : Rapid Application Development Methodology (.NET)
 
-:doc:`comp388` / :doc:`comp488` : Machine Learning (starting fall 2015)
+:doc:`comp379` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
 :doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
@@ -115,7 +115,7 @@ Category IIb: every spring semester
 
 :doc:`comp378` / :doc:`comp484`
 
-:doc:`comp388` / :doc:`comp441`
+:doc:`comp341` / :doc:`comp441`
 
 :doc:`comp397`
 
