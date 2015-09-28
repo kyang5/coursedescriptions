@@ -242,7 +242,7 @@ Undergraduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 100, 75, 30, 50, 50
 
-   001, Joseph Paul Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
+   001, Sarah Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
 
 :doc:`comp381`
 --------------------------
@@ -329,7 +329,7 @@ Graduate Courses
   :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
   :widths: 10, 100, 75, 30, 50, 50
 
-   001, Joseph Paul Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
+   001, Sarah Kaylor, 7:00:00 PM - 9:30:00 PM, M, LSC, N/A
 
 :doc:`comp412`
 --------------------------
