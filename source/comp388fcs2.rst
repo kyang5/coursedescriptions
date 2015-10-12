@@ -11,17 +11,20 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Restricted to students admitted to and enrolled in CS graduate programs.
+:doc:`comp170` or :doc:`comp388fcs1`; 
+restricted to students with a bachelor degree or to advanced transfer students, with departmental permission
 
 Description
 --------------------
 
-This course is aimed at Graduate Students who are entering the MS
+This course in the second half of the semester is the compressed version of :doc:`comp271`. 
+The course is generally preceded by :doc:`comp388fcs1`, the compressed introduction to computer science.
+:doc:`comp388fcs2` is aimed at mature students who are interested in 
+continuing a quick start in computer science, 
+like those entering the MS
 programs in Computer Science, Software Engineering, or Information
-Technology who are lacking the prerequisite knowledge from introductory
-computer science courses, :doc:`comp264` and :doc:`comp271`. 
+Technology, who are lacking the prerequisite knowledge from :doc:`comp271`.
 
-The detailed description will appear shortly.
 
 Syllabi
 ---------------------
@@ -30,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/388/spr14/"
+	"Fall 2015", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/388/fall14/"
