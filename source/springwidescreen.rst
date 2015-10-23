@@ -1,1 +1,1 @@
-.. include:: schedules/spring2015widescreen.inc
+.. include:: schedules/spring2016widescreen.inc
