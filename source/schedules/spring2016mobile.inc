@@ -630,7 +630,7 @@ Campus: Water Tower
 
 Course Description: :doc:`comp388`
 
-Note:  Eight Week-First Session.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will enroll you.  FIRST CLASS EARLY:  Friday before other classes start:  Friday, January 15!  And then on for the next seven weeks, ending before vacation week.  Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 15, and Fri, Jan 22.  And then, 4:15 pm- 8:15 pm for the next 6 Mondays:  Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Feb 29.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 2.
+Note:  Eight Week-First Session.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will enroll you.  FIRST CLASS EARLY:  Friday before other classes start:  Friday, January 15!  And then on for the next seven weeks, ending before vacation week.  Classes meet from 4:15 pm - 8:15 pm on Fri Jan 15 and Fri Jan 22.  And then, 4:15 pm- 8:15 pm for the next 6 Mondays:  Jan 25 - Feb 29.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 20 - Mar 2.
 
 COMP 388-5: Foundations of Computer Science II
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -647,7 +647,7 @@ Campus: Water Tower
 
 Course Description: :doc:`comp388`
 
-Notes: Eight Week-Second Session.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will enroll you.  Eight weeks after vacation, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 14, March 21, March 28, April 4, April 11, April 18, April 25, May 2.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 16, March 23, March 30, April 6, April 13, April 20, April 27, May 4.
+Notes: Eight Week-Second Session.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will enroll you.  Eight weeks after vacation, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 14 - May 2.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 16 - May 4.
 
 COMP 388-6: Prog Lang and Systems Seminar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
