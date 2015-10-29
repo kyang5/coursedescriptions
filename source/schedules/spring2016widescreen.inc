@@ -196,15 +196,6 @@ Undergraduate Courses
 
     1, George Thiruvathukal, 6:00 PM - 8:30 PM, Tr, Lakeshore, N/A 
 
-:doc:`comp339`
-----------------
-
-.. csv-table::
-    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-    :widths: 10, 175, 75, 30, 50, 50
-
-    1, Sarah Kaylor, 7:00 PM - 9:30 PM, M, Lakeshore, N/A 
-
 :doc:`comp340`
 ----------------
 
@@ -410,15 +401,6 @@ Graduate Courses
     :widths: 10, 175, 75, 30, 50, 50
 
     1, Nicholas J Hayward, 4:15 PM - 6:45 PM, M, Water Tower, N/A 
-
-:doc:`comp439`
-----------------
-
-.. csv-table::
-    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
-    :widths: 10, 175, 75, 30, 50, 50
-
-    1, Sarah Kaylor, 7:00 PM - 9:30 PM, M, Lakeshore, N/A 
 
 :doc:`comp441`
 ----------------

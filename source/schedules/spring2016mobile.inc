@@ -457,19 +457,6 @@ Campus: Lakeshore
 
 Course Description: :doc:`comp330`
 
-COMP 339-1: Distributed Programming
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Sarah Kaylor 
-
-Time: 7:00 PM - 9:30 PM
-
-Day(s): Monday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp339`
-
 COMP 340-1: Computer Forensics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -941,19 +928,6 @@ Day(s): Monday
 Campus: Water Tower
 
 Course Description: :doc:`comp424`
-
-COMP 439-1: Distributed Systems
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Sarah Kaylor 
-
-Time: 7:00 PM - 9:30 PM
-
-Day(s): Monday 
-
-Campus: Lakeshore
-
-Course Description: :doc:`comp439`
 
 COMP 441-1: Human-Computer Interface Design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
