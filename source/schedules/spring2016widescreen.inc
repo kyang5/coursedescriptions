@@ -33,7 +33,7 @@ Undergraduate Courses
 
 .. rubric:: Notes
 
-.. [#] This is a writing Intensive Course. This course is blended/online (33%). MW meetings are on-campus and F meetings are inline and asynchronous. This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+.. [#] This is a Writing Intensive Course. This course is blended/online (33%). MW meetings are on-campus and F meetings are online and asynchronous. This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 :doc:`comp125`
 ----------------
@@ -74,8 +74,8 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1,  Tori Noquez, 2:45 PM - 4:00 PM, MW, Lakeshore, [#]_ 
-    2,  Tori Noquez, 4:15 PM - 5:30 PM, MW, Lakeshore, [#]_ 
+    1,  Victoria Noquez, 2:45 PM - 4:00 PM, MW, Lakeshore, [#]_ 
+    2,  Victoria Noquez, 4:15 PM - 5:30 PM, MW, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
@@ -91,11 +91,11 @@ Undergraduate Courses
 
     1, Robert Yacobellis, 10:00 AM - 11:15 AM, TTr, Lakeshore, [#]_ 
     2, Dmitriy Dligach, 10:25 AM - 11:40 AM, MW, Lakeshore, [#]_ 
-    3, Maria Del Carmen Saenz, 6:00 PM - 8:30 PM, T, Lakeshore, [#]_ 
+    3, Maria Del Carmen Saenz, 5:15 PM - 6:30 PM, TTr, Lakeshore, [#]_ 
     4, Dmitriy Dligach, 12:10 PM - 1:25 PM, MW, Lakeshore, [#]_ 
     01L, Robert Yacobellis, 11:30 AM - 11:55 AM, TTr, Lakeshore, [#]_ 
     02L, Dmitriy Dligach, 10:25 AM - 11:15 AM, F, Lakeshore, [#]_ 
-    03L, Maria Del Carmen Saenz, 8:30 PM - 9:20 PM, T, Lakeshore, [#]_ 
+    03L, Maria Del Carmen Saenz, 6:30 PM - 6:55 PM, TTr, Lakeshore, [#]_ 
     04L, Dmitriy Dligach, 12:35 PM - 1:25 PM, F, Lakeshore, [#]_ 
 
 .. rubric:: Notes
@@ -117,11 +117,9 @@ Undergraduate Courses
     :widths: 10, 175, 75, 30, 50, 50
 
     01W, Roxanne Schwab, 2:45 PM - 4:00 PM, MW, Lakeshore, [#]_ 
-    02W, Roxanne Schwab, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
-.. [#] This is a writing intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 .. [#] This is a writing intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 :doc:`comp264`
@@ -131,7 +129,7 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Ronald I Greenberg, 9:20 AM - 10:10 AM, MWF, Lakeshore, [#]_ 
+    1, Ronald I Greenberg, 10:25 AM - 11:15 AM, MWF, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
@@ -169,7 +167,7 @@ Undergraduate Courses
 .. rubric:: Notes
 
 .. [#] Combined with COMP 488-301.
-.. [#] This class is a totally online asynchronous course.  Exams may be synchronous.  Combined with COMP 488-302.
+.. [#] This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 488-302.
 
 :doc:`comp305`
 ----------------
@@ -219,7 +217,7 @@ Undergraduate Courses
 .. rubric:: Notes
 
 .. [#] This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals during the semester with possible times chosen to fit different groups' schedules.
-.. [#] This is a writing intensive class. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+.. [#] This is a Writing Intensive class. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 :doc:`comp319`
 ----------------
@@ -272,7 +270,7 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Thomas Yarrish, 7:00 PM - 9:30 PM, W, Water Tower, [#]_ 
+    1, Thomas Yarrish, 7:00 PM - 9:30 PM, T, Water Tower, [#]_ 
 
 .. rubric:: Notes
 
@@ -335,7 +333,11 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Konstantin Laufer, 2:45 PM - 5:15 PM, W, Lakeshore, N/A 
+    1, Konstantin Laufer, 2:45 PM - 5:15 PM, W, Lakeshore, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Combined with COMP 471-001.
 
 :doc:`comp373`
 ----------------
@@ -348,7 +350,7 @@ Undergraduate Courses
 
 .. rubric:: Notes
 
-.. [#] Combined with COMP 473-001
+.. [#] Combined with COMP 473-001.
 
 :doc:`comp377`
 ----------------
@@ -383,7 +385,7 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Heather E. Wheeler, 2:45 PM - 4:05 PM, MW, Lakeshore, [#]_ 
+    1, Heather E. Wheeler, 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W), MW, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
@@ -414,7 +416,7 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    01E, Ronald I Greenberg, TBD, TBD, Water Tower, [#]_ 
+    01E, Robert Yacobellis, TBD, TBD, Water Tower, [#]_ 
 
 .. rubric:: Notes
 
@@ -436,26 +438,39 @@ Undergraduate Courses
 :doc:`comp398`
 ----------------
 
-Note for each section: This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
-
 .. csv-table::
-    :header: "Section", "Instructor", "Time", "Day(s)", "Campus"
-    :widths: 10, 175, 75, 30, 50
+    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+    :widths: 10, 175, 75, 30, 50, 50
 
-    01E, Konstantin Laufer, TBD, TBD, Water Tower 
-    02E, Mark Albert, TBD, TBD, Water Tower 
-    03E, Dmitriy Dligach, TBD, TBD, Water Tower 
-    04E, Peter L Dordal, TBD, TBD, Water Tower 
-    05E, Ronald I Greenberg, TBD, TBD, Water Tower 
-    06E, Andrew N Harrington, TBD, TBD, Water Tower 
-    07E, Nicholas J Hayward, TBD, TBD, Water Tower 
-    08E, William Honig, TBD, TBD, Water Tower 
-    09E, Channah Naiman, TBD, TBD, Water Tower 
-    10E, Catherine Putonti, TBD, TBD, Water Tower 
-    11E, Chandra N Sekharan, TBD, TBD, Water Tower 
-    12E, Heather E. Wheeler, TBD, TBD, Water Tower 
-    13E, Robert Yacobellis, TBD, TBD, Water Tower 
+    01E, Konstantin Laufer and George Thiruvathukal, TBD, TBD, Water Tower, [#]_ 
+    02E, Mark Albert, TBD, TBD, Water Tower, [#]_ 
+    03E, Dmitriy Dligach, TBD, TBD, Water Tower, [#]_ 
+    04E, Peter L Dordal, TBD, TBD, Water Tower, [#]_ 
+    05E, Ronald I Greenberg, TBD, TBD, Water Tower, [#]_ 
+    06E, Andrew N Harrington, TBD, TBD, Water Tower, [#]_ 
+    07E, Nicholas J Hayward, TBD, TBD, Water Tower, [#]_ 
+    08E, William Honig, TBD, TBD, Water Tower, [#]_ 
+    09E, Channah Naiman, TBD, TBD, Water Tower, [#]_ 
+    10E, Catherine Putonti, TBD, TBD, Water Tower, [#]_ 
+    11E, Chandra N Sekharan, TBD, TBD, Water Tower, [#]_ 
+    12E, Heather E. Wheeler, TBD, TBD, Water Tower, [#]_ 
+    13E, Robert Yacobellis, TBD, TBD, Water Tower, [#]_ 
 
+.. rubric:: Notes
+
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
+.. [#] This class satisfies the Engaged Learning requirement in the Undergraduate Research category. Department consent required.
 
 :doc:`comp399`
 ----------------
@@ -466,14 +481,14 @@ Note for each section: This class satisfies the Engaged Learning requirement in 
 
     1, Mark Albert, 11:30 AM - 12:45 PM, T, Lakeshore, [#]_ 
 
-.. rubric:: Notes
-
-.. [#] The Computer Science Seminar course and the Research Seminar course will meet on alternate weeks at the scheduled course time.
-
 .. _graduate_courses_table:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~
+
+.. rubric:: Notes
+
+.. [#] The Computer Science Seminar course and the Research Seminar course will meet on alternate weeks at the scheduled course time.
 
 :doc:`comp412`
 ----------------
@@ -624,7 +639,11 @@ Graduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Conrad Weisert, 2:45 PM - 5:15 PM, M, Lakeshore, N/A 
+    1, Conrad Weisert, 2:45 PM - 5:15 PM, M, Lakeshore, [#]_ 
+
+.. rubric:: Notes
+
+.. [#] Combined with COMP 378-001
 
 :doc:`comp488`
 ----------------
@@ -633,45 +652,60 @@ Graduate Courses
     :header: "Section", "Topic", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 100, 75, 75, 30, 50, 50
 
-    7, Physical Design and Fabrication, TBD, 7:00 PM - 9:30 PM, M, Lakeshore, N/A 
+    7, Physical Design and Fabrication, TBD, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
     301, Data Warehousing and Data Mining, Channah Naiman, 4:15 PM - 6:45 PM, W, Water Tower, [#]_ 
     302, Data Warehousing and Data Mining, Channah Naiman, TBD, TBD, Online, [#]_ 
     305, Database Administration, Peter L Dordal, 4:15 PM - 6:45 PM, T, Water Tower, [#]_ 
-    340, Computer Forensics, Thomas Yarrish, 7:00 PM - 9:30 PM, W, Water Tower, [#]_ 
-    383, Computational Biology, Heather E. Wheeler, 2:45 PM - 4:05 PM, MW, Lakeshore, N/A 
+    340, Computer Forensics, Thomas Yarrish, 7:00 PM - 9:30 PM, T, Water Tower, [#]_ 
+    383, Computational Biology, Heather E. Wheeler, 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W), MW, Lakeshore, [#]_ 
     402, Intro Digital Humanities Design & Programming, Nicholas J Hayward, 4:15 PM - 6:45 PM, W, Water Tower, [#]_ 
 
 .. rubric:: Notes
 
+.. [#] Combined with COMP 388-007
 .. [#] Combined with COMP 300-001
 .. [#] This class is a totally online asynchronous course.  Exams may be synchronous.  Combined with COMP 300-002.
 .. [#] Combined with COMP 305-001
 .. [#] This class is offered in a blended format, with about one to two thirds of class sessions to be held online. The first class meets on campus as scheduled. Details on schedule and format of the online sessions will be provided as part of the course syllabus at the beginning of the term. Combined with COMP 340-001
+.. [#] Combined with COMP 383-001
 .. [#] Combined with DIGH 402
 
 :doc:`comp490`
 ----------------
 
-Note: Each section need departmental consent.
-
 .. csv-table::
-    :header: "Section", "Instructor", "Time", "Day(s)", "Campus"
-    :widths: 10, 175, 75, 30, 50
+    :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
+    :widths: 10, 175, 75, 30, 50, 50
 
-    1, Konstantin Laufer, TBD, TBD, Water Tower 
-    2, Mark Albert, TBD, TBD, Water Tower 
-    3, Dmitriy Dligach, TBD, TBD, Water Tower 
-    4, Peter L Dordal, TBD, TBD, Water Tower 
-    5, Ronald I Greenberg, TBD, TBD, Water Tower 
-    6, Andrew N Harrington, TBD, TBD, Water Tower 
-    7, Nicholas J Hayward, TBD, TBD, Water Tower 
-    8, William Honig, TBD, TBD, Water Tower 
-    9, Channah Naiman, TBD, TBD, Water Tower 
-    10, Catherine Putonti, TBD, TBD, Water Tower 
-    11, Chandra N Sekharan, TBD, TBD, Water Tower 
-    12, Heather E. Wheeler, TBD, TBD, Water Tower 
-    13, Robert Yacobellis, TBD, TBD, Water Tower 
+    1, Konstantin Laufer and George Thiruvathukal, TBD, TBD, Water Tower, [#]_ 
+    2, Mark Albert, TBD, TBD, Water Tower, [#]_ 
+    3, Dmitriy Dligach, TBD, TBD, Water Tower, [#]_ 
+    4, Peter L Dordal, TBD, TBD, Water Tower, [#]_ 
+    5, Ronald I Greenberg, TBD, TBD, Water Tower, [#]_ 
+    6, Andrew N Harrington, TBD, TBD, Water Tower, [#]_ 
+    7, Nicholas J Hayward, TBD, TBD, Water Tower, [#]_ 
+    8, William Honig, TBD, TBD, Water Tower, [#]_ 
+    9, Channah Naiman, TBD, TBD, Water Tower, [#]_ 
+    10, Catherine Putonti, TBD, TBD, Water Tower, [#]_ 
+    11, Chandra N Sekharan, TBD, TBD, Water Tower, [#]_ 
+    12, Heather E. Wheeler, TBD, TBD, Water Tower, [#]_ 
+    13, Robert Yacobellis, TBD, TBD, Water Tower, [#]_ 
 
+.. rubric:: Notes
+
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
+.. [#] Department Consent Required
 
 :doc:`comp499`
 ----------------
@@ -680,7 +714,7 @@ Note: Each section need departmental consent.
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Konstantin Laufer, TBD, TBD, Water Tower, [#]_ 
+    1, Andrew N Harrington, TBD, TBD, Water Tower, [#]_ 
 
 .. rubric:: Notes
 
@@ -693,11 +727,7 @@ Note: Each section need departmental consent.
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Konstantin Laufer, TBD, TBD, Water Tower, [#]_ 
-
-.. rubric:: Notes
-
-.. [#] Department Consent Required
+    1, Andrew N Harrington, TBD, TBD, Water Tower, [#]_ 
 
 .. _csis_courses_table:
 

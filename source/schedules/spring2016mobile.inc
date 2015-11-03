@@ -33,7 +33,7 @@ Day(s): Monday Wednesday Friday
 
 Campus: Lakeshore
 
-Notes: This is a writing Intensive Course. This course is blended/online (33%). MW meetings are on-campus and F meetings are inline and asynchronous. This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+Notes: This is a Writing Intensive Course. This course is blended/online (33%). MW meetings are on-campus and F meetings are online and asynchronous. This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 Course Description: :doc:`comp111`
 
@@ -115,7 +115,7 @@ Course Description: :doc:`comp150`
 COMP 163-1: Discrete Structures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Tori Noquez 
+Instructor: Victoria Noquez 
 
 Time: 2:45 PM - 4:00 PM
 
@@ -130,7 +130,7 @@ Course Description: :doc:`comp163`
 COMP 163-2: Discrete Structures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Tori Noquez 
+Instructor: Victoria Noquez 
 
 Time: 4:15 PM - 5:30 PM
 
@@ -177,9 +177,9 @@ COMP 170-3: Introduction to Object-Oriented Programming
 
 Instructor: Maria Del Carmen Saenz 
 
-Time: 6:00 PM - 8:30 PM
+Time: 5:15 PM - 6:30 PM
 
-Day(s): Tuesday 
+Day(s): Tuesday Thursday 
 
 Campus: Lakeshore
 
@@ -237,9 +237,9 @@ COMP 170-03L: Introduction to Object-Oriented Programming
 
 Instructor: Maria Del Carmen Saenz 
 
-Time: 8:30 PM - 9:20 PM
+Time: 6:30 PM - 6:55 PM
 
-Day(s): Tuesday 
+Day(s): Tuesday Thursday 
 
 Campus: Lakeshore
 
@@ -277,27 +277,12 @@ Notes: This is a writing intensive course. This class is restricted to undergrad
 
 Course Description: :doc:`comp250`
 
-COMP 250-02W: Introduction to Scientific and Technical Communication
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Instructor: Roxanne Schwab 
-
-Time: 7:00 PM - 9:30 PM
-
-Day(s): Monday 
-
-Campus: Lakeshore
-
-Notes: This is a writing intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
-
-Course Description: :doc:`comp250`
-
 COMP 264-1: Introduction to Computer Systems
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructor: Ronald I Greenberg 
 
-Time: 9:20 AM - 10:10 AM
+Time: 10:25 AM - 11:15 AM
 
 Day(s): Monday Wednesday Friday 
 
@@ -393,7 +378,7 @@ Day(s): TBD
 
 Campus: Online
 
-Notes: This class is a totally online asynchronous course.  Exams may be synchronous.  Combined with COMP 488-302.
+Notes: This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 488-302.
 
 Course Description: :doc:`comp300`
 
@@ -466,7 +451,7 @@ Day(s): Wednesday
 
 Campus: Lakeshore
 
-Notes: This is a writing intensive class. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+Notes: This is a Writing Intensive class. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 Course Description: :doc:`comp317`
 
@@ -533,7 +518,7 @@ Instructor: Thomas Yarrish
 
 Time: 7:00 PM - 9:30 PM
 
-Day(s): Wednesday 
+Day(s): Tuesday 
 
 Campus: Water Tower
 
@@ -625,6 +610,8 @@ Day(s): Wednesday
 
 Campus: Lakeshore
 
+Notes: Combined with COMP 471-001.
+
 Course Description: :doc:`comp372`
 
 COMP 373-1: Objects, Frameworks, and Patterns
@@ -638,7 +625,7 @@ Day(s): Tuesday
 
 Campus: Water Tower
 
-Notes: Combined with COMP 473-001
+Notes: Combined with COMP 473-001.
 
 Course Description: :doc:`comp373`
 
@@ -677,7 +664,7 @@ COMP 383-1: Computational Biology
 
 Instructor: Heather E. Wheeler 
 
-Time: 2:45 PM - 4:05 PM
+Time: 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W)
 
 Day(s): Monday Wednesday 
 
@@ -752,7 +739,7 @@ Course Description: :doc:`comp388`
 COMP 391-01E: Internship in CS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Ronald I Greenberg 
+Instructor: Robert Yacobellis 
 
 Time: TBD
 
@@ -782,7 +769,7 @@ Course Description: :doc:`comp397`
 COMP 398-01E: Independent Study
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Konstantin Laufer 
+Instructor: Konstantin Laufer and George Thiruvathukal
 
 Time: TBD
 
@@ -1192,6 +1179,8 @@ Day(s): Monday
 
 Campus: Lakeshore
 
+Notes: Combined with COMP 378-001
+
 Course Description: :doc:`comp484`
 
 COMP 488-7: Physical Design and Fabrication
@@ -1204,6 +1193,8 @@ Time: 7:00 PM - 9:30 PM
 Day(s): Monday 
 
 Campus: Lakeshore
+
+Notes: Combined with COMP 388-007
 
 Course Description: :doc:`comp488`
 
@@ -1259,7 +1250,7 @@ Instructor: Thomas Yarrish
 
 Time: 7:00 PM - 9:30 PM
 
-Day(s): Wednesday 
+Day(s): Tuesday 
 
 Campus: Water Tower
 
@@ -1272,11 +1263,13 @@ COMP 488-383: Computational Biology
 
 Instructor: Heather E. Wheeler 
 
-Time: 2:45 PM - 4:05 PM
+Time: 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W)
 
 Day(s): Monday Wednesday 
 
 Campus: Lakeshore
+
+Notes: Combined with COMP 383-001
 
 Course Description: :doc:`comp488`
 
@@ -1298,7 +1291,7 @@ Course Description: :doc:`comp488`
 COMP 490-1: Independent Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Konstantin Laufer 
+Instructor: Konstantin Laufer and George Thiruvathukal
 
 Time: TBD
 
@@ -1493,7 +1486,7 @@ Course Description: :doc:`comp490`
 COMP 499-1: Internship
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Konstantin Laufer 
+Instructor: Andrew N Harrington 
 
 Time: TBD
 
@@ -1508,7 +1501,7 @@ Course Description: :doc:`comp499`
 COMP 605-1: Master of Science Study
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Konstantin Laufer 
+Instructor: Andrew N Harrington 
 
 Time: TBD
 
