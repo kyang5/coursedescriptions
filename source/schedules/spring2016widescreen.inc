@@ -120,7 +120,7 @@ Undergraduate Courses
 
 .. rubric:: Notes
 
-.. [#] This is a writing intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+.. [#] This is a Writing Intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 :doc:`comp264`
 ----------------
@@ -301,7 +301,7 @@ Undergraduate Courses
 
 .. rubric:: Notes
 
-.. [#] Combined with COMP 488-001
+.. [#] Combined with COMP 448-001
 .. [#] This is an online class.  The classroom session will be broadcast live on Friday evenings via Adobe Connect allowing online student interaction.  Sessions will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
 
 :doc:`comp353`
@@ -385,7 +385,7 @@ Undergraduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1, Heather E. Wheeler, 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W), MW, Lakeshore, [#]_ 
+    1, Heather E. Wheeler, 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45(W), MW, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
@@ -405,7 +405,7 @@ Undergraduate Courses
 
 .. rubric:: Notes
 
-.. [#] Foundations of Computer Science I.? Eight Week-First Session.? This section is restricted to students with undergraduate degrees.? Department Consent required, and then a Computer Science Department staff member will enroll you.? FIRST CLASS EARLY:? Friday before other classes start:? Friday, January 15!? And then on for the next seven weeks, ending before vacation week.? Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 15, and Fri, Jan 22.? And then, 4:15 pm- 8:15 pm for the next 6 Mondays:? Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Feb 29.? Labs meet on Wednesdays, 4:15 pm - 6:30 pm:? Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 2.
+.. [#] Foundations of Computer Science I. Eight Week-First Session. This section is restricted to students with undergraduate degrees. Department Consent required, and then a Computer Science Department staff member will enroll you. FIRST CLASS EARLY: Friday before other classes start: Friday, January 15. And then on for the next seven weeks, ending before vacation week.  Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 15, and Fri, Jan 22. And then, 4:15 pm- 8:15 pm for the next 6 Mondays: Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Feb 29. Labs meet on Wednesdays, 4:15 pm - 6:30 pm: Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 2.
 .. [#] Foundations of Computer Science II.  Eight Week-Second Session.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will enroll you.  Eight weeks after vacation, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 14, March 21, March 28, April 4, April 11, April 18, April 25, May 2.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 16, March 23, March 30, April 6, April 13, April 20, April 27, May 4.
 .. [#] Combined with COMP 488-007
 
@@ -481,14 +481,15 @@ Undergraduate Courses
 
     1, Mark Albert, 11:30 AM - 12:45 PM, T, Lakeshore, [#]_ 
 
+.. rubric:: Notes
+
+.. [#] The Computer Science Seminar course and the Research Seminar course will meet on alternate weeks at the scheduled course time.
+
+
 .. _graduate_courses_table:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~
-
-.. rubric:: Notes
-
-.. [#] The Computer Science Seminar course and the Research Seminar course will meet on alternate weeks at the scheduled course time.
 
 :doc:`comp412`
 ----------------
@@ -617,7 +618,7 @@ Graduate Courses
     :header: "Section", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 175, 75, 30, 50, 50
 
-    1,  Chris Stone, 7:00 PM - 9:30 PM, Tr, Water Tower, N/A 
+    1,  Christopher Stone, 7:00 PM - 9:30 PM, Tr, Water Tower, N/A 
 
 :doc:`comp477`
 ----------------
@@ -728,6 +729,8 @@ Graduate Courses
     :widths: 10, 175, 75, 30, 50, 50
 
     1, Andrew N Harrington, TBD, TBD, Water Tower, [#]_ 
+
+.. [#] For MS CS thesis work after all other courses are finished
 
 .. _csis_courses_table:
 

@@ -273,7 +273,7 @@ Day(s): Monday Wednesday
 
 Campus: Lakeshore
 
-Notes: This is a writing intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+Notes: This is a Writing Intensive course. This class is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 Course Description: :doc:`comp250`
 
@@ -552,7 +552,7 @@ Day(s): Friday
 
 Campus: Water Tower
 
-Notes: Combined with COMP 488-001
+Notes: Combined with COMP 448-001
 
 Course Description: :doc:`comp348`
 
@@ -664,7 +664,7 @@ COMP 383-1: Computational Biology
 
 Instructor: Heather E. Wheeler 
 
-Time: 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W)
+Time: 2:45 PM - 4:05 PM (M) 2:45 PM - 4:45 (W)
 
 Day(s): Monday Wednesday 
 
@@ -687,7 +687,7 @@ Day(s): See Note
 
 Campus: Water Tower
 
-Notes: Foundations of Computer Science I.? Eight Week-First Session.? This section is restricted to students with undergraduate degrees.? Department Consent required, and then a Computer Science Department staff member will enroll you.? FIRST CLASS EARLY:? Friday before other classes start:? Friday, January 15!? And then on for the next seven weeks, ending before vacation week.? Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 15, and Fri, Jan 22.? And then, 4:15 pm- 8:15 pm for the next 6 Mondays:? Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Feb 29.? Labs meet on Wednesdays, 4:15 pm - 6:30 pm:? Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 2.
+Notes: Foundations of Computer Science I. Eight Week-First Session. This section is restricted to students with undergraduate degrees. Department Consent required, and then a Computer Science Department staff member will enroll you. FIRST CLASS EARLY: Friday before other classes start: Friday, January 15. And then on for the next seven weeks, ending before vacation week.  Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 15, and Fri, Jan 22. And then, 4:15 pm- 8:15 pm for the next 6 Mondays: Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Feb 29. Labs meet on Wednesdays, 4:15 pm - 6:30 pm: Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 2.
 
 Course Description: :doc:`comp388`
 
@@ -1143,7 +1143,7 @@ Course Description: :doc:`comp473`
 COMP 474-1: Software Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Chris Stone 
+Instructor: Christopher Stone 
 
 Time: 7:00 PM - 9:30 PM
 
@@ -1263,7 +1263,7 @@ COMP 488-383: Computational Biology
 
 Instructor: Heather E. Wheeler 
 
-Time: 2:45 PM - 4:05 PM (M)  2:45 PM - 4:45 PM (W)
+Time: 2:45 PM - 4:05 PM (M) 2:45 PM - 4:45 PM (W)
 
 Day(s): Monday Wednesday 
 
