@@ -486,7 +486,7 @@ Course Description: :doc:`comp364`
 COMP374-001: Intro to Operating Systems
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Joseph Paul Kaylor
+Instructor: Sarah Kaylor
 
 Location: LSC
 
@@ -757,7 +757,7 @@ Graduate Courses
 COMP410-001: Operating Systems
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: Joseph Paul Kaylor
+Instructor: Sarah Kaylor
 
 Location: LSC
 

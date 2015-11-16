@@ -1,6 +1,7 @@
 Old Schedule Archive
 =====================
 
+* :doc:`spring2015widescreen`
 * `Fall 2014 <http://rig.cs.luc.edu/~rig/schedules/comp/2014fa/Results/bycourse.pdf>`_ and
   `Semester texts <https://docs.google.com/spreadsheets/d/1AMrKcvligP74-p7hKuJKud1GApV5WREH-Eki3zwmi-4/edit#gid=0>`_
 * `Summer 2014 <http://rig.cs.luc.edu/~rig/schedules/comp/2014Su/Results/bycourse.pdf>`_

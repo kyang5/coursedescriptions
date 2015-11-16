@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp264` or :doc:`comp360` or comparable background, including but not limited to the following:
+:doc:`comp264` or Comp 360 or comparable background, including but not limited to the following:
 
 - Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexors, registers, main memory, caches, and buses
 - familiarity with the roles of compilers, assemblers, and operating systems
