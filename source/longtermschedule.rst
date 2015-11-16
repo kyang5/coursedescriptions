@@ -60,9 +60,13 @@ Category IIa: every fall semester
 
 :doc:`comp314-315`
 
+:doc:`comp322` / :doc:`comp422`
+
 :doc:`comp336` / :doc:`comp436`
 
 :doc:`comp343` / :doc:`comp443` (on-campus and online)
+
+:doc:`comp344` / :doc:`comp433` (starting fall 2015) 
 
 :doc:`comp364` / :doc:`comp464`
 
@@ -70,17 +74,13 @@ Category IIa: every fall semester
 
 :doc:`comp374` / :doc:`comp410`
 
+:doc:`comp379` / :doc:`comp488` : Machine Learning
+
 :doc:`comp381` / :doc:`comp488` : Bioinfomatics
 
 :doc:`comp384` / :doc:`comp488` : Metagenomics 
 
-:doc:`comp322` / :doc:`comp422` (starting fall 2015)
-
-:doc:`comp344` / :doc:`comp433` (starting fall 2015)
-
 :doc:`comp388` / :doc:`comp488` : Rapid Application Development Methodology (.NET)
-
-:doc:`comp379` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
 :doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
@@ -121,6 +121,8 @@ Category IIb: every spring semester
 
 :doc:`comp383` / :doc:`comp488` : Computational Biology 
 
+:doc:`comp386` / :doc:`comp488` : Computational Neuroscience 
+
 :doc:`comp397`
 
 :doc:`comp460`
@@ -146,8 +148,6 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 ------------------------------------------------------------------
 
 :doc:`comp366` / :doc:`comp450`
-
-:doc:`comp386` / :doc:`comp488` : Computational Neuroscience
 
 .. _category_four_b:
 
