@@ -37,6 +37,8 @@ Category I: every fall and spring semester
 
 :doc:`comp317` (fall: online, spring: online and on-campus/*writing-intensive*)
 
+:doc:`comp324` / :doc:`comp424` (starting spring 2016) 
+
 :doc:`comp363`
 
 :doc:`comp388fcs1` *(graduate only)*
@@ -48,8 +50,6 @@ Category I: every fall and spring semester
 :doc:`comp413`
 
 :doc:`comp417` (fall: on-campus, spring: online)
-
-:doc:`comp324` / :doc:`comp424` (starting spring 2016)
 
 .. _category_two_a:
 
