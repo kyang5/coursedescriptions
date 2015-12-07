@@ -401,7 +401,7 @@ Undergraduate Courses
     4, Foundations of Computer Science I, Andrew N Harrington, See Note, See Note, Water Tower, [#]_ 
     5, Foundations of Computer Science II, Peter L Dordal, See Note, See Note, Water Tower, [#]_ 
     6, Programming Languages and Systems Seminar, Jose Luis Gahete Diaz, 2:45 PM - 4:00 PM, F, Lakeshore, N/A 
-    7, Phystical Design and Fabrication, TBD, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
+    7, Phystical Design and Fabrication, Jonathan Durston, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
 
 .. rubric:: Notes
 
@@ -653,7 +653,7 @@ Graduate Courses
     :header: "Section", "Topic", "Instructor", "Time", "Day(s)", "Campus", "Note"
     :widths: 10, 100, 75, 75, 30, 50, 50
 
-    7, Physical Design and Fabrication, TBD, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
+    7, Physical Design and Fabrication, Jonathan Durston, 7:00 PM - 9:30 PM, M, Lakeshore, [#]_ 
     301, Data Warehousing and Data Mining, Channah Naiman, 4:15 PM - 6:45 PM, W, Water Tower, [#]_ 
     302, Data Warehousing and Data Mining, Channah Naiman, TBD, TBD, Online, [#]_ 
     305, Database Administration, Peter L Dordal, 4:15 PM - 6:45 PM, T, Water Tower, [#]_ 
