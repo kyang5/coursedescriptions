@@ -6,7 +6,7 @@ Effective Fall 2014 - Subject to Change
 
 Loyola University Chicago - Department of Computer Science
 
-Version 2015.3, 8 Sep 2015
+Version 2015.4, 15 Nov 2015
 
 .. _category_one:
 
@@ -35,7 +35,9 @@ Category I: every fall and spring semester
 
 :doc:`comp313`
 
-:doc:`comp317` (fall: online, spring: online and on-campus/WI)
+:doc:`comp317` (fall: online, spring: online and on-campus/*writing-intensive*)
+
+:doc:`comp324` / :doc:`comp424` (starting spring 2016) 
 
 :doc:`comp363`
 
@@ -49,8 +51,6 @@ Category I: every fall and spring semester
 
 :doc:`comp417` (fall: on-campus, spring: online)
 
-:doc:`comp324` / :doc:`comp424` (starting spring 2016)
-
 .. _category_two_a:
 
 Category IIa: every fall semester
@@ -60,27 +60,27 @@ Category IIa: every fall semester
 
 :doc:`comp314-315`
 
-:doc:`comp333` / :doc:`comp488` :  Formal Methods in Software Engineering (starting fall 2016)
+:doc:`comp322` / :doc:`comp422`
 
 :doc:`comp336` / :doc:`comp436`
 
 :doc:`comp343` / :doc:`comp443` (on-campus and online)
 
+:doc:`comp344` / :doc:`comp433` (starting fall 2015) 
+
+:doc:`comp364` / :doc:`comp464`
+
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
 
 :doc:`comp374` / :doc:`comp410`
+
+:doc:`comp379` / :doc:`comp488` : Machine Learning
 
 :doc:`comp381` / :doc:`comp488` : Bioinfomatics
 
 :doc:`comp384` / :doc:`comp488` : Metagenomics 
 
-:doc:`comp322` / :doc:`comp422` (starting fall 2015)
-
-:doc:`comp344` / :doc:`comp433` (starting fall 2015)
-
 :doc:`comp388` / :doc:`comp488` : Rapid Application Development Methodology (.NET)
-
-:doc:`comp379` / :doc:`comp488` : Machine Learning (starting fall 2015)
 
 :doc:`comp390` : Broadening Participation in STEM (Science, Technology, Engineering & Math)
 
@@ -103,6 +103,10 @@ Category IIb: every spring semester
 
 :doc:`comp340` / :doc:`comp488` : Computer Forensics
 
+:doc:`comp341` / :doc:`comp441`
+
+:doc:`comp346` / :doc:`comp446`
+
 :doc:`comp348` / :doc:`comp448` (on-campus and online)
 
 :doc:`comp353`
@@ -115,7 +119,9 @@ Category IIb: every spring semester
 
 :doc:`comp378` / :doc:`comp484`
 
-:doc:`comp341` / :doc:`comp441`
+:doc:`comp383` / :doc:`comp488` : Computational Biology 
+
+:doc:`comp386` / :doc:`comp488` : Computational Neuroscience 
 
 :doc:`comp397`
 
@@ -143,8 +149,6 @@ Category IVa: every odd spring semester (spring 15, spring 17, …)
 
 :doc:`comp366` / :doc:`comp450`
 
-:doc:`comp386` / :doc:`comp488` : Computational Neuroscience
-
 .. _category_four_b:
 
 Category IVb: every odd fall semester (fall 15, fall 17, …)
@@ -152,14 +156,10 @@ Category IVb: every odd fall semester (fall 15, fall 17, …)
 
 :doc:`comp320` / :doc:`comp420` (starting fall 2015)
 
-:doc:`comp364` / :doc:`comp464`
-
 .. _category_four_c:
 
 Category IVc: every even spring semester (spring 16, spring 18, …)
 -------------------------------------------------------------------
-
-:doc:`comp383` / :doc:`comp488` : Computational Biology
 
 :doc:`comp388` / :doc:`comp488` : Robotics Software Development
 
@@ -170,8 +170,6 @@ Category IVd: every even fall semester (fall 14, fall 16, …)
 
 :doc:`comp370` / :doc:`comp488` : Software Quality and Testing
 
-:doc:`comp346` / :doc:`comp446`
-
 .. _category_four_e:
 
 Category IVe: summer
@@ -181,15 +179,17 @@ Category IVe: summer
 
 :doc:`comp150` (online)
 
-:doc:`comp170` (online)
+:doc:`comp170` (on-campus or online)
 
-:doc:`comp312` / :doc:`comp412` (online)
+:doc:`comp312` / :doc:`comp412` (online) 
+
+:doc:`comp313` / :doc:`comp413` (online) 
 
 :doc:`comp317` / :doc:`comp417`
 
 :doc:`comp346` / :doc:`comp446` (odd summers)
 
-:doc:`comp349` / :doc:`comp449` (on-campus and/or online) 
+:doc:`comp349` / :doc:`comp449` (on-campus and online) 
 
 :doc:`comp351` / :doc:`comp451` (even summers)
 
@@ -218,6 +218,8 @@ Category V: offered irregulary
 -------------------------------
 
 :doc:`comp171` (last offered spring 12)
+
+:doc:`comp333` / :doc:`comp488` :  Formal Methods in Software Engineering (starting TBD)
 
 :doc:`comp338` / :doc:`comp442`
 
