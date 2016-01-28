@@ -37,7 +37,7 @@ students must complete the following:
 Major Requirements (6 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*   :doc:`comp413`
+*   :doc:`comp413` (prereq to some other courses - take early!)
 *   :doc:`comp417`
 
 Restricted Electives (9 credits)
@@ -52,21 +52,22 @@ Group 1
     *   :doc:`comp437`
     *   :doc:`comp439`
     *   :doc:`comp442`
-    *   :doc:`comp460` (exception to :doc:`comp413` prereq)
+    *   :doc:`comp460` (note special prereq, :doc:`comp363` )
     *   :doc:`comp471`
     *   :doc:`comp473`
-    *   :doc:`comp474` (exception to :doc:`comp413` prereq)
+    *   :doc:`comp474` 
 
 Most of these Group 1 courses require :doc:`comp413` as a prerequisite.
+Excepetions are Comp 424, 474 and 460.
 
 MSSE students must also take two additional courses from either the list above 
 or the following Group 2 list:
 
 Group 2
     *   :doc:`comp410`
+    *   :doc:`comp412`
     *   :doc:`comp420`
     *   :doc:`comp436`
-    *   :doc:`comp437`
     *   :doc:`comp441`
     *   :doc:`comp453`
     *   :doc:`comp464`

@@ -21,6 +21,8 @@ degree requirements located `here <http://luc.edu/cs/academics/graduateprograms/
 
 .. include:: common_program_features.inc
 
+Note that Computer Science has more prerequisites than the other programs.
+
 Overall, to achieve depth and breadth, Computer Science students must 
 complete the following:
 
@@ -35,7 +37,7 @@ The following three courses are required by the program:
 
 * :doc:`comp417`
 * :doc:`comp413`
-* :doc:`comp460`
+* :doc:`comp460` (note important prereq :doc:`comp363`)
 
 The Graduate Program Director may approve the replacement of 
 :doc:`comp413` by an additional course on the Restricted Electives list in cases 
@@ -56,6 +58,8 @@ MS-CS students must also take three courses from the following list:
 * :doc:`comp471`
 * :doc:`comp473`
 * :doc:`comp474`
+
+Note that several of these courses require :doc:`comp413` as prerequisite.
 
 General Electives (12 Credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,12 +131,15 @@ are formal steps with documentation required by the Graduate School:
     http://www.luc.edu/gradschool/about\_facultystaff.shtml
     for the current list of full members.
 
-#.  Once the committee is approved, you may continue with your 
-    research in subsequent semesters registering for the 
+#.  You may finish while still taking :doc:`comp490` or other for-credit
+    courses.  Alternately you may still be 
+    continuing with your 
+    research in subsequent semesters, after finishing
+    all your required for-credit  courses.  Then, assuming your
+    *committee is approved*, you maintain full-time
+    status by getting the GPD to register you for the 
     zero-credit-hour Comp 595: Thesis Supervision, if available, or  
-    Comp 605: Masters Study, if Comp 595 is not listed.  If you still
-    need credit hours and have not already had the full number of hours
-    of :doc:`comp490`, you can register for that instead.
+    Comp 605: Masters Study, if Comp 595 is not listed.  
     Students may register for any number of semesters of Comp 595/605, 
     subject to time-to-degree-completion constraints.
 
@@ -140,7 +147,7 @@ are formal steps with documentation required by the Graduate School:
     the thesis becomes a degree requirement. 
     (This is important for international students.) 
     You may, however, petition to revert back to non-thesis status; 
-    this requires permission of the Graduate Program Director and the Graduate School. 
+    this requires permission of the Graduate Program Director. 
     At that point, you would be able to graduate without writing a thesis, 
     if the coursework requirements were met. 
     No reimbursement or credit will be received for any Comp 595, Comp 605, 
