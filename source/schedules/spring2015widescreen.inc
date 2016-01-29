@@ -14,7 +14,7 @@ See `Textbook Information <https://docs.google.com/spreadsheet/ccc?key=0Aj_4VraM
 QuickLinks
 ~~~~~~~~~~~~~
 
-* :doc:`springmobile`
+* :doc:`spring2015mobile`
 * :ref:`undergraduate_courses_table`
 * :ref:`graduate_courses_table`
 * :ref:`csis_courses_table`
