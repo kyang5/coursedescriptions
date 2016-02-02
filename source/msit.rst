@@ -20,25 +20,23 @@ and information technology sectors.
 Curriculum
 ----------
 
-A significant portion of the program is available online, and more courses
-are being added.
-
-.. when?
-
-   All course work can be completed online, 
-   and the program includes an intensive on-site immersion as a capstone.
+The program can now be completed online, at least part-time, and with some 
+decrease in available electives.  
+Students taking mostly regular face-to-face courses are also welcomed into 
+online courses when they find that convenient.  Most students complete the program full-time, taking mostly face-to-face courses.
 
 .. include:: common_program_features.inc
 
 Overall, to achieve depth and breadth, Information Technology
 students must complete the following:
 
-*   One (1) required course addressing ethical and social issues in the computing field.
+*   One (1) required course addressing ethical and social issues in the computing 
+    field.
 *   Three (3) courses within *one* of the following tracks: 
     Enterprise Information Management, Technology Management, 
     Information Assurance, or Enterprise Networking. 
 *   Six (6) courses or 18 credits that do not need to be in any track. They
-    can be any course in the general electives.  
+    can be any course in the general department electives.  
     
 Note that you only need three courses in *some* track. There is no need to
 satisfy more than one track. 
