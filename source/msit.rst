@@ -15,15 +15,17 @@ current and emerging technologies in the industry,
 a familiarity with systems engineering concepts, and a solid foundation in 
 net-centric computing. They will also have a firm grasp of current and 
 future effects of the convergence of the telecommunications, media, 
-and information technology sectors. 
+and information technology sectors.   
 
 Curriculum
 ----------
 
-The program can now be completed online, at least part-time, and with some 
+*The program can now be completed online*, at least part-time, and with some 
 decrease in available electives.  
+Networking and security tracks may also be completed totally online and full-time.
 Students taking mostly regular face-to-face courses are also welcomed into 
-online courses when they find that convenient.  Most students complete the program full-time, taking mostly face-to-face courses.
+online courses when they find that convenient.  
+Most students complete the program full-time, taking mostly face-to-face courses.
 
 .. include:: common_program_features.inc
 

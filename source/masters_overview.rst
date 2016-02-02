@@ -36,14 +36,27 @@ associated with another program.
 The :doc:`madh`
 is a separate interdisciplinary program, partnered with Computer Science.
 
-**Administrative and admissions information** for the graduate program is in a
-separate graduate handbook, with formats 
-`html <http://gradhandbook.cs.luc.edu/>`_ and 
-`pdf <http://gradhandbook.cs.luc.edu/latex/LoyolaComputerScienceGradHandbook.pdf>`_.
-In particular note the Graduate Handbook sections for 
+An important separate document is the 
+`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`.  See the description below.
+
+Graduate Handbook
+~~~~~~~~~~~~~~~~~
+
+Tne `Graduate Handbook <http://gradhandbook.cs.luc.edu/html>` is a separate
+document which has 
+administrative and admissions information for the graduate program 
+(also available in a  
+`pdf version <http://gradhandbook.cs.luc.edu/latex/LoyolaComputerScienceGradHandbook.pdf>`_).
+
+*Applicants* should particular;ly note the Graduate Handbook sections for 
 
 * `Prospective students <http://gradhandbook.cs.luc.edu/html/prospective_students.html>`_ 
 * `Teaching assistantships and financial aid <http://gradhandbook.cs.luc.edu/html/assistantships.html>`_
+
+Once you are enrolled, the section for ongoing reference will be **Regulations and Procedures**, 
+and the topics are
+all listed in the table of contents at the beginning of the
+`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`.
 
 .. index:: time for program
 
