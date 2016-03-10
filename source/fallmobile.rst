@@ -1,1 +1,1 @@
-.. include:: schedules/fall2015mobile.inc
+.. link ::"https://luc.app.box.com/s/ks3mhbpyy2erlcp6w4pvupn33xk53mkc/1/6932055190"
