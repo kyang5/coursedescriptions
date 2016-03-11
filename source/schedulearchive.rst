@@ -1,11 +1,8 @@
 Old Schedule Archive
 =====================
 
-<<<<<<< HEAD
 * `Spring 2015 <http://courses.cs.luc.edu/html/springwidescreen.html>`_
-=======
 * :doc:`spring2015widescreen`
->>>>>>> 95e5b857fe579767fad4cbf18af84d70b458be8f
 * `Fall 2014 <http://rig.cs.luc.edu/~rig/schedules/comp/2014fa/Results/bycourse.pdf>`_ and
   `Semester texts <https://docs.google.com/spreadsheets/d/1AMrKcvligP74-p7hKuJKud1GApV5WREH-Eki3zwmi-4/edit#gid=0>`_
 * `Summer 2014 <http://rig.cs.luc.edu/~rig/schedules/comp/2014Su/Results/bycourse.pdf>`_
