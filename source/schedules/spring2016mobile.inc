@@ -724,7 +724,7 @@ Course Description: :doc:`comp388`
 COMP 388-7: Phystical Design and Fabrication
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: TBD 
+Instructor: Jonathan Durston 
 
 Time: 7:00 PM - 9:30 PM
 
@@ -1186,7 +1186,7 @@ Course Description: :doc:`comp484`
 COMP 488-7: Physical Design and Fabrication
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Instructor: TBD 
+Instructor: Jonathan Durston 
 
 Time: 7:00 PM - 9:30 PM
 

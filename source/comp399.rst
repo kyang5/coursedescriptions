@@ -8,11 +8,6 @@ Credit Hours
 
 1 (may be taken up to three times)
 
-Prerequisites
------------------------
-
-Undergraduate Program Director approval
-
 Description
 --------------------
 

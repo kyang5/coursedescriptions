@@ -3,17 +3,12 @@
 COMP 397: Research Seminar
 ==========================
 
-Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects. 
+Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects.  
 
 Credit Hours
 -----------------------
 
 1 (may be taken up to three times)
-
-Prerequisites
------------------------
-
-Undergraduate Program Director approval
 
 Description
 --------------------

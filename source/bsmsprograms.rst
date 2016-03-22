@@ -1,18 +1,18 @@
-.. index:: b.s. / m.s. dual degree programs
+.. index:: BS / MS dual degree programs
    dual degree programs
 
-B.S./M.S. Dual Degree Programs
+BS/MS Dual Degree Programs
 ==============================
 
 Overview
 --------
 
-The B.S./M.S. programs in Information Technology, Software Engineering, 
+The BS/MS programs in Information Technology, Software Engineering, 
 and Computer Science are five-year programs that give academically successful 
-Loyola undergraduates the opportunity to pursue the M.S. degree in 
+Loyola undergraduates the opportunity to pursue the MS degree in 
 Information Technology, Software Engineering, 
-or Computer Science while completing their B.S. degree. 
-The applicant can be pursuing any of the B.S. degrees offered by the 
+or Computer Science while completing their BS degree. 
+The applicant can be pursuing any of the BS degrees offered by the 
 Department of Computer Science, including the joint majors with Mathematics 
 or Physics or the interdisciplinary Bioinformatics.
 
@@ -32,27 +32,27 @@ Curriculum
 .. Students entering before Spring 2014 may choose instead to follow the 
    previous requirements located here, though the new version is generally more flexible.
 
-The stand-alone M.S. programs each require 30 credits of graduate courses. 
+The stand-alone MS programs each require 30 credits of graduate courses. 
 This generally takes one and a half years to complete. 
-B.S./M.S. students must also take 30 credits of courses at the 
+BS/MS students must also take 30 credits of courses at the 
 400 level or greater. The main advantages come from the fact that 
-some of the MS courses may be double counted, applying to the B.S. also, 
+some of the MS courses may be double counted, applying to the BS also, 
 and there can be a shift in some of the required MS courses based on what 
-students took in the B.S. portion. In particular students in the B.S./M.S. 
+students took in the BS portion. In particular students in the BS/MS 
 program are allowed to “double count” 9 credits 
 (generally three 3-credit courses) of their Loyola COMP courses for 
-both their B.S. and M.S. degrees. Each must be a 400 level course taken 
+both their BS and MS degrees. Each must be a 400 level course taken 
 in the student's senior year *in place* of a 300 level major course. 
 In addition, a student wishing to take 123 or more credits 
 while an undergraduate, can have 3 of the extra credits 
-be for a fourth 400 level COMP course, and count that toward the M.S. 
+be for a fourth 400 level COMP course, and count that toward the MS 
 if the extra course is need for *no* undergraduate requirement, from the
 university, college, core, major or minor.
-Hence a B.S./M.S. student with 120 credits and 9 400-level COMP credits 
-counted for the B.S. is required to take only 21 credits 
+Hence a BS/MS student with 120 credits and 9 400-level COMP credits 
+counted for the BS is required to take only 21 credits 
 (instead of 30 credits) of additional 400-level courses. 
 If a student takes a further 3-credit 400 level COMP course beyond the 
-120 credits needed for the B.S., then only 18 further credits are needed. 
+120 credits needed for the BS, then only 18 further credits are needed. 
 In either case students can finish the program in five years. 
 Some further special rules:
 
@@ -66,17 +66,17 @@ Some further special rules:
      in a combined class with a 400 level course may not take the 
      400 level course later for separate credit without permission from 
      the Graduate Program Director. In particular for students with credit 
-     for :doc:`comp317`, the M.S. requirement for :doc:`comp417` is waived, 
-     to be replaced by 3 M.S. elective credits. 
+     for :doc:`comp317`, the MS requirement for :doc:`comp417` is waived, 
+     to be replaced by 3 MS elective credits. 
      Similarly, in programs requiring :doc:`comp413`, :doc:`comp313` will 
      satisfy the requirement, but still the course will need to be replaced 
-     by 3 M.S. elective credits.
-#.   In M.S. programs with restricted electives lists with two or more courses 
+     by 3 MS elective credits.
+#.   In MS programs with restricted electives lists with two or more courses 
      required from a larger explicit list, one of the courses may be waived 
      if the corresponding 300 level undergraduate course was successfully 
      completed at Loyola. The course must still be replaced by a 3-credit 
-     M.S. program elective.
-#.   All further individual M.S. program requirements must be met, 
+     MS program elective.
+#.   All further individual MS program requirements must be met, 
      but with the inclusion of the allowed 400 level courses taken as an 
      undergraduate.
 
@@ -85,7 +85,7 @@ Some further special rules:
 Application Requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The academic prerequisites to be considered for admission to the B.S./M.S. 
+The academic prerequisites to be considered for admission to the BS/MS 
 programs in the Computer Science Department are as follows:
 
 -   Successful completion of a total of at least 15 credits of major 
@@ -100,7 +100,7 @@ programs in the Computer Science Department are as follows:
 -   A cumulative GPA of 3.3 or higher for all course work at Loyola;
 -   Satisfactory progress towards completion of Loyola’s core.
 
-Further notes on B.S. completion:  Before the deadlines do apply to graduate 
+Further notes on BS completion:  Before the deadlines do apply to graduate 
 with your B.S in the semester you will actually finish!  
 Otherwise you complicate the conversion to graduate status.
 If the date when you will start graduate status changes from your original
@@ -125,11 +125,11 @@ on-line Graduate Application Form through the Graduate School web-site.
 The application will be evaluated upon completion of the following:
 
 -   `The Graduate Application Form <https://gpem.luc.edu/apply/>`_; 
-    applicants are to select the B.S./M.S. option.  Be careful of the
+    applicants are to select the BS/MS option.  Be careful of the
     misleading entry named "starting semester": The 
     *starting semester for the program should be the first semester when the*
     *student will be in pure*  **graduate** *status* (after expected completion
-    of the B.S.).  This is *not* the semester coming right after the student 
+    of the BS).  This is *not* the semester coming right after the student 
     has filled out the application.  This is *after* all double-counted
     courses are completed.
 -   A one page personal statement of purpose; 
@@ -137,17 +137,17 @@ The application will be evaluated upon completion of the following:
 -   Three letters of recommendation, at least two coming from faculty 
     in the Department of Computer Science at Loyola University.
 
-Note that the GRE exam is not required for applicants to the B.S./M.S. program, 
+Note that the GRE exam is not required for applicants to the BS/MS program, 
 even if they are applying for an assistantship. There is no application fee 
 for applicants who apply on-line. At the time of consideration for admission, 
 the student’s most recent Loyola transcript will be examined. 
 If the applicant has transfer credits from another college or university, 
 the student may be required to submit those as well.
 
-Requirements for Completion of the B.S./M.S. Program
+Requirements for Completion of the BS/MS Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-After admission to the B.S./M.S. program, a student may request to be 
+After admission to the BS/MS program, a student may request to be 
 registered in their senior year for up to four 400 level COMP courses, 
 with three of them replacing undergraduate major courses, and a fourth if 
 student will graduate with at least 123 credits and not need the fourth course 
@@ -157,13 +157,13 @@ classes during their fifth year. This schedule can be modified for students
 with AP or transfer credit who desire to finish the combined program 
 in less than five years. Students in the program are expected to consult 
 regularly with the Graduate Program Director to insure that they are on track 
-for completion of both the B.S. and M.S. degrees. 
-The following are required to complete a B.S./M.S. degree program:
+for completion of both the BS and MS degrees. 
+The following are required to complete a BS/MS degree program:
 
-Successful completion of one of the B.S. degrees in the Department of 
+Successful completion of one of the BS degrees in the Department of 
 Computer Science or Bioinformatics or a joint major with Mathematics or Physics. 
 It is expected that the student complete all degree requirements for their 
-chosen B.S. degree at least two semesters before completing the M.S. degree. 
+chosen BS degree at least two semesters before completing the MS degree. 
 The 30 credits of 400-level graduate courses, including those taken while an 
 undergraduate, must be completed with a GPA of 3.0 or higher;
 

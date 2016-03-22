@@ -14,8 +14,11 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp170` or :doc:`comp215` or
-:doc:`comp163` or |math201| (corequisite or prerequisite)
+:doc:`comp170` or :doc:`comp215`
+
+Co-requisites
+------------------------
+:doc:`comp163` or |math201| (corequisite or prerequisite) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
 
 Description
 --------------------
