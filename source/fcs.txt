@@ -1,4 +1,4 @@
-All MS students are expected to have completed the following
+All MS students are expected to have completed the undergraduate
 prerequisites:
 
 - :doc:`comp388fcs1` is an accelerated version of :doc:`comp163` and :doc:`comp170`
