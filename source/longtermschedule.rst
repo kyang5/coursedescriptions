@@ -70,9 +70,9 @@ Category IIa: every fall semester
 
 :doc:`comp344` / :doc:`comp433` (starting fall 2015) 
 
-:doc:`comp364` / :doc:`comp464`
-
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
+
+:doc:`comp364` / :doc:`comp464`
 
 :doc:`comp374` / :doc:`comp410`
 
