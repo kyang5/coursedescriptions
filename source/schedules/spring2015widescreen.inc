@@ -1,7 +1,7 @@
 Spring 2015 Schedule (Widescreen/Table Format)
-=============================================================
+==============================================
 
-The following courses will (tentatively) be held during the Spring 2015 semester.
+The following courses were held during the Spring 2015 semester.
 
 For classroom locations and open/full status, see `LOCUS <http://www.luc.edu/locus>`_.
 
