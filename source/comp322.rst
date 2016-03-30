@@ -14,7 +14,6 @@ Prerequisites
 
 :doc:`comp264` and :doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
