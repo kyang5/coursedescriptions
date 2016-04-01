@@ -1,4 +1,4 @@
-.. index:: network management
+﻿.. index:: network management
 
 COMP 451: Network Management
 =======================================================
@@ -34,7 +34,6 @@ networks and distributed management area and shows case studies of
 academic and industrial systems such as HiFi, SMARRT, OpenView, NetView
 and Tivoli.
 
-Class meets with INFS 793.
 
 Outcome
 ---------
