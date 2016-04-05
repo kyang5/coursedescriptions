@@ -13,7 +13,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp150` or :doc:`comp170`
+:doc:`comp150` or :doc:`comp170` and :doc:`comp 271`
 
 .. include:: fcs.txt
 

@@ -16,7 +16,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp264` or PHYS 266
+:doc:`comp264` or :doc:`comp271` or PHYS 266
 
 .. include:: fcs.txt
 
