@@ -14,13 +14,12 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp170` (coreq or prereq) or :doc:`comp150`
+:doc:`comp125` or :doc:`comp150` or :doc:`comp170` or :doc:`comp215`
 
 Description
 --------------------
 
-This required foundation course for the new BS majors the Department of
-Computer Science is intended to provide students with the knowledge and skills
+This course provides students with the knowledge and skills
 in writing, presentations, and other forms of technical communication expected
 of them in their future roles as science and technology professionals. The
 course covers the following topics: principles of organizing,developing, and

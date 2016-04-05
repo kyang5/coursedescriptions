@@ -1,9 +1,9 @@
-.. index:: intrusion detection and computer forensics
+.. index:: intrusion detection
    intrusion detection
-   computer forensics
+   computer security
 
-COMP 447: Intrusion Detection and Computer Forensics
-=======================================================
+COMP 447: Intrusion Detection
+=============================
 
 Credit Hours
 -----------------------------------

@@ -15,16 +15,37 @@ current and emerging technologies in the industry,
 a familiarity with systems engineering concepts, and a solid foundation in 
 net-centric computing. They will also have a firm grasp of current and 
 future effects of the convergence of the telecommunications, media, 
-and information technology sectors.   
+and information technology sectors.  
+
+Courses may be taken in Chicago, online or at our Vernon Hills campus. 
+
+Entirely Online Option
+-----------------------
+
+*The program can now be completed entirely online* 
+with some  decrease in available electives.    
+Networking and security tracks may be completed online and full-time.
+The management tracks can be completed online at least part-time over two years. 
+Students taking mostly regular face-to-face courses are also welcomed into 
+online courses when they find that convenient, but students signed up explicitly
+for the entirely online option 
+*get the advantage of being able to be registered before other students*
+who might happen to choose to take some of their courses online.  
+Student in the entirely online program should *contact the GPD with course choices* 
+three days before the usual start of registration. 
+
+Vernon Hills Campus
+--------------------
+
+The MS IT degree can be obtained not only at the Chicago campus and online,
+but also with courses in Vernon Hills, at the Cuneo Mansion.  Students
+may also mix the location and form of their classes.  Students taking courses 
+entirely at Vernon Hills will need to be part-time
+over two years to complete the program.
 
 Curriculum
 ----------
 
-*The program can now be completed online*, at least part-time, and with some 
-decrease in available electives.  
-Networking and security tracks may also be completed totally online and full-time.
-Students taking mostly regular face-to-face courses are also welcomed into 
-online courses when they find that convenient.  
 Most students complete the program full-time, taking mostly face-to-face courses.
 
 .. include:: common_program_features.inc

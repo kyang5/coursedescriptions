@@ -11,7 +11,7 @@ Note: While we update this page regularly, please check
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit#gid=0>`_.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1EecgbxCW0efku2_yaGrhOEwznoj9eGTJI01dOJgQ1R8/edit?pli=1#gid=0&fvid=830414496>`_.
 
 Alternate wide screen format page: :doc:`fallwidescreen`.
 

@@ -1,9 +1,9 @@
-.. index:: intrusion detection and computer forensics
+.. index:: intrusion detection and computer security
    intrusion detection
-   computer forensics
+   computer security
 
-COMP 347: Intrusion Detection and Computer Forensics
-====================================================
+COMP 347: Intrusion Detection and Computer Security
+===================================================
 
 This course covers techniques and algorithms for detecting unusual usage patterns that typically signal a break-in, including techniques for detecting evasive or stealthy attacks. Also covered are differences in detecting local versus network intruders. Additional topics: computer viruses, computer security management, computer forensics. 
 

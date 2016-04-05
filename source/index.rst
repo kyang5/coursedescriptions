@@ -27,24 +27,18 @@ Schedules
    :maxdepth: 1
 
    fall
+   summer
    springwidescreen
    springmobile
-   summer
 
-   
 If you wish to look forward further, see 
 
-.. toctree::
-   :maxdepth: 1
-   
-   longtermschedule
+* :doc:`longtermschedule`
 
 Or look further back:
 
-.. toctree::
-   :maxdepth: 1
+* :doc:`schedulearchive`
    
-   schedulearchive
 
 Tutoring
    
@@ -244,10 +238,7 @@ MS IT Graduate Courses/Quinlan Business School
 Downloading
 ----------------
 
-.. toctree::
-   :maxdepth: 1
-
-   downloading
+* :doc:`downloading`
 
 
 :ref:`genindex`
