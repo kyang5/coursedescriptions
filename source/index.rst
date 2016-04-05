@@ -23,7 +23,7 @@ see :ref:`download_other_formats`.
 Schedules
 ------------
 
-* `Fall Schedules from Locus <https://luc.app.box.com/s/ks3mhbpyy2erlcp6w4pvupn33xk53mkc/1/6932055190>`_
+* :doc:`fall`
 * :doc:`summer`
 * :doc:`springwidescreen`
 * :doc:`springmobile`

@@ -14,7 +14,6 @@ Prerequisites
 - :doc:`comp313`
 - instructor permission if prerequisite is missing
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

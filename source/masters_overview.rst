@@ -6,7 +6,8 @@ management and business process facing.
 It is distinguished from a pure business degree by its requirement and 
 frequent use of basic programming and other technical skills.  
 If you end up managing technical workers, 
-you will have an edge over those with pure business degrees.
+you will have an edge over those with pure business degrees.  Read to see
+the general program and the special opportunities for a totally *online* version.
 
 The :doc:`msse` 
 is focused on knowledge and abilities to produce 
@@ -37,12 +38,12 @@ The :doc:`madh`
 is a separate interdisciplinary program, partnered with Computer Science.
 
 An important separate document is the 
-`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`.  See the description below.
+`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`_.  See the description below.
 
 Graduate Handbook
 ~~~~~~~~~~~~~~~~~
 
-Tne `Graduate Handbook <http://gradhandbook.cs.luc.edu/html>` is a separate
+Tne `Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`_ is a separate
 document which has 
 administrative and admissions information for the graduate program 
 (also available in a  
@@ -56,7 +57,7 @@ administrative and admissions information for the graduate program
 Once you are enrolled, the section for ongoing reference will be **Regulations and Procedures**, 
 and the topics are
 all listed in the table of contents at the beginning of the
-`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`.
+`Graduate Handbook <http://gradhandbook.cs.luc.edu/html>`_.
 
 .. index:: time for program
 

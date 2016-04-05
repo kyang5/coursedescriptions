@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
