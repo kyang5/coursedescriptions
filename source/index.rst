@@ -23,11 +23,14 @@ see :ref:`download_other_formats`.
 Schedules
 ------------
 
-* :doc:`fall`
-* :doc:`summer`
-* :doc:`springwidescreen`
-* :doc:`springmobile`
-   
+.. toctree::
+   :maxdepth: 1
+
+   fall
+   summer
+   springwidescreen
+   springmobile
+
 If you wish to look forward further, see 
 
 * :doc:`longtermschedule`
