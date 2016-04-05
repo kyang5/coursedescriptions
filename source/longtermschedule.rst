@@ -15,6 +15,8 @@ Category I: every fall and spring semester
 
 :doc:`comp111` *(writing-intensive)* (starting spring 2016) 
 
+:doc:`comp122`
+
 :doc:`comp125` (1-2)
 
 :doc:`comp150` (3)
@@ -68,9 +70,9 @@ Category IIa: every fall semester
 
 :doc:`comp344` / :doc:`comp433` (starting fall 2015) 
 
-:doc:`comp364` / :doc:`comp464`
-
 :doc:`comp347` / :doc:`comp447` (on-campus and online)
+
+:doc:`comp364` / :doc:`comp464`
 
 :doc:`comp374` / :doc:`comp410`
 
@@ -90,8 +92,6 @@ Category IIa: every fall semester
 
 Category IIb: every spring semester
 ------------------------------------
-
-:doc:`comp122`
 
 :doc:`comp300` / :doc:`comp488` : Data Warehousing and Data Mining (on-campus and online)
 
