@@ -14,8 +14,6 @@ Prerequisites
 
 :doc:`comp271` (strictly enforced)
 
-.. include:: fcs.txt
-
 Description
 ----------------------------
 

@@ -11,9 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp264` or :doc:`comp271` or :doc:`comp447`
-
-.. include:: fcs.txt
+:doc:`comp264` or :doc:`comp170` or :doc:`comp447`
 
 Description
 ----------------------------

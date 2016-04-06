@@ -16,9 +16,8 @@ INFS 796
 Prerequisites
 -----------------
 
-INFS 492 / ISOM 492
+INFS 492 / ISOM 492 or other source of SQL
 
-.. include:: fcs.txt
 
 Description
 --------------

@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp413`
+:doc:`comp413` or :doc:`comp313`
 
 You need to have knowledge of Java, C# or a similar object-oriented language,
 data structures, and fair sophistication with OOP - some experience with
@@ -19,7 +19,6 @@ designing interacting, cooperating classes that would come in an intermediate
 discussion of software patterns. Software engineering is recommended but not
 required like the background listed above.
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

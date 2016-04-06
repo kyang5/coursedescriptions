@@ -19,7 +19,6 @@ Prerequisites
 :doc:`comp271` and :doc:`comp353` and *a background in statistics*
 as in ISOM 491
 
-.. include:: fcs.txt
 
 Description
 ------------------

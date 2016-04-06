@@ -8,9 +8,8 @@ Prerequisites
 
 Mathematics (one of :doc:`comp163`, |math313| or |math201|)
 
-Programming (:doc:`comp125`, :doc:`comp170`, :doc:`comp215`, or equivalent).
+Programming :doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

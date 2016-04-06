@@ -13,8 +13,6 @@ Prerequisites
 
 :doc:`comp374`
 
-.. include:: fcs.txt
-
 
 Description
 ----------------------------

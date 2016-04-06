@@ -11,9 +11,8 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp163` and :doc:`comp271`
+:doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

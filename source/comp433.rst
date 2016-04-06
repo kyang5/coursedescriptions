@@ -15,7 +15,6 @@ Prerequisites
 - :doc:`comp442` (highly recommended)
 - instructor permission if prerequisite is missing
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

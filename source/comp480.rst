@@ -15,7 +15,6 @@ Prerequisites
 
 The requirements for the course are some familiarity with C or C++, basic linear algebra (matrices and vector geometry), and differential calculus.
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

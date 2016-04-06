@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`comp163` or |math201| or |math212|
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

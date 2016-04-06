@@ -11,9 +11,8 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-Department consent
+Vary by section:  most commonly :doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
