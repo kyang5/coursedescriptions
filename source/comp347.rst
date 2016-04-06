@@ -16,7 +16,7 @@ Credit Hours
 Prerequisites
 ---------------------
 
-:doc:`comp150` or :doc:`comp170` or :doc:`comp347`
+:doc:`comp150` or :doc:`comp170`
 
 Description
 --------------------
