@@ -15,6 +15,8 @@ Prerequisites
 
 .. LOCUS lists 163 and biol 388
 
+:doc:`comp381`
+
 :doc:`comp271`
 
 :doc:`comp163`

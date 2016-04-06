@@ -174,7 +174,6 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 
    comp409
    comp410
-   comp411
    comp412
    comp413
    comp417

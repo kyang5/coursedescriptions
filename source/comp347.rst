@@ -1,4 +1,4 @@
-.. index:: intrusion detection and computer security
+﻿.. index:: intrusion detection and computer security
    intrusion detection
    computer security
 
@@ -16,7 +16,7 @@ Credit Hours
 Prerequisites
 ---------------------
 
-:doc:`comp150` or :doc:`comp170`
+:doc:`comp150` or :doc:`comp170` or :doc:`comp347`
 
 Description
 --------------------
