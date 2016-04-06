@@ -6,4 +6,4 @@ The fall schedule is consolidated from a Locus report in a different order than 
 The schedule is always subject to change. We try to display the latest version. The current enrollments may well have changed since the last report. Be sure to check Locus for courses that are open.
 
 The schedule can be found here: 
-https://luc.app.box.com/s/ks3mhbpyy2erlcp6w4pvupn33xk53mkc/1/6932055190/59018366601/1
+https://drive.google.com/file/d/0B04Iw11z3R5tV0hxMzU2XzJRNGs/view?usp=sharing
