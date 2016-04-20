@@ -17,7 +17,7 @@ net-centric computing. They will also have a firm grasp of current and
 future effects of the convergence of the telecommunications, media, 
 and information technology sectors.  
 
-Courses may be taken in Chicago, online or at our Vernon Hills campus. 
+Courses may be taken in Chicago, online or at our *new* :ref:`vernon-hills` campus. 
 
 Entirely Online Option
 -----------------------
@@ -34,14 +34,16 @@ who might happen to choose to take some of their courses online.
 Student in the entirely online program should *contact the GPD with course choices* 
 three days before the usual start of registration. 
 
+.. _vernon-hills:
+
 Vernon Hills Campus
 --------------------
 
 The MS IT degree can be obtained not only at the Chicago campus and online,
-but also with courses in Vernon Hills, at the Cuneo Mansion.  Students
-may also mix the location and form of their classes.  Students taking courses 
+but also with courses in Vernon Hills, at the Cuneo Mansion.  See the :ref:`cuneo-schedule`.
+students may also mix the location and form of their classes.  Students taking courses 
 entirely at Vernon Hills will need to be part-time
-over two years to complete the program.
+over two years to complete the program.  
 
 Curriculum
 ----------

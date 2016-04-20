@@ -112,7 +112,7 @@ Application Information
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Current Loyola students who have met the above academic prerequisites 
-are encouraged to apply between January 15 and March 15 of their junior year, 
+are encouraged to apply before registration opens for your senior year, 
 though the program is still of practical help to a student who applies before 
 the final undergrad semester in which s/he is taking COMP courses. 
 Students who have an interest in the program are encouraged to consult 
@@ -129,11 +129,10 @@ The application will be evaluated upon completion of the following:
     misleading entry named "starting semester": The 
     *starting semester for the program should be the first semester when the*
     *student will be in pure*  **graduate** *status* (after expected completion
-    of the BS).  This is *not* the semester coming right after the student 
+    of the BS).  This is *not* generally the semester coming right after the student 
     has filled out the application.  This is *after* all double-counted
     courses are completed.
--   A one page personal statement of purpose; 
-    this is inserted as part of the Graduate Application Form;
+-   A one page personal statement of purpose;
 -   Three letters of recommendation, at least two coming from faculty 
     in the Department of Computer Science at Loyola University.
 
@@ -149,9 +148,9 @@ Requirements for Completion of the BS/MS Program
 
 After admission to the BS/MS program, a student may request to be 
 registered in their senior year for up to four 400 level COMP courses, 
-with three of them replacing undergraduate major courses, and a fourth if 
+with three of them replacing undergraduate major courses, and a fourth *if* 
 student will graduate with at least 123 credits and not need the fourth course 
-as a part of any undergraduate requirement. 
+as a part of *any* undergraduate requirement. 
 Students generally take the remainder of their 30 credits of 400-level 
 classes during their fifth year. This schedule can be modified for students 
 with AP or transfer credit who desire to finish the combined program 
@@ -160,12 +159,11 @@ regularly with the Graduate Program Director to insure that they are on track
 for completion of both the BS and MS degrees. 
 The following are required to complete a BS/MS degree program:
 
-Successful completion of one of the BS degrees in the Department of 
-Computer Science or Bioinformatics or a joint major with Mathematics or Physics. 
-It is expected that the student complete all degree requirements for their 
-chosen BS degree at least two semesters before completing the MS degree. 
-The 30 credits of 400-level graduate courses, including those taken while an 
-undergraduate, must be completed with a GPA of 3.0 or higher;
+*   Successful completion of one of the BS degrees in the Department of 
+    Computer Science or Bioinformatics or a joint major with Mathematics or Physics. 
+*   The 30 credits of 400-level graduate courses, 
+    including those counted while an 
+    undergraduate, completed with a GPA of 3.0 or higher
 
 Further Information
 ~~~~~~~~~~~~~~~~~~~

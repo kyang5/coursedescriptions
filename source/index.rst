@@ -34,6 +34,7 @@ Schedules
 If you wish to look forward further, see 
 
 * :doc:`longtermschedule`
+* :doc:`cuneo2yrschedule`
 
 Or look further back:
 
