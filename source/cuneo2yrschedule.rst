@@ -4,10 +4,11 @@
 
 .. _cuneo-schedule:
 
-Course Schedule - Cuneo Mansion in Vernon Hills
-================================================
+Cuneo Mansion Course Schedule
+==============================
 
-We are planning to offer the following courses at Cuneo Mansion on a two-year cycle. Students can start the program in any term and finish within two years.  Students can also supplement with online courses, or courses offered at the WTC or LSC campus for more course options,flexible schedule or speeding up completion.  
+We are planning to offer the following courses at Cuneo Mansion 
+in Vernon Hills on a two-year cycle. Students can start the program in any term and finish within two years.  Students can also supplement with online courses, or courses offered at the WTC or LSC campus for more course options, flexible schedule and speeding up completion.  Your degree does not depend on which campuses you attend classes.
 
 Fall 2016
 
