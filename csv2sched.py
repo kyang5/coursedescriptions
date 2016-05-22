@@ -392,8 +392,10 @@ def parseCSV(csvFile):
 
 def main():
     (courses, semester, created) = parseCSV('fall2016.csv')
-    print(toRST(courses, semester, created, textURL='http://cs.luc.edu'))
+    rst = toRST(courses, semester, created, textURL='http://cs.luc.edu')
     printLog()
+    with open('source/autoFall.rst', 'w') as outf:
+        outf.write(rst)
 ##    if sys.args
 
 main()
