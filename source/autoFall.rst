@@ -93,7 +93,7 @@ Undergraduate Courses
     | Section 700N (5982) Credits: 3; Online; Lecture
     | Instructor: Safoora Fatima
     | Online Monday 07:30PM-09:00
-    | Online Friday 07:30PM-09:00
+    | Online Friday 07:30PM-09:00 - Check week(s)
 
     **Notes:**
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
@@ -486,8 +486,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Andrew N Harrington
     | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
     | Corboy Law Center:0201 (Water Tower) Thursday 04:15PM-06:30
-    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15
-    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15
+    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
 
     **Notes:**
     Foundations of Computer Science I.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer
@@ -541,7 +540,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, Staff, Staff, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
         
 
@@ -776,7 +775,7 @@ COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, Staff, Staff, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`comp499` 

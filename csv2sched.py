@@ -118,15 +118,24 @@ class Section:
         self.setDocName() 
         placeTimeList = [] #allow multiple lines
         i = 2
+        lastFriLoc = ''
         while lines[i] and lines[i][0] == 'Bldg:':
-            placeTimeList.append(getPlaceTime(lines[i], campus))
+            loc = getPlaceTime(lines[i], campus)
+            # assume short term Fridays as later entrues are special, not all term.
+            if i>2 and self.term and ', Friday' not in loc and 'Friday' in loc:
+                if lastFriLoc != loc:
+                    placeTimeList.append(loc + ' - Check week(s)')
+                lastFriLoc = loc
+            else:
+                placeTimeList.append(loc)
             i += 1
             if len(lines[i-1]) == len(lines[i]) and not lines[i][0]: # further instr under orig, empty fields before
                 if lines[i][-1] and lines[i][-1] not in self.instructorList:
                      self.instructorList.append(lines[i][-1])
                 i += 1
                                                                   
-        self.placeTimes = joinIndented(placeTimeList, indent + '| ')  # force separate lines 
+        lastFriLoc = ''
+        self.placeTimes = joinIndented(placeTimeList, indent + '| ')  # force separate lines
         self.instructorList.sort()
         self.instructor = ', '.join([parse_instructor(instr) for instr in self.instructorList])
         if lines[i] and lines[i][0] == 'Class Enrl Cap:': #look for more unused line types in future
@@ -263,6 +272,7 @@ def doIndepStudyRST(crsAbbr, courses):
     for section in courses:
         if courses[section].crsAbbr == crsAbbr:
            names += courses[section].instructorList
+    names = [name for name in names if name != 'Staff']
     names.sort()  # name last-first for sorting
     names = [parse_instructor(name) for name in names]
     return indepStudyTemplate.format(crsAbbr, ', '.join(names))  
