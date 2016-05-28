@@ -230,7 +230,6 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-{textURLline}
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -313,8 +312,6 @@ def toRST(courses, semester, created, textURL=''):
     # later CSIS, too?
 
     season = semester.split()[0]
-    textURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
-    textURLline = textURLTemplate.format(**locals()) if textURL else ''
 
     parts = [headingTemplate.format(**locals())]
     
@@ -404,7 +401,7 @@ def main():
     (courses, semester, created) = parseCSV('fall2016.csv')
     rst = toRST(courses, semester, created, textURL='http://cs.luc.edu')
     printLog()
-    with open('source/autoFall.rst', 'w') as outf:
+    with open('source/fall.rst', 'w') as outf:
         outf.write(rst)
 ##    if sys.args
 
