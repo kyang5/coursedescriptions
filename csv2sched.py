@@ -151,7 +151,7 @@ class Section:
 
     def setDocName(self):
         #assume convention for section > 100, section is corresponding linked course
-        specialSect = {'502': '351'
+        specialSect = {'502': '305'
                       }
         self.docName = self.crsAbbr
         if self.crsAbbr in ['comp388', 'comp488']:
@@ -238,8 +238,7 @@ The 4-digit number in parentheses after the section is the Locus registration co
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-You can skip down to :ref:`{season}_graduate_courses_list_{mainCampus}`.
-
+{graduateLink}
 
 **View Campus Specific Courses below :**
 {campusURLTemplate}
@@ -248,7 +247,7 @@ You can skip down to :ref:`{season}_graduate_courses_list_{mainCampus}`.
 
 .. _{season}_undergraduate_courses_list:
 
-Undergraduate Courses
+{udergradeTxt}
 ~~~~~~~~~~~~~~~~~~~~~
 
 '''
@@ -327,6 +326,10 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoFall`
 
 :doc:`onlineFall` '''
+    graduateLink = '''
+You can skip down to
+:ref:`fall_graduate_courses_list_`. '''
+    udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
     
     doLevelRST(undergrad, 'comp398', parts, courses)
@@ -358,11 +361,17 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
+:doc:`fall`
+
 :doc:`waterTowerFall`
 
 :doc:`cuneoFall`
 
 :doc:`onlineFall` '''
+    graduateLink = '''
+You can skip down to
+:ref:`fall_graduate_courses_list_Lake Shore`. '''
+    udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
     
     doLevelRST(undergrad, 'comp398', parts, courses)
@@ -392,12 +401,17 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
+:doc:`fall`
+
 :doc:`lakeShorefall`
 
 :doc:`cuneoFall`
 
 :doc:`onlineFall` '''
-    
+    graduateLink = '''
+You can skip down to
+:ref:`fall_graduate_courses_list_Water Tower`. '''
+    udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
     
     doLevelRST(undergrad, 'comp398', parts, courses)
@@ -408,7 +422,7 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
 
 def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
-    undergrad = ['comp398'] + [section for section in courses   # one placeholder for 398
+    undergrad = [section for section in courses   # one placeholder for 398
                                if courses[section].area == 'COMP' and 
                                   '398' != courses[section].number < '400' and 
                                   courses[section].campus == 'Cuneo Mansion']
@@ -427,11 +441,15 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
+:doc:`fall`
+
 :doc:`lakeShorefall`
 
 :doc:`waterTowerFall`
 
 :doc:`onlineFall` '''
+    graduateLink = ''
+    udergradeTxt = ''
     parts = [headingTemplate.format(**locals())]
     
     doLevelRST(undergrad, 'comp398', parts, courses)
@@ -461,11 +479,17 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Courses )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
+:doc:`fall`
+
 :doc:`lakeShorefall`
 
 :doc:`waterTowerFall`
 
 :doc:`cuneoFall` '''
+    graduateLink = '''
+You can skip down to
+:ref:`fall_graduate_courses_list_Online`. '''
+    udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
     
     doLevelRST(undergrad, 'comp398', parts, courses)

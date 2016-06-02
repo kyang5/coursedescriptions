@@ -19,11 +19,14 @@ The 4-digit number in parentheses after the section is the Locus registration co
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-You can skip down to :ref:`Fall_graduate_courses_list_Water Tower`.
 
+You can skip down to
+:ref:`fall_graduate_courses_list_Water Tower`. 
 
 **View Campus Specific Courses below :**
  
+:doc:`fall`
+
 :doc:`lakeShorefall`
 
 :doc:`cuneoFall`

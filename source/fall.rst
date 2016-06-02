@@ -19,8 +19,9 @@ The 4-digit number in parentheses after the section is the Locus registration co
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-You can skip down to :ref:`Fall_graduate_courses_list_`.
 
+You can skip down to
+:ref:`fall_graduate_courses_list_`. 
 
 **View Campus Specific Courses below :**
  
@@ -776,7 +777,7 @@ COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     | Section 502 (5980) Credits: 3; Blended; Lecture
     | Instructor: Staff
     | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
-    | Description similar to: :doc:`comp351`
+    | Description similar to: :doc:`comp305`
 
 
 
