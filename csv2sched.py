@@ -573,7 +573,6 @@ def parseCSV(csvFile):
                term = '[Term: ' + part[3][6] + ']'
         else:  # section description
             #print('Processing section') #DEBUG
-            #print('Title displayed for empty', part[4][6] )
             section = Section(campus, term, part)
             courses[section.abbr] = section
         #input('press return: ')  #DEBUG
