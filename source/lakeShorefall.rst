@@ -1,5 +1,5 @@
 
-Fall 2016 Schedule 
+Fall 2016 Schedule ( Lake Shore Campus )
 ==========================================================================
 Updated 05/25/2016 21:03:17
 
@@ -21,11 +21,11 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 You can skip down to
-:ref:`fall_graduate_courses_list_`. 
+:ref:`fall_graduate_courses_list_Lake Shore`. 
 
 **View Campus Specific Courses below :**
  
-:doc:`lakeShorefall`
+:doc:`fall`
 
 :doc:`waterTowerFall`
 
@@ -99,18 +99,6 @@ Undergraduate Courses
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
-
-
-:doc:`comp150` [Term: Eight Week - First]
-    | Section 700N (5982) Credits: 3; Online; Lecture
-    | Instructor: Safoora Fatima
-    | Online Monday 07:30PM-09:00
-    | Online Friday 07:30PM-09:00 - Check week(s)
-
-    **Notes:**
-    COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
 
 
 :doc:`comp163` 
@@ -209,17 +197,6 @@ Undergraduate Courses
     
     
     Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in COMP 170-04L (Lab).
-
-
-:doc:`comp170` [Term: Eight Week - First]
-    | Section 700N (5984) Credits: 3; Online; Lecture
-    | Instructor: Safoora Fatima
-    | Online Tuesday 07:30PM-09:00
-
-    **Notes:**
-    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays, 7:30-9PM CST
 
 
 :doc:`comp215` 
@@ -331,20 +308,6 @@ COMP 315  (Description: :doc:`comp314-315`)
     upcoming practice times and place.  Contact Dr. Andrew Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
 
 
-:doc:`comp317` 
-    | Section 001 (3457) Credits: 3; Hybrid; Lecture
-    | Instructor: Matthew Paul Butcher
-    | Online Tuesday 07:00PM-09:30
-
-    **Notes:**
-    This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
-    during the semester, with possible times chosen to fit different groups' schedules.
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
-
-
 :doc:`comp322` 
     | Section 001 (5892) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
@@ -352,72 +315,6 @@ COMP 315  (Description: :doc:`comp314-315`)
 
     **Notes:**
     Combined with COMP 422-001
-
-
-:doc:`comp324` 
-    | Section 001 (5912) Credits: 3; In person; Lecture
-    | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
-
-    **Notes:**
-    Combined with COMP 424-001
-
-
-:doc:`comp336` 
-    | Section 001 (5913) Credits: 3; In person; Lecture
-    | Instructor: Matthew William Bone
-    | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 436-001
-
-
-:doc:`comp343` 
-    | Section 001 (5915) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
-
-    **Notes:**
-    Combined with COMP 443-001
-
-
-:doc:`comp343` 
-    | Section 002 (5918) Credits: 3; Online; Lecture
-    | Instructor: Peter L Dordal
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
-    Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
-    Combined with COMP 443-002.
-
-
-:doc:`comp344` 
-    | Section 001 (5919) Credits: 3; In person; Lecture
-    | Instructor: Berhane Zewdie
-    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 433-001
-
-
-:doc:`comp347` 
-    | Section 001 (5922) Credits: 3; In person; Lecture
-    | Instructor: Corby Schmitz
-    | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
-
-    **Notes:**
-    Combined with COMP 447-001
-
-
-:doc:`comp347` 
-    | Section 002 (5923) Credits: 3; Online; Lecture
-    | Instructor: Corby Schmitz
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 
 
 :doc:`comp363` 
@@ -428,24 +325,6 @@ COMP 315  (Description: :doc:`comp314-315`)
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
-
-
-:doc:`comp364` 
-    | Section 001 (5924) Credits: 3; Online; Lecture
-    | Instructor: Christopher Stone
-    | Online Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 464-001
-
-
-:doc:`comp370` 
-    | Section 001 (5925) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 488-370
 
 
 :doc:`comp374` 
@@ -484,59 +363,6 @@ COMP 315  (Description: :doc:`comp314-315`)
     COMP 381-002 is combined with BIOL 388-001.  Register for BIOL 388-001 (2070).  Also, combined with COMP 488-381 and BIOL 488-001.
 
 
-:doc:`comp388`: RapidAppDevMethodology(.NET) 
-    | Section 001 (5928) Credits: 3; Blended; Lecture
-    | Instructor: Karim Kabani
-    | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
-
-    **Notes:**
-    Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
-
-
-:doc:`comp388`: Foundations of Comp Sci I [Term: Seven Week - First]
-    | Section 004 (5977) Credits: 3; In person; Lecture
-    | Instructor: Andrew N Harrington
-    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
-    | Corboy Law Center:0201 (Water Tower) Thursday 04:15PM-06:30
-    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
-
-    **Notes:**
-    Foundations of Computer Science I.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer
-    Science Department staff member will enroll you. COMP 388-004 meets on Mondays, 4:15 pm -  8:15 pm, for the first eight weeks of the Semester, replacing
-    holiday/vacation Mondays with Fridays.  So the Monday/Friday class schedule is: Mon, Aug 29; Fri, Sept 9; Mon, Sept 12; Mon, Sept 19; Mon, Sept 26; Mon, Oct
-    3; Fri, Oct 14; and Mon, Oct 17.  Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Sept 1 through Thurs, Oct 20.
-
-
-:doc:`comp388`: Foundations of Comp Sci II [Term: Eight Week - Second]
-    | Section 005 (5978) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
-    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
-
-    **Notes:**
-    Foundations of Computer Science II.  This section is restricted to students with undergraduate degrees. Department Consent required, and then a Computer
-    Science Department staff member will enroll you.  COMP 388-005 meets on Mondays, from 4:15 pm - 8:15 pm, for the last eight weeks of the Semester: Mon, Oct
-    24 through Mon, Dec 12.  Labs meet on consecutive Thursdays, from 4:15 pm - 6:30 pm: Thurs, Oct 27 through Thurs, Dec 15, excluding Thurs, Nov 24,
-    Thanksgiving.
-
-
-:doc:`comp390` 
-    | Section 01E (4055) Credits: 3; Online; Lecture
-    | Instructor: Ronald I Greenberg
-    | Online Times: TBA
-
-    **Notes:**
-    Broadening Participation in STEM (Computing, Mathematics, and Science).
-    
-    
-    This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
-    the instructor in accord with the course design.
-    
-    
-    
-    This class satisfies the Engaged Learning requirement in the Service Learning category.
-
-
 :doc:`comp391` 
     | Section 01E (2239) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
@@ -556,7 +382,7 @@ COMP 315  (Description: :doc:`comp314-315`)
 
         
 
-.. _Fall_graduate_courses_list_:
+.. _Fall_graduate_courses_list_Lake Shore:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
@@ -606,80 +432,6 @@ Graduate Courses
     Combined with COMP 322-001
 
 
-:doc:`comp424` 
-    | Section 001 (5937) Credits: 3; In person; Lecture
-    | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
-
-    **Notes:**
-    Combined with COMP 324-001
-
-
-:doc:`comp433` 
-    | Section 001 (5938) Credits: 3; In person; Lecture
-    | Instructor: Berhane Zewdie
-    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 344-001
-
-
-:doc:`comp436` 
-    | Section 001 (5939) Credits: 3; In person; Lecture
-    | Instructor: Matthew William Bone
-    | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 336-001
-
-
-:doc:`comp443` 
-    | Section 001 (5940) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
-
-    **Notes:**
-    Combined with COMP 343-001
-
-
-:doc:`comp443` 
-    | Section 002 (5941) Credits: 3; Online; Lecture
-    | Instructor: Peter L Dordal
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
-    Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
-    Combined with COMP 343-002.
-
-
-:doc:`comp447` 
-    | Section 001 (5942) Credits: 3; In person; Lecture
-    | Instructor: Corby Schmitz
-    | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
-
-    **Notes:**
-    Combined with COMP 347-001
-
-
-:doc:`comp447` 
-    | Section 002 (5943) Credits: 3; Online; Lecture
-    | Instructor: Corby Schmitz
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
-
-
-:doc:`comp447` [Term: Eight Week 1 - Alternate]
-    | Section 501 (5979) Credits: 3; Blended; Lecture
-    | Instructor: Staff
-    | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
-
-
-
-
 :doc:`comp453` 
     | Section 001 (3477) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
@@ -690,25 +442,6 @@ Graduate Courses
     Some lectures may be online.
 
 
-:doc:`comp453` 
-    | Section 002 (4563) Credits: 3; Online; Lecture
-    | Instructor: Channah Naiman
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online, asynchronous class.  Students may be asked to attend smaller-group online interactive discussions during the semester, with possible
-    times chosen to fit different groups' schedules.  Exams may be synchronous and in-person.
-
-
-:doc:`comp464` 
-    | Section 001 (5945) Credits: 3; Online; Lecture
-    | Instructor: Christopher Stone
-    | Online Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 364-001
-
-
 :doc:`comp476` 
     | Section 001 (5868) Credits: 3; In person; Lecture
     | Instructor: Christine A Haught
@@ -716,26 +449,6 @@ Graduate Courses
 
     **Notes:**
     COMP 476 is cross-listed with MATH 476. Register for MATH 476.
-
-
-:doc:`comp488`: RapidAppl Dev Metholodgy(.NET) 
-    | Section 001 (5946) Credits: 3; Blended; Lecture
-    | Instructor: Karim Kabani
-    | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
-
-    **Notes:**
-    Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
-
-
-
-COMP 488 Topic: Software Quality & Testing 
-    | Section 370 (5947) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
-    | Description similar to: :doc:`comp370`
-
-    **Notes:**
-    Software Quality and Testing - Combined with COMP 370-001
 
 
 
@@ -760,49 +473,9 @@ COMP 488 Topic: Bioinformatics
     Bioinformatics -- Combined with COMP 381-002, BIOL 388-001, and BIOL 488-001.
 
 
-
-COMP 488 Topic: Operations Management 
-    | Section 480 (6275) Credits: 3; Blended; Lecture
-    | Instructor: Channah Naiman
-    | Maguire Hall:324 (Water Tower) Tuesday 07:00PM-09:30
-    | Description similar to: :doc:`comp480`
-
-    **Notes:**
-    Operations Management.  This is a blended course, with a mixture of online and on-campus lectures.  Exams will be held on campus during regularly-scheduled
-    class time.
-
-
-
-COMP 488 Topic: Database Administration [Term: Eight Week - Second]
-    | Section 502 (5980) Credits: 3; Blended; Lecture
-    | Instructor: Staff
-    | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
-    | Description similar to: :doc:`comp305`
-
-
-
-
 :doc:`comp490` 1-6 credits
     You cannot register 
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
-
-
-:doc:`comp499` 
-    | Section 001 (2248) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Andrew N Harrington, Konstantin Laufer
-    | Place TBA (Water Tower) Times: TBA
-
-    **Notes:**
-    This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member will enroll you.
-
-
-:doc:`comp605` 
-    | Section 001 (3237) Credits: 0; In person; FTC-Supervision
-    | Instructor: Andrew N Harrington, Konstantin Laufer
-    | Place TBA (Water Tower) Times: TBA
-
-    **Notes:**
-    Department Consent required, and then a Computer Science Department staff member will enroll you.
