@@ -48,7 +48,7 @@ Graduate Courses
 
 
 
-:doc:`comp447` 
+:doc:`comp447` [Term: Eight Week 1 - Alternate]
     | Section 501 (5979) Credits: 3; Blended; Lecture
     | Instructor: Staff
     | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30

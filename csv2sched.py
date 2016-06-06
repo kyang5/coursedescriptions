@@ -565,11 +565,15 @@ def parseCSV(csvFile):
             campus = part[2][0].partition('Location')[0].strip().replace('Campus: ', '').replace(' Campus', '')
             # assume campus and location same?
             term = part[3][0] # empty string for regular session
-            if term: 
+            
+            if term:
                 term = '[Term: ' + term + ']'
             created = 'Updated {} {}'.format(date, time)
+            if not term and part[3][6] != 'Regular Academic Session':
+               term = '[Term: ' + part[3][6] + ']'
         else:  # section description
             #print('Processing section') #DEBUG
+            #print('Title displayed for empty', part[4][6] )
             section = Section(campus, term, part)
             courses[section.abbr] = section
         #input('press return: ')  #DEBUG
