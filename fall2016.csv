@@ -1,101 +1,117 @@
-Report ID:  SR201,Loyola University Chicago,Page No.,1,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Cuneo Mansion   Location: Cuneo Mansion,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,1,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Cuneo Mansion   Location: Cuneo Mansion,Run Time:,16:12:55
 Eight Week - Second
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 488,502,5980,Top:,Lecture,3,Database Administration,
 ,,,,,,(Blended)
-Bldg:,TBA,Room:,TBA,Days:,Th,Time:,05:30PM-09:30,,Instructor:
+Bldg:,TBA,Room:,TBA,Days:,Th,Time:,05:30PM-09:30,Instructor:,"Ciobanu,Marius Sorin"
 Class Enrl Cap:,25,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,2,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Cuneo Mansion   Location: Cuneo Mansion,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,2,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Cuneo Mansion   Location: Cuneo Mansion,Run Time:,16:12:55
 ,,,,,,Eight Week 1 - Alternate
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 447,501,5979,Intrusion Detection,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,TBA,Room:,TBA,Days:,Th,Time:,05:30PM-09:30,,Instructor:
+Bldg:,TBA,Room:,TBA,Days:,Th,Time:,05:30PM-09:30,Instructor:
 Class Enrl Cap:,25,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,3,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,3,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 111,01W,4635,History of Computing,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Information Commons,Room:,230,Days:,TuTh,Time:,01:00PM-02:15,,Instructor:,"Yacobellis,Robert"
+Bldg:,Information Commons,Room:,230,Days:,TuTh,Time:,01:00PM-02:15,Instructor:,"Yacobellis,Robert"
 Class Enrl Cap:,19,Class Enrl Tot:,19,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-
+Attributes:,CORE PRE-2012 Historical Knowledge
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 *This is a writing intensive course.*  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
 should contact their departmental graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 122,001,5881,Introduction to Digital Music,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Mundelein Center,Room:,1017,Days:,MWF,Time:,12:35PM-01:25,,Instructor:,Staff
+Bldg:,Mundelein Center,Room:,1017,Days:,MWF,Time:,12:35PM-01:25,Instructor:,"Wetzel,David"
 Class Enrl Cap:,19,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,X-COMP 122/MUSC 122
+Room Characteristics:,Music Room(1)
+Combined Section ID:,1838(X- COMP 122-001/MUSC 122-001), -,MUSC 122(#6278)
 
 Students who wish to enroll in this class but do not formally meet the MATH 118 prerequisite should contact Prof. George K. Thiruvathukal (gkt@cs.luc.edu).
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 125,001,3448,Visual Information Processing,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,MWF,Time:,10:25AM-11:15,,Instructor:
+Bldg:,Crown Center,Room:,105,Days:,MWF,Time:,10:25AM-11:15,Instructor:,"Wetzel,David"
 Class Enrl Cap:,25,Class Enrl Tot:,18,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Quantitative Knowledge
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 150,001,3449,Introduction to Computing,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Sullivan Center,Room:,253,Days:,MW,Time:,02:45PM-04:00,,Instructor:,"Tuckey,Curtis D"
+Bldg:,Sullivan Center,Room:,253,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Tuckey,Curtis D"
 Class Enrl Cap:,24,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Quantitative Knowledge
 Class Equivalents:,ACCOMP 150/COMP 150
-
-This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-graduate advisor.
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 150,002,3450,Introduction to Computing,Lecture,3,,
-,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,MW,Time:,04:15PM-05:30,,Instructor:,"Tuckey,Curtis D"
-Class Enrl Cap:,25,Class Enrl Tot:,9,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-Class Equivalents:,ACCOMP 150/COMP 150
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,4,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,4,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMP, 150,002,3450,Introduction to Computing,Lecture,3,,
+,,,,,,(In person)
+Bldg:,Crown Center,Room:,105,Days:,MW,Time:,04:15PM-05:30,Instructor:,"Tuckey,Curtis D"
+Class Enrl Cap:,25,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Quantitative Knowledge
+Class Equivalents:,ACCOMP 150/COMP 150
+Room Characteristics:,Lab - Computer(1)
+
+This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+graduate advisor.
+____________________________________________________________________________________________________________________________________________________________,
 COMP, 150,003,3451,Introduction to Computing,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,M,Time:,07:00PM-09:30,,Instructor:
+Bldg:,Crown Center,Room:,103,Days:,M,Time:,07:00PM-09:30,Instructor:
 Class Enrl Cap:,25,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Quantitative Knowledge
 Class Equivalents:,ACCOMP 150/COMP 150
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 163,001,3452,Discrete Structures,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Cuneo Hall,Room:,324,Days:,MW,Time:,02:45PM-04:00,,Instructor:,"Noquez,Victoria"
-Class Enrl Cap:,30,Class Enrl Tot:,23,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Cuneo Hall,Room:,324,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Noquez,Victoria"
+Class Enrl Cap:,30,Class Enrl Tot:,30,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,"Quantitative Knowledge, Bioinformatics"
 Class Equivalents:,COMP211/COMP163
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 "This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of"
 the term will meet on campus as scheduled.  Details on schedule and format of the online sessions will be provided as part of the course syllabus at the
 beginning of the term.
@@ -106,12 +122,22 @@ This course is primarily intended to serve certain majors and minors.  Students 
 area are encouraged to enroll in COMP 125 or COMP 150 instead.  This course is restricted to undergraduate students.  Graduate students wishing to enroll in
 a section of this course should contact their departmental graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,5,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 163,002,3763,Discrete Structures,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Dumbach Hall,Room:,229,Days:,MW,Time:,04:15PM-05:30,,Instructor:,"Noquez,Victoria"
-Class Enrl Cap:,30,Class Enrl Tot:,12,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Dumbach Hall,Room:,229,Days:,MW,Time:,04:15PM-05:30,Instructor:,"Noquez,Victoria"
+Class Enrl Cap:,30,Class Enrl Tot:,21,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,"Quantitative Knowledge, Bioinformatics"
 Class Equivalents:,COMP211/COMP163
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 "This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of"
 the term will meet on campus as scheduled.  Details on schedule and format of the online sessions will be provided as part of the course syllabus at the
 beginning of the term.
@@ -124,9 +150,11 @@ a section of this course should contact their departmental graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,001,3453,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,10:00AM-11:15,,Instructor:,"Yacobellis,Robert"
-Class Enrl Cap:,25,Class Enrl Tot:,25,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,10:00AM-11:15,Instructor:,"Yacobellis,Robert"
+Class Enrl Cap:,25,Class Enrl Tot:,27,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -138,9 +166,11 @@ Students enrolled in COMP 170-001 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,002,3454,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,01:00PM-02:15,,Instructor:,"Dligach,Dmitriy"
-Class Enrl Cap:,25,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,01:00PM-02:15,Instructor:,"Dligach,Dmitriy"
+Class Enrl Cap:,25,Class Enrl Tot:,20,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -152,9 +182,11 @@ Students enrolled in COMP 170-002 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,003,3892,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,02:30PM-03:45,,Instructor:,"Honig,William"
-Class Enrl Cap:,25,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,02:30PM-03:45,Instructor:,"Honig,William"
+Class Enrl Cap:,25,Class Enrl Tot:,14,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -166,9 +198,11 @@ Students enrolled in COMP 170-003 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,004,4235,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,Tu,Time:,04:15PM-06:45,,Instructor:,"Honig,William"
-Class Enrl Cap:,25,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Honig,William"
+Class Enrl Cap:,25,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -180,9 +214,11 @@ Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,01L,4115,Intro Obj-Oriented Prog,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,11:15AM-11:40,,Instructor:,"Yacobellis,Robert"
-Class Enrl Cap:,25,Class Enrl Tot:,25,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,11:15AM-11:40,Instructor:,"Yacobellis,Robert"
+Class Enrl Cap:,25,Class Enrl Tot:,27,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -196,11 +232,21 @@ Students enrolled in COMP 170-001 (Lecture) will be automatically enrolled in CO
 
 "Optional lab sessions will be offered for COMP 170, with the days, times, and locations to be determined."
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,7,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 170,02L,4116,Intro Obj-Oriented Prog,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,12:35PM-01:00,,Instructor:,"Dligach,Dmitriy"
-Class Enrl Cap:,25,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,12:35PM-01:00,Instructor:,"Dligach,Dmitriy"
+Class Enrl Cap:,25,Class Enrl Tot:,20,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -216,9 +262,11 @@ Students enrolled in COMP 170-002 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,03L,4117,Intro Obj-Oriented Prog,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,03:45PM-04:05,,Instructor:,"Honig,William"
-Class Enrl Cap:,25,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,TuTh,Time:,03:45PM-04:05,Instructor:,"Honig,William"
+Class Enrl Cap:,25,Class Enrl Tot:,14,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -234,9 +282,11 @@ Students enrolled in COMP 170-003 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,04L,4236,Intro Obj-Oriented Prog,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,Tu,Time:,07:00PM-07:50,,Instructor:,"Honig,William"
-Class Enrl Cap:,25,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,Tu,Time:,07:00PM-07:50,Instructor:,"Honig,William"
+Class Enrl Cap:,25,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
 
 This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
 170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
@@ -252,33 +302,38 @@ Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in CO
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 215,001,3485,Object-Oriented Prog-Math,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Inst for Environment,Room:,110,Days:,TuTh,Time:,01:00PM-02:15,,Instructor:,"Lauve,Aaron"
+Bldg:,Inst for Environment,Room:,110,Days:,TuTh,Time:,01:00PM-02:15,Instructor:,"Lauve,Aaron"
 Class Enrl Cap:,1,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,X-COMP215/MATH215
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,0011(X-COMP215-001/MATH215-001), -,MATH 215(#3484)
 
 COMP 215 is crosslisted with MATH 215. Register for MATH 215.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 250,01W,3663,Intro Sci and Tech Comm,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,MW,Time:,02:45PM-04:00,,Instructor:,"Schwab,Roxanne"
+Bldg:,Crown Center,Room:,105,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Schwab,Roxanne"
 Class Enrl Cap:,19,Class Enrl Tot:,19,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Lab - Computer(1)
 
 *This is a writing intensive course.*  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
 should contact their departmental graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 251,001,3585,Intro to Database Systems,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Life Science Buildin,Room:,312,Days:,M,Time:,07:00PM-09:30,,Instructor:,"Bevente,Guy"
+Bldg:,Life Science Buildin,Room:,312,Days:,M,Time:,07:00PM-09:30,Instructor:,"Bevente,Guy"
 Class Enrl Cap:,30,Class Enrl Tot:,14,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,COMP 251 / COMP 368
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 264,001,3893,Intro to Computer Systems,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Crown Center,Room:,103,Days:,MWF,Time:,01:40PM-02:30,,Instructor:,"Greenberg,Ronald I"
-Class Enrl Cap:,40,Class Enrl Tot:,38,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,MWF,Time:,01:40PM-02:30,Instructor:,"Greenberg,Ronald I"
+Class Enrl Cap:,40,Class Enrl Tot:,40,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Lab - Computer(1)
 
 "This course will be primarily online with content available asynchronously.  Two tests and the final exam, however, will be held at the Lake Shore Campus in"
 "regular time slots (or through an approved proctoring method).  In addition, some synchronous online sessions and some in-person sessions will be offered,"
@@ -286,8 +341,10 @@ with a focus on working practice problems and reviewing for exams.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 271,001,3455,Data Structs and Apps,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,01:00PM-02:15,,Instructor:,"Sekharan,Chandra N"
-Class Enrl Cap:,30,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,01:00PM-02:15,Instructor:,"Sekharan,Chandra N"
+Class Enrl Cap:,30,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
+Room Characteristics:,Lab - Computer(1)
 
 Students enrolled in COMP 271-001 (Lecture) will be automatically enrolled in COMP 271-01L (Lab).
 
@@ -298,8 +355,10 @@ graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 271,002,3894,Data Structs and Apps,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,W,Time:,06:00PM-08:30,,Instructor:,"Saenz,Maria Del Carmen"
+Bldg:,Crown Center,Room:,103,Days:,W,Time:,06:00PM-08:30,Instructor:,"Saenz,Maria Del Carmen"
 Class Enrl Cap:,30,Class Enrl Tot:,30,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
+Room Characteristics:,Lab - Computer(1)
 
 Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).
 
@@ -308,18 +367,12 @@ Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in CO
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,8,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,21:03:17
-,,,,,,Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 271,01L,4119,Data Structs and Apps,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,12:35PM-01:00,,Instructor:,"Sekharan,Chandra N"
-Class Enrl Cap:,30,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,103,Days:,TuTh,Time:,12:35PM-01:00,Instructor:,"Sekharan,Chandra N"
+Class Enrl Cap:,30,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
+Room Characteristics:,Lab - Computer(1)
 
 Students enrolled in COMP 271-001 (Lecture) will be automatically enrolled in COMP 271-01L (Lab).
 
@@ -330,8 +383,10 @@ graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 271,02L,4118,Data Structs and Apps,Laboratory,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,W,Time:,08:40PM-09:30,,Instructor:,"Saenz,Maria Del Carmen"
+Bldg:,Crown Center,Room:,103,Days:,W,Time:,08:40PM-09:30,Instructor:,"Saenz,Maria Del Carmen"
 Class Enrl Cap:,30,Class Enrl Tot:,30,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
+Room Characteristics:,Lab - Computer(1)
 
 Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).
 
@@ -342,174 +397,242 @@ graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 312,01E,4520,Open Source Computing,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Cuneo Hall,Room:,117,Days:,Th,Time:,07:00PM-09:30,,Instructor:
+Bldg:,Cuneo Hall,Room:,117,Days:,Th,Time:,07:00PM-09:30,Instructor:,"Lewis,Michael"
 Class Enrl Cap:,35,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Engaged Learning
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1775(COMP 312-01E/COMP 412-001), -,COMP 412(#4553)
 
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Combined with COMP 412-001.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,10,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 313,001,4053,Intermed Obj-Orient Devel,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,302,Days:,W,Time:,02:45PM-05:15,,Instructor:,"Laufer,Konstantin"
+Bldg:,Cuneo Hall,Room:,302,Days:,W,Time:,02:45PM-05:15,Instructor:,"Laufer,Konstantin"
 Class Enrl Cap:,35,Class Enrl Tot:,23,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,COMP272/COMP313
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 314,001,6097,Prob Solving Strategies I,Seminar,1,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
-Class Enrl Cap:,20,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
+Class Enrl Cap:,20,Class Enrl Tot:,14,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,COMP281/COMP314
+Room Characteristics:,Lab - Computer(1)
 
 "Organizational meeting on the first day of classes:  Monday, August 29th, 3:00 pm - 4:00 pm, at the Water Tower Campus (room location: TBD), to arrange"
 "upcoming practice times and place.  Contact Dr. Andrew Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 315,001,5891,Problem Solving Strategy II,Seminar,2,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
 Class Enrl Cap:,20,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Lab - Computer(1)
+
 "Organizational meeting on the first day of classes:  Monday, August 29th, 3:00 pm - 4:00 pm, at the Water Tower Campus (room location: TBD), to arrange"
 "upcoming practice times and place.  Contact Dr. Andrew Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 322,001,5892,Software Dev. Wireless&Mobile,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,302,Days:,F,Time:,02:45PM-05:15,,Instructor:,"Hayward,Nicholas J"
-Class Enrl Cap:,35,Class Enrl Tot:,16,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Cuneo Hall,Room:,302,Days:,F,Time:,02:45PM-05:15,Instructor:,"Hayward,Nicholas J"
+Class Enrl Cap:,35,Class Enrl Tot:,17,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1779(COMP 322-001/COMP422-001), -,COMP 422(#5936)
 
 Combined with COMP 422-001
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,11,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 363,001,3472,Desgn/Anlys Comp Algorthm,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,218,Days:,Tu,Time:,04:00PM-06:30,,Instructor:,"Sekharan,Chandra N"
+Bldg:,Cuneo Hall,Room:,218,Days:,Tu,Time:,04:00PM-06:30,Instructor:,"Sekharan,Chandra N"
 Class Enrl Cap:,35,Class Enrl Tot:,27,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,X-COMP363/BIOI363
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
 graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 374,001,5926,Intro to Operatng Systms,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,Th,Time:,07:00PM-09:30,,Instructor:,"Kaylor,Sarah"
-Class Enrl Cap:,35,Class Enrl Tot:,25,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Crown Center,Room:,105,Days:,Th,Time:,07:00PM-09:30,Instructor:,"Kaylor,Sarah"
+Class Enrl Cap:,35,Class Enrl Tot:,26,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,1831(COMP 374-001/COMP 410-001), -,COMP 410(#5929)
 
 Combined with COMP 410-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 376,001,5867,Formal Lang & Automata,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Dumbach Hall,Room:,123,Days:,TuTh,Time:,02:30PM-03:45,,Instructor:,"Haught,Christine A"
+Bldg:,Dumbach Hall,Room:,123,Days:,TuTh,Time:,02:30PM-03:45,Instructor:,"Haught,Christine A"
 Class Enrl Cap:,1,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,X-COMP376/MATH376
+Room Characteristics:,General Classroom(1)
+Combined Section ID:,1810(MATH376-001/MATH476-001), -,"MATH 376(#5728), MATH 476(#5750), COMP 476(#5868)"
 
 COMP 376 is cross-listed with MATH 376. Register for MATH 376.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 379,001,5927,Machine Learning,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Dumbach Hall,Room:,231,Days:,Th,Time:,02:45PM-05:15,,Instructor:,"Dligach,Dmitriy"
-Class Enrl Cap:,35,Class Enrl Tot:,14,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Dumbach Hall,Room:,231,Days:,Th,Time:,02:45PM-05:15,Instructor:,"Dligach,Dmitriy"
+Class Enrl Cap:,35,Class Enrl Tot:,15,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1832(COMP 379-001/COMP 488-379), -,COMP 488(#5948)
 
 Combined with COMP 488-379
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,10,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,12,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 381,002,4661,Bioinfomatics,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,MW,Time:,02:45PM-04:00,,Instructor:,"Wheeler,Heather E."
+Bldg:,Crown Center,Room:,103,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Wheeler,Heather E."
 Class Enrl Cap:,1,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,X-BIOL388/COMP381/BIOI388
-,,,
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,0951(X-BIO388/COMP381/BIOL488/COMP4), -,"BIOL 388(#2070), BIOL 488(#3744), COMP 488(#5949)"
+
 "COMP 381-002 is combined with BIOL 388-001.  Register for BIOL 388-001 (2070).  Also, combined with COMP 488-381 and BIOL 488-001."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 391,01E,2239,Internship in CS,Field Studies,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Yacobellis,Robert"
-,,,,,,,,,,"Greenberg,Ronald I"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Yacobellis,Robert"
+,,,,,,,,,"Greenberg,Ronald I"
 Class Enrl Cap:,20,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent is required, and then a Computer Science Department"
 staff member will enroll you.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 410,001,5929,Operating Systems,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,105,Days:,Th,Time:,07:00PM-09:30,,Instructor:,"Kaylor,Sarah"
+Bldg:,Crown Center,Room:,105,Days:,Th,Time:,07:00PM-09:30,Instructor:,"Kaylor,Sarah"
 Class Enrl Cap:,35,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,1831(COMP 374-001/COMP 410-001), -,COMP 374(#5926)
+
 Combined with COMP 374-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 412,001,4553,Open Source Computing,Lecture,3,,
 ,,,,,,(Blended)
-Bldg:,Cuneo Hall,Room:,117,Days:,Th,Time:,07:00PM-09:30,,Instructor:
-Class Enrl Cap:,35,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Cuneo Hall,Room:,117,Days:,Th,Time:,07:00PM-09:30,Instructor:,"Lewis,Michael"
+Class Enrl Cap:,35,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1775(COMP 312-01E/COMP 412-001), -,COMP 312(#4520)
+
 Combined with COMP 312-01E.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,13,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 413,001,4054,Intermed Object-Orientd Devel,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,217,Days:,Tu,Time:,04:15PM-06:45,,Instructor:,"Yacobellis,Robert"
-Class Enrl Cap:,40,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Cuneo Hall,Room:,217,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Yacobellis,Robert"
+Class Enrl Cap:,40,Class Enrl Tot:,11,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 417,001,3458,Social & Ethical Iss Comp,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,142,Days:,W,Time:,04:15PM-06:45,,Instructor:,"Schwab,Roxanne"
+Bldg:,Crown Center,Room:,142,Days:,W,Time:,04:15PM-06:45,Instructor:,"Schwab,Roxanne"
 Class Enrl Cap:,40,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 422,001,5936,Wireless/Mobile Softw Dev,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,302,Days:,F,Time:,02:45PM-05:15,,Instructor:,"Hayward,Nicholas J"
-Class Enrl Cap:,35,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Cuneo Hall,Room:,302,Days:,F,Time:,02:45PM-05:15,Instructor:,"Hayward,Nicholas J"
+Class Enrl Cap:,35,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1779(COMP 322-001/COMP422-001), -,COMP 322(#5892)
+
 Combined with COMP 322-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 453,001,3477,Database Programming,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Cuneo Hall,Room:,003,Days:,Th,Time:,07:00PM-09:30,,Instructor:,"Naiman,Channah"
-Class Enrl Cap:,25,Class Enrl Tot:,10,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-
+Bldg:,Cuneo Hall,Room:,003,Days:,Th,Time:,07:00PM-09:30,Instructor:,"Naiman,Channah"
+Class Enrl Cap:,25,Class Enrl Tot:,12,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 "This is a on-campus class, with regular attendance required in the classroom.  The course will use a "flipped" approach for the second half of the course."
 Some lectures may be online.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 476,001,5868,Automata&Formal Languages,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Dumbach Hall,Room:,123,Days:,TuTh,Time:,02:30PM-03:45,,Instructor:,"Haught,Christine A"
+Bldg:,Dumbach Hall,Room:,123,Days:,TuTh,Time:,02:30PM-03:45,Instructor:,"Haught,Christine A"
 Class Enrl Cap:,1,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
 Class Equivalents:,X-COMP476/MATH476
+Room Characteristics:,General Classroom(1)
+Combined Section ID:,1810(MATH376-001/MATH476-001), -,"MATH 376(#5728), MATH 476(#5750), COMP 376(#5867)"
 
 COMP 476 is cross-listed with MATH 476. Register for MATH 476.
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,14,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Lake Shore Campus   Location: Lake Shore Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 488,379,5948,Top:,Lecture,3,Machine Learning,
 ,,,,,,(In person)
-Bldg:,Dumbach Hall,Room:,231,Days:,Th,Time:,02:45PM-05:15,,Instructor:,"Dligach,Dmitriy"
+Bldg:,Dumbach Hall,Room:,231,Days:,Th,Time:,02:45PM-05:15,Instructor:,"Dligach,Dmitriy"
 Class Enrl Cap:,35,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1832(COMP 379-001/COMP 488-379), -,COMP 379(#5927)
+
 Machine Learning - Combined with COMP 379-001.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,381,5949,Top:,Lecture,3,Bioinformatics,
 ,,,,,,(In person)
-Bldg:,Crown Center,Room:,103,Days:,MW,Time:,02:45PM-04:00,,Instructor:,"Wheeler,Heather E."
+Bldg:,Crown Center,Room:,103,Days:,MW,Time:,02:45PM-04:00,Instructor:,"Wheeler,Heather E."
 Class Enrl Cap:,2,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,,,,,,,,,
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,0951(X-BIO388/COMP381/BIOL488/COMP4), -,"BIOL 388(#2070), BIOL 488(#3744), COMP 381(#4661)"
+
 "Bioinformatics -- Combined with COMP 381-002, BIOL 388-001, and BIOL 488-001."
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,12,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Online Campus   Location: Online Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,15,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Online Campus   Location: Online Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 317,001,3457,SocialLegal&EthicIssuComp,Lecture,3,,
 ,,,,,,(Hybrid)
-Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:00PM-09:30,,Instructor:,"Butcher,Matthew Paul"
+Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Butcher,Matthew Paul"
 Class Enrl Cap:,35,Class Enrl Tot:,33,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-
+Room Characteristics:,Electronic Classroom(1)
+,,,,
 This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
 "during the semester, with possible times chosen to fit different groups' schedules.
 "
@@ -520,33 +643,49 @@ graduate advisor.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 343,002,5918,Intro to Computer Network,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dordal,Peter L"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,20,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+Combined Section ID:,1835(COMP 343-002/COMP 443-002), -,COMP 443(#5941)
+
 This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
 "Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended."
 Combined with COMP 443-002.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 347,002,5923,Intro Computer Security,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Schmitz,Corby"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Schmitz,Corby"
 Class Enrl Cap:,20,Class Enrl Tot:,20,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Classroom Not Needed(1)
+Combined Section ID:,1788(COMP 347-002/COMP 447-002), -,COMP 447(#5943)
 
 "This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions"
 will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 ____________________________________________________________________________________________________________________________________________________________,,
 COMP, 364,001,5924,High Performance Computing,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,W,Time:,07:00PM-09:30,,Instructor:,"Stone,Christopher"
+Bldg:,TBA,Room:,TBA,Days:,W,Time:,07:00PM-09:30,Instructor:,"Stone,Christopher"
 Class Enrl Cap:,29,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1789(COMP 364-001/COMP 464-001), -,COMP 464(#5945)
+
 Combined with COMP 464-001
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,16,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Online Campus   Location: Online Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 390,01E,4055,Broadening Particip STEM,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Greenberg,Ronald I"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Greenberg,Ronald I"
 Class Enrl Cap:,30,Class Enrl Tot:,26,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Broadening Participation in STEM (Computing, Mathematics, and Science).
 "
 
@@ -560,139 +699,195 @@ This class satisfies the Engaged Learning requirement in the Service Learning ca
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 443,002,5941,Computer Networks,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dordal,Peter L"
-Class Enrl Cap:,20,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dordal,Peter L"
+Class Enrl Cap:,20,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Classroom Not Needed(1)
+Combined Section ID:,1835(COMP 343-002/COMP 443-002), -,COMP 343(#5918)
+
 This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
 "Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended."
 Combined with COMP 343-002.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 447,002,5943,Intrusion Detection,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Schmitz,Corby"
-Class Enrl Cap:,20,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Schmitz,Corby"
+Class Enrl Cap:,20,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Classroom Not Needed(1)
+Combined Section ID:,1788(COMP 347-002/COMP 447-002), -,COMP 347(#5923)
+
 "This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions"
 will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 ____________________________________________________________________________________________________________________________________________________________,,
 COMP, 453,002,4563,Database Programming,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Naiman,Channah"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Naiman,Channah"
 Class Enrl Cap:,20,Class Enrl Tot:,13,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "This is an online, asynchronous class.  Students may be asked to attend smaller-group online interactive discussions during the semester, with possible"
 times chosen to fit different groups' schedules.  Exams may be synchronous and in-person.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 464,001,5945,High-Performance Computing,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,W,Time:,07:00PM-09:30,,Instructor:,"Stone,Christopher"
+Bldg:,TBA,Room:,TBA,Days:,W,Time:,07:00PM-09:30,Instructor:,"Stone,Christopher"
 Class Enrl Cap:,29,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1789(COMP 364-001/COMP 464-001), -,COMP 364(#5924)
+
 Combined with COMP 364-001
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,14,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Online Campus   Location: Online Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,18,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Online Campus   Location: Online Campus,Run Time:,16:12:55
 Eight Week - First
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 150,700N,5982,Introduction to Computing,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,M,Time:,07:30PM-09:00,,Instructor:,"Fatima,Safoora"
-Bldg:,TBA,Room:,TBA,Days:,F,Time:,07:30PM-09:00,,Instructor:,"Fatima,Safoora"
+Bldg:,TBA,Room:,TBA,Days:,M,Time:,07:30PM-09:00,Instructor:,"Fatima,Safoora"
+Bldg:,TBA,Room:,TBA,Days:,F,Time:,07:30PM-09:00,Instructor:,"Fatima,Safoora"
 Class Enrl Cap:,20,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Quantitative Knowledge
 Class Equivalents:,ACCOMP 150/COMP 150
-
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
 http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 "COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 170,700N,5984,Intro Obj-Oriented Prog,Lecture,3,,
 ,,,,,,(Online)
-Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:30PM-09:00,,Instructor:,"Fatima,Safoora"
+Bldg:,TBA,Room:,TBA,Days:,Tu,Time:,07:30PM-09:00,Instructor:,"Fatima,Safoora"
 Class Enrl Cap:,20,Class Enrl Tot:,4,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
 Class Equivalents:,COMP170/ISOM/INFS370
-
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
 http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 "COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays, 7:30-9PM CST"
 ____________________________________________________________________________________________________________________________________________________________,
+COMP, 251,700N,6455,Intro to Database Systems,Lecture,3,,
+,,,,,,(Online)
+Bldg:,TBA,Room:,TBA,Days:,W,Time:,06:00PM-09:00,Instructor:,"Bergman,Smadar K"
+Class Enrl Cap:,20,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Class Equivalents:,COMP 251 / COMP 368
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
+COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
+____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,15,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,19,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 324,001,5912,Client-Side Web Development,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0208,Days:,M,Time:,04:15PM-06:45,,Instructor:,"Hayward,Nicholas J"
+Bldg:,Corboy Law Center,Room:,0208,Days:,M,Time:,04:15PM-06:45,Instructor:,"Hayward,Nicholas J"
 Class Enrl Cap:,35,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1780(COMP 324-001/COMP 424-001), -,COMP 424(#5937)
+
 Combined with COMP 424-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 336,001,5913,Markup Languages,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0304,Days:,W,Time:,07:00PM-09:30,,Instructor:,"Bone,Matthew William"
+Bldg:,Corboy Law Center,Room:,0304,Days:,W,Time:,07:00PM-09:30,Instructor:,"Bone,Matthew William"
 Class Enrl Cap:,35,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1772(COMP 336-001/COMP436-001), -,COMP 436(#5939)
+
 Combined with COMP 436-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 343,001,5915,Intro to Computer Network,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,04:15PM-06:45,,Instructor:,"Dordal,Peter L"
+Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,25,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1774(COMP 343-001/COMP 443-001), -,COMP 443(#5940)
+
 Combined with COMP 443-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 344,001,5919,Web Services Programming,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,07:00PM-09:30,,Instructor:,"Zewdie,Berhane"
+Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Zewdie,Berhane"
 Class Enrl Cap:,35,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1786(COMP 344-001/COMP433-001), -,COMP 433(#5938)
+
 Combined with COMP 433-001
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,20,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 347,001,5922,Intro Computer Security,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0302,Days:,F,Time:,05:45PM-08:15,,Instructor:,"Schmitz,Corby"
+Bldg:,Corboy Law Center,Room:,0302,Days:,F,Time:,05:45PM-08:15,Instructor:,"Schmitz,Corby"
 Class Enrl Cap:,25,Class Enrl Tot:,19,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1787(COMP 347-001/COMP 447-001), -,COMP 447(#5942)
 
 Combined with COMP 447-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 370,001,5925,Software Quality & Testing,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0421,Days:,M,Time:,07:00PM-09:30,,Instructor:,"Weisert,Conrad"
+Bldg:,Corboy Law Center,Room:,0421,Days:,M,Time:,07:00PM-09:30,Instructor:,"Weisert,Conrad"
 Class Enrl Cap:,35,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1830(COMP 370-001/COMP 488-370), -,COMP 488(#5947)
+
 Combined with COMP 488-370
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 388,001,5928,Topics:,Lecture,3,RapidAppDevMethodology(.NET),
 ,,,,,,(Blended)
-Bldg:,Lewis Towers,Room:,410,Days:,Sa,Time:,10:00AM-12:30,,Instructor:,"Kabani,Karim"
+Bldg:,Lewis Towers,Room:,410,Days:,Sa,Time:,10:00AM-12:30,Instructor:,"Kabani,Karim"
 Class Enrl Cap:,29,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,1833(COMP 388-001/COMP 488-001), -,COMP 488(#5946)
+
 Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,01E,2240,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Thiruvathukal,George"
-,,,,,,,,,,"Laufer,Konstantin"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Thiruvathukal,George"
+,,,,,,,,,"Laufer,Konstantin"
 Class Enrl Cap:,20,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
 
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,21,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,02E,2241,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dligach,Dmitriy"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dligach,Dmitriy"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -701,9 +896,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,03E,2242,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dordal,Peter L"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -712,28 +909,24 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,04E,2243,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Greenberg,Ronald I"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Greenberg,Ronald I"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
 
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,17,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
-,,,,,,Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,05E,2244,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -742,9 +935,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,06E,2245,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Hayward,Nicholas J"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Hayward,Nicholas J"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -753,9 +948,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,07E,2246,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Honig,William"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Honig,William"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -764,9 +961,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,08E,2247,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Naiman,Channah"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Naiman,Channah"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -775,20 +974,31 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,09E,4062,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Sekharan,Chandra N"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Sekharan,Chandra N"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
 
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,23,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 398,10E,4741,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Wheeler,Heather E."
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Wheeler,Heather E."
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -797,9 +1007,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,11E,5128,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Yacobellis,Robert"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Yacobellis,Robert"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -808,9 +1020,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,12E,6091,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Saenz,Maria Del Carmen"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Saenz,Maria Del Carmen"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -819,20 +1033,11 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 398,13E,6092,Independent Study,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
-This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
-
-
-
-"Department Consent required, and then a Computer Science Department staff member will enroll you."
-____________________________________________________________________________________________________________________________________________________________,
-COMP, 398,14E,6093,Independent Study,Independent Study,1 - 6,,
-,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:
-Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
@@ -840,231 +1045,297 @@ This class satisfies the Engaged Learning requirement in the Undergraduate Resea
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,19,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,24,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
 ,,,,,,Regular Academic Session
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMP, 398,14E,6093,Independent Study,Independent Study,1 - 6,,
+,,,,,,(In person)
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:
+Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Engaged Learning
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
+This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
+
+
+
+"Department Consent required, and then a Computer Science Department staff member will enroll you."
+____________________________________________________________________________________________________________________________________________________________,
 COMP, 424,001,5937,Client-Side Web Design,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0208,Days:,M,Time:,04:15PM-06:45,,Instructor:,"Hayward,Nicholas J"
+Bldg:,Corboy Law Center,Room:,0208,Days:,M,Time:,04:15PM-06:45,Instructor:,"Hayward,Nicholas J"
 Class Enrl Cap:,35,Class Enrl Tot:,15,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1780(COMP 324-001/COMP 424-001), -,COMP 324(#5912)
 
 Combined with COMP 324-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 433,001,5938,Web Services Programming,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,07:00PM-09:30,,Instructor:,"Zewdie,Berhane"
-Class Enrl Cap:,35,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Zewdie,Berhane"
+Class Enrl Cap:,35,Class Enrl Tot:,10,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1786(COMP 344-001/COMP433-001), -,COMP 344(#5919)
+
 Combined with COMP 344-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 436,001,5939,Markup Languages,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0304,Days:,W,Time:,07:00PM-09:30,,Instructor:,"Bone,Matthew William"
-Class Enrl Cap:,35,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Corboy Law Center,Room:,0304,Days:,W,Time:,07:00PM-09:30,Instructor:,"Bone,Matthew William"
+Class Enrl Cap:,35,Class Enrl Tot:,8,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1772(COMP 336-001/COMP436-001), -,COMP 336(#5913)
+
 Combined with COMP 336-001
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,25,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 443,001,5940,Computer Networks,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,04:15PM-06:45,,Instructor:,"Dordal,Peter L"
+Bldg:,Corboy Law Center,Room:,0711,Days:,Tu,Time:,04:15PM-06:45,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,25,Class Enrl Tot:,5,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1774(COMP 343-001/COMP 443-001), -,COMP 343(#5915)
+
 Combined with COMP 343-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 447,001,5942,Intrusion Detection,Lecture,3,,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0302,Days:,F,Time:,05:45PM-08:15,,Instructor:,"Schmitz,Corby"
-Class Enrl Cap:,25,Class Enrl Tot:,9,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Corboy Law Center,Room:,0302,Days:,F,Time:,05:45PM-08:15,Instructor:,"Schmitz,Corby"
+Class Enrl Cap:,25,Class Enrl Tot:,10,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1787(COMP 347-001/COMP 447-001), -,COMP 347(#5922)
+
 Combined with COMP 347-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,001,5946,Top:,Lecture,3,RapidAppl Dev Metholodgy(.NET),
 ,,,,,,(Blended)
-Bldg:,Lewis Towers,Room:,410,Days:,Sa,Time:,10:00AM-12:30,,Instructor:,"Kabani,Karim"
-Class Enrl Cap:,29,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Lewis Towers,Room:,410,Days:,Sa,Time:,10:00AM-12:30,Instructor:,"Kabani,Karim"
+Class Enrl Cap:,29,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Lab - Computer(1)
+Combined Section ID:,1833(COMP 388-001/COMP 488-001), -,COMP 388(#5928)
+
 Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 488,370,5947,Top:,Lecture,3,Software Quality & Testing,
 ,,,,,,(In person)
-Bldg:,Corboy Law Center,Room:,0421,Days:,M,Time:,07:00PM-09:30,,Instructor:,"Weisert,Conrad"
-Class Enrl Cap:,35,Class Enrl Tot:,9,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,Corboy Law Center,Room:,0421,Days:,M,Time:,07:00PM-09:30,Instructor:,"Weisert,Conrad"
+Class Enrl Cap:,35,Class Enrl Tot:,10,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Electronic Classroom(1)
+Combined Section ID:,1830(COMP 370-001/COMP 488-370), -,COMP 370(#5925)
+
 Software Quality and Testing - Combined with COMP 370-001
 ____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,26,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Regular Academic Session
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 488,480,6275,Top:,Lecture,3,Operations Management,
 ,,,,,,(Blended)
-Bldg:,Maguire Hall,Room:,324,Days:,Tu,Time:,07:00PM-09:30,,Instructor:,"Naiman,Channah"
-Class Enrl Cap:,35,Class Enrl Tot:,7,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Bldg:,Maguire Hall,Room:,324,Days:,Tu,Time:,07:00PM-09:30,Instructor:,"Naiman,Channah"
+Class Enrl Cap:,35,Class Enrl Tot:,6,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,General Classroom(1)
 ,
 "Operations Management.  This is a blended course, with a mixture of online and on-campus lectures.  Exams will be held on campus during regularly-scheduled"
 class time.
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,001,2402,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Thiruvathukal,George"
-,,,,,,,,,,"Laufer,Konstantin"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Thiruvathukal,George"
+,,,,,,,,,"Laufer,Konstantin"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,002,2403,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dligach,Dmitriy"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dligach,Dmitriy"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,003,2404,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Dordal,Peter L"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Dordal,Peter L"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,004,2405,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Greenberg,Ronald I"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Greenberg,Ronald I"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,21,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
-,,,,,,Regular Academic Session
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
 COMP, 490,005,2406,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,006,2407,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Hayward,Nicholas J"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Hayward,Nicholas J"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,007,2408,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Honig,William"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Honig,William"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,008,2409,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Naiman,Channah"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Naiman,Channah"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,009,4063,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Sekharan,Chandra N"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Sekharan,Chandra N"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,010,4742,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Wheeler,Heather E."
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Wheeler,Heather E."
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,011,5129,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Yacobellis,Robert"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Yacobellis,Robert"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,012,6094,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Albert,Mark"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Albert,Mark"
 Class Enrl Cap:,20,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,013,6095,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:
-Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Putonti,Catherine"
+Class Enrl Cap:,20,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 490,014,6096,Independent Project,Supervision,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 499,001,2248,Internship,Independent Study,1 - 6,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
-,,,,,,,,,,"Laufer,Konstantin"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
+,,,,,,,,,"Laufer,Konstantin"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 COMP, 605,001,3237,Master of Science Study,FTC-Supervision,0,,
 ,,,,,,(In person)
-Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,,Instructor:,"Harrington,Andrew N"
-,,,,,,,,,,"Laufer,Konstantin"
+Bldg:,TBA,Room:,TBA,Days:,TBA,Time:,TBA,Instructor:,"Harrington,Andrew N"
+,,,,,,,,,"Laufer,Konstantin"
 Class Enrl Cap:,20,Class Enrl Tot:,0,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Classroom Not Needed(1)
+,,,,
 "Department Consent required, and then a Computer Science Department staff member will enroll you."
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,23,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
-Seven Week - First
-College of Arts and Sciences - Computer Science - Subject: Computer Science
-
-____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
-COMP, 388,004,5977,Topics:,Lecture,3,Foundations of Comp Sci I,
-,,,,,,(In person)
-Bldg:,Lewis Towers,Room:,410,Days:,M,Time:,04:15PM-08:15,,Instructor:,"Harrington,Andrew N"
-Bldg:,Corboy Law Center,Room:,0201,Days:,Th,Time:,04:15PM-06:30,,Instructor:,"Harrington,Andrew N"
-Bldg:,Lewis Towers,Room:,410,Days:,F,Time:,04:15PM-08:15,,Instructor:,"Harrington,Andrew N"
-Bldg:,Lewis Towers,Room:,410,Days:,F,Time:,04:15PM-08:15,,Instructor:,"Harrington,Andrew N"
-Class Enrl Cap:,25,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
-"Foundations of Computer Science I.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer"
-"Science Department staff member will enroll you. COMP 388-004 meets on Mondays, 4:15 pm -  8:15 pm, for the first eight weeks of the Semester, replacing"
-"holiday/vacation Mondays with Fridays.  So the Monday/Friday class schedule is: Mon, Aug 29; Fri, Sept 9; Mon, Sept 12; Mon, Sept 19; Mon, Sept 26; Mon, Oct"
-"3; Fri, Oct 14; and Mon, Oct 17.  Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Sept 1 through Thurs, Oct 20."
-____________________________________________________________________________________________________________________________________________________________,
-,,,,,,,,
-Report ID:  SR201,Loyola University Chicago,Page No.,24,of,24
-Schedule of Classes for Fall 2016,Run Date:,05/25/2016
-Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,21:03:17
+Report ID:  SR201,Loyola University Chicago,Page No.,30,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
 Eight Week - Second
 College of Arts and Sciences - Computer Science - Subject: Computer Science
 
 ____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMP, 170,701N,6450,Intro Obj-Oriented Prog,Lecture,3,,
+,,,,,,(Online)
+Bldg:,Corboy Law Center,Room:,0201,Days:,Tu,Time:,06:00PM-09:00,Instructor:,"Post,Elliott Lawrence"
+Class Enrl Cap:,20,Class Enrl Tot:,1,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Attributes:,Bioinformatics
+Class Equivalents:,COMP170/ISOM/INFS370
+Room Characteristics:,Lab - Computer(1)
+
+COMP 170-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+COMP 170-701N is an online section. Required class meetings will be held Tuesdays 6-9PM CST. Students can participate online or face to face on campus.
+____________________________________________________________________________________________________________________________________________________________,
 COMP, 388,005,5978,Topics:,Lecture,3,Foundations of Comp Sci II,
 ,,,,,,(In person)
-Bldg:,Lewis Towers,Room:,410,Days:,M,Time:,04:15PM-08:15,,Instructor:,"Dordal,Peter L"
-Bldg:,Lewis Towers,Room:,410,Days:,Th,Time:,04:15PM-06:30,,Instructor:,"Dordal,Peter L"
+Bldg:,Lewis Towers,Room:,410,Days:,M,Time:,04:15PM-08:15,Instructor:,"Dordal,Peter L"
+Bldg:,Lewis Towers,Room:,410,Days:,Th,Time:,04:15PM-06:30,Instructor:,Staff
 Class Enrl Cap:,25,Class Enrl Tot:,2,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
-,
+Room Characteristics:,Lab - Computer(1)
+
 "Foundations of Computer Science II.  This section is restricted to students with undergraduate degrees. Department Consent required, and then a Computer"
 "Science Department staff member will enroll you.  COMP 388-005 meets on Mondays, from 4:15 pm - 8:15 pm, for the last eight weeks of the Semester: Mon, Oct"
 "24 through Mon, Dec 12.  Labs meet on consecutive Thursdays, from 4:15 pm - 6:30 pm: Thurs, Oct 27 through Thurs, Dec 15, excluding Thurs, Nov 24,"
 Thanksgiving.
+____________________________________________________________________________________________________________________________________________________________,
+,,,,,,,,
+Report ID:  SR201,Loyola University Chicago,Page No.,31,of,31
+Schedule of Classes for Fall 2016,Run Date:,06/08/2016
+Campus: Water Tower Campus   Location: Water Tower Campus,Run Time:,16:12:55
+,,,,,,Eight Week 1 - Alternate
+College of Arts and Sciences - Computer Science - Subject: Computer Science
+
+____________________________________________________________________________________________________________________________________________________________,Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMP, 388,004,5977,Topics:,Lecture,1 - 6,Foundations of Comp Sci I,
+,,,,,,(In person)
+Bldg:,Lewis Towers,Room:,410,Days:,M,Time:,04:15PM-08:15,Instructor:,"Harrington,Andrew N"
+Bldg:,Corboy Law Center,Room:,0201,Days:,Th,Time:,04:15PM-06:30,Instructor:,Staff
+Bldg:,Lewis Towers,Room:,410,Days:,F,Time:,04:15PM-08:15,Instructor:,Staff
+Bldg:,Lewis Towers,Room:,410,Days:,F,Time:,04:15PM-08:15,Instructor:,Staff
+Class Enrl Cap:,25,Class Enrl Tot:,3,Class Wait Cap:,0,Class Wait Tot:,0,Class Min Enrl:,0
+Room Characteristics:,Lab - Computer(1)
+
+"Foundations of Computer Science I.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer"
+"Science Department staff member will enroll you. COMP 388-004 meets on Mondays, 4:15 pm -  8:15 pm, for the first eight weeks of the Semester, replacing"
+"holiday/vacation Mondays with Fridays.  So the Monday/Friday class schedule is: Mon, Aug 29; Fri, Sept 9; Mon, Sept 12; Mon, Sept 19; Mon, Sept 26; Mon, Oct"
+"3; Fri, Oct 14; and Mon, Oct 17.  Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Sept 1 through Thurs, Oct 20."
 ____________________________________________________________________________________________________________________________________________________________,
 ,,,,,,,,
