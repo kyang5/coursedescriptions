@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 05/25/2016 21:03:17
+Updated 06/08/2016 16:12:55
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -42,12 +43,26 @@ Undergraduate Courses
 
 
 
+:doc:`comp170` [Term: Eight Week - Second]
+    | Section 701N (6450) Credits: 3; Online; Lecture
+    | Instructor: Elliott Lawrence Post
+    | Corboy Law Center:0201 (Water Tower) Tuesday 06:00PM-09:00
+
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
+    COMP 170-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-701N is an online section. Required class meetings will be held Tuesdays 6-9PM CST. Students can participate online or face to face on campus.
+
+
 :doc:`comp324` 
     | Section 001 (5912) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 424-001
 
 
@@ -56,7 +71,8 @@ Undergraduate Courses
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 436-001
 
 
@@ -65,7 +81,8 @@ Undergraduate Courses
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 443-001
 
 
@@ -74,7 +91,8 @@ Undergraduate Courses
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 433-001
 
 
@@ -83,7 +101,8 @@ Undergraduate Courses
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 447-001
 
 
@@ -92,7 +111,8 @@ Undergraduate Courses
     | Instructor: Conrad Weisert
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 488-370
 
 
@@ -101,12 +121,13 @@ Undergraduate Courses
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
 
 
-:doc:`comp388`: Foundations of Comp Sci I [Term: Seven Week - First]
-    | Section 004 (5977) Credits: 3; In person; Lecture
+:doc:`comp388`: Foundations of Comp Sci I [Term: Eight Week 1 - Alternate]
+    | Section 004 (5977) Credits: 1 - 6; In person; Lecture
     | Instructor: Andrew N Harrington
     | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
     | Corboy Law Center:0201 (Water Tower) Thursday 04:15PM-06:30
@@ -153,7 +174,8 @@ Graduate Courses
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 324-001
 
 
@@ -162,7 +184,8 @@ Graduate Courses
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 344-001
 
 
@@ -171,7 +194,8 @@ Graduate Courses
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 336-001
 
 
@@ -180,7 +204,8 @@ Graduate Courses
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 343-001
 
 
@@ -189,7 +214,8 @@ Graduate Courses
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 347-001
 
 
@@ -198,7 +224,8 @@ Graduate Courses
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
 
 
@@ -209,7 +236,8 @@ COMP 488 Topic: Software Quality & Testing
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
     | Description similar to: :doc:`comp370`
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Software Quality and Testing - Combined with COMP 370-001
 
 
@@ -230,7 +258,7 @@ COMP 488 Topic: Operations Management
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`comp499` 

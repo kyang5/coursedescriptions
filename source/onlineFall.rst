@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule ( Online Courses )
 ==========================================================================
-Updated 05/25/2016 21:03:17
+Updated 06/08/2016 16:12:55
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -48,7 +49,9 @@ Undergraduate Courses
     | Online Monday 07:30PM-09:00
     | Online Friday 07:30PM-09:00 - Check week(s)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
@@ -59,10 +62,23 @@ Undergraduate Courses
     | Instructor: Safoora Fatima
     | Online Tuesday 07:30PM-09:00
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays, 7:30-9PM CST
+
+
+:doc:`comp251` [Term: Eight Week - First]
+    | Section 700N (6455) Credits: 3; Online; Lecture
+    | Instructor: Smadar K Bergman
+    | Online Wednesday 06:00PM-09:00
+
+    **Notes:**
+    COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
 
 
 :doc:`comp317` 
@@ -84,7 +100,8 @@ Undergraduate Courses
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 443-002.
@@ -95,7 +112,8 @@ Undergraduate Courses
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 
@@ -105,7 +123,8 @@ Undergraduate Courses
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 464-001
 
 
@@ -114,7 +133,8 @@ Undergraduate Courses
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     Broadening Participation in STEM (Computing, Mathematics, and Science).
     
     
@@ -147,7 +167,8 @@ Graduate Courses
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 343-002.
@@ -158,7 +179,8 @@ Graduate Courses
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 
@@ -178,7 +200,8 @@ Graduate Courses
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 364-001
 
 
@@ -187,4 +210,4 @@ Graduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis

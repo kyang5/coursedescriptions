@@ -26,6 +26,10 @@ will be an introduction to the theory of NP-completeness, whereby certain
 computation problems can be classified as being difficult in a formal sense.
 
 Syllabi
-----------------------
+--------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2016", "Dr. Sekharan", "https://drive.google.com/file/d/0B-y3FE3FCB3xUXhTU1lUNkJIZVk/view?usp=sharing"

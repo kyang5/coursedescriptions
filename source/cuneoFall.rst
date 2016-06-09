@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 05/25/2016 21:03:17
+Updated 06/08/2016 16:12:55
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -59,7 +60,7 @@ Graduate Courses
 
 COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     | Section 502 (5980) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: Marius Sorin Ciobanu
     | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
     | Description similar to: :doc:`comp305`
 
@@ -71,4 +72,4 @@ COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis

@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule 
 ==========================================================================
-Updated 05/25/2016 21:03:17
+Updated 06/08/2016 16:12:55
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -47,26 +48,29 @@ Undergraduate Courses
     | Instructor: Robert Yacobellis
     | Information Commons:230 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     *This is a writing intensive course.*  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
 
 
 :doc:`comp122` 
     | Section 001 (5881) Credits: 3; In person; Lecture
-    | Instructor: Staff
+    | Instructor: David Wetzel
     | Mundelein Center:1017 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Students who wish to enroll in this class but do not formally meet the MATH 118 prerequisite should contact Prof. George K. Thiruvathukal (gkt@cs.luc.edu).
 
 
 :doc:`comp125` 
     | Section 001 (3448) Credits: 3; In person; Laboratory
-    | Instructor: Staff
+    | Instructor: David Wetzel
     | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -76,7 +80,9 @@ Undergraduate Courses
     | Instructor: Curtis D Tuckey
     | Sullivan Center:253 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -86,7 +92,9 @@ Undergraduate Courses
     | Instructor: Curtis D Tuckey
     | Crown Center:105 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -96,7 +104,9 @@ Undergraduate Courses
     | Instructor: Staff
     | Crown Center:103 (Lake Shore) Monday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -107,7 +117,9 @@ Undergraduate Courses
     | Online Monday 07:30PM-09:00
     | Online Friday 07:30PM-09:00 - Check week(s)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
@@ -118,7 +130,9 @@ Undergraduate Courses
     | Instructor: Victoria Noquez
     | Cuneo Hall:324 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of
     the term will meet on campus as scheduled.  Details on schedule and format of the online sessions will be provided as part of the course syllabus at the
     beginning of the term.
@@ -135,7 +149,9 @@ Undergraduate Courses
     | Instructor: Victoria Noquez
     | Dumbach Hall:229 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of
     the term will meet on campus as scheduled.  Details on schedule and format of the online sessions will be provided as part of the course syllabus at the
     beginning of the term.
@@ -153,7 +169,9 @@ Undergraduate Courses
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 11:15AM-11:40 (lab)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -169,7 +187,9 @@ Undergraduate Courses
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 12:35PM-01:00 (lab)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -185,7 +205,9 @@ Undergraduate Courses
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 03:45PM-04:05 (lab)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -201,7 +223,9 @@ Undergraduate Courses
     | Crown Center:105 (Lake Shore) Tuesday 04:15PM-06:45
     | Crown Center:105 (Lake Shore) Tuesday 07:00PM-07:50 (lab)
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -216,10 +240,25 @@ Undergraduate Courses
     | Instructor: Safoora Fatima
     | Online Tuesday 07:30PM-09:00
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays, 7:30-9PM CST
+
+
+:doc:`comp170` [Term: Eight Week - Second]
+    | Section 701N (6450) Credits: 3; Online; Lecture
+    | Instructor: Elliott Lawrence Post
+    | Corboy Law Center:0201 (Water Tower) Tuesday 06:00PM-09:00
+
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
+    COMP 170-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-701N is an online section. Required class meetings will be held Tuesdays 6-9PM CST. Students can participate online or face to face on campus.
 
 
 :doc:`comp215` 
@@ -227,7 +266,8 @@ Undergraduate Courses
     | Instructor: Aaron Lauve
     | Inst for Environment:110 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     COMP 215 is crosslisted with MATH 215. Register for MATH 215.
 
 
@@ -251,6 +291,17 @@ Undergraduate Courses
     graduate advisor.
 
 
+:doc:`comp251` [Term: Eight Week - First]
+    | Section 700N (6455) Credits: 3; Online; Lecture
+    | Instructor: Smadar K Bergman
+    | Online Wednesday 06:00PM-09:00
+
+    **Notes:**
+    COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
+
+
 :doc:`comp264` 
     | Section 001 (3893) Credits: 3; Blended; Lecture
     | Instructor: Ronald I Greenberg
@@ -268,7 +319,8 @@ Undergraduate Courses
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 12:35PM-01:00 (lab)
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     Students enrolled in COMP 271-001 (Lecture) will be automatically enrolled in COMP 271-01L (Lab).
     
     
@@ -283,7 +335,8 @@ Undergraduate Courses
     | Crown Center:103 (Lake Shore) Wednesday 06:00PM-08:30
     | Crown Center:103 (Lake Shore) Wednesday 08:40PM-09:30 (lab)
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).
     
     
@@ -294,10 +347,12 @@ Undergraduate Courses
 
 :doc:`comp312` 
     | Section 01E (4520) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: Michael Lewis
     | Cuneo Hall:117 (Lake Shore) Thursday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    Combined Section ID:
+    
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Combined with COMP 412-001.
 
 
@@ -350,7 +405,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:302 (Lake Shore) Friday 02:45PM-05:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 422-001
 
 
@@ -359,7 +415,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 424-001
 
 
@@ -368,7 +425,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 436-001
 
 
@@ -377,7 +435,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 443-001
 
 
@@ -386,7 +445,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 443-002.
@@ -397,7 +457,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 433-001
 
 
@@ -406,7 +467,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 447-001
 
 
@@ -415,7 +477,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 
@@ -425,7 +488,9 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Chandra N Sekharan
     | Cuneo Hall:218 (Lake Shore) Tuesday 04:00PM-06:30
 
-    **Notes:**
+    **Notes:** Class Equivalents:
+    Room Characteristics:
+    
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -435,7 +500,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 464-001
 
 
@@ -444,7 +510,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Conrad Weisert
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 488-370
 
 
@@ -453,7 +520,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Sarah Kaylor
     | Crown Center:105 (Lake Shore) Thursday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 410-001
 
 
@@ -462,7 +530,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Christine A Haught
     | Dumbach Hall:123 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     COMP 376 is cross-listed with MATH 376. Register for MATH 376.
 
 
@@ -471,7 +540,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Dmitriy Dligach
     | Dumbach Hall:231 (Lake Shore) Thursday 02:45PM-05:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 488-379
 
 
@@ -480,7 +550,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Heather E. Wheeler
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     COMP 381-002 is combined with BIOL 388-001.  Register for BIOL 388-001 (2070).  Also, combined with COMP 488-381 and BIOL 488-001.
 
 
@@ -489,12 +560,13 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
 
 
-:doc:`comp388`: Foundations of Comp Sci I [Term: Seven Week - First]
-    | Section 004 (5977) Credits: 3; In person; Lecture
+:doc:`comp388`: Foundations of Comp Sci I [Term: Eight Week 1 - Alternate]
+    | Section 004 (5977) Credits: 1 - 6; In person; Lecture
     | Instructor: Andrew N Harrington
     | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
     | Corboy Law Center:0201 (Water Tower) Thursday 04:15PM-06:30
@@ -525,7 +597,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     Broadening Participation in STEM (Computing, Mathematics, and Science).
     
     
@@ -542,7 +615,8 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
-    **Notes:**
+    **Notes:** Room Characteristics:
+    
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent is required, and then a Computer Science Department
     staff member will enroll you.
 
@@ -568,16 +642,18 @@ Graduate Courses
     | Instructor: Sarah Kaylor
     | Crown Center:105 (Lake Shore) Thursday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 374-001
 
 
 :doc:`comp412` 
     | Section 001 (4553) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: Michael Lewis
     | Cuneo Hall:117 (Lake Shore) Thursday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 312-01E.
 
 
@@ -602,7 +678,8 @@ Graduate Courses
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:302 (Lake Shore) Friday 02:45PM-05:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 322-001
 
 
@@ -611,7 +688,8 @@ Graduate Courses
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 324-001
 
 
@@ -620,7 +698,8 @@ Graduate Courses
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 344-001
 
 
@@ -629,7 +708,8 @@ Graduate Courses
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 336-001
 
 
@@ -638,7 +718,8 @@ Graduate Courses
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 343-001
 
 
@@ -647,7 +728,8 @@ Graduate Courses
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 343-002.
@@ -658,7 +740,8 @@ Graduate Courses
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 347-001
 
 
@@ -667,7 +750,8 @@ Graduate Courses
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 
@@ -705,7 +789,8 @@ Graduate Courses
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 364-001
 
 
@@ -714,7 +799,8 @@ Graduate Courses
     | Instructor: Christine A Haught
     | Dumbach Hall:123 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     COMP 476 is cross-listed with MATH 476. Register for MATH 476.
 
 
@@ -723,7 +809,8 @@ Graduate Courses
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
 
 
@@ -734,7 +821,8 @@ COMP 488 Topic: Software Quality & Testing
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
     | Description similar to: :doc:`comp370`
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Software Quality and Testing - Combined with COMP 370-001
 
 
@@ -745,7 +833,8 @@ COMP 488 Topic: Machine Learning
     | Dumbach Hall:231 (Lake Shore) Thursday 02:45PM-05:15
     | Description similar to: :doc:`comp379`
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Machine Learning - Combined with COMP 379-001.
 
 
@@ -756,7 +845,8 @@ COMP 488 Topic: Bioinformatics
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
     | Description similar to: :doc:`comp381`
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Bioinformatics -- Combined with COMP 381-002, BIOL 388-001, and BIOL 488-001.
 
 
@@ -775,7 +865,7 @@ COMP 488 Topic: Operations Management
 
 COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     | Section 502 (5980) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: Marius Sorin Ciobanu
     | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
     | Description similar to: :doc:`comp305`
 
@@ -787,7 +877,7 @@ COMP 488 Topic: Database Administration [Term: Eight Week - Second]
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`comp499` 
