@@ -229,6 +229,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+{txtBookURLline}
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -316,6 +317,8 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
     # later CSIS, too?
 
     season = semester.split()[0]
+    txtBookURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
+    txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( `{mainCampus}` Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
@@ -358,6 +361,8 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
     # later CSIS, too?
     mainCampus = 'Lake Shore'
     season = semester.split()[0]
+    txtBookURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
+    txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
@@ -398,6 +403,8 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
     # later CSIS, too?
     mainCampus = 'Water Tower'
     season = semester.split()[0]
+    txtBookURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
+    txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
@@ -438,6 +445,8 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     # later CSIS, too?
     mainCampus = 'Cuneo Mansion'
     season = semester.split()[0]
+    txtBookURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
+    txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
@@ -476,6 +485,8 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
     # later CSIS, too?
     mainCampus = 'Online'
     season = semester.split()[0]
+    txtBookURLTemplate= '''See `Textbook Information <{textURL}>`_.'''
+    txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Courses )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= ''' 
@@ -579,28 +590,28 @@ def parseCSV(csvFile):
 
 def main():
     (courses, semester, created, mainCampus) = parseCSV('fall2016.csv')
-    rst = toRST(courses, semester, created, mainCampus, textURL='http://cs.luc.edu')
+    rst = toRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/fall.rst', 'w') as outf:
         outf.write(rst)
 ##    if sys.args
 #RST file for Lake shore Campus
-    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='http://cs.luc.edu')
+    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/lakeShoreFall.rst', 'w') as outf:
         outf.write(lsrst)
 #RST file for Water Tower Campus
-    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='http://cs.luc.edu')
+    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/waterTowerFall.rst', 'w') as outf:
         outf.write(wtrst)
 #RST file for Cuneo Courses
-    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='http://cs.luc.edu')
+    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/cuneoFall.rst', 'w') as outf:
         outf.write(cuneorst)
 #RST file for Online Courses
-    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='http://cs.luc.edu')
+    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/onlineFall.rst', 'w') as outf:
         outf.write(onlinerst)
