@@ -26,4 +26,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2012", "Dr. Honig", "https://drive.google.com/file/d/0Bz_4VraMwHUoTHZONE84V2ROU2s/edit?usp=sharing"
+	"Fall 2015", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP320/syllabus.html"

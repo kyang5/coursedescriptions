@@ -21,4 +21,8 @@ There will be a midterm and final exam and some programming assignments.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2016", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP378/syllabus.html"
