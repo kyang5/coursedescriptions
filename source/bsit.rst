@@ -68,6 +68,7 @@ Electives
 -   MGMT 360: Values Based Leadership
 -   ENTR 310: Innovation and Entrepreneurship
 -   Any COMP 300 level electives NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
+-   MGMT 201 or ACCT 201 may count as 3 credits of major Electives if either ISOM 349 or ENTR 310 is completed to count toward this major.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
