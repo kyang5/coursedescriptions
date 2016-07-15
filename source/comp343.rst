@@ -20,19 +20,7 @@ Prerequisites
 Description
 --------------------
 
-This course surveys the various levels of a packet-switched computer
-network, using the TCP/IP protocol suite as the primary model. Other
-network protocol stacks (e.g., Novell) may also be considered as time
-permits. At the Physical and Data Link Layers, various protocols such as
-Ethernet and Token Ring are compared, and their implications for network
-topology are considered. At the Network Layer, a wide variety of routing
-protocols and name resolution protocols are studied. At the Transport
-Layer, students are introduced to the various methods for building
-end-to-end reliability on top of less reliable lower layers. Finally, at
-the Application Layer a variety of standard protocols such as telnet,
-ftp, and electronic mail are examined, together with the related issues
-of security and authentication. Some programming in the C language is
-required.
+This course surveys the construction of modern packet-switched networks, focusing on TCP/IP. At the LAN layer, protocols such as Ethernet and Wi-Fi are described. At the IP layer, a variety of routing-update protocols are studied. At the Transport layer, the course addresses the creation of end-to-end reliability and the management of network-wide congestion. The course also introduces basic issues in network security and in real-time communications. Some programming, generally in a language like Java or C#, may be required.
 
 Outcome
 ---------
@@ -46,5 +34,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/443/fall13/"
+	"Fall 2015", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/443/fall15/"
 

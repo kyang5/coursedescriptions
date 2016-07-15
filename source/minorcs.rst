@@ -8,7 +8,7 @@ Overview
 
 Computers are extremely pervasive in the modern world, and important connections have been established between computer science and virtually every other field of study. Thus, a computer science minor is a valuable enhancement to majors in other fields, whether in the sciences, social sciences, arts, humanities, business, etc.
 
-(A more specific interdisciplinary minor is also offered, see :doc:`minorccf`, and interdisciplinary majors are offered in Bioinformatics, :doc:`bsmcs`, and :doc:`bspcs`.)
+(More specifically focused minors are also offered in :doc:`minorit` and :doc:`minorccf`. In addition, majors are offered in the interdisciplinary fields of Bioinformatics, :doc:`bsmcs`, and :doc:`bspcs`, as well as in :doc:`bscs`, :doc:`bscns`, :doc:`bsit`, and :doc:`bsse`.)
 
 Curriculum 
 ----------
