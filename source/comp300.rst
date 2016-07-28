@@ -48,4 +48,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Channah Naiman", "http://webpages.cs.luc.edu/%7Ecnaiman/COMP300/SP14/COMP300syllSP14.html"
+	"Spring 2014", "Channah Naiman", "https://luc.box.com/s/vehaxaonmpiitl3ho3d02nnm85pglgmj"

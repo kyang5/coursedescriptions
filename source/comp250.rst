@@ -41,5 +41,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Roxanne Schwab", "https://drive.google.com/file/d/0B5gClDnivRb5TGZ1R3hZbVdwRmM/edit?usp=sharing"
-	"Spring 2012", "Dr. Greenberg", "http://rig.cs.luc.edu/~rig/courses/syllabi/c250s12.pdf"
+	"Spring 2014", "Roxanne Schwab", "https://luc.box.com/s/25vqetcz9bj6f02cxl52quiehbruir3v"
+	"Spring 2012", "Dr. Greenberg", "https://luc.box.com/s/25vqetcz9bj6f02cxl52quiehbruir3v"

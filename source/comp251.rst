@@ -38,4 +38,4 @@ Syllabi
     :header: "Semester/Year", "Instructor", "URL"
     :widths: 15, 25, 50
 
-    "Fall 2013", "Guy Bevente", "https://drive.google.com/file/d/0B5gClDnivRb5THdGSmFzSFgzQzA/edit?usp=sharing"
+    "Fall 2013", "Guy Bevente", "https://luc.box.com/s/34jl29hua7f0vo4ul17hoe3rljv5lc1s"

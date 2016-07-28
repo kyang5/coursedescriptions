@@ -42,7 +42,7 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Thiruvathukal", "http://distributed.cs.courseclouds.com/html/syllabus.html"
+	"Fall 2013", "Dr. Thiruvathukal", "https://luc.box.com/s/wtdgdnx6xiz6bwfhtejmo0u3nubhvln7"
 
 
 
