@@ -31,4 +31,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
+	"Spring 2016", "Nicholas Hayward", "https://luc.box.com/s/x6ygjsx6f8nxqj4gjxl8xwuk3grpgkf2"

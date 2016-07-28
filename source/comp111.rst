@@ -32,6 +32,10 @@ organization, intellectual climate, and technology will be examined and
 stressed.
 
 Syllabi
-----------------------
+--------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2016", "Dr. Thiruvathukal", "https://luc.box.com/s/f5wmc53zwpb7r9q1w1s46mpdq3a0ajmm"

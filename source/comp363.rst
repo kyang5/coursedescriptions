@@ -41,11 +41,11 @@ Outcome
 The ability to design and analyze efficient algorithms; understanding of the necessary models and mathematical tools; understanding of a variety of useful data structures and fundamental algorithms; exposure to the classification of computational problems into different complexity classes.
 
 Syllabi
---------------------
+----------------------
 
 .. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   :header: "Semester/Year", "Instructor", "URL"
+   :widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Albert", "http://comp363.pacsites.org/"
-    "Spring 2013", "Dr. Harrington", "http://anh.cs.luc.edu/363/index.html"
+        "Fall 2013", "Dr. Albert", "https://luc.box.com/s/r5s1mpy8vt0bv2y4y9d87ls0bgtlnloe"
+	"Spring 2013", "Dr. Harrington", "https://luc.box.com/s/r5s1mpy8vt0bv2y4y9d87ls0bgtlnloe"

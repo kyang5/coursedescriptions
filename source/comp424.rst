@@ -27,4 +27,4 @@ Syllabi
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 60, 15, 25, 60
 
-	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
+	"Client Side Web Design", "Spring 2016", "Nicholas Hayward", "https://luc.box.com/s/eslnd9ypeus1j8xpzqci4ujuhpey6boq"
