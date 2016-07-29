@@ -42,11 +42,11 @@ Syllabi
    	:widths: 60, 15, 25, 60
 
 	"Advanced Experimental Computing: Pervasive Systems", "Spring 2014", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
-	"Bioinformatics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5UVVGblJLUFZycHc"
-	"Computational Biology", "Spring 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5QlNwa05tSjVFWkU"
-  	"Computational Neuroscience", "Spring 2015", "Dr.Albert", "http://compneuro.pacsites.org"
-        "Introduction to Digital Humanities Design and Programming", "Spring 2015", "Nicholas Hayward", "https://drive.google.com/file/d/0Bz_4VraMwHUoaEdueV9HeXllWkE"
-	"Machine Learning", "Fall 2015", "Dr. Albert", "http://machinelearning.pacsites.org"
-	"Metagenomics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg"
+	"Bioinformatics", "Fall 2015", "Dr. Putonti", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
+	"Computational Biology", "Spring 2015", "Dr. Putonti", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
+  	"Computational Neuroscience", "Spring 2015", "Dr.Albert", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
+        "Introduction to Digital Humanities Design and Programming", "Spring 2015", "Nicholas Hayward", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
+	"Machine Learning", "Fall 2015", "Dr. Albert", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
+	"Metagenomics", "Fall 2015", "Dr. Putonti", "https://luc.box.com/s/ldp6gn86hexwotsvdm3e0q5rifidk8np"
 	"Rapid Application Development Methodology", "Fall 2014", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU"
 	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"

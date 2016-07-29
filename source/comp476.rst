@@ -39,4 +39,9 @@ among languages, resource-bounded computation, Kolmogorov complexity.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2014", "Stephen Doty", "https://luc.box.com/s/94r7s06j61y0ufprujo0bm7147ek63qz"
+

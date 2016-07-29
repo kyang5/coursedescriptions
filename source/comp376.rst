@@ -47,4 +47,9 @@ An understanding of the theoretical underpinnings of computability and complexit
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2014", "Stephen Doty", "https://luc.box.com/s/2idf1nl0e8wxwwy4gjysvc01aumi23el"
+

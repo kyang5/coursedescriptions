@@ -33,4 +33,8 @@ into performance engineering of software.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Fall 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/z3gsxdhg8fjer6473yy69td4yc69y8d5"

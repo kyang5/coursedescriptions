@@ -41,4 +41,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2016", "Jose Luis Gahete", "https://luc.box.com/s/drfpcardlnwzlu2atavkszclbrqiw813"
+	"Spring 2016", "Jose Luis Gahete", "https://luc.box.com/s/5r3j8jq6qauotmt57osjwizszvgy1vpu"

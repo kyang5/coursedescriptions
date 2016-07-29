@@ -37,5 +37,8 @@ Students will learn how to engineer solutions to practical problems in multiproc
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
 
+	"Fal 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/rjmodg9txmk6nzx5lqxcvfwyql5iim36"
