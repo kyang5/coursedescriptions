@@ -38,10 +38,9 @@ Syllabi
    :header: "Topic", "Semester/Year", "Instructor", "URL"
    :widths: 60, 15, 25, 60
 
-	"Advanced Experimental Computing: Pervasive Systems", "Spring 2014", "Dr. Thiruvathukal", "http://pervasiveseminar.cs.luc.edu"
-	"Metagenomics", "Fall 2015", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg"
-	"Rapid Application Development Methodology", "Fall 2015", "Karim Kabani", "https://drive.google.com/file/d/0Bz_4VraMwHUoZldnNTZHRXFYZUU"
-	"Robotics", "Fall 2011", "Dr. Honig", "http://people.cs.luc.edu/whonig/comp-388-488-robotics"
-        "Foundations of Computer Science I", "Fall 2015", "Andrew N. Harrington", "http://anh.cs.luc.edu/388Intro"
-        "Foundations of Computer Science II", "Fall 2015", "Peter L. Dordal", "http://pld.cs.luc.edu/courses/388/spr15"
-
+        "Compressed Introduction to Computer Science", "Spring 2016", "Andrew N. Harrington", "https://luc.box.com/s/8jcnv6guf5sdtuxwh0tqralcicigqebu"
+        "Physical Design and Fabrication", "Spring 2016", "Jonathan Durston", "https://luc.box.com/s/meu8ky97rnknvq7ya0x05bsxuovueqiq"
+        "Data Structures", "Fall 2015", "Peter L. Dordal", "https://luc.box.com/s/7dyol8ww3zc6ntebbgm5homhp10r7ze5"
+	"Web Services", "Fall 2015", "Berhane Zewdie", "https://luc.box.com/s/dbuowyp8464unfb0iaoe2buizb7unqy9"
+	"I.T. Project Management", "Spring 2015", "Conrad Weisert", "https://luc.box.com/s/sbrd7k2e2g3zozqcndpmcgtdreq0f92i"
+	"Past Offerings", "", "", "https://luc.box.com/s/npdm0gbxtao6ahenwnddk462745q5tpj"

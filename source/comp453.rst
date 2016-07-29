@@ -30,5 +30,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Sekharan", "https://drive.google.com/file/d/0B5gClDnivRb5SVhFck9JYzJzMTg/edit?usp=sharing"
-	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/353/spr13/"
+	"Fall 2015", "Dr. Channah Naiman", "https://luc.box.com/s/n47wvatvr9e453i9wh8o7av4kbzd2n8e"
+	
