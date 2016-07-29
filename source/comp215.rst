@@ -38,4 +38,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Christine Haught", "https://drive.google.com/file/d/0B5gClDnivRb5d3dSWkdQUExMVjQ/edit?usp=sharing"
+	"Fall 2013", "Christine Haught", "https://luc.box.com/s/qbtjm2odayq6hm0ko326ys2tsywdlag1"

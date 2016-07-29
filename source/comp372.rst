@@ -37,4 +37,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/372"
+	"Spring 2014", "Dr. Läufer", "https://luc.box.com/s/xkf3pxrt6tqoddj75337j55c96w80zml"

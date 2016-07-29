@@ -48,4 +48,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Stephen Doty", "https://drive.google.com/file/d/0B5gClDnivRb5RVZfVDM4d3RadTg/edit?usp=sharing"
+	"Fall 2013", "Stephen Doty", "https://luc.box.com/s/crg2y0y7336tl8wvg6e8e3vxpufaxj97"

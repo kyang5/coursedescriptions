@@ -66,5 +66,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Yacobellis", "https://drive.google.com/file/d/0B5gClDnivRb5LWpEdndWZ2xTbE0/edit?usp=sharing"
-	"Fall 2013", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/313"
+	"Spring 2014", "Dr. Yacobellis", "https://luc.box.com/s/m24hdedq5ghw8ecgr7gjtdtkg71juvhy"
+	"Fall 2013", "Dr. Läufer", "https://luc.box.com/s/m24hdedq5ghw8ecgr7gjtdtkg71juvhy"

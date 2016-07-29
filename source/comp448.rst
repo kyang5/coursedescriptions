@@ -33,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Corby Schmitz", "https://drive.google.com/file/d/0B5gClDnivRb5ZEdMTVZybHQ0U2s/edit?usp=sharing"
+	"Spring 2014", "Corby Schmitz", "https://luc.box.com/s/rjw2mw8iwtvdtt4jftpqvre09t78lrfe"

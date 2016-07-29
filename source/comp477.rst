@@ -33,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP477/syllabus.html"
+	"Spring 2016", "Dr. Channah Naiman", "https://luc.box.com/s/1tgu3y4lxl7uy2kc2mct0wyo2iu4ls7y"

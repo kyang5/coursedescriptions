@@ -1,4 +1,4 @@
-﻿.. index:: network management
+.. index:: network management
 
 COMP 451: Network Management
 =======================================================
@@ -47,5 +47,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2011", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/netmgmt/spr11/"
+	"Spring 2011", "Dr. Dordal", "https://luc.box.com/s/zpggggqekdguy6bg25ocfctkwz8xzxny"
 
