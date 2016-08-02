@@ -35,6 +35,6 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Channah Naiman", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"
+	"Spring 2016", "Channah Naiman", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"
 	"Fall 2011", "Dr. William Honig", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"
 	"Fall 2011", "Dr. Ron Greenberg", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"

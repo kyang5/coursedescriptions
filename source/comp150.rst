@@ -42,7 +42,7 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Curtis Tuckey", "http://logicophilosophicus.org/loyola/cs-150/"
-	"Fall 2013", "Dr. Andrew Harrington", "http://anh.cs.luc.edu/150/groundrules.html"
-	"Fall 2013", "Dr. Robert Yacobellis", "https://drive.google.com/file/d/0B5gClDnivRb5OV80Tkh3bjVKSVE/edit?usp=sharing"
-	"Fall 2011", "Dr. Mark Albert", "http://mva.me/edu/comp150/"
+	"Spring 2016", "Michael Lewis", "https://luc.box.com/s/rqubwh2u96999jzzsoek4c28a990rouz"
+	"Spring 2016", "Dr. Andrew Harrington", "https://luc.box.com/s/0dm3l12rbwxw3mj8is314180na6e34uj"
+	"Fall 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/tvghcr954e0dkmky7dk2go9r7opjat8i"
+	"Past Offerings", , "https://luc.box.com/s/atg3mq2isjogedvc6cxz343oi5ilzdjb"

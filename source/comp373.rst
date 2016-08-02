@@ -77,4 +77,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2014", "Berhane Zewdie", "https://luc.box.com/s/9563fmryda6kwsti73ipeol1nypj0v6o"
+	"Spring 2016", "Berhane Zewdie", "https://luc.box.com/s/9563fmryda6kwsti73ipeol1nypj0v6o"

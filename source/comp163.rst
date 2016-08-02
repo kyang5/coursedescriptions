@@ -35,4 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Greenberg", "https://luc.box.com/s/crpjpmflgefgfiej4gdamvz5rqc19hc5"
+	"Spring 2016", "Victoria Noquez", "https://luc.box.com/s/crpjpmflgefgfiej4gdamvz5rqc19hc5"
