@@ -32,4 +32,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2016", "Dr. Sekharan", "https://drive.google.com/file/d/0B-y3FE3FCB3xUXhTU1lUNkJIZVk/view?usp=sharing"
+	"Spring 2016", "Dr. Sekharan", "https://luc.box.com/s/8o8yme4d7ng3vdufzc6funme5clhx5i1"
