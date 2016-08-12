@@ -41,4 +41,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fal 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/rjmodg9txmk6nzx5lqxcvfwyql5iim36"
+	"Fall 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/rjmodg9txmk6nzx5lqxcvfwyql5iim36"
