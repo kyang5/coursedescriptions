@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule ( Online Courses )
 ==========================================================================
-Updated 06/08/2016 16:12:55
+Updated 08/12/2016 15:19:26
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -57,22 +57,9 @@ Undergraduate Courses
     COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
 
 
-:doc:`comp170` [Term: Eight Week - First]
-    | Section 700N (5984) Credits: 3; Online; Lecture
-    | Instructor: Safoora Fatima
-    | Online Tuesday 07:30PM-09:00
-
-    **Notes:** Class Equivalents:
-    Room Characteristics:
-    
-    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays, 7:30-9PM CST
-
-
 :doc:`comp251` [Term: Eight Week - First]
     | Section 700N (6455) Credits: 3; Online; Lecture
-    | Instructor: Smadar K Bergman
+    | Instructor: Safoora Fatima
     | Online Wednesday 06:00PM-09:00
 
     **Notes:**
@@ -81,7 +68,7 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
 
 
-:doc:`comp317` 
+:doc:`comp317` [Term: Regular Academic Session]
     | Section 001 (3457) Credits: 3; Hybrid; Lecture
     | Instructor: Matthew Paul Butcher
     | Online Tuesday 07:00PM-09:30
@@ -95,7 +82,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp343` 
+:doc:`comp343` [Term: Regular Academic Session]
     | Section 002 (5918) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -107,7 +94,7 @@ Undergraduate Courses
     Combined with COMP 443-002.
 
 
-:doc:`comp347` 
+:doc:`comp347` [Term: Regular Academic Session]
     | Section 002 (5923) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -118,7 +105,7 @@ Undergraduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 
 
-:doc:`comp364` 
+:doc:`comp364` [Term: Regular Academic Session]
     | Section 001 (5924) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
@@ -128,7 +115,7 @@ Undergraduate Courses
     Combined with COMP 464-001
 
 
-:doc:`comp390` 
+:doc:`comp390` [Term: Regular Academic Session]
     | Section 01E (4055) Credits: 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
@@ -162,7 +149,7 @@ Graduate Courses
 
 
 
-:doc:`comp443` 
+:doc:`comp443` [Term: Regular Academic Session]
     | Section 002 (5941) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -174,7 +161,7 @@ Graduate Courses
     Combined with COMP 343-002.
 
 
-:doc:`comp447` 
+:doc:`comp447` [Term: Regular Academic Session]
     | Section 002 (5943) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -185,7 +172,7 @@ Graduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 
 
-:doc:`comp453` 
+:doc:`comp453` [Term: Regular Academic Session]
     | Section 002 (4563) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
@@ -195,7 +182,7 @@ Graduate Courses
     times chosen to fit different groups' schedules.  Exams may be synchronous and in-person.
 
 
-:doc:`comp464` 
+:doc:`comp464` [Term: Regular Academic Session]
     | Section 001 (5945) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30

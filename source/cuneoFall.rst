@@ -1,7 +1,7 @@
 
 Fall 2016 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 06/08/2016 16:12:55
+Updated 08/12/2016 15:19:26
 
 The following courses will (tentatively) be held during the Fall 2016 semester.
 
@@ -46,24 +46,6 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
-
-
-
-:doc:`comp447` [Term: Eight Week 1 - Alternate]
-    | Section 501 (5979) Credits: 3; Blended; Lecture
-    | Instructor: Staff
-    | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
-
-
-
-
-
-COMP 488 Topic: Database Administration [Term: Eight Week - Second]
-    | Section 502 (5980) Credits: 3; Blended; Lecture
-    | Instructor: Marius Sorin Ciobanu
-    | Place TBA (Cuneo Mansion) Thursday 05:30PM-09:30
-    | Description similar to: :doc:`comp305`
-
 
 
 
