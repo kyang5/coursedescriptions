@@ -23,14 +23,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 **View Campus Specific Courses below :**
- 
-:doc:`fall`
 
-:doc:`lakeShorefall`
-
-:doc:`waterTowerFall`
-
-:doc:`onlineFall` 
 
 
 
