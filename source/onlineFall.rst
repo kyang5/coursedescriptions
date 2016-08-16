@@ -30,9 +30,7 @@ You can skip down to
 
 :doc:`lakeShorefall`
 
-:doc:`waterTowerFall`
-
-:doc:`cuneoFall` 
+:doc:`waterTowerFall` 
 
 
 

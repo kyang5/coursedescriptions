@@ -242,7 +242,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 {graduateLink}
 
 **View Campus Specific Courses below :**
-{campusURLTemplate}
+{campusURLTemplateCuneo}
 
 
 
@@ -329,6 +329,12 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoFall`
 
 :doc:`onlineFall` '''
+    campusURLTemplateCuneo= ''' 
+:doc:`lakeShorefall`
+
+:doc:`waterTowerFall`
+
+:doc:`onlineFall` '''
     graduateLink = '''
 You can skip down to
 :ref:`fall_graduate_courses_list_`. '''
@@ -373,6 +379,12 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoFall`
 
 :doc:`onlineFall` '''
+    campusURLTemplateCuneo= ''' 
+:doc:`fall`
+
+:doc:`waterTowerFall`
+
+:doc:`onlineFall` '''
     graduateLink = '''
 You can skip down to
 :ref:`fall_graduate_courses_list_Lake Shore`. '''
@@ -382,7 +394,6 @@ You can skip down to
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
-    
     return '\n'.join(parts)
 
 def toWTRST(courses, semester, created, mainCampus, textURL=''):
@@ -413,6 +424,12 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`lakeShorefall`
 
 :doc:`cuneoFall`
+
+:doc:`onlineFall` '''
+    campusURLTemplateCuneo= ''' 
+:doc:`fall`
+
+:doc:`lakeShorefall`
 
 :doc:`onlineFall` '''
     graduateLink = '''
@@ -457,6 +474,7 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`waterTowerFall`
 
 :doc:`onlineFall` '''
+    campusURLTemplateCuneo = ''
     graduateLink = ''
     udergradeTxt = ''
     parts = [headingTemplate.format(**locals())]
@@ -497,6 +515,12 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`waterTowerFall`
 
 :doc:`cuneoFall` '''
+    campusURLTemplateCuneo= ''' 
+:doc:`fall`
+
+:doc:`lakeShorefall`
+
+:doc:`waterTowerFall` '''
     graduateLink = '''
 You can skip down to
 :ref:`fall_graduate_courses_list_Online`. '''
