@@ -29,4 +29,4 @@ Syllabus
     :header: "Offering", "Instructor", "URL"
     :widths: 15, 25, 50
 
-	"Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
+	"Fall 2015", "Berhane Zewdie", "https://luc.box.com/s/zy8564ok8cmwiu1tk9xwade93dtu0pss"

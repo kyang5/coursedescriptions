@@ -16,7 +16,6 @@ INFS 794
 Prerequisites
 -----------------
 
-.. include:: fcs.txt
 
 Description
 --------------

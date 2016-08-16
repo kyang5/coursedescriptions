@@ -11,9 +11,8 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp251` or :doc:`comp271`
+:doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
@@ -43,5 +42,5 @@ Syllabus
     :header: "Offering", "Instructor", "URL"
     :widths: 15, 25, 50
 
-	"Fall 2013", "Matt Bone", "http://markup.cs.courseclouds.com/fall2013/syllabus.html"
+	"Fall 2013", "Matt Bone", "https://luc.box.com/s/4urhyalrnsvilautu8tgwb3vsl5hv480"
     "Spring 2012", "Dr. Thiruvathukal", "http://markuplanguages.cs.courseclouds.com"

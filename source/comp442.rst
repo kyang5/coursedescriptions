@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`comp264` and :doc:`comp313`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
@@ -34,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2012", "Dr. Läufer", "http://laufer.cs.luc.edu/teaching/442"
+	"Spring 2012", "Dr. Läufer", "https://luc.box.com/s/cq1dbfvyb6pej9b205oxtz67he1h93et"

@@ -34,6 +34,7 @@ Schedules
 If you wish to look forward further, see 
 
 * :doc:`longtermschedule`
+* :doc:`cuneo2yrschedule`
 
 Or look further back:
 
@@ -174,7 +175,6 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 
    comp409
    comp410
-   comp411
    comp412
    comp413
    comp417

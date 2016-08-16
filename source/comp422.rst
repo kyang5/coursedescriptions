@@ -12,9 +12,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp264` and :doc:`comp271`
-
-.. include:: fcs.txt
+:doc:`comp313`
 
 Description
 ----------------------------
@@ -28,4 +26,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2009", "Dr. Honig", "https://drive.google.com/file/d/0Bz_4VraMwHUoSGdaOU9JS0VUTms/edit?usp=sharing"
+	"Spring 2009", "Dr. Honig", "https://luc.box.com/s/sm75okfbnv8b7fn0z55cw4rkjozju31n"

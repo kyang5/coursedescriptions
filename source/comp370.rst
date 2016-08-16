@@ -52,4 +52,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2014", "Conrad Weisert", "http://webpages.cs.luc.edu/~cweisert/COMP370/syllabus.html"
+	"Fall 2014", "Conrad Weisert", "https://luc.box.com/s/f5q8r3a9h7opfcwcy0fraoqvri6ev79m"

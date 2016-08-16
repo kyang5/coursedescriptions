@@ -14,7 +14,6 @@ Prerequisites
 
 :doc:`comp313`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

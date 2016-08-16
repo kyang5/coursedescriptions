@@ -30,5 +30,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2013", "Dr. Dordal", "http://webpages.cs.luc.edu/~pld/courses/346/spr13/"
+	"Spring 2013", "Dr. Dordal", "https://luc.box.com/s/pvw81deb39p4d3h084iqr7y4tu3fflum"
 

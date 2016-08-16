@@ -13,7 +13,6 @@ Prerequisites
 
 None
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

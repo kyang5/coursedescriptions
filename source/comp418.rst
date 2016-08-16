@@ -13,8 +13,6 @@ Prerequisites
 
 |math162|
 
-.. include:: fcs.txt
-
 
 Description
 ----------------------------

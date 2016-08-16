@@ -13,9 +13,8 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp150` or :doc:`comp170`
+:doc:`comp271`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
@@ -34,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Corby Schmitz", "https://drive.google.com/file/d/0B5gClDnivRb5V1hQNW9FTVphV00/edit?usp=sharing"
+	"Fall 2013", "Corby Schmitz", "https://luc.box.com/s/jwzbt7xvngsw1h7atoqwbnzs21kjry9s"

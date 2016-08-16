@@ -16,9 +16,8 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp264` or PHYS 266
+:doc:`comp264` or :doc:`comp271` or PHYS 266
 
-.. include:: fcs.txt
 
 Description
 --------------------
@@ -36,4 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2014", "William Honig", "http://cs.luc.edu/whonig/comp-366-488"
+	"Fall 2014", "William Honig", "https://luc.box.com/s/xqid0wvx7inxqb8zv0543prstan192tj"

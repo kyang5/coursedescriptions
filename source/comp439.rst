@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`comp313` or :doc:`comp374`
 
-.. include:: fcs.txt
 
 Description
 ----------------------------
@@ -33,4 +32,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2013", "Dr. Thiruvathukal", "http://distributed.cs.courseclouds.com/html/syllabus.html"
+	"Fall 2013", "Dr. Thiruvathukal", "https://luc.box.com/s/s42vfem0702wvlo0fje3j8kff2hdjvmp"

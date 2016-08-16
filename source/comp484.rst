@@ -8,8 +8,6 @@ Prerequisites
 
 :doc:`comp271`
 
-.. include:: fcs.txt
-
 Description
 ----------------------------
 
@@ -23,4 +21,8 @@ There will be a midterm and final exam and some programming assignments.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2016", "Conrad Weisert", "https://luc.box.com/s/btamshxy6n0g5wme57ahthbefyt16d67"

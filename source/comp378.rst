@@ -32,4 +32,8 @@ Student will learn basic theory of artificial intelligence and be able to build 
 Syllabi
 ----------------------
 
-No recent syllabi available.
+.. csv-table:: 
+   	:header: "Semester/Year", "Instructor", "URL"
+   	:widths: 15, 25, 50
+
+	"Spring 2016", "Conrad Weisert", "https://luc.box.com/s/k4u8xook39g0nnw0seuhixvt02eyro1k"

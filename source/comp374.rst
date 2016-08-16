@@ -49,5 +49,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2013", "Joe Kaylor", "http://osdi.cs.courseclouds.com"
-	"Spring 2012", "Joe Kaylor and George K. Thiruvathukal", "http://osdi.cs.courseclouds.com"
+	"Spring 2013", "Joe Kaylor", "https://luc.box.com/s/6do6ewznl4fsppy9ofqrsoqm74t00bwz"
+	"Spring 2012", "Joe Kaylor and George K. Thiruvathukal", "https://luc.box.com/s/6do6ewznl4fsppy9ofqrsoqm74t00bwz"

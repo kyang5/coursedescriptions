@@ -16,7 +16,6 @@ OPMG 483 (Quinlan School of Business)
 Prerequisites
 -----------------
 
-.. include:: fcs.txt
 
 Description
 ------------------

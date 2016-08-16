@@ -19,7 +19,6 @@ Prerequisites
 - ability to understand simple C programs and to run programs in a UNIX environment, and
 - familiarity with the representation of numbers in digital computers
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

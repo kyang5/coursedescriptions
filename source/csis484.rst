@@ -16,7 +16,6 @@ ISOM 484 (Quinlan School of Business)
 Prerequisites
 -----------------
 
-.. include:: fcs.txt
 
 Description
 ------------------

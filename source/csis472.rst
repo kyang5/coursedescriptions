@@ -16,7 +16,6 @@ MGMT 472 (Quinlan School of Business)
 Prerequisites
 -----------------
 
-.. include:: fcs.txt
 
 Description
 ------------------

@@ -39,5 +39,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Summer 2014", "George K. Thiruvathukal", "http://foss.etl.luc.edu"
-	"Spring 2014", "Matt Butcher", "https://drive.google.com/file/d/0B5gClDnivRb5Ni15MlpialZJNzg/edit?usp=sharing"
+	"Summer 2014", "George K. Thiruvathukal", "https://luc.box.com/s/4vv84gz2qkoe773yfhpp8bign110x7fg"
+	"Spring 2014", "Matt Butcher", "https://luc.box.com/s/4vv84gz2qkoe773yfhpp8bign110x7fg"

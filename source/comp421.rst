@@ -17,7 +17,6 @@ Prerequisites
 
 |stat203|
 
-.. include:: fcs.txt
 
 Description
 ----------------------------

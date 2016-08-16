@@ -36,4 +36,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Honig", "https://drive.google.com/file/d/0B5gClDnivRb5MXEwQXIwTThkYXc/edit?usp=sharing"
+	"Spring 2016", "George K. Thiruvathukal", "https://luc.box.com/s/k7b024zws90bu8fjsogijpsg0t6qgsdq"

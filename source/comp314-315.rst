@@ -78,4 +78,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2015", "Dr. Harrington", "http://anh.cs.luc.edu/314-315/"
+	"Fall 2015", "Dr. Harrington", "https://luc.box.com/s/rsbewiqfemx7t6rwdhxezogkej1y0ao4"

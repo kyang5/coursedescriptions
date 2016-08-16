@@ -15,6 +15,8 @@ Prerequisites
 
 .. LOCUS lists 163 and biol 388
 
+:doc:`comp381`
+
 :doc:`comp271`
 
 :doc:`comp163`
@@ -42,4 +44,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Putonti", "https://drive.google.com/file/d/0B5gClDnivRb5QlNwa05tSjVFWkU/edit?usp=sharing"
+	"Spring 2016", "Dr. Heather E. Wheeler", "https://luc.box.com/s/ktamvof6a5lbzmcvaszsunrddvm5t8nt"

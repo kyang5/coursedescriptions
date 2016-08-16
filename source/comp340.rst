@@ -34,4 +34,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Fall 2014", "Tom Yarrish", "https://drive.google.com/file/d/0B5gClDnivRb5VXFxakw1eDVxUEU/edit?usp=sharing"
+	"Fall 2014", "Tom Yarrish", "https://luc.box.com/s/cuczlxoabjg5fpat09u17g7ae2q06kn2"

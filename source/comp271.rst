@@ -42,5 +42,5 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Maria Saenz", "https://drive.google.com/file/d/0B5gClDnivRb5UXpVNFkyODU4ZGM/edit?usp=sharing"
-	"Fall 2013", "Dr. Sekharan", "https://drive.google.com/file/d/0B5gClDnivRb5T21CTWNlUHhnUTQ/edit?usp=sharing"
+	"Spring 2016", "Dr. Putont", "https://luc.box.com/s/jzdj77yzwxime9xhtdbiz2exgja13xqi"
+	"Fall 2015", "Dr. Sekharan", "https://luc.box.com/s/jzdj77yzwxime9xhtdbiz2exgja13xqi"
