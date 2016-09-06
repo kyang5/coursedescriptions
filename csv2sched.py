@@ -140,11 +140,14 @@ class Section:
         self.instructor = ', '.join([parse_instructor(instr) for instr in self.instructorList])
         if lines[i] and lines[i][0] == 'Class Enrl Cap:': #look for more unused line types in future
             i += 1
-        if lines[i] and lines[i][0] == 'Class Equivalents:':
+        if lines[i] and lines[i][0] == 'Class Equivalents:' or lines[i][0] == 'Attributes:':
             i += 1
-        if lines[i] and lines[i][0]: # skip seq of empty columns
+        if lines[i] and lines[i][0] == 'Room Characteristics:' or lines[i][0] == 'Class Equivalents:':
+            i += 1
+        if lines[i] and lines[i][0]: # skip seq of empty column
             i += 1
         notes = [line[0] if line else '' for line in lines[i:-1] ] # skip dashes line at end
+        
         if notes:
             notes[0] = '**Notes:** ' + notes[0].strip()
         self.notes = joinIndented(notes, indent).rstrip()
@@ -601,11 +604,14 @@ def parseCSV(csvFile):
             # assume campus and location same?
             term = part[3][0] # empty string for regular session
             
+            if term == 'Regular Academic Session':
+            	term = ''
             if term:
                 term = '[Term: ' + term + ']'
             created = 'Updated {} {}'.format(date, time)
-            if not term and part[3][6] != 'Regular Academic Session':
-               term = '[Term: ' + part[3][6] + ']'
+            #not in use
+            #if not term and part[3][6] != 'Regular Academic Session':
+              # term = '[Term: ' + part[3][6] + ']'
         else:  # section description
             #print('Processing section') #DEBUG
             section = Section(campus, term, part)

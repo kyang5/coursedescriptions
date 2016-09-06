@@ -46,81 +46,72 @@ Undergraduate Courses
     | Instructor: Elliott Lawrence Post
     | Corboy Law Center:0201 (Water Tower) Tuesday 06:00PM-09:00
 
-    **Notes:** Class Equivalents:
-    Room Characteristics:
-    
+    **Notes:**
     COMP 170-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 170-701N is an online section. Required class meetings will be held Tuesdays 6-9PM CST. Students can participate online or face to face on campus.
 
 
-:doc:`comp324` [Term: Regular Academic Session]
+:doc:`comp324` 
     | Section 001 (5912) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 424-001
 
 
-:doc:`comp336` [Term: Regular Academic Session]
+:doc:`comp336` 
     | Section 001 (5913) Credits: 3; In person; Lecture
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 436-001
 
 
-:doc:`comp343` [Term: Regular Academic Session]
+:doc:`comp343` 
     | Section 001 (5915) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 443-001
 
 
-:doc:`comp344` [Term: Regular Academic Session]
+:doc:`comp344` 
     | Section 001 (5919) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 433-001
 
 
-:doc:`comp347` [Term: Regular Academic Session]
+:doc:`comp347` 
     | Section 001 (5922) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 447-001
 
 
-:doc:`comp370` [Term: Regular Academic Session]
+:doc:`comp370` 
     | Section 001 (5925) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 488-370
 
 
-:doc:`comp388`: RapidAppDevMethodology(.NET) [Term: Regular Academic Session]
+:doc:`comp388`: RapidAppDevMethodology(.NET) 
     | Section 001 (5928) Credits: 3; Blended; Lecture
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
 
 
@@ -167,80 +158,73 @@ Graduate Courses
 
 
 
-:doc:`comp424` [Term: Regular Academic Session]
+:doc:`comp424` 
     | Section 001 (5937) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 324-001
 
 
-:doc:`comp433` [Term: Regular Academic Session]
+:doc:`comp433` 
     | Section 001 (5938) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 344-001
 
 
-:doc:`comp436` [Term: Regular Academic Session]
+:doc:`comp436` 
     | Section 001 (5939) Credits: 3; In person; Lecture
     | Instructor: Matthew William Bone
     | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 336-001
 
 
-:doc:`comp443` [Term: Regular Academic Session]
+:doc:`comp443` 
     | Section 001 (5940) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 343-001
 
 
-:doc:`comp447` [Term: Regular Academic Session]
+:doc:`comp447` 
     | Section 001 (5942) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
     | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 347-001
 
 
-:doc:`comp488`: RapidAppl Dev Metholodgy(.NET) [Term: Regular Academic Session]
+:doc:`comp488`: RapidAppl Dev Metholodgy(.NET) 
     | Section 001 (5946) Credits: 3; Blended; Lecture
     | Instructor: Karim Kabani
     | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
 
 
 
-COMP 488 Topic: Software Quality & Testing [Term: Regular Academic Session]
+COMP 488 Topic: Software Quality & Testing 
     | Section 370 (5947) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
     | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
     | Description similar to: :doc:`comp370`
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Software Quality and Testing - Combined with COMP 370-001
 
 
 
-COMP 488 Topic: Operations Management [Term: Regular Academic Session]
+COMP 488 Topic: Operations Management 
     | Section 480 (6275) Credits: 3; Blended; Lecture
     | Instructor: Channah Naiman
     | Maguire Hall:324 (Water Tower) Tuesday 07:00PM-09:30
@@ -259,7 +243,7 @@ COMP 488 Topic: Operations Management [Term: Regular Academic Session]
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
-:doc:`comp499` [Term: Regular Academic Session]
+:doc:`comp499` 
     | Section 001 (2248) Credits: 1 - 6; In person; Independent Study
     | Instructor: Andrew N Harrington, Konstantin Laufer
     | Place TBA (Water Tower) Times: TBA
@@ -268,7 +252,7 @@ COMP 488 Topic: Operations Management [Term: Regular Academic Session]
     This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member will enroll you.
 
 
-:doc:`comp605` [Term: Regular Academic Session]
+:doc:`comp605` 
     | Section 001 (3237) Credits: 0; In person; FTC-Supervision
     | Instructor: Andrew N Harrington, Konstantin Laufer
     | Place TBA (Water Tower) Times: TBA
