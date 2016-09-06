@@ -47,9 +47,7 @@ Undergraduate Courses
     | Online Monday 07:30PM-09:00
     | Online Friday 07:30PM-09:00 - Check week(s)
 
-    **Notes:** Class Equivalents:
-    Room Characteristics:
-    
+    **Notes:**
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
@@ -66,7 +64,7 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
 
 
-:doc:`comp317` [Term: Regular Academic Session]
+:doc:`comp317` 
     | Section 001 (3457) Credits: 3; Hybrid; Lecture
     | Instructor: Matthew Paul Butcher
     | Online Tuesday 07:00PM-09:30
@@ -80,46 +78,42 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp343` [Term: Regular Academic Session]
+:doc:`comp343` 
     | Section 002 (5918) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 443-002.
 
 
-:doc:`comp347` [Term: Regular Academic Session]
+:doc:`comp347` 
     | Section 002 (5923) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 447-002.
 
 
-:doc:`comp364` [Term: Regular Academic Session]
+:doc:`comp364` 
     | Section 001 (5924) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 464-001
 
 
-:doc:`comp390` [Term: Regular Academic Session]
+:doc:`comp390` 
     | Section 01E (4055) Credits: 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
-    **Notes:** Room Characteristics:
-    
+    **Notes:**
     Broadening Participation in STEM (Computing, Mathematics, and Science).
     
     
@@ -147,30 +141,28 @@ Graduate Courses
 
 
 
-:doc:`comp443` [Term: Regular Academic Session]
+:doc:`comp443` 
     | Section 002 (5941) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
     Combined with COMP 343-002.
 
 
-:doc:`comp447` [Term: Regular Academic Session]
+:doc:`comp447` 
     | Section 002 (5943) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 
 
-:doc:`comp453` [Term: Regular Academic Session]
+:doc:`comp453` 
     | Section 002 (4563) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
@@ -180,13 +172,12 @@ Graduate Courses
     times chosen to fit different groups' schedules.  Exams may be synchronous and in-person.
 
 
-:doc:`comp464` [Term: Regular Academic Session]
+:doc:`comp464` 
     | Section 001 (5945) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     Combined with COMP 364-001
 
 

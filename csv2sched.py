@@ -609,7 +609,7 @@ def parseCSV(csvFile):
             if term:
                 term = '[Term: ' + term + ']'
             created = 'Updated {} {}'.format(date, time)
-      
+            #not in use
             #if not term and part[3][6] != 'Regular Academic Session':
               # term = '[Term: ' + part[3][6] + ']'
         else:  # section description
