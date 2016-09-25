@@ -232,7 +232,6 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-{txtBookURLline}
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -526,7 +525,7 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`waterTowerSpring` '''
     graduateLink = '''
 You can skip down to
-:ref:`Spring_graduate_courses_list_Online`. '''
+:ref:`spring_graduate_courses_list_Online`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
     

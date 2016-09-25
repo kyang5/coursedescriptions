@@ -10,7 +10,6 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -22,7 +21,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 You can skip down to
-:ref:`Spring_graduate_courses_list_Online`. 
+:ref:`spring_graduate_courses_list_Online`. 
 
 **View Campus Specific Courses below :**
  

@@ -10,7 +10,6 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
