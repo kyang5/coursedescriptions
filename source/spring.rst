@@ -504,7 +504,7 @@ COMP 388 Topic: Robotics Software Development
     | Section 367 (6027) Credits: 3; In person; Lecture
     | Instructor: William Honig
     | Place TBA (Lake Shore) Thursday 01:30PM-04:00
-    | Description similar to: :doc:`comp367`
+    | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
     Combined with COMP 488-367
@@ -681,7 +681,7 @@ COMP 488 Topic: Data Warehouse & Mining
     | Section 301 (5634) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Place TBA (Water Tower) Wednesday 04:15PM-06:45
-    | Description similar to: :doc:`comp301`
+    | Description similar to: :doc:`comp488`
 
     **Notes:**
     Combined with COMP 300-001
@@ -692,7 +692,7 @@ COMP 488 Topic: Data Warehouse & Mining
     | Section 302 (5635) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
-    | Description similar to: :doc:`comp302`
+    | Description similar to: :doc:`comp488`
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 300-002.
@@ -725,7 +725,7 @@ COMP 488 Topic: Robotics Software Development
     | Section 367 (6028) Credits: 3; In person; Lecture
     | Instructor: William Honig
     | Place TBA (Lake Shore) Thursday 01:30PM-04:00
-    | Description similar to: :doc:`comp367`
+    | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
     Combined with COMP 388-367
@@ -748,7 +748,7 @@ COMP 488 Topic: Intro Digital Hmnts Dsgn & Prg
     | Section 402 (5641) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Place TBA (Water Tower) Wednesday 04:15PM-06:45
-    | Description similar to: :doc:`comp402`
+    | Description similar to: :doc:`comp488`
 
     **Notes:**
     Combined with DIGH 402

@@ -72,6 +72,16 @@ topicsSectionTemplate = '''
 {notes}
 '''
 
+topicsSection367Template = '''
+
+{area} {number} Topic{topic} {term}
+    | Section {section} ({regCode}) Credits: {credits}; {mixture}; {format}
+    | Instructor: {instructor}
+{placeTimes}
+    | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
+
+{notes}
+'''
 class Section:
     '''Has members (example in paren)
       campus (Online, Lakshore, Watertower, Cuneo)
@@ -160,13 +170,21 @@ class Section:
         if self.crsAbbr in ['comp388', 'comp488']:
             if specialSect.get(self.section):
                 self.docName = 'comp' + specialSect[self.section]
+            elif self.section in ['301', '302', '402']:
+                self.docName = 'comp488'
             elif self.section >= '100':
-                self.docName = 'comp' + self.section 
-
+                self.docName = 'comp' + self.section
+            elif self.section >= '100':
+                self.docName = 'comp' + self.section
                 
     def toRST(self):
         if self.crsAbbr in ['comp314', 'comp315']:
             return comp314_315Template.format(**self.__dict__)
+        if self.crsAbbr in ['comp388', 'comp488']:
+            if self.section in ['301', '302', '402']:
+                return topicsSectionTemplate.format(**self.__dict__)
+            elif self.section == '367':
+                return topicsSection367Template.format(**self.__dict__)        
         if self.crsAbbr == self.docName:
             return sectionTemplate.format(**self.__dict__)
         return topicsSectionTemplate.format(**self.__dict__)

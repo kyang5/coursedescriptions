@@ -315,7 +315,7 @@ COMP 388 Topic: Robotics Software Development
     | Section 367 (6027) Credits: 3; In person; Lecture
     | Instructor: William Honig
     | Place TBA (Lake Shore) Thursday 01:30PM-04:00
-    | Description similar to: :doc:`comp367`
+    | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
     Combined with COMP 488-367
@@ -412,7 +412,7 @@ COMP 488 Topic: Robotics Software Development
     | Section 367 (6028) Credits: 3; In person; Lecture
     | Instructor: William Honig
     | Place TBA (Lake Shore) Thursday 01:30PM-04:00
-    | Description similar to: :doc:`comp367`
+    | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
     Combined with COMP 388-367
