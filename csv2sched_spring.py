@@ -295,12 +295,19 @@ indepStudyTemplate = '''
 
 def doIndepStudyRST(crsAbbr, courses):
     names = []
+    print('comp is' + crsAbbr)
     for section in courses:
         if courses[section].crsAbbr == crsAbbr:
            names += courses[section].instructorList
     names = [name for name in names if name != 'Staff']
     names.sort()  # name last-first for sorting
     names = [parse_instructor(name) for name in names]
+    if len(names) == 0:
+        if(crsAbbr == 'comp490'):
+            names = "Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis"
+        if(crsAbbr == 'comp398'):
+            names = "Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis"
+        return indepStudyTemplate.format(crsAbbr, names) 
     return indepStudyTemplate.format(crsAbbr, ', '.join(names))  
 
 def fixLabs(courses):
