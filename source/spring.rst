@@ -759,7 +759,7 @@ COMP 488 Topic
     | Section 472 (6029) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
     | Place TBA (Water Tower) Monday 07:00PM-09:30
-    | Description similar to: :doc:`comp472`
+    | Syllabus coming later.
 
     **Notes:**
     Organizational Change and Development
