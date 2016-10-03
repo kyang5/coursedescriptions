@@ -170,7 +170,9 @@ class Section:
         if self.crsAbbr in ['comp388', 'comp488']:
             if specialSect.get(self.section):
                 self.docName = 'comp' + specialSect[self.section]
-            elif self.section in ['301', '302', '402']:
+            elif self.section in ['301', '302']:
+                self.docName = 'comp300'
+            elif self.section =='402':
                 self.docName = 'comp488'
             elif self.section >= '100':
                 self.docName = 'comp' + self.section

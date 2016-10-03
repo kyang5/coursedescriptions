@@ -681,7 +681,7 @@ COMP 488 Topic: Data Warehouse & Mining
     | Section 301 (5634) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Place TBA (Water Tower) Wednesday 04:15PM-06:45
-    | Description similar to: :doc:`comp488`
+    | Description similar to: :doc:`comp300`
 
     **Notes:**
     Combined with COMP 300-001
@@ -692,7 +692,7 @@ COMP 488 Topic: Data Warehouse & Mining
     | Section 302 (5635) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
-    | Description similar to: :doc:`comp488`
+    | Description similar to: :doc:`comp300`
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 300-002.
