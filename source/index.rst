@@ -26,10 +26,9 @@ Schedules
 .. toctree::
    :maxdepth: 1
 
+   spring
    fall
    summer
-   springwidescreen
-   springmobile
 
 If you wish to look forward further, see 
 

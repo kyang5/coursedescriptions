@@ -1,6 +1,7 @@
 Old Schedule Archive
 =====================
-
+* :doc:`springwidescreen`
+* :doc:`springmobile`
 * :doc:`fall2015widescreen`
 * :doc:`spring2015widescreen`
 * `Fall 2014 <http://rig.cs.luc.edu/~rig/schedules/comp/2014fa/Results/bycourse.pdf>`_ and
