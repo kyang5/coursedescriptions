@@ -84,14 +84,13 @@ topicsSection367Template = '''
 '''
 topicsSection472Template = '''
 
-{area} {number} Topic{topic} {term}
+:doc:`comp488`: Organizational Change and Development {term}
     | Section {section} ({regCode}) Credits: {credits}; {mixture}; {format}
     | Instructor: {instructor}
 {placeTimes}
-    | Syllabus coming later.
 
 {notes}
-'''
+''' 
 
 class Section:
     '''Has members (example in paren)
@@ -197,9 +196,9 @@ class Section:
             if self.section in ['301', '302', '402']:
                 return topicsSectionTemplate.format(**self.__dict__)
             elif self.section == '367':
-                return topicsSection367Template.format(**self.__dict__)
+                return topicsSection367Template.format(**self.__dict__) 
             elif self.section == '472':
-                return topicsSection472Template.format(**self.__dict__)       
+                return topicsSection472Template.format(**self.__dict__)     
         if self.crsAbbr == self.docName:
             return sectionTemplate.format(**self.__dict__)
         return topicsSectionTemplate.format(**self.__dict__)
