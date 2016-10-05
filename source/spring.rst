@@ -755,11 +755,10 @@ COMP 488 Topic: Intro Digital Hmnts Dsgn & Prg
 
 
 
-COMP 488 Topic 
+:doc:`comp488`: Organizational Change and Development 
     | Section 472 (6029) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
     | Place TBA (Water Tower) Monday 07:00PM-09:30
-    | Syllabus coming later.
 
     **Notes:**
     Organizational Change and Development
