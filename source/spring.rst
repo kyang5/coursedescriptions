@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule 
 ==========================================================================
-Updated 09/20/2016 11:35:34
+Updated 10/09/2016 20:53:46
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -43,7 +43,7 @@ Undergraduate Courses
 :doc:`comp111` 
     | Section 01W (4308) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
+    | Information Commons:216 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
 
     **Notes:**
     *This is a writing intensive course.*  This course is blended/online (33%).  MW meetings are on-campus, and F meetings are online and asynchronous.  This
@@ -54,7 +54,7 @@ Undergraduate Courses
 :doc:`comp125` 
     | Section 001 (2799) Credits: 3; In person; Laboratory
     | Instructor: David Wetzel
-    | Place TBA (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    | Crown Center:105 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -64,7 +64,7 @@ Undergraduate Courses
 :doc:`comp125` 
     | Section 002 (2910) Credits: 3; In person; Laboratory
     | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+    | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -74,7 +74,7 @@ Undergraduate Courses
 :doc:`comp150` 
     | Section 001 (2800) Credits: 3; In person; Lecture
     | Instructor: Jason E Streeter
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
+    | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -94,7 +94,7 @@ Undergraduate Courses
 :doc:`comp150` 
     | Section 003 (2804) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
-    | Place TBA (Lake Shore) Monday, Wednesday 12:10PM-01:25
+    | Crown Center:103 (Lake Shore) Monday, Wednesday 12:10PM-01:25
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -109,12 +109,13 @@ Undergraduate Courses
     **Notes:**
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 150-700N is an online section. Required synchronous sessions will be held Mondays 7:30-9PM CST.
 
 
 :doc:`comp163` 
     | Section 001 (3383) Credits: 3; Blended; Lecture
     | Instructor: Victoria Noquez
-    | Place TBA (Lake Shore) Monday, Wednesday 02:45PM-04:00
+    | Cuneo Hall:324 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
     **Notes:**
     This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of
@@ -131,7 +132,7 @@ Undergraduate Courses
 :doc:`comp163` 
     | Section 002 (4232) Credits: 3; Blended; Lecture
     | Instructor: Victoria Noquez
-    | Place TBA (Lake Shore) Monday, Wednesday 04:15PM-05:30
+    | Cuneo Hall:324 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
     This course is offered in a blended format, with about the final third of class sessions to be held online.  Class sessions during the first two thirds of
@@ -148,8 +149,8 @@ Undergraduate Courses
 :doc:`comp170` 
     | Section 001/01L (3213) Credits: 3; In person; Lecture/Lab
     | Instructor: Robert Yacobellis
-    | Place TBA (Lake Shore) Tuesday, Thursday 10:00AM-11:15
-    | Place TBA (Lake Shore) Tuesday, Thursday 11:30AM-11:55 (lab)
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 11:30AM-11:55 (lab)
 
     **Notes:**
     Restricted to Engineering Science students.  Students from other schools must register for one of the other sections of this course.  Students enrolled in
@@ -160,8 +161,8 @@ Undergraduate Courses
 :doc:`comp170` 
     | Section 002/02L (3214) Credits: 3; In person; Lecture/Lab
     | Instructor: Dmitriy Dligach
-    | Place TBA (Lake Shore) Monday, Wednesday 10:25AM-11:40
-    | Place TBA (Lake Shore) Friday 10:25AM-11:15 (lab)
+    | Crown Center:103 (Lake Shore) Monday, Wednesday 10:25AM-11:40
+    | Crown Center:103 (Lake Shore) Friday 10:25AM-11:15 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -173,8 +174,8 @@ Undergraduate Courses
 :doc:`comp170` 
     | Section 003/03L (3216) Credits: 3; In person; Lecture/Lab
     | Instructor: William Honig
-    | Place TBA (Lake Shore) Tuesday, Thursday 11:30AM-12:45
-    | Place TBA (Lake Shore) Tuesday, Thursday 10:50AM-11:15 (lab)
+    | Crown Center:105 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
+    | Crown Center:105 (Lake Shore) Tuesday, Thursday 10:50AM-11:15 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -187,7 +188,7 @@ Undergraduate Courses
     | Section 004/04L (3375) Credits: 3; In person; Lecture/Lab
     | Instructor: Dmitriy Dligach
     | Place TBA (Lake Shore) Monday, Wednesday 12:10PM-01:25
-    | Place TBA (Lake Shore) Friday 12:35PM-01:25 (lab)
+    | Sullivan Center:253 (Lake Shore) Friday 12:35PM-01:25 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -196,10 +197,39 @@ Undergraduate Courses
     their departmental graduate advisor.
 
 
+:doc:`comp170` [Term: Eight Week 1 - Alternate]
+    | Section 400 (6052) Credits: 3; In person; Lecture
+    | Instructor: Chandra N Sekharan
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Monday 04:15PM-08:15
+
+    **Notes:**
+    Foundations of Computer Science I.  Eight Week-First Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
+    
+    
+    
+    FIRST CLASS EARLY:  Friday before other classes start:  Friday, January 13!  And then on for the next seven weeks, ending before vacation week.  Classes
+    meet from 4:15 pm - 8:15 pm on Fri, Jan 13, and Fri, Jan 20.  And then, 4:15 pm- 8:15 pm for the next 6 Mondays:  Jan 23, Jan 30, Feb 6, Feb 13, Feb 20, Feb
+    27.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 18, Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Mar 1.
+
+
 :doc:`comp250` 
     | Section 01W (2798) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
-    | Place TBA (Lake Shore) Monday, Wednesday 02:45PM-04:00
+    | Crown Center:105 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
     **Notes:**
     **This is a writing intensive class.**  This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
@@ -214,12 +244,13 @@ Undergraduate Courses
     **Notes:**
     COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 251-700N is an online section. Required synchronous sessions will be held Mondays 7:30-9PM CST.
 
 
 :doc:`comp264` 
     | Section 001 (2797) Credits: 3; In person; Lecture
     | Instructor: Ronald I Greenberg
-    | Place TBA (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+    | Dumbach Hall:125 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -229,8 +260,8 @@ Undergraduate Courses
 :doc:`comp271` 
     | Section 001/01L (2796) Credits: 3; In person; Lecture/Lab
     | Instructor: Mark Albert
-    | Place TBA (Lake Shore) Tuesday, Thursday 01:00PM-02:15
-    | Place TBA (Lake Shore) Tuesday, Thursday 12:20PM-12:45 (lab)
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 12:20PM-12:45 (lab)
 
     **Notes:**
     Students enrolled in COMP 271-001 (Lecture) will be automatically enrolled in COMP 271-01L (Lab).  This course is restricted to undergraduate students.
@@ -240,12 +271,39 @@ Undergraduate Courses
 :doc:`comp271` 
     | Section 002/02L (2805) Credits: 3; In person; Lecture/Lab
     | Instructor: Matthew William Bone
-    | Place TBA (Lake Shore) Wednesday 06:00PM-06:50
-    | Place TBA (Lake Shore) Wednesday 07:00PM-09:30 (lab)
+    | Crown Center:103 (Lake Shore) Wednesday 06:00PM-06:50
+    | Crown Center:103 (Lake Shore) Wednesday 07:00PM-09:30 (lab)
 
     **Notes:**
     Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).  This course is restricted to undergraduate students.
     Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+
+
+:doc:`comp271` [Term: Eight Week - Second]
+    | Section 400 (6051) Credits: 3; In person; Lecture
+    | Instructor: Peter L Dordal
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+
+    **Notes:**
+    Foundations of Computer Science II.  Eight Week-Second Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
+    
+    
+    
+    Eight weeks after spring break, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 13, March 20, March 27, April 3, April 10, April
+    17, April 24, May 1.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 15, March 22, March 29, April 5, April 12, April 19, April 26, May 3.
 
 
 :doc:`comp271` [Term: Eight Week - First]
@@ -256,12 +314,13 @@ Undergraduate Courses
     **Notes:**
     COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST.
 
 
 :doc:`comp300` 
     | Section 001 (5604) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:0201 (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 488-301
@@ -279,7 +338,7 @@ Undergraduate Courses
 :doc:`comp305` 
     | Section 001 (5606) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | School of Communicat:010 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 488-305
@@ -293,12 +352,13 @@ Undergraduate Courses
     **Notes:**
     COMP 305-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 305-700N is an online class. Required synchronous sessions will be held Wednesdays 6-9PM CST
 
 
 :doc:`comp312` 
     | Section 01E (5607) Credits: 3; In person; Lecture
     | Instructor: Michael Lewis
-    | Place TBA (Lake Shore) Wednesday 07:00PM-09:30
+    | Crown Center:105 (Lake Shore) Wednesday 07:00PM-09:30
 
     **Notes:**
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.  Combined with COMP 412-001.
@@ -307,7 +367,7 @@ Undergraduate Courses
 :doc:`comp313` 
     | Section 001 (3687) Credits: 3; In person; Lecture
     | Instructor: Robert Yacobellis
-    | Place TBA (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    | Dumbach Hall:231 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
 
 
@@ -325,7 +385,7 @@ Undergraduate Courses
 :doc:`comp317` 
     | Section 01W (4465) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
-    | Place TBA (Lake Shore) Wednesday 06:00PM-08:30
+    | Dumbach Hall:005 (Lake Shore) Wednesday 06:00PM-08:30
 
     **Notes:**
     **This is a writing intensive class.**  This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
@@ -340,6 +400,7 @@ Undergraduate Courses
     **Notes:**
     COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 317-700N is an online class. Required synchronous sessions will be held 7:30-9PM CST
 
 
 :doc:`comp320` [Term: Eight Week - First]
@@ -350,12 +411,13 @@ Undergraduate Courses
     **Notes:**
     COMP 320-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 320-700N is an online section. Required synchronous sessions will be held Wednesday, 6-9PM CST.
 
 
 :doc:`comp324` 
     | Section 001 (5609) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:0301 (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 424-001
@@ -364,7 +426,7 @@ Undergraduate Courses
 :doc:`comp339` 
     | Section 001 (5610) Credits: 3; In person; Lecture
     | Instructor: Sarah Kaylor
-    | Place TBA (Lake Shore) Wednesday 07:00PM-09:30
+    | Dumbach Hall:229 (Lake Shore) Wednesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 439-001
@@ -382,7 +444,7 @@ Undergraduate Courses
 :doc:`comp341` 
     | Section 001 (5612) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Corboy Law Center:0711 (Water Tower) Thursday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 441-001
@@ -391,7 +453,7 @@ Undergraduate Courses
 :doc:`comp348` 
     | Section 001 (5613) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Place TBA (Water Tower) Friday 05:30PM-08:00
+    | Corboy Law Center:L08 (Water Tower) Friday 05:30PM-08:00
 
     **Notes:**
     Combined with COMP 448-001
@@ -410,7 +472,7 @@ Undergraduate Courses
 :doc:`comp353` 
     | Section 001 (3690) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Place TBA (Lake Shore) Monday 04:15PM-06:45
+    | Cuneo Hall:116 (Lake Shore) Monday 04:15PM-06:45
 
 
 
@@ -418,7 +480,7 @@ Undergraduate Courses
 :doc:`comp363` 
     | Section 001 (4466) Credits: 3; In person; Lecture
     | Instructor: Mark Albert
-    | Place TBA (Lake Shore) Thursday 02:45PM-05:15
+    | Mundelein Center:0507 (Lake Shore) Thursday 02:45PM-05:15
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -428,7 +490,7 @@ Undergraduate Courses
 :doc:`comp372` 
     | Section 001 (5616) Credits: 3; In person; Lecture
     | Instructor: Konstantin Laufer
-    | Place TBA (Lake Shore) Tuesday 02:45PM-05:15
+    | Mundelein Center:0607 (Lake Shore) Tuesday 02:45PM-05:15
 
     **Notes:**
     Combined with COMP 471-001
@@ -437,7 +499,7 @@ Undergraduate Courses
 :doc:`comp373` 
     | Section 001 (5617) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 473-001
@@ -446,7 +508,7 @@ Undergraduate Courses
 :doc:`comp378` 
     | Section 001 (5618) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Place TBA (Water Tower) Monday 02:45PM-05:15
+    | Corboy Law Center:0303 (Water Tower) Monday 02:45PM-05:15
 
     **Notes:**
     Combined with COMP 484-001
@@ -454,46 +516,18 @@ Undergraduate Courses
 
 :doc:`comp383` 
     | Section 001 (5619) Credits: 4; In person; Lecture
-    | Instructor: Staff
-    | Place TBA (Lake Shore) Monday 02:45PM-04:05
-    | Place TBA (Lake Shore) Wednesday 02:45PM-04:45
+    | Instructor: Heather E. Wheeler
+    | Dumbach Hall:228 (Lake Shore) Monday 02:45PM-04:05
+    | Cuneo Hall:202 (Lake Shore) Wednesday 02:45PM-04:45
 
     **Notes:**
     Combined with COMP 488-383
 
 
-:doc:`comp388`: Foundations of Comp Sci I [Term: Eight Week - First]
-    | Section 004 (4592) Credits: 3; In person; Lecture
-    | Instructor: Chandra N Sekharan
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
-    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
-
-    **Notes:**
-    Foundations of Computer Science I.  Eight Week-First Session.  This section is restricted to students with undergraduate degrees.  Department Consent
-    required, and then a Computer Science Department staff member will enroll you.  FIRST CLASS EARLY:  Friday before other classes start:  Friday, January 13!
-    And then on for the next seven weeks, ending before vacation week.  Classes meet from 4:15 pm - 8:15 pm on Fri, Jan 13, and Fri, Jan 20.  And then, 4:15 pm-
-    8:15 pm for the next 6 Mondays:  Jan 23, Jan 30, Feb 6, Feb 13, Feb 20, Feb 27.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 18, Jan 25, Feb 1, Feb 8,
-    Feb 15, Feb 22, Mar 1.
-
-
-:doc:`comp388`: Foundations of Comp Sci II [Term: Eight Week - Second]
-    | Section 005 (4393) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
-
-    **Notes:**
-    Foundations of Computer Science II.  Eight Week-Second Session.  This section is restricted to students with undergraduate degrees.  Department Consent
-    required, and then a Computer Science Department staff member will enroll you.  Eight weeks after vacation, including two meetings in finals week.  Mondays,
-    4:15 pm -8:15 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 15, March
-    22, March 29, April 5, April 12, April 19, April 26, May 3.
-
-
 :doc:`comp388`: Physical Design & Fabrication 
     | Section 007 (5620) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Place TBA (Lake Shore) Monday 07:00PM-09:30
+    | Crown Center:105 (Lake Shore) Monday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 488-007
@@ -503,7 +537,7 @@ Undergraduate Courses
 COMP 388 Topic: Robotics Software Development 
     | Section 367 (6027) Credits: 3; In person; Lecture
     | Instructor: William Honig
-    | Place TBA (Lake Shore) Thursday 01:30PM-04:00
+    | Mundelein Center:0608 (Lake Shore) Thursday 01:30PM-04:00
     | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
@@ -519,12 +553,48 @@ COMP 388 Topic: Robotics Software Development
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
 
 
+:doc:`comp391` [Term: Eight Week - Second]
+    | Section 02E (6048) Credits: 1 - 6; In person; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Place TBA (Lake Shore) Times: TBA
+
+    **Notes:**
+    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+
+
+:doc:`comp391` 
+    | Section 11E (6049) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+
+
+:doc:`comp391` [Term: Eight Week - Second]
+    | Section 12E (6050) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+
+
 :doc:`comp397` 
     | Section 001 (4284) Credits: 1; In person; Seminar
     | Instructor: Mark Albert
-    | Place TBA (Lake Shore) Tuesday 02:45PM-04:00
+    | Mundelein Center:0503 (Lake Shore) Tuesday 02:45PM-04:00
 
 
+
+
+:doc:`comp397` [Term: Seven Week -Third]
+    | Section 002 (6068) Credits: 1; In person; Seminar
+    | Instructor: Mark Albert
+    | OTHER: (Lake Shore) Tuesday 02:45PM-04:00
+
+    **Notes:**
+    This class meets in MUND 503  , along with COMP 397-001.
 
 
 :doc:`comp398` 1-6 credits
@@ -546,7 +616,7 @@ Graduate Courses
 :doc:`comp412` 
     | Section 001 (5621) Credits: 3; In person; Lecture
     | Instructor: Michael Lewis
-    | Place TBA (Lake Shore) Wednesday 07:00PM-09:30
+    | Crown Center:105 (Lake Shore) Wednesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 312-01E
@@ -555,7 +625,7 @@ Graduate Courses
 :doc:`comp413` 
     | Section 001 (3692) Credits: 3; In person; Lecture
     | Instructor: Robert Yacobellis
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | School of Communicat:013 (Water Tower) Tuesday 04:15PM-06:45
 
 
 
@@ -563,7 +633,7 @@ Graduate Courses
 :doc:`comp417` 
     | Section 001 (3693) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Thursday 04:15PM-06:45
+    | School of Communicat:010 (Water Tower) Thursday 04:15PM-06:45
 
 
 
@@ -571,7 +641,7 @@ Graduate Courses
 :doc:`comp418` 
     | Section 001 (5469) Credits: 3; In person; Lecture
     | Instructor: William C Huffman
-    | Place TBA (Lake Shore) Tuesday, Thursday 10:00AM-11:15
+    | Dumbach Hall:006 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
     COMP 418 is cross listed with MATH 418. Please register for MATH 418
@@ -580,7 +650,7 @@ Graduate Courses
 :doc:`comp424` 
     | Section 001 (5623) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:0301 (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 324-001
@@ -589,7 +659,7 @@ Graduate Courses
 :doc:`comp439` 
     | Section 001 (5624) Credits: 3; In person; Lecture
     | Instructor: Sarah Kaylor
-    | Place TBA (Lake Shore) Wednesday 07:00PM-09:30
+    | Dumbach Hall:229 (Lake Shore) Wednesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 339-001
@@ -598,7 +668,7 @@ Graduate Courses
 :doc:`comp441` 
     | Section 001 (5625) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Corboy Law Center:0711 (Water Tower) Thursday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 341-001
@@ -607,7 +677,7 @@ Graduate Courses
 :doc:`comp448` 
     | Section 001 (5626) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Place TBA (Water Tower) Friday 05:30PM-08:00
+    | Corboy Law Center:L08 (Water Tower) Friday 05:30PM-08:00
 
     **Notes:**
     Combined with COMP 348-001
@@ -626,7 +696,7 @@ Graduate Courses
 :doc:`comp460` 
     | Section 001 (4297) Credits: 3; In person; Lecture
     | Instructor: Ronald I Greenberg
-    | Place TBA (Lake Shore) Wednesday 02:45PM-05:15
+    | Cuneo Hall:218 (Lake Shore) Wednesday 02:45PM-05:15
 
 
 
@@ -634,7 +704,7 @@ Graduate Courses
 :doc:`comp471` 
     | Section 001 (5630) Credits: 3; In person; Lecture
     | Instructor: Konstantin Laufer
-    | Place TBA (Lake Shore) Tuesday 02:45PM-05:15
+    | Mundelein Center:0607 (Lake Shore) Tuesday 02:45PM-05:15
 
     **Notes:**
     Combined with COMP 372-001
@@ -643,7 +713,7 @@ Graduate Courses
 :doc:`comp473` 
     | Section 001 (5631) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 373-001
@@ -661,7 +731,7 @@ Graduate Courses
 :doc:`comp484` 
     | Section 001 (5632) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Place TBA (Water Tower) Monday 02:45PM-05:15
+    | Corboy Law Center:0303 (Water Tower) Monday 02:45PM-05:15
 
     **Notes:**
     Combined with COMP 378-001
@@ -670,7 +740,7 @@ Graduate Courses
 :doc:`comp488`: Physical Design & Fabrication 
     | Section 007 (5633) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Place TBA (Lake Shore) Monday 07:00PM-09:30
+    | Crown Center:105 (Lake Shore) Monday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 388-007
@@ -680,7 +750,7 @@ Graduate Courses
 COMP 488 Topic: Data Warehouse & Mining 
     | Section 301 (5634) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:0201 (Water Tower) Wednesday 04:15PM-06:45
     | Description similar to: :doc:`comp300`
 
     **Notes:**
@@ -702,7 +772,7 @@ COMP 488 Topic: Data Warehouse & Mining
 COMP 488 Topic: Database Administration 
     | Section 305 (5636) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | School of Communicat:010 (Water Tower) Tuesday 04:15PM-06:45
     | Description similar to: :doc:`comp305`
 
     **Notes:**
@@ -724,7 +794,7 @@ COMP 488 Topic: Comp Forensics Investigations
 COMP 488 Topic: Robotics Software Development 
     | Section 367 (6028) Credits: 3; In person; Lecture
     | Instructor: William Honig
-    | Place TBA (Lake Shore) Thursday 01:30PM-04:00
+    | Mundelein Center:0608 (Lake Shore) Thursday 01:30PM-04:00
     | Old Syllabus: `<http://people.cs.luc.edu/whonig/comp-388-488-robotics/Comp388488ROBOTICSyllabus.pdf>`_.
 
     **Notes:**
@@ -735,8 +805,8 @@ COMP 488 Topic: Robotics Software Development
 COMP 488 Topic: Computational Biology 
     | Section 383 (5639) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
-    | Place TBA (Lake Shore) Monday 02:45PM-04:05
-    | Place TBA (Lake Shore) Wednesday 02:45PM-04:45
+    | Dumbach Hall:228 (Lake Shore) Monday 02:45PM-04:05
+    | Cuneo Hall:202 (Lake Shore) Wednesday 02:45PM-04:45
     | Description similar to: :doc:`comp383`
 
     **Notes:**
@@ -744,21 +814,10 @@ COMP 488 Topic: Computational Biology
 
 
 
-COMP 488 Topic: Intro Digital Hmnts Dsgn & Prg 
-    | Section 402 (5641) Credits: 3; In person; Lecture
-    | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
-    | Description similar to: :doc:`comp488`
-
-    **Notes:**
-    Combined with DIGH 402
-
-
-
 :doc:`comp488`: Organizational Change and Development 
     | Section 472 (6029) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
-    | Place TBA (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:0423 (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
     Organizational Change and Development

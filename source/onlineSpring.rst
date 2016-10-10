@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 09/20/2016 11:35:34
+Updated 10/09/2016 20:53:46
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -48,6 +48,7 @@ Undergraduate Courses
     **Notes:**
     COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 150-700N is an online section. Required synchronous sessions will be held Mondays 7:30-9PM CST.
 
 
 :doc:`comp251` [Term: Eight Week - First]
@@ -58,6 +59,7 @@ Undergraduate Courses
     **Notes:**
     COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 251-700N is an online section. Required synchronous sessions will be held Mondays 7:30-9PM CST.
 
 
 :doc:`comp271` [Term: Eight Week - First]
@@ -68,6 +70,7 @@ Undergraduate Courses
     **Notes:**
     COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST.
 
 
 :doc:`comp300` 
@@ -87,6 +90,7 @@ Undergraduate Courses
     **Notes:**
     COMP 305-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 305-700N is an online class. Required synchronous sessions will be held Wednesdays 6-9PM CST
 
 
 :doc:`comp317` 
@@ -107,6 +111,7 @@ Undergraduate Courses
     **Notes:**
     COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 317-700N is an online class. Required synchronous sessions will be held 7:30-9PM CST
 
 
 :doc:`comp320` [Term: Eight Week - First]
@@ -117,6 +122,7 @@ Undergraduate Courses
     **Notes:**
     COMP 320-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 320-700N is an online section. Required synchronous sessions will be held Wednesday, 6-9PM CST.
 
 
 :doc:`comp340` 
@@ -136,6 +142,24 @@ Undergraduate Courses
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
+
+
+:doc:`comp391` 
+    | Section 11E (6049) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+
+
+:doc:`comp391` [Term: Eight Week - Second]
+    | Section 12E (6050) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
 
 
 :doc:`comp398` 1-6 credits
