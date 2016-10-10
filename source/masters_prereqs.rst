@@ -40,7 +40,7 @@ have transitioned from other fields.
    * This can be done before entering the Graduate program as a non-degree undergrad 
      (cheaper undergraduate tuition).  
    * You can get both prerequisites in one semester with our special compressed 
-     prep courses :doc:`comp388fcs1` and :doc:`comp388fcs2`. 
+     sections (section number 400) of :doc:`comp170` and :doc:`comp271`. 
      See a fuller discussion below.
    * The compressed prerequisites can be taken after admission to the 
      graduate program.  Then you become a full-time 
@@ -51,10 +51,9 @@ have transitioned from other fields.
 
 **Compressed prep courses**: 
 In fall or spring you have the opportunity to take a compressed intensive 
-sequence of prerequisites in one semester:  two 7-8 weeks courses in succession,
+sequence of the :doc:`comp170` and :doc:`comp271` prerequisites in one semester:  
+two 7-8 weeks courses in succession,
 each with the same total contact hours of regular 15 week courses.  
-These cover at least the content of 
-:doc:`comp170` and :doc:`comp271`.
 To be a full-time graduate student at the same 
 time, the most common additional course is  the required :doc:`comp417`, 
 which has no prerequisite.  
@@ -63,18 +62,20 @@ compressed prerequisites with
 all the work that goes with them does require some dedication!   
 Many transitioning students with full-time jobs have found this to be 
 *too much* to take on even without an additional grad course.  You can see the
-speed of topics in :doc:`comp388fcs1` by looking at the course website,
+speed of topics in the first course in fall 2016 
+by looking at the course website,
 http://anh.cs.luc.edu/388Intro.
 
-You can spread your work out by getting an early start
-looking at the text used by Comp 170 
-and the compressed version:  
-The text by Dr. Harrington and Dr. Thiruvathukal is free online,
-http://introcs.cs.luc.edu/, with accompanying videos.  
-You are welcomed to use the online book 
-whether you formally take our course or not.
+.. Andy
+    You can spread your work out by getting an early start
+    looking at the text used by Comp 170 
+    and the compressed version:  
+    The text by Dr. Harrington and Dr. Thiruvathukal is free online,
+    http://introcs.cs.luc.edu/, with accompanying videos.  
+    You are welcomed to use the online book 
+    whether you formally take our course or not.
 
-Comp 170 or the compressed :doc:`comp388fcs1` do not require any background 
+Comp 170 does not require any background 
 in programming, but if you have no background in programming, 
 then it IS important to have a math background in which you are comfortable 
 with the material in a   
@@ -86,7 +87,7 @@ functions, then the formal math background is not so important.
 
 *Students who neither have this math background* 
 *nor any programming at all* may well want to get a more gentle introduction to 
-programming first, as in our Comp 150.  It is offered fall and spring 
+programming first, as in our :doc:`comp150`.  It is offered fall and spring 
 and online in the summer. If you do need the extra preparation like in Comp 150, 
 then this will slow you down by a semester.
 
@@ -114,7 +115,7 @@ there should not be much problem filling holes as needed.
 
 **Expectations from Introduction to Computer Science, COMP 170**
 
-List of top ten concepts you should understand at the end of :doc:`comp170` / ISOM 370, 
+List of top ten concepts you should understand at the end of :doc:`comp170`, 
 Introductory Object Oriented Programming (in Java, C#, C++ or a similar
 language):
 
@@ -129,7 +130,7 @@ language):
 
 #. Know syntax rules and coding style
 
-   *   Learn the basic picky rules of Java syntax and use them correctly. 
+   *   Learn the basic picky rules of syntax and use them correctly. 
        Key items: placement of “;” use of case (“ClassSchedule” vs. “classSchedule”); 
        distinguish declarations and executable statements.
    *   Format code readably according to agreed upon style.
@@ -148,7 +149,7 @@ language):
 
 #. Use the primitive types and operators appropriately
 
-   *   Understand the use and limitations of the primitive Java types.
+   *   Understand the use and limitations of the primitive types.
    *   Know the most useful arithmetic, relational, and logical operators 
        and use them in expressions, with parentheses when necessary.
 
@@ -172,7 +173,7 @@ language):
 
 #. Be knowledgeable about important library container classes and arrays
 
-   *   Be able to declare and use containers like ArrayList and arrays. 
+   *   Be able to declare and use container objects like for lists and arrays. 
        Understand how to find things in containers and arrays. 
        Use index variables effectively.
 
@@ -183,7 +184,7 @@ language):
 
 #. Understand OO Interfaces
 
-   *   Know how to define and use simple interfaces like List.
+   *   Know how to define and use simple interfaces (example - List in Java).
  
 **Expectations from Data Structures, COMP 271**
 
