@@ -134,7 +134,6 @@ class Section:
         if self.topic:  self.topic = ': ' + self.topic
         self.mixture = lines[1][-1].strip()[1:-1]
         self.crsAbbr = self.area.lower() + self.number
-        coursel = self.crsAbbr
         self.abbr = self.crsAbbr + '-' + self.section
         self.setDocName() 
         placeTimeList = [] #allow multiple lines
@@ -143,19 +142,14 @@ class Section:
         lastFriLoc = ''
         while lines[i] and lines[i][0] == 'Bldg:':
             loc = getPlaceTime(lines[i], campus)
-            if self.crsAbbr in ('comp170','comp271'):
-                
-                if self.section == '400':
-                    if loc in placeTimeListUnique:
-                        print('')
-                    else:
-                        if ', Friday' not in loc and 'Friday' in loc:
-                            print('')
-                        else:
-                            placeTimeListUnique.append(loc)
-                            placeTimeList.append(loc)
-            if coursel != self.crsAbbr:
-                placeTimeListUnique = [] # empty the list is the course changes
+            if loc in placeTimeListUnique:
+                print('')
+            else:
+                if ', Friday' not in loc and 'Friday' in loc:
+                    print('')
+                else:
+                    placeTimeListUnique.append(loc)
+                    placeTimeList.append(loc)
             # assume short term Fridays as later entrues are special, not all term.
             if i>2 and self.term and ', Friday' not in loc and 'Friday' in loc:
                 if lastFriLoc != loc:
@@ -163,11 +157,8 @@ class Section:
                 lastFriLoc = loc
             
             else:
-                if self.crsAbbr in ('comp170','comp271'):
-                    if self.section == '400':
-                        print('')  
-                    else: 
-                        placeTimeList.append(loc)
+                if len(placeTimeListUnique)>0:
+                    print('')  
                 else: 
                     placeTimeList.append(loc)
                     
