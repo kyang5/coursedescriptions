@@ -200,9 +200,9 @@ Undergraduate Courses
 :doc:`comp170` [Term: Eight Week 1 - Alternate]
     | Section 400 (6052) Credits: 3; In person; Lecture
     | Instructor: Chandra N Sekharan
-    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check weeks below
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
     | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
+    | Place TBA (Water Tower) Monday 04:15PM-08:15
 
     **Notes:**
     Foundations of Computer Science I.  Eight Week-First Session.
@@ -215,7 +215,8 @@ Undergraduate Courses
     
     
     FIRST CLASS EARLY:  Friday before other classes start:  Friday, January 13!  And then on for the next seven weeks, ending before vacation week.  Classes
-    meet from 4:15 pm - 8:15 pm on Fri, Jan 13, and Fri, Jan 20.  And then, 4:15 pm- 8:15 pm for the next 6 Mondays:  Jan 23 - Feb 27.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 18 - Mar 1.
+    meet from 4:15 pm - 8:15 pm on Fri, Jan 13, and Fri, Jan 20.  And then, 4:15 pm- 8:15 pm for the next 6 Mondays:  Jan 23, Jan 30, Feb 6, Feb 13, Feb 20, Feb
+    27.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  Jan 18, Jan 25, Feb 1, Feb 8, Feb 15, Feb 22, Mar 1.
 
 
 :doc:`comp250` 
@@ -287,7 +288,8 @@ Undergraduate Courses
     
     
     
-    Eight weeks after spring break, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 13 - May 1.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 15 - May 3.
+    Eight weeks after spring break, including two meetings in finals week.  Mondays, 4:15 pm -8:15 pm:  March 13, March 20, March 27, April 3, April 10, April
+    17, April 24, May 1.  Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 15, March 22, March 29, April 5, April 12, April 19, April 26, May 3.
 
 
 :doc:`comp271` [Term: Eight Week - First]
