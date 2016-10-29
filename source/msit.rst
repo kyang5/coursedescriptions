@@ -73,22 +73,23 @@ Major Requirements (3 credits)
 
 Tracks (9 credits)
 ~~~~~~~~~~~~~~~~~~
-
+Students starting before Spring 2017 may also include courses from the old  EIM or TM tracks, `here <oldtracks.html>`_.  Anyone may follow the tracks listed below:
 *   Three (3) courses from any *one* of the following Tracks must be taken.
 
 Enterprise Information Management (EIM) Track
     *   :doc:`comp453`
-    *   :doc:`csis494`
-    *   :doc:`csis796`
-
+    *   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
+    *   `COMP 488-305: Data Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
+    *   `COMP 488-325: Rapid Application Development(.Net)`
+    *   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
 .. old :doc:`csis496`
 
 Technology Management (TM) Track
-    *   :doc:`comp477` / :doc:`csis484`
-    *   :doc:`csis483`
-    *   :doc:`csis794`
-    *   :doc:`csis472`
-
+    *   :doc:`comp420`
+    *   :doc:`comp477`
+    *   `COMP 488-472: Organizational Change and Development`
+    *   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
+    *   `COMP 488-794: Managing Emerging Technologies`
 .. old :doc:`csis478`
 
 Information Assurance (IA) Track
