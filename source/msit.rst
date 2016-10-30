@@ -80,16 +80,16 @@ Enterprise Information Management (EIM) Track
     *   :doc:`comp453`
     *   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
     *   `COMP 488-305: Data Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
-    *   `COMP 488-325: Rapid Application Development(.Net)`
+    *   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
     *   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
 .. old :doc:`csis496`
 
 Technology Management (TM) Track
     *   :doc:`comp420`
     *   :doc:`comp477`
-    *   `COMP 488-472: Organizational Change and Development`
+    *   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
     *   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
-    *   `COMP 488-794: Managing Emerging Technologies`
+    *   `COMP 488-794: Managing Emerging Technologies <http://courses.cs.luc.edu/html/csis794.html>`_
 .. old :doc:`csis478`
 
 Information Assurance (IA) Track
