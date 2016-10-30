@@ -60,8 +60,14 @@ students must complete the following:
 *   Three (3) courses within *one* of the following tracks: 
     Enterprise Information Management, Technology Management, 
     Information Assurance, or Enterprise Networking. 
-*   Six (6) courses or 18 credits that do not need to be in any track. They
-    can be any course in the general department electives.  
+*   Six (6) courses or 18 credits that do not need to be in any track.
+    These electives can be any 400-level course offered by the department, with approval by your advisor.
+
+The courses listed below can be counted toward the different tracks.
+Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits.
+Special permission is required to count any other course as a track requirement or as an elective.
+**CSIS courses are no longer being offered.
+The corresponding INFS courses may be taken for MSIT credit with permission only. We will not withdraw acceptance of courses allowed before that you already took.**  
     
 Note that you only need three courses in *some* track. There is no need to
 satisfy more than one track. 
@@ -89,7 +95,7 @@ Technology Management (TM) Track
     *   :doc:`comp477`
     *   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
     *   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
-    *   `COMP 488-794: Managing Emerging Technologies <http://courses.cs.luc.edu/html/csis794.html>`_
+
 .. old :doc:`csis478`
 
 Information Assurance (IA) Track
