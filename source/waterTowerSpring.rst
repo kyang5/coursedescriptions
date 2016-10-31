@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 10/09/2016 20:53:46
+Updated 10/31/2016 12:52:06
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -43,9 +43,10 @@ Undergraduate Courses
 :doc:`comp170` [Term: Eight Week 1 - Alternate]
     | Section 400 (6052) Credits: 3; In person; Lecture
     | Instructor: Chandra N Sekharan
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
-    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
+    | Corboy Law Center:0201 (Water Tower) Friday 04:15PM-08:15
+    | Lewis Towers:415 (Water Tower) Wednesday 04:15PM-06:30
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Corboy Law Center:0201 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
 
     **Notes:**
     Foundations of Computer Science I.  Eight Week-First Session.
@@ -66,7 +67,7 @@ Undergraduate Courses
     | Section 400 (6051) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:30
+    | Lewis Towers:415 (Water Tower) Wednesday 04:15PM-06:30
 
     **Notes:**
     Foundations of Computer Science II.  Eight Week-Second Session.

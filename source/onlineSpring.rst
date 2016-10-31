@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 10/09/2016 20:53:46
+Updated 10/31/2016 12:52:06
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -146,15 +146,6 @@ Undergraduate Courses
 
 :doc:`comp391` 
     | Section 11E (6049) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Ronald I Greenberg, Robert Yacobellis
-    | Online Times: TBA
-
-    **Notes:**
-    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
-
-
-:doc:`comp391` [Term: Eight Week - Second]
-    | Section 12E (6050) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
