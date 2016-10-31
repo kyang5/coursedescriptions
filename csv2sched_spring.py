@@ -137,17 +137,31 @@ class Section:
         self.abbr = self.crsAbbr + '-' + self.section
         self.setDocName() 
         placeTimeList = [] #allow multiple lines
+        placeTimeListUnique = []
         i = 2
         lastFriLoc = ''
         while lines[i] and lines[i][0] == 'Bldg:':
             loc = getPlaceTime(lines[i], campus)
+            if loc in placeTimeListUnique:
+                print('')
+            else:
+                if ', Friday' not in loc and 'Friday' in loc:
+                    print('')
+                else:
+                    placeTimeListUnique.append(loc)
+                    placeTimeList.append(loc)
             # assume short term Fridays as later entrues are special, not all term.
             if i>2 and self.term and ', Friday' not in loc and 'Friday' in loc:
                 if lastFriLoc != loc:
                     placeTimeList.append(loc + ' - Check week(s)')
                 lastFriLoc = loc
+            
             else:
-                placeTimeList.append(loc)
+                if len(placeTimeListUnique)>0:
+                    print('')  
+                else: 
+                    placeTimeList.append(loc)
+                    
             i += 1
             if len(lines[i-1]) == len(lines[i]) and not lines[i][0]: # further instr under orig, empty fields before
                 if lines[i][-1] and lines[i][-1] not in self.instructorList:

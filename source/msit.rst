@@ -60,8 +60,14 @@ students must complete the following:
 *   Three (3) courses within *one* of the following tracks: 
     Enterprise Information Management, Technology Management, 
     Information Assurance, or Enterprise Networking. 
-*   Six (6) courses or 18 credits that do not need to be in any track. They
-    can be any course in the general department electives.  
+*   Six (6) courses or 18 credits that do not need to be in any track.
+    These electives can be any 400-level course offered by the department, with approval by your advisor.
+
+The courses listed below can be counted toward the different tracks.
+Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits.
+Special permission is required to count any other course as a track requirement or as an elective.
+**CSIS courses are no longer being offered.
+The corresponding INFS courses may be taken for MSIT credit with permission only. We will not withdraw acceptance of courses allowed before that you already took.**  
     
 Note that you only need three courses in *some* track. There is no need to
 satisfy more than one track. 
@@ -73,21 +79,22 @@ Major Requirements (3 credits)
 
 Tracks (9 credits)
 ~~~~~~~~~~~~~~~~~~
-
+Students starting before Spring 2017 may also include courses from the old  EIM or TM tracks, `here <oldtracks.html>`_.  Anyone may follow the tracks listed below:
 *   Three (3) courses from any *one* of the following Tracks must be taken.
 
 Enterprise Information Management (EIM) Track
     *   :doc:`comp453`
-    *   :doc:`csis494`
-    *   :doc:`csis796`
-
+    *   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
+    *   `COMP 488-305: Data Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
+    *   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
+    *   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
 .. old :doc:`csis496`
 
 Technology Management (TM) Track
-    *   :doc:`comp477` / :doc:`csis484`
-    *   :doc:`csis483`
-    *   :doc:`csis794`
-    *   :doc:`csis472`
+    *   :doc:`comp420`
+    *   :doc:`comp477`
+    *   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
+    *   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
 
 .. old :doc:`csis478`
 
