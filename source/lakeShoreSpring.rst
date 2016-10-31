@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 10/09/2016 20:53:46
+Updated 10/31/2016 12:52:06
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -84,7 +84,7 @@ Undergraduate Courses
 :doc:`comp150` 
     | Section 002 (2803) Credits: 3; In person; Lecture
     | Instructor: Curtis D Tuckey
-    | Place TBA (Lake Shore) Monday, Wednesday 04:15PM-05:30
+    | Inst for Environment:111 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -176,8 +176,8 @@ Undergraduate Courses
 :doc:`comp170` 
     | Section 004/04L (3375) Credits: 3; In person; Lecture/Lab
     | Instructor: Dmitriy Dligach
-    | Place TBA (Lake Shore) Monday, Wednesday 12:10PM-01:25
-    | Sullivan Center:253 (Lake Shore) Friday 12:35PM-01:25 (lab)
+    | Cuneo Hall:111 (Lake Shore) Monday, Wednesday 12:10PM-01:25
+    | Cuneo Hall:111 (Lake Shore) Friday 12:35PM-01:25 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -297,8 +297,17 @@ Undergraduate Courses
     | Dumbach Hall:228 (Lake Shore) Monday 02:45PM-04:05
     | Cuneo Hall:202 (Lake Shore) Wednesday 02:45PM-04:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 488-383
+
+
+:doc:`comp384` 
+    | Section 001 (6266) Credits: 3; In person; Lecture
+    | Instructor: Michael Bradley Burns
+    | Life Science Buildin:212 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
+
+
 
 
 :doc:`comp388`: Physical Design & Fabrication 
@@ -330,19 +339,10 @@ COMP 388 Topic: Robotics Software Development
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
 
 
-:doc:`comp391` [Term: Eight Week - Second]
-    | Section 02E (6048) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Ronald I Greenberg, Robert Yacobellis
-    | Place TBA (Lake Shore) Times: TBA
-
-    **Notes:**
-    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
-
-
 :doc:`comp397` 
     | Section 001 (4284) Credits: 1; In person; Seminar
     | Instructor: Mark Albert
-    | Mundelein Center:0503 (Lake Shore) Tuesday 02:45PM-04:00
+    | Mundelein Center:0507 (Lake Shore) Tuesday 04:00PM-05:15
 
 
 
@@ -350,10 +350,10 @@ COMP 388 Topic: Robotics Software Development
 :doc:`comp397` [Term: Seven Week -Third]
     | Section 002 (6068) Credits: 1; In person; Seminar
     | Instructor: Mark Albert
-    | OTHER: (Lake Shore) Tuesday 02:45PM-04:00
+    | OTHER: (Lake Shore) Tuesday 04:00PM-05:15
 
     **Notes:**
-    This class meets in MUND 503  , along with COMP 397-001.
+    This class meets in MUND 507 with COMP 397-001.
 
 
 :doc:`comp398` 1-6 credits

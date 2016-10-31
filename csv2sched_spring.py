@@ -174,9 +174,9 @@ class Section:
         self.instructor = ', '.join([parse_instructor(instr) for instr in self.instructorList])
         if lines[i] and lines[i][0] == 'Class Enrl Cap:': #look for more unused line types in future
             i += 1
-        #if lines[i] and lines[i][0] == 'Class Equivalents:' or lines[i][0] == 'Attributes:':
-           # i += 1
-        if lines[i] and lines[i][0] == 'Class Equivalents:':
+        if lines[i] and lines[i][0] == 'Class Equivalents:' or lines[i][0] == 'Attributes:':
+            i += 1
+        if lines[i] and lines[i][0] == 'Room Characteristics:' or lines[i][0] == 'Class Equivalents:':
             i += 1
         if lines[i] and lines[i][0]: # skip seq of empty column
             i += 1
