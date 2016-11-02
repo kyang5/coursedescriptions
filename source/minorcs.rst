@@ -15,8 +15,8 @@ Curriculum
 
 -   :doc:`comp170`
 -   :doc:`comp271`
--   :doc:`comp125` or :doc:`comp150` or :doc:`comp163` or 3 credits of a 300-level course
--   :doc:`comp251` or :doc:`comp264` or 3 credits of a 300-level course
+-   :doc:`comp125` or :doc:`comp150` or :doc:`comp163` or 3 credits of a 300-level COMP course
+-   :doc:`comp251` or :doc:`comp264` or 3 credits of a 300-level COMP course
 -   Six (6) units of 300-level Computer Science electives (for instance, three 3-credit courses)
     
     -   Note: :doc:`comp391` is **not** allowed.
