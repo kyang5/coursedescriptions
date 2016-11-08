@@ -48,6 +48,7 @@ Restricted Electives (9 credits)
  
 MS-CS students must also take three courses from the following list:
 
+* :doc:`comp410`
 * :doc:`comp433`
 * :doc:`comp436`
 * :doc:`comp439`
