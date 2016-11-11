@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 10/31/2016 12:52:06
+Updated 11/11/2016 13:49:55
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -261,12 +261,12 @@ COMP 488 Topic: Database Administration
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Konstantin Laufer, George Thiruvathukal
 
 
 :doc:`comp499` 
     | Section 001 (2177) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Andrew N Harrington, Konstantin Laufer
+    | Instructor: Konstantin Laufer, Chandra N Sekharan
     | Place TBA (Water Tower) Times: TBA
 
     **Notes:**
