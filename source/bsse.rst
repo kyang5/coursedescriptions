@@ -56,7 +56,7 @@ Electives
 
 -   :doc:`comp250` or |engl210|
 -   :doc:`comp264`
--   :doc:`isom349`
+-   :doc:`isscm349`
 -   Any COMP 300 level electives NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
 
 Suggested Ordering of Courses

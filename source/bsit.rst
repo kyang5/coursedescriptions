@@ -23,7 +23,7 @@ One of the following must be taken:
 
 -   |stat103|
 -   |stat203|
--   |isom241|
+-   |isscm241|
 -   |psyc304|
 
 One of the following must be taken:
@@ -45,7 +45,7 @@ All of the following must be taken:
 -   :doc:`comp305`
 -   :doc:`comp317`
 -   :doc:`comp353`
--   :doc:`comp377` or :doc:`isom349`
+-   :doc:`comp377` or :doc:`isscm349`
 
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
@@ -68,14 +68,14 @@ Electives
 -   MGMT 360: Values Based Leadership
 -   ENTR 310: Innovation and Entrepreneurship
 -   Any COMP 300 level electives NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
--   MGMT 201 or ACCT 201 may count as 3 credits of major Electives if either ISOM 349 or ENTR 310 is completed to count toward this major.
+-   MGMT 201 or ACCT 201 may count as 3 credits of major Electives if either ISSCM 349 or ENTR 310 is completed to count toward this major.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Year 1
 
--   |isom241| or (|psyc304| after core |psyc101|)
+-   |isscm241| or (|psyc304| after core |psyc101|)
 -   :doc:`comp163`
 -   :doc:`comp125` or :doc:`comp150` or :doc:`comp170`
 

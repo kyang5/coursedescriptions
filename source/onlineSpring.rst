@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 10/31/2016 12:52:06
+Updated 11/11/2016 13:49:55
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -79,7 +80,7 @@ Undergraduate Courses
     | Online Times: TBA
 
     **Notes:**
-    This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 488-302.
+    This class is a totally online, asynchronous course.  Exams may be synchronous and in person.  Combined with COMP 488-302.
 
 
 :doc:`comp305` [Term: Eight Week - Second]
@@ -196,7 +197,7 @@ COMP 488 Topic: Data Warehouse & Mining
     | Description similar to: :doc:`comp300`
 
     **Notes:**
-    This class is a totally online, asynchronous course.  Exams may be synchronous.  Combined with COMP 300-002.
+    This class is a totally online, asynchronous course.  Exams may be synchronous and in person.  Combined with COMP 300-002.
 
 
 
@@ -215,4 +216,4 @@ COMP 488 Topic: Comp Forensics Investigations
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Konstantin Laufer, George Thiruvathukal

@@ -278,6 +278,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+{txtBookURLline}
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -671,28 +672,28 @@ def parseCSV(csvFile):
 
 def main():
     (courses, semester, created, mainCampus) = parseCSV('spring2017.csv')
-    rst = toRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
+    rst = toRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/spring.rst', 'w') as outf:
         outf.write(rst)
 ##    if sys.args
 #RST file for Lake shore Campus
-    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
+    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/lakeShoreSpring.rst', 'w') as outf:
         outf.write(lsrst)
 #RST file for Water Tower Campus
-    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
+    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/waterTowerSpring.rst', 'w') as outf:
         outf.write(wtrst)
 #RST file for Cuneo Courses
-    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
+    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/cuneoSpring.rst', 'w') as outf:
         outf.write(cuneorst)
 #RST file for Online Courses
-    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
+    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/onlineSpring.rst', 'w') as outf:
         outf.write(onlinerst)

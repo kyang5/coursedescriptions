@@ -1,7 +1,7 @@
 
 Spring 2017 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 10/31/2016 12:52:06
+Updated 11/11/2016 13:49:55
 
 The following courses will (tentatively) be held during the Spring 2017 semester.
 
@@ -10,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -303,11 +304,14 @@ Undergraduate Courses
 
 
 :doc:`comp384` 
-    | Section 001 (6266) Credits: 3; In person; Lecture
+    | Section 01E (6266) Credits: 3; In person; Lecture
     | Instructor: Michael Bradley Burns
     | Life Science Buildin:212 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
 
-
+    **Notes:** Combined Section ID:
+    
+    COMP 384 is permanently cross-listed with BIOL 392. Register under BIOL 392.
+    This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
 
 
 :doc:`comp388`: Physical Design & Fabrication 
@@ -317,6 +321,16 @@ Undergraduate Courses
 
     **Notes:**
     Combined with COMP 488-007
+
+
+
+COMP 388 Topic: Game Design and Development 
+    | Section 323 (6375) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Cuneo Hall:002 (Lake Shore) Wednesday 02:45PM-05:15
+    | Description similar to: :doc:`comp323`
+
+
 
 
 
@@ -426,6 +440,16 @@ Graduate Courses
 
 
 
+COMP 488 Topic: Game Design and Development 
+    | Section 323 (6376) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Cuneo Hall:002 (Lake Shore) Wednesday 02:45PM-05:15
+    | Description similar to: :doc:`comp323`
+
+
+
+
+
 COMP 488 Topic: Robotics Software Development 
     | Section 367 (6028) Credits: 3; In person; Lecture
     | Instructor: William Honig
@@ -453,4 +477,4 @@ COMP 488 Topic: Computational Biology
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Konstantin Laufer, George Thiruvathukal

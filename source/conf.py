@@ -106,7 +106,7 @@ rst_epilog = """
 
 .. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
 
-.. |isom241| replace:: `ISOM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+.. |isscm241| replace:: `ISSCM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
 
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 

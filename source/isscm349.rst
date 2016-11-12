@@ -1,6 +1,6 @@
 .. index:: project management
 
-ISOM 349: Project Management
+ISSCM 349: Project Management
 ==================================
 
 Credit Hours
