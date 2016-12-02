@@ -82,6 +82,7 @@ Undergraduate Courses
    comp163
    comp170
    comp171
+   comp180
    comp215
    comp250
    comp251
