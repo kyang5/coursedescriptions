@@ -79,7 +79,7 @@ Major Requirements (3 credits)
 
 Tracks (9 credits)
 ~~~~~~~~~~~~~~~~~~
-Students starting before Spring 2017 may also include courses from the old  EIM or TM tracks, `here <oldtracks.html>`_.  Anyone may follow the tracks listed below:
+Students starting before Spring 2017 may also include courses from the old  EIM or TM tracks (:doc:`oldtracks`).  Anyone may follow the tracks listed below:
 
 *   Three (3) courses from any *one* of the following Tracks must be taken.
 
