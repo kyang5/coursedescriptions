@@ -1,9 +1,9 @@
 
-Fall 2016 Schedule ( Water Tower Campus )
+Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 08/12/2016 15:19:26
+Updated 02/16/2017 17:33:59
 
-The following courses will (tentatively) be held during the Fall 2016 semester.
+The following courses will (tentatively) be held during the Fall 2017 semester.
 
 For open/full status and latest changes, see 
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -41,105 +41,127 @@ Undergraduate Courses
 
 
 
-:doc:`comp170` [Term: Eight Week - Second]
-    | Section 701N (6450) Credits: 3; Online; Lecture
-    | Instructor: Elliott Lawrence Post
-    | Corboy Law Center:0201 (Water Tower) Tuesday 06:00PM-09:00
+:doc:`comp170` [Term: Eight Week 1 - Alternate]
+    | Section 400 (6220) Credits: 3; In person; Lecture
+    | Instructor: Andrew N Harrington
+    | Place TBA (Water Tower) Monday 04:15PM-08:15
+    | Place TBA (Water Tower) Thursday 04:15PM-06:30
+    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
 
     **Notes:**
-    COMP 170-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 170-701N is an online section. Required class meetings will be held Tuesdays 6-9PM CST. Students can participate online or face to face on campus.
+    Foundations of Computer Science I.  Eight Week-First Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
+    
+    
+    
+    COMP 170-400 meets on Mondays, 4:15 pm - 8:15 pm, for the first eight weeks of the Semester, replacing holiday/vacation Mondays with Fridays.  So the
+    Monday/Friday class schedule is: Mon, Aug 28; Fri, Sept 8; Mon, Sept 11; Mon, Sept 18; Mon, Sept 25; Mon, Oct 2; Fri, Oct 13; and Mon, Oct 16.
+    
+    
+    Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Aug 31 through Thurs, Oct 19.
+
+
+:doc:`comp271` [Term: Eight Week - Second]
+    | Section 400 (6107) Credits: 3; In person; Lecture
+    | Instructor: Peter L Dordal
+    | Place TBA (Water Tower) Monday 04:15PM-08:15
+    | Place TBA (Water Tower) Thursday 04:15PM-06:30
+
+
 
 
 :doc:`comp324` 
-    | Section 001 (5912) Credits: 3; In person; Lecture
+    | Section 001 (4820) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
+    | Place TBA (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 424-001
 
 
 :doc:`comp336` 
-    | Section 001 (5913) Credits: 3; In person; Lecture
-    | Instructor: Matthew William Bone
-    | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
+    | Section 001 (4821) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 436-001
 
 
 :doc:`comp343` 
-    | Section 001 (5915) Credits: 3; In person; Lecture
+    | Section 001 (4823) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
+    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 443-001
 
 
 :doc:`comp344` 
-    | Section 001 (5919) Credits: 3; In person; Lecture
+    | Section 001 (4827) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
+    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 433-001
 
 
+:doc:`comp346` 
+    | Section 001 (6006) Credits: 3; Blended; Lecture
+    | Instructor: Staff
+    | Place TBA (Water Tower) Wednesday 07:00PM-09:30
+
+    **Notes:**
+    Combined with COMP 446-001
+
+
 :doc:`comp347` 
-    | Section 001 (5922) Credits: 3; In person; Lecture
+    | Section 001 (4830) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
+    | Place TBA (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     Combined with COMP 447-001
 
 
-:doc:`comp370` 
-    | Section 001 (5925) Credits: 3; In person; Lecture
+:doc:`comp377` 
+    | Section 001 (6007) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
+    | Place TBA (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 488-370
+    Combined with COMP 477-001
 
 
-:doc:`comp388`: RapidAppDevMethodology(.NET) 
-    | Section 001 (5928) Credits: 3; Blended; Lecture
-    | Instructor: Karim Kabani
-    | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
-
-    **Notes:**
-    Rapid Application Development Methodology (.NET) -- Combined with COMP 488-001
-
-
-:doc:`comp388`: Foundations of Comp Sci I [Term: Eight Week 1 - Alternate]
-    | Section 004 (5977) Credits: 1 - 6; In person; Lecture
-    | Instructor: Andrew N Harrington
-    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
-    | Corboy Law Center:0201 (Water Tower) Thursday 04:15PM-06:30
-    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
+:doc:`comp388`: DevOps: MethodsToolsPractices 
+    | Section 001 (6009) Credits: 3; In person; Lecture
+    | Instructor: Maria Del Carmen Saenz
+    | Place TBA (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
-    Foundations of Computer Science I.  This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer
-    Science Department staff member will enroll you. COMP 388-004 meets on Mondays, 4:15 pm -  8:15 pm, for the first eight weeks of the Semester, replacing
-    holiday/vacation Mondays with Fridays.  So the Monday/Friday class schedule is: Mon, Aug 29; Fri, Sept 9; Mon, Sept 12; Mon, Sept 19; Mon, Sept 26; Mon, Oct
-    3; Fri, Oct 14; and Mon, Oct 17.  Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Sept 1 through Thurs, Oct 20.
+    DevOps: Methods, Tools & Practices
+    
+    
+    Combined with COMP 488-001
 
 
-:doc:`comp388`: Foundations of Comp Sci II [Term: Eight Week - Second]
-    | Section 005 (5978) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
-    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
+
+COMP 388 Topic: Data Warehousing 
+    | Section 796 (6011) Credits: 3; In person; Lecture
+    | Instructor: Staff
+    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Description similar to: :doc:`comp796`
 
     **Notes:**
-    Foundations of Computer Science II.  This section is restricted to students with undergraduate degrees. Department Consent required, and then a Computer
-    Science Department staff member will enroll you.  COMP 388-005 meets on Mondays, from 4:15 pm - 8:15 pm, for the last eight weeks of the Semester: Mon, Oct
-    24 through Mon, Dec 12.  Labs meet on consecutive Thursdays, from 4:15 pm - 6:30 pm: Thurs, Oct 27 through Thurs, Dec 15, excluding Thurs, Nov 24,
-    Thanksgiving.
+    Data Warehousing
+    
+    
+    
+    Combined with COMP 488-796
 
 
 :doc:`comp398` 1-6 credits
@@ -147,7 +169,7 @@ Undergraduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: 
 
         
 
@@ -159,80 +181,104 @@ Graduate Courses
 
 
 :doc:`comp424` 
-    | Section 001 (5937) Credits: 3; In person; Lecture
+    | Section 001 (4844) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0208 (Water Tower) Monday 04:15PM-06:45
+    | Place TBA (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 324-001
 
 
 :doc:`comp433` 
-    | Section 001 (5938) Credits: 3; In person; Lecture
+    | Section 001 (4845) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Corboy Law Center:0711 (Water Tower) Tuesday 07:00PM-09:30
+    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 344-001
 
 
 :doc:`comp436` 
-    | Section 001 (5939) Credits: 3; In person; Lecture
-    | Instructor: Matthew William Bone
-    | Corboy Law Center:0304 (Water Tower) Wednesday 07:00PM-09:30
+    | Section 001 (4846) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
+    Prerequisite for students in the MA in Digital Humanities program: DIGH 402 taken in spring 2016 or previously, or COMP 271.
     Combined with COMP 336-001
 
 
 :doc:`comp443` 
-    | Section 001 (5940) Credits: 3; In person; Lecture
+    | Section 001 (4847) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0711 (Water Tower) Tuesday 04:15PM-06:45
+    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 343-001
 
 
+:doc:`comp446` 
+    | Section 001 (6064) Credits: 3; Blended; Lecture
+    | Instructor: Staff
+    | Place TBA (Water Tower) Wednesday 07:00PM-09:30
+
+    **Notes:**
+    Combined with COMP 346-001
+
+
 :doc:`comp447` 
-    | Section 001 (5942) Credits: 3; In person; Lecture
+    | Section 001 (4849) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Corboy Law Center:0302 (Water Tower) Friday 05:45PM-08:15
+    | Place TBA (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     Combined with COMP 347-001
 
 
-:doc:`comp488`: RapidAppl Dev Metholodgy(.NET) 
-    | Section 001 (5946) Credits: 3; Blended; Lecture
-    | Instructor: Karim Kabani
-    | Lewis Towers:410 (Water Tower) Saturday 10:00AM-12:30
-
-    **Notes:**
-    Rapid Application Development Methodology (.NET) -- Combined with COMP 388-001
-
-
-
-COMP 488 Topic: Software Quality & Testing 
-    | Section 370 (5947) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0421 (Water Tower) Monday 07:00PM-09:30
-    | Description similar to: :doc:`comp370`
-
-    **Notes:**
-    Software Quality and Testing - Combined with COMP 370-001
-
-
-
-COMP 488 Topic: Operations Management 
-    | Section 480 (6275) Credits: 3; Blended; Lecture
+:doc:`comp453` 
+    | Section 001 (3267) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Maguire Hall:324 (Water Tower) Tuesday 07:00PM-09:30
-    | Description similar to: :doc:`comp480`
+    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
-    Operations Management.  This is a blended course, with a mixture of online and on-campus lectures.  Exams will be held on campus during regularly-scheduled
-    class time.
+    This is a on-campus class, with regular attendance required in the classroom.  The course will use a flipped" approach for the second half of the course."
+    Some lectures may be online.
+
+
+:doc:`comp477` 
+    | Section 001 (6065) Credits: 3; In person; Lecture
+    | Instructor: Conrad Weisert
+    | Place TBA (Water Tower) Monday 07:00PM-09:30
+
+    **Notes:**
+    Combined with COMP 377-001
+
+
+:doc:`comp488`: DevOps: MethodsToolsPractices 
+    | Section 001 (6066) Credits: 3; In person; Lecture
+    | Instructor: Maria Del Carmen Saenz
+    | Place TBA (Water Tower) Friday 05:45PM-08:15
+
+    **Notes:**
+    DevOps: Methods, Tools & Practices
+    
+    
+    Combined with COMP 388-001
+
+
+
+COMP 488 Topic: Data Warehouse & Mining 
+    | Section 796 (6071) Credits: 3; In person; Lecture
+    | Instructor: Staff
+    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Description similar to: :doc:`comp796`
+
+    **Notes:**
+    Data Warehousing
+    
+    
+    
+    Combined with COMP 388-796
 
 
 :doc:`comp490` 1-6 credits
@@ -240,12 +286,12 @@ COMP 488 Topic: Operations Management
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: 
 
 
 :doc:`comp499` 
-    | Section 001 (2248) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Andrew N Harrington, Konstantin Laufer
+    | Section 001 (2182) Credits: 1 - 6; In person; Independent Study
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Water Tower) Times: TBA
 
     **Notes:**
@@ -253,8 +299,8 @@ COMP 488 Topic: Operations Management
 
 
 :doc:`comp605` 
-    | Section 001 (3237) Credits: 0; In person; FTC-Supervision
-    | Instructor: Andrew N Harrington, Konstantin Laufer
+    | Section 001 (3077) Credits: 0; In person; FTC-Supervision
+    | Instructor: Staff
     | Place TBA (Water Tower) Times: TBA
 
     **Notes:**

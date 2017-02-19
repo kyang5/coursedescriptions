@@ -1,9 +1,9 @@
 
-Fall 2016 Schedule ( Cuneo Mansion Campus )
+Fall 2017 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 08/12/2016 15:19:26
+Updated 02/16/2017 17:33:59
 
-The following courses will (tentatively) be held during the Fall 2016 semester.
+The following courses will (tentatively) be held during the Fall 2017 semester.
 
 For open/full status and latest changes, see 
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -47,4 +47,4 @@ Graduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: 

@@ -1,9 +1,9 @@
 
-Fall 2016 Schedule ( Online Courses )
+Fall 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 08/12/2016 15:19:26
+Updated 02/16/2017 17:33:59
 
-The following courses will (tentatively) be held during the Fall 2016 semester.
+The following courses will (tentatively) be held during the Fall 2017 semester.
 
 For open/full status and latest changes, see 
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -41,31 +41,39 @@ Undergraduate Courses
 
 
 
-:doc:`comp150` [Term: Eight Week - First]
-    | Section 700N (5982) Credits: 3; Online; Lecture
+:doc:`comp170` [Term: Eight Week - First]
+    | Section 700N (5217) Credits: 3; Online; Lecture
     | Instructor: Safoora Fatima
-    | Online Monday 07:30PM-09:00
-    | Online Friday 07:30PM-09:00 - Check week(s)
+    | Online Tuesday 07:30PM-09:00
 
     **Notes:**
-    COMP 150-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 150-700N is an online section. Required synchronous sessions will be held Mondays, 7:30-9PM CST and one session Friday 9/9 for holiday make-up class.
+    COMP 170-700N is an online section. Required class meetings will be held Tuesdays 7:30-9PM CST.
 
 
-:doc:`comp251` [Term: Eight Week - First]
-    | Section 700N (6455) Credits: 3; Online; Lecture
+:doc:`comp251` [Term: Eight Week - Second]
+    | Section 700N (5222) Credits: 3; Online; Lecture
     | Instructor: Safoora Fatima
-    | Online Wednesday 06:00PM-09:00
+    | Online Tuesday 07:30PM-09:00
 
     **Notes:**
     COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 251-700N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
+    COMP 251-700N is an online section. Required synchronous sessions will be held Tuesdays 7:30-9PM CST
+
+
+:doc:`comp305` 
+    | Section 001 (5994) Credits: 3; Online; Lecture
+    | Instructor: Staff
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online class.  Combined with COMP 488-305.
 
 
 :doc:`comp317` 
-    | Section 001 (3457) Credits: 3; Hybrid; Lecture
+    | Section 001 (3254) Credits: 3; Online; Lecture
     | Instructor: Matthew Paul Butcher
     | Online Tuesday 07:00PM-09:30
 
@@ -79,7 +87,7 @@ Undergraduate Courses
 
 
 :doc:`comp343` 
-    | Section 002 (5918) Credits: 3; Online; Lecture
+    | Section 002 (4826) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
@@ -90,7 +98,7 @@ Undergraduate Courses
 
 
 :doc:`comp347` 
-    | Section 002 (5923) Credits: 3; Online; Lecture
+    | Section 002 (4831) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -100,16 +108,16 @@ Undergraduate Courses
 
 
 :doc:`comp364` 
-    | Section 001 (5924) Credits: 3; Online; Lecture
+    | Section 001 (4832) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 464-001
+    This is an online, synchronous class.  Synchronous meeting time: Wednesday, 7:00 pm - 9:30 pm.  Combined with COMP 464-001.
 
 
 :doc:`comp390` 
-    | Section 01E (4055) Credits: 3; Online; Lecture
+    | Section 01E (3742) Credits: 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
@@ -125,12 +133,22 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
+:doc:`comp391` 
+    | Section 02E (6120) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online class.  This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent is required, and then a
+    Computer Science Department staff member will enroll you.
+
+
 :doc:`comp398` 1-6 credits
     You cannot register 
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: 
 
         
 
@@ -142,7 +160,7 @@ Graduate Courses
 
 
 :doc:`comp443` 
-    | Section 002 (5941) Credits: 3; Online; Lecture
+    | Section 002 (4848) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
@@ -153,7 +171,7 @@ Graduate Courses
 
 
 :doc:`comp447` 
-    | Section 002 (5943) Credits: 3; Online; Lecture
+    | Section 002 (4850) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -163,7 +181,7 @@ Graduate Courses
 
 
 :doc:`comp453` 
-    | Section 002 (4563) Credits: 3; Online; Lecture
+    | Section 002 (4053) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
 
@@ -173,7 +191,7 @@ Graduate Courses
 
 
 :doc:`comp464` 
-    | Section 001 (5945) Credits: 3; Online; Lecture
+    | Section 001 (4852) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
@@ -181,9 +199,34 @@ Graduate Courses
     Combined with COMP 364-001
 
 
+
+COMP 488 Topic: Database Administration 
+    | Section 305 (6067) Credits: 3; Online; Lecture
+    | Instructor: Staff
+    | Online Times: TBA
+    | Description similar to: :doc:`comp305`
+
+    **Notes:**
+    Database Administration
+    
+    
+    
+    Combined with COMP 305-001
+
+
 :doc:`comp490` 1-6 credits
     You cannot register 
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: 
+
+
+:doc:`comp499` 
+    | Section 002 (6121) Credits: 1 - 6; Online; Independent Study
+    | Instructor: Andrew N Harrington, Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online class.  This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member
+    will enroll you.
