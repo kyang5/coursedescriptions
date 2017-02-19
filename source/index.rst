@@ -12,7 +12,6 @@ Undergraduate and Graduate Degree Programs.
 * :ref:`undergraduate-courses`
 * :ref:`graduate-degree-programs`
 * :ref:`graduate-courses`
-* `MS IT Graduate Courses/Quinlan Business School <oldtracks.html>`_.
 * :ref:`downloading`
 
 If you want another format of this document (html, pdf, ebook), 
@@ -159,6 +158,7 @@ Graduate Degree Programs
    masters_prereqs
    mscs
    msit
+   oldtracks 
    msse
    madh
 

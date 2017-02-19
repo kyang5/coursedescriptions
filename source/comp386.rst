@@ -33,4 +33,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-  	"Fall 2015", "Dr.Albert", "https://drive.google.com/file/d/0B5gClDnivRb5ZkctZERJRzFQRDg"
+  	"Fall 2015", "Dr.Albert", "https://docs.google.com/document/d/1eUdWoTmRYZtFVt0Sgnm4f2wnXKpRGmR1stZE9YpcYsQ/edit?usp=sharing"
