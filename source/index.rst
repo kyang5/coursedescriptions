@@ -25,9 +25,9 @@ Schedules
 .. toctree::
    :maxdepth: 1
 
-   spring
    fall
    summer
+   spring
 
 If you wish to look forward further, see 
 
