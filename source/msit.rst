@@ -86,7 +86,7 @@ Students starting before Spring 2017 may also include courses from the old  EIM 
 Enterprise Information Management (EIM) Track
     *   :doc:`comp453`
     *   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
-    *   `COMP 488-305: Data Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
+    *   `COMP 488-305: Database Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
     *   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
     *   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
 .. old :doc:`csis496`
