@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 02/16/2017 17:33:59
+Updated 03/17/2017 19:40:27
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
+TextBook information to be updated soon.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.

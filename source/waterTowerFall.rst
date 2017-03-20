@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 02/16/2017 17:33:59
+Updated 03/17/2017 19:40:27
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing>`_.
+TextBook information to be updated soon.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
@@ -44,9 +44,9 @@ Undergraduate Courses
 :doc:`comp170` [Term: Eight Week 1 - Alternate]
     | Section 400 (6220) Credits: 3; In person; Lecture
     | Instructor: Andrew N Harrington
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
-    | Place TBA (Water Tower) Thursday 04:15PM-06:30
-    | Place TBA (Water Tower) Friday 04:15PM-08:15 - Check week(s)
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
+    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
 
     **Notes:**
     Foundations of Computer Science I.  Eight Week-First Session.
@@ -68,8 +68,8 @@ Undergraduate Courses
 :doc:`comp271` [Term: Eight Week - Second]
     | Section 400 (6107) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Monday 04:15PM-08:15
-    | Place TBA (Water Tower) Thursday 04:15PM-06:30
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
 
 
 
@@ -77,16 +77,25 @@ Undergraduate Courses
 :doc:`comp324` 
     | Section 001 (4820) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 424-001
 
 
+:doc:`comp333` 
+    | Section 001 (4827) Credits: 3; In person; Lecture
+    | Instructor: Berhane Zewdie
+    | School of Communicat:010 (Water Tower) Tuesday 07:00PM-09:30
+
+    **Notes:**
+    Combined with COMP 433-001
+
+
 :doc:`comp336` 
     | Section 001 (4821) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 436-001
@@ -95,25 +104,16 @@ Undergraduate Courses
 :doc:`comp343` 
     | Section 001 (4823) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 443-001
 
 
-:doc:`comp344` 
-    | Section 001 (4827) Credits: 3; In person; Lecture
-    | Instructor: Berhane Zewdie
-    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 433-001
-
-
 :doc:`comp346` 
     | Section 001 (6006) Credits: 3; Blended; Lecture
     | Instructor: Staff
-    | Place TBA (Water Tower) Wednesday 07:00PM-09:30
+    | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 446-001
@@ -122,7 +122,7 @@ Undergraduate Courses
 :doc:`comp347` 
     | Section 001 (4830) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Place TBA (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0303 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     Combined with COMP 447-001
@@ -131,7 +131,7 @@ Undergraduate Courses
 :doc:`comp377` 
     | Section 001 (6007) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Place TBA (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:0302 (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 477-001
@@ -140,7 +140,7 @@ Undergraduate Courses
 :doc:`comp388`: DevOps: MethodsToolsPractices 
     | Section 001 (6009) Credits: 3; In person; Lecture
     | Instructor: Maria Del Carmen Saenz
-    | Place TBA (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     DevOps: Methods, Tools & Practices
@@ -153,7 +153,7 @@ Undergraduate Courses
 COMP 388 Topic: Data Warehousing 
     | Section 796 (6011) Credits: 3; In person; Lecture
     | Instructor: Staff
-    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
     | Description similar to: :doc:`comp796`
 
     **Notes:**
@@ -183,7 +183,7 @@ Graduate Courses
 :doc:`comp424` 
     | Section 001 (4844) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 324-001
@@ -192,7 +192,7 @@ Graduate Courses
 :doc:`comp433` 
     | Section 001 (4845) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Place TBA (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:L09 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 344-001
@@ -201,7 +201,7 @@ Graduate Courses
 :doc:`comp436` 
     | Section 001 (4846) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Place TBA (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
     Prerequisite for students in the MA in Digital Humanities program: DIGH 402 taken in spring 2016 or previously, or COMP 271.
@@ -211,7 +211,7 @@ Graduate Courses
 :doc:`comp443` 
     | Section 001 (4847) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 343-001
@@ -220,7 +220,7 @@ Graduate Courses
 :doc:`comp446` 
     | Section 001 (6064) Credits: 3; Blended; Lecture
     | Instructor: Staff
-    | Place TBA (Water Tower) Wednesday 07:00PM-09:30
+    | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 346-001
@@ -229,7 +229,7 @@ Graduate Courses
 :doc:`comp447` 
     | Section 001 (4849) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | Place TBA (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0303 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     Combined with COMP 347-001
@@ -238,7 +238,7 @@ Graduate Courses
 :doc:`comp453` 
     | Section 001 (3267) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | Place TBA (Water Tower) Tuesday 04:15PM-06:45
+    | School of Communicat:014 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     This is a on-campus class, with regular attendance required in the classroom.  The course will use a flipped" approach for the second half of the course."
@@ -248,7 +248,7 @@ Graduate Courses
 :doc:`comp477` 
     | Section 001 (6065) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Place TBA (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:0302 (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 377-001
@@ -257,7 +257,7 @@ Graduate Courses
 :doc:`comp488`: DevOps: MethodsToolsPractices 
     | Section 001 (6066) Credits: 3; In person; Lecture
     | Instructor: Maria Del Carmen Saenz
-    | Place TBA (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
     DevOps: Methods, Tools & Practices
@@ -270,7 +270,7 @@ Graduate Courses
 COMP 488 Topic: Data Warehouse & Mining 
     | Section 796 (6071) Credits: 3; In person; Lecture
     | Instructor: Staff
-    | Place TBA (Water Tower) Thursday 07:00PM-09:30
+    | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
     | Description similar to: :doc:`comp796`
 
     **Notes:**

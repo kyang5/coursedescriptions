@@ -232,7 +232,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-{txtBookURLline}
+TextBook information to be updated soon.
 
 Section titles lines link to the course description page, 
 except for some labeled special topics courses related to an existing course.
