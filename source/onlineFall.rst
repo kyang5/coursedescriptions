@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 03/17/2017 19:40:27
+Updated 05/30/2017 06:20:40
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -65,7 +65,7 @@ Undergraduate Courses
 
 :doc:`comp305` 
     | Section 001 (5994) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Marius Sorin Ciobanu
     | Online Times: TBA
 
     **Notes:**
@@ -78,8 +78,8 @@ Undergraduate Courses
     | Online Tuesday 07:00PM-09:30
 
     **Notes:**
-    This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
-    during the semester, with possible times chosen to fit different groups' schedules.
+    This is an online, asynchronous class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at
+    regular intervals during the semester, with possible times chosen to fit different groups' schedules.
     
     
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -148,7 +148,7 @@ Undergraduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
         
 
@@ -180,29 +180,19 @@ Graduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 347-002.
 
 
-:doc:`comp453` 
-    | Section 002 (4053) Credits: 3; Online; Lecture
-    | Instructor: Channah Naiman
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online, asynchronous class.  Students may be asked to attend smaller-group online interactive discussions during the semester, with possible
-    times chosen to fit different groups' schedules.  Exams may be synchronous and in-person.
-
-
 :doc:`comp464` 
     | Section 001 (4852) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 364-001
+    This is an online, synchronous class.  Synchronous meeting time: Wednesday, 7:00 pm - 9:30 pm.  Combined with COMP 364-001.
 
 
 
 COMP 488 Topic: Database Administration 
     | Section 305 (6067) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Marius Sorin Ciobanu
     | Online Times: TBA
     | Description similar to: :doc:`comp305`
 
@@ -219,7 +209,7 @@ COMP 488 Topic: Database Administration
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
 :doc:`comp499` 

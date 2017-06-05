@@ -160,8 +160,10 @@ class Section:
         if self.crsAbbr in ['comp388', 'comp488']:
             if specialSect.get(self.section):
                 self.docName = 'comp' + specialSect[self.section]
-            elif self.section >= '100':
+            elif '500' > self.section >= '100':
                 self.docName = 'comp' + self.section 
+            else:
+                self.docName = 'No comparison'  # KLUDGE for toRST!
 
                 
     def toRST(self):
@@ -169,7 +171,10 @@ class Section:
             return comp314_315Template.format(**self.__dict__)
         if self.crsAbbr == self.docName:
             return sectionTemplate.format(**self.__dict__)
-        return topicsSectionTemplate.format(**self.__dict__)
+        s = topicsSectionTemplate.format(**self.__dict__)
+        if 'No comparison' in s:    # KLUDGE!
+            s = s.replace('''    | Description similar to: :doc:`No comparison`''', '')
+        return s
 
     def __lt__(self, other):
         return self.abbr < other.abbr
@@ -282,7 +287,9 @@ def doIndepStudyRST(crsAbbr, courses):
     names = [name for name in names if name != 'Staff']
     names.sort()  # name last-first for sorting
     names = [parse_instructor(name) for name in names]
-    return indepStudyTemplate.format(crsAbbr, ', '.join(names))  
+    actualNames = ', '.join(names)
+    actualNames = 'full-time department faculty'   #KLUDGE until names added
+    return indepStudyTemplate.format(crsAbbr, actualNames)  
 
 def fixLabs(courses):
     for name, sect in list(courses.items()):
@@ -619,7 +626,7 @@ def parseCSV(csvFile):
         #input('press return: ')  #DEBUG
 
 def main():
-    (courses, semester, created, mainCampus) = parseCSV('fall2016.csv')
+    (courses, semester, created, mainCampus) = parseCSV('fall2017.csv')
     rst = toRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/fall.rst', 'w') as outf:

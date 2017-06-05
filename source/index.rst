@@ -90,6 +90,7 @@ Undergraduate Courses
    comp271
    comp300
    comp305
+   comp307
    comp309
    comp312
    comp313
@@ -99,6 +100,7 @@ Undergraduate Courses
    comp320
    comp322
    comp324
+   comp325
    comp328
    comp330
    comp331
@@ -134,13 +136,13 @@ Undergraduate Courses
    comp381
    comp382
    comp383
-   comp384 
    comp386
    comp388
    comp388fcs1
    comp388fcs2
    comp390
    comp391
+   comp392
    comp397 
    comp398
    comp399

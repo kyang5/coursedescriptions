@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 03/17/2017 19:40:27
+Updated 05/30/2017 06:20:40
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -47,4 +47,4 @@ Graduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty

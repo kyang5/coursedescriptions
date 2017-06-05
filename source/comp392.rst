@@ -1,10 +1,9 @@
 .. index:: metagenomics
 
-COMP 384: Metagenomics
+COMP 392: Metagenomics
 ======================
 
-Exploration of next-generation sequencing technologies for assessing microbial diversity in ecological niches.
-
+(Used to be Comp 384)
 
 Credit Hours
 -----------------------

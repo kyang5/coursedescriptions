@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 03/17/2017 19:40:27
+Updated 05/30/2017 06:20:40
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -55,14 +55,6 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp122` 
-    | Section 001 (4796) Credits: 3; In person; Lecture
-    | Instructor: David Wetzel
-    | Mundelein Center:1017 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
-
-
-
-
 :doc:`comp125` 
     | Section 001 (3245) Credits: 3; In person; Laboratory
     | Instructor: David Wetzel
@@ -85,7 +77,7 @@ Undergraduate Courses
 
 :doc:`comp150` 
     | Section 002 (3247) Credits: 3; In person; Lecture
-    | Instructor: Staff
+    | Instructor: Ting Xiao
     | Sullivan Center:253 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
@@ -145,6 +137,12 @@ Undergraduate Courses
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
+    
+    This is a 'blended' course, consisting of required pre-recorded lectures, coupled with in-class lab sessions.
+    
+    This programming intensive course, with its in-class lab component, introduces basic concepts of object-oriented programming in a language such as Java.
+    
+    As a 'blended' course, required lectures are primarily pre-recorded and to be viewed before each in-class lab session.  Some parts of in-class sessions may also be devoted to lecture/discussion.
 
 
 :doc:`comp170` 
@@ -163,7 +161,8 @@ Undergraduate Courses
     | Instructor: William Honig
     | Crown Center:103 (Lake Shore) Monday, Wednesday 09:20AM-11:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -172,13 +171,10 @@ Undergraduate Courses
 :doc:`comp170` 
     | Section 004/04L (3860) Credits: 3; In person; Lecture/Lab
     | Instructor: William Honig
-    | Crown Center:103 (Lake Shore) Friday 10:25AM-11:15
     | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
-    | Crown Center:103 (Lake Shore) Friday 10:25AM-11:15
-    | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20 (lab)
+    | Crown Center:103 (Lake Shore) Friday 10:25AM-11:15 (lab)
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
@@ -222,7 +218,9 @@ Undergraduate Courses
     | Instructor: Ronald I Greenberg
     | Cuneo Hall:003 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
 
-
+    **Notes:**
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`comp271` 
@@ -238,10 +236,8 @@ Undergraduate Courses
 :doc:`comp271` 
     | Section 002/02L (3628) Credits: 3; Blended; Lecture/Lab
     | Instructor: Konstantin Laufer
-    | Crown Center:105 (Lake Shore) Friday 09:20AM-10:10
-    | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
-    | Crown Center:105 (Lake Shore) Friday 09:20AM-10:10
-    | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05 (lab)
+    | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
+    | Crown Center:103 (Lake Shore) Friday 09:20AM-10:10 (lab)
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -259,6 +255,10 @@ Undergraduate Courses
 
     **Notes:**
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
+    
+    
+    
+    This is a blended section.  More details will be forthcoming.
     
     
     
@@ -307,7 +307,7 @@ COMP 315  (Description: :doc:`comp314-315`)
 :doc:`comp330` 
     | Section 001 (6005) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
-    | Mundelein Center:0304 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
+    | Dumbach Hall:125 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
 
 
 
@@ -368,8 +368,19 @@ COMP 315  (Description: :doc:`comp314-315`)
 
 
 
+COMP 388 Topic: Data Visualization and Explor 
+    | Section 307 (6565) Credits: 1 - 6; In person; Lecture
+    | Instructor: Channah Naiman
+    | Cuneo Hall:117 (Lake Shore) Monday 02:45PM-05:15
+    | Description similar to: :doc:`comp307`
+
+    **Notes:**
+    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business
+
+
+
 COMP 388 Topic: RapidAppDevMethodology(.NET) 
-    | Section 325 (6010) Credits: 3; Blended; Lecture
+    | Section 325 (6010) Credits: 3; Hybrid; Lecture
     | Instructor: Karim Kabani
     | Crown Center:103 (Lake Shore) Saturday 10:00AM-12:30
     | Description similar to: :doc:`comp325`
@@ -379,7 +390,13 @@ COMP 388 Topic: RapidAppDevMethodology(.NET)
     
     
     
-    Combined with COMP 488-325
+    This course is offered in a hybrid format.  Class will meet on campus during the first and last sessions, with the remaining sessions to be held online.
+    The online sessions will be synchronous (Saturday, 10:00 am to 12:30 pm).  Details on schedule and format of the online sessions will be provided as part of
+    the course syllabus at the beginning of the term.
+    
+    
+    
+    Combined with COMP 488-325.
 
 
 :doc:`comp391` 
@@ -394,10 +411,11 @@ COMP 388 Topic: RapidAppDevMethodology(.NET)
 
 :doc:`comp392` 
     | Section 01E (6018) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Sullivan Center:253 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
+    | Instructor: Michael Bradley Burns
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
     Instructor Consent Required.
     
@@ -411,7 +429,7 @@ COMP 388 Topic: RapidAppDevMethodology(.NET)
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
 :doc:`comp399` 
@@ -445,7 +463,11 @@ Graduate Courses
     | Crown Center:141 (Lake Shore) Thursday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 312-01E
+    This is a blended section.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 312-01E.
 
 
 :doc:`comp413` 
@@ -483,8 +505,19 @@ Graduate Courses
 
 
 
+COMP 488 Topic: Data Visualization & Explor 
+    | Section 307 (6569) Credits: 1 - 3; In person; Lecture
+    | Instructor: Channah Naiman
+    | Cuneo Hall:117 (Lake Shore) Monday 02:45PM-05:15
+    | Description similar to: :doc:`comp307`
+
+    **Notes:**
+    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business
+
+
+
 COMP 488 Topic: RapidAppl Dev Metholodgy(.NET) 
-    | Section 325 (6068) Credits: 3; Blended; Lecture
+    | Section 325 (6068) Credits: 3; Hybrid; Lecture
     | Instructor: Karim Kabani
     | Crown Center:103 (Lake Shore) Saturday 10:00AM-12:30
     | Description similar to: :doc:`comp325`
@@ -494,7 +527,13 @@ COMP 488 Topic: RapidAppl Dev Metholodgy(.NET)
     
     
     
-    Combined with COMP 388-325
+    This course is offered in a hybrid format.  Class will meet on campus during the first and last sessions, with the remaining sessions to be held online.
+    The online sessions will be synchronous (Saturday, 10:00 am to 12:30 pm).  Details on schedule and format of the online sessions will be provided as part of
+    the course syllabus at the beginning of the term.
+    
+    
+    
+    Combined with COMP 388-325.
 
 
 
@@ -528,25 +567,6 @@ COMP 488 Topic: Bioinformatics
 
 
 
-COMP 488 Topic: Metagenomics 
-    | Section 384 (6019) Credits: 3; In person; Lecture
-    | Instructor: Michael Bradley Burns
-    | Crown Center:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
-    | Description similar to: :doc:`comp384`
-
-    **Notes:**
-    Metagenomics
-    
-    
-    
-    Instructor Consent Required
-    
-    
-    
-    Combined with COMP 384-001 and BIOL 392-001
-
-
-
 COMP 488 Topic: Computational Neurosci 
     | Section 386 (6070) Credits: 3; In person; Lecture
     | Instructor: Mark Albert
@@ -561,9 +581,28 @@ COMP 488 Topic: Computational Neurosci
     Combined with COMP 386-001
 
 
+
+COMP 488 Topic: Metagenomics 
+    | Section 392 (6019) Credits: 1 - 3; In person; Lecture
+    | Instructor: Michael Bradley Burns
+    | Crown Center:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
+    | Description similar to: :doc:`comp392`
+
+    **Notes:**
+    Metagenomics
+    
+    
+    
+    Instructor Consent Required
+    
+    
+    
+    Combined with COMP 384-001 and BIOL 392-001
+
+
 :doc:`comp490` 1-6 credits
     You cannot register 
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty

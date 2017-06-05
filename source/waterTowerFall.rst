@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 03/17/2017 19:40:27
+Updated 05/30/2017 06:20:40
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -86,7 +86,7 @@ Undergraduate Courses
 :doc:`comp333` 
     | Section 001 (4827) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | School of Communicat:010 (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:L09 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 433-001
@@ -137,10 +137,12 @@ Undergraduate Courses
     Combined with COMP 477-001
 
 
-:doc:`comp388`: DevOps: MethodsToolsPractices 
+
+COMP 388 Topic: DevOps: MethodsToolsPractices 
     | Section 001 (6009) Credits: 3; In person; Lecture
     | Instructor: Maria Del Carmen Saenz
     | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
+
 
     **Notes:**
     DevOps: Methods, Tools & Practices
@@ -154,7 +156,7 @@ COMP 388 Topic: Data Warehousing
     | Section 796 (6011) Credits: 3; In person; Lecture
     | Instructor: Staff
     | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
-    | Description similar to: :doc:`comp796`
+
 
     **Notes:**
     Data Warehousing
@@ -169,7 +171,7 @@ COMP 388 Topic: Data Warehousing
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
         
 
@@ -241,8 +243,11 @@ Graduate Courses
     | School of Communicat:014 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
-    This is a on-campus class, with regular attendance required in the classroom.  The course will use a flipped" approach for the second half of the course."
-    Some lectures may be online.
+    This section of COMP 453 will cover advanced concepts in database access and programming, including SQL, using MySQL and PHP for the project.
+    
+    
+    Outcome: Students will learn application development using the latest software tools.  Students will also learn techniques for web based data retrieval and
+    manipulation.
 
 
 :doc:`comp477` 
@@ -254,10 +259,12 @@ Graduate Courses
     Combined with COMP 377-001
 
 
-:doc:`comp488`: DevOps: MethodsToolsPractices 
+
+COMP 488 Topic: DevOps: MethodsToolsPractices 
     | Section 001 (6066) Credits: 3; In person; Lecture
     | Instructor: Maria Del Carmen Saenz
     | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
+
 
     **Notes:**
     DevOps: Methods, Tools & Practices
@@ -267,11 +274,11 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Data Warehouse & Mining 
+COMP 488 Topic: Data Warehousing 
     | Section 796 (6071) Credits: 3; In person; Lecture
     | Instructor: Staff
     | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
-    | Description similar to: :doc:`comp796`
+
 
     **Notes:**
     Data Warehousing
@@ -286,7 +293,7 @@ COMP 488 Topic: Data Warehouse & Mining
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: 
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
 :doc:`comp499` 
