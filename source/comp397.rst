@@ -1,9 +1,9 @@
-.. index:: research seminar
+.. index:: research methods in computer science
 
-COMP 397: Research Seminar
+COMP 397: Research Methods in Computer Science
 ==========================
 
-Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects.  
+Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects.
 
 Credit Hours
 -----------------------
@@ -25,4 +25,3 @@ Syllabi
 ---------------------
 
 None
-

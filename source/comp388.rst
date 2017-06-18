@@ -25,6 +25,7 @@ varies. Recent topics have included
 -  Robotics Software Development
 -  System Standards and Requirements
 -  Topics in Algorithms
+-  Data Visualization and Exploration
 
 Outcome
 -------------
@@ -34,7 +35,7 @@ Understand an emerging area of Computer Science.
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    :header: "Topic", "Semester/Year", "Instructor", "URL"
    :widths: 60, 15, 25, 60
 

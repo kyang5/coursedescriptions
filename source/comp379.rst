@@ -11,9 +11,9 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp271`
-
-
+- :doc:`comp271`
+- |math131| or |math161|
+- |stat103| or |stat203| or |isscm241| or |psyc304| or instructor permission
 
 Description
 ----------------------------
@@ -28,7 +28,7 @@ Students in this course will learn how to apply sophisticated algorithms to larg
 Syllabi
 -------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Topic", "Semester/Year", "Instructor", "URL"
    	:widths: 60, 15, 25, 60
 

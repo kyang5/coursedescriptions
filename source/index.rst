@@ -14,7 +14,7 @@ Undergraduate and Graduate Degree Programs.
 * :ref:`graduate-courses`
 * :ref:`downloading`
 
-If you want another format of this document (html, pdf, ebook), 
+If you want another format of this document (html, pdf, ebook),
 see :ref:`download_other_formats`.
 
 .. _schedules:
@@ -29,7 +29,7 @@ Schedules
    summer
    spring
 
-If you wish to look forward further, see 
+If you wish to look forward further, see
 
 * :doc:`longtermschedule`
 * :doc:`cuneo2yrschedule`
@@ -37,12 +37,12 @@ If you wish to look forward further, see
 Or look further back:
 
 * :doc:`schedulearchive`
-   
+
 
 Tutoring
-   
+
 * http://luc.edu/cs/schedules/tutoringhours/
-   
+
 .. _undergraduate-degree-programs:
 
 Undergraduate Degree Programs
@@ -105,6 +105,7 @@ Undergraduate Courses
    comp330
    comp331
    comp333
+   comp335
    comp336
    comp337
    comp338
@@ -112,18 +113,21 @@ Undergraduate Courses
    comp340
    comp341
    comp343
-   comp344
+   comp345
    comp346
    comp347
    comp348
    comp349
    comp351
+   comp352
    comp353
    comp356
    comp362
    comp363
    comp364
    comp366
+   comp367
+   comp369
    comp370
    comp372
    comp373
@@ -143,10 +147,10 @@ Undergraduate Courses
    comp390
    comp391
    comp392
-   comp397 
+   comp397
    comp398
    comp399
-   isom349
+   isscm349
 
 .. _graduate-degree-programs:
 
@@ -155,12 +159,12 @@ Graduate Degree Programs
 
 .. toctree::
    :maxdepth: 1
-  
+
    masters_overview
    masters_prereqs
    mscs
    msit
-   oldtracks 
+   oldtracks
    msse
    madh
 
@@ -169,7 +173,7 @@ Graduate Degree Programs
 Graduate Courses
 ----------------------------
 
-For administrative information on course loads, registration, and course selection, 
+For administrative information on course loads, registration, and course selection,
 please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
 
 .. toctree::
