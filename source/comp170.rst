@@ -14,7 +14,8 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Students are required to have taken |math117| as a prerequisite or to have been placed in |math118| or higher.
+Students are required to have taken |math117| as a prerequisite or to have been placed in |math118| or placement or :doc:`comp125`
+or :doc:`comp150` or :doc:`comp163` or permission. Experience programming in a procedural or object-oriented language recommended.
 
 Alternatively, students can take any **one** of the following courses as a prerequisite or as a co-requisite:
 
@@ -68,11 +69,10 @@ Ability to take a problem, break it into parts, specify algorithms, and express 
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    :header: "Semester/Year", "Instructor", "URL"
    :widths: 15, 25, 50
 
         "Spring 2015", "Dr. Thiruvathukal", "https://luc.box.com/s/muehwlt68me4x77lacrht2gfg8z345vs"
 	"Spring 2014", "Dr. Yacobellis", "https://luc.box.com/s/muehwlt68me4x77lacrht2gfg8z345vs"
 	"Spring 2013", "Dr. Harrington", "https://luc.box.com/s/muehwlt68me4x77lacrht2gfg8z345vs"
-

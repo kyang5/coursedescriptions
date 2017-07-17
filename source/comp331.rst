@@ -1,10 +1,10 @@
 .. index:: cryptography
 
-COMP 331: Cryptography
+COMP 331: Mathematical Foundations of Cryptography
 ======================
 
 This course introduces the formal foundations of cryptography and also investigates some well-known standards and protocols, including
-private and public key cryptosystems, hashing, digital signatures, RSA, DSS, PGP, and related topics. 
+private and public key cryptosystems, hashing, digital signatures, RSA, DSS, PGP, and related topics.
 
 Aliases
 ---------------------
@@ -37,14 +37,14 @@ protocol.
 Outcome
 ----------------------
 
-Students will gain an understanding of cryptosystems widely 
-used to protect data security on the internet, and be able to apply the ideas 
+Students will gain an understanding of cryptosystems widely
+used to protect data security on the internet, and be able to apply the ideas
 in new situations as needed.
 
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 

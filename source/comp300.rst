@@ -5,7 +5,7 @@
 COMP 300: Data Warehousing and Data Mining
 ==========================================
 
-This course covers theory and practice of extremely large information storage (warehousing) and analysis (mining) mechanisms. With data growing at exponential rates knowledge gathering and exploration techniques are essential for gaining useful intelligence. 
+This course covers theory and practice of extremely large information storage (warehousing) and analysis (mining) mechanisms. With data growing at exponential rates knowledge gathering and exploration techniques are essential for gaining useful intelligence.
 
 Credit Hours
 -----------------------
@@ -15,7 +15,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp251` or :doc:`comp271`
+:doc:`comp251` or :doc:`comp271` and |stat103| or |stat203| or |isscm241| or |psyc304| or instructor permission.
 
 Description
 --------------------
@@ -44,7 +44,7 @@ Students will be able to define and critically analyze data warehouse and mining
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
