@@ -9,7 +9,9 @@ Overview
 
 This major prepares students who plan to design, create, and administer large information bases used by organizations.
 
-Enterprises have an ever-growing investment in the exploding quantity of information, especially in web related data, that requires increasingly sophisticated approaches for efficient access and productive use. Students gain the talents and skills to be successful in today’s organizations following current industry practices: planning, designing, implementing and administering data information and knowledge bases that can be effectively mined; assessing the information and data requirements of an organization and implementing these requirements as an information system; and functioning as an effective member of an information services division in an organization. 
+Enterprises have an ever-growing investment in the exploding quantity of information, especially in web related data, that requires increasingly sophisticated approaches for efficient access and productive use. Students gain the talents and skills to be successful in today’s organizations following current industry practices: planning, designing, implementing and administering data information and knowledge bases that can be effectively mined; assessing the information and data requirements of an organization and implementing these requirements as an information system; and functioning as an effective member of an information services division in an organization.
+
+The Bureau of Labor Statistics indicates high median pay and estimates a 15% increase (much higher than average) in the demand for computer and information systems managers for the period 2014 to 2024.
 
 Curriculum
 -----------
@@ -96,4 +98,3 @@ Year 4
 
 -   Electives
 -   Practicum
-

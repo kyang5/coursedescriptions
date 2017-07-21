@@ -1,20 +1,15 @@
-.. index:: b.s. in communication networks and security
-   communication networks and security
+.. index:: b.s. in cybersecurity
+   cybersecurity
 
-B.S. in Communication Networks and Security
+B.S. in Cybersecurity
 ============================================
-
-Note
------
-The B.S. in Communication Networks and Security can no longer be declared. It
-is being replaced with a B.S. in Cybersecurity.
 
 Overview
 ---------
 
 This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; and functioning as an effective member of a network and security services division in an organization.
 
-The Department of Labor projects a 57% (106,000) increase in the demand for Network systems and data communications analysts and a 37% increase (94,000) in Network and computer systems administrators over a 10 years period.
+The Bureau of Labor Statistics indicates high median pay and estimates an 18% increase (much higher than average) in the demand for information security analysts for the period 2014 to 2024."
 
 Curriculum
 -----------
@@ -55,12 +50,13 @@ Six (6) credits taken from one or more of :doc:`comp390`, :doc:`comp391`, and :d
 Electives
 ~~~~~~~~~~
 
-18 credits taken from:
+Two courses taken from:
 
--   :doc:`comp250` or |engl210|
--   :doc:`comp264` or :doc:`comp271` NOTE: You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
--   :doc:`isscm349`
--   Any COMP 300 level courses NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
+-   :doc:`comp331`/|math331|
+-   :doc:`comp340`
+-   :doc:`comp345`
+-   :doc:`comp349`
+-   :doc:`comp352`
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
