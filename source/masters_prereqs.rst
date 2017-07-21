@@ -64,7 +64,10 @@ Many transitioning students with full-time jobs have found this to be
 *too much* to take on even without an additional grad course.  You can see the
 speed of topics in the first course in fall 2016 
 by looking at the course website,
-http://anh.cs.luc.edu/388Intro.
+http://anh.cs.luc.edu/388Intro, though there will be a change of language and book
+for Fall 2017, starting with Python from
+http://interactivepython.org/runestone/static/thinkcspy/index.html
+and then a comparison and brief transition to Java in preparation for the next course.
 
 .. Andy
     You can spread your work out by getting an early start
