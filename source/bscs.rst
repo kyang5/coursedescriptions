@@ -9,6 +9,8 @@ Overview
 
 The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want pursue a career as an industry practitioners and/or as an academic.
 
+Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and Information Technology is rated second highest in median pay and fourth highest in projected employment growth for the period 2014 to 2024.
+
 
 Curriculum
 -----------
@@ -85,6 +87,3 @@ Year 4
 -   :doc:`comp374`
 -   Electives
 -   Practicum
-
-
-

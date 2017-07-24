@@ -54,6 +54,7 @@ Undergraduate Degree Programs
    bsbi
    bscns
    bscs
+   bscsec
    bsmcs
    bspcs
    bsit
@@ -90,7 +91,6 @@ Undergraduate Courses
    comp271
    comp300
    comp305
-   comp307
    comp309
    comp312
    comp313
