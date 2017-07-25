@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 05/30/2017 06:20:40
+Updated 07/24/2017 17:47:23
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -69,13 +69,13 @@ Undergraduate Courses
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  Combined with COMP 488-305.
+    This is an online class.  More details will be forthcoming.  Combined with COMP 488-305.
 
 
 :doc:`comp317` 
     | Section 001 (3254) Credits: 3; Online; Lecture
     | Instructor: Matthew Paul Butcher
-    | Online Tuesday 07:00PM-09:30
+    | Online Times: TBA
 
     **Notes:**
     This is an online, asynchronous class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at
@@ -201,7 +201,18 @@ COMP 488 Topic: Database Administration
     
     
     
-    Combined with COMP 305-001
+    Prerequisite: COMP 251 OR 271
+    
+    
+    
+    * This is an online class.  More details will be forthcoming. *
+    
+    
+    
+    Businesses and scientific institutions have started using commercial grade database servers increasingly. Hence it has become important to install,
+    configure, and manage the servers in an efficient manner to increase productivity. A number of tasks involved in maintaining a database server is quite
+    different from say administering a computer system or a network. Deeper knowledge of the storage aspects of the server and how different server processes
+    work are needed for successful administration of the server. Typically, the database administrator cares for security of data, backup and recovery, and
 
 
 :doc:`comp490` 1-6 credits

@@ -103,7 +103,7 @@ class Section:
         self.instructorList = [firstInstructor]
         self.area = lines[0][0].strip()
         if self.area != 'COMP':
-            log('bad line 0:', line[0])
+            log('bad line 0:'+lines[0][0])
         self.number = lines[0][1].strip()
         self.section = lines[0][2].strip()
         self.regCode = lines[0][3].strip()
@@ -626,7 +626,8 @@ def parseCSV(csvFile):
         #input('press return: ')  #DEBUG
 
 def main():
-    (courses, semester, created, mainCampus) = parseCSV('fall2017.csv')
+    csvFileName=input("Enter CSV file name: (EX:fall2017.csv)")
+    (courses, semester, created, mainCampus) = parseCSV(csvFileName)
     rst = toRST(courses, semester, created, mainCampus, textURL='https://drive.google.com/file/d/0B-fjZsnF5rfKbVlxZXVXV2dCejg/view?usp=sharing')
     printLog()
     with open('source/fall.rst', 'w') as outf:
