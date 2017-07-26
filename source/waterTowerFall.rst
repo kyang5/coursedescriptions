@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 05/30/2017 06:20:40
+Updated 07/24/2017 17:47:23
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -71,7 +71,13 @@ Undergraduate Courses
     | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
     | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
 
-
+    **Notes:**
+    Foundations of Computer Science II.  Eight Week-Second Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
 
 
 :doc:`comp324` 
@@ -112,11 +118,15 @@ Undergraduate Courses
 
 :doc:`comp346` 
     | Section 001 (6006) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: William Uminowicz
     | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 446-001
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 446-001.
 
 
 :doc:`comp347` 
@@ -148,22 +158,15 @@ COMP 388 Topic: DevOps: MethodsToolsPractices
     DevOps: Methods, Tools & Practices
     
     
-    Combined with COMP 488-001
-
-
-
-COMP 388 Topic: Data Warehousing 
-    | Section 796 (6011) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
-
-
-    **Notes:**
-    Data Warehousing
+    Prerequisite: COMP 271
     
     
     
-    Combined with COMP 488-796
+    This course is an introduction on how to think and work as a DevOps Engineer. DevOps takes its name from Development (Software Engineering) and Operations
+    (IT Systems/Operations Management), with the addition of a Quality Assurance dimension. In the course students will develop a product, test and analyze
+    their code, package, deploy, and monitor the systems their code runs on. Learning about the systems that code will be running on and minimizing any risk
+    factors during the deployment and upgrading process is critical in order to keep any business up and running. Knowing the whole pipeline from engineering to
+    deployment and maintenance will give any student an edge a broader picture of how new industries work.
 
 
 :doc:`comp398` 1-6 credits
@@ -221,11 +224,15 @@ Graduate Courses
 
 :doc:`comp446` 
     | Section 001 (6064) Credits: 3; Blended; Lecture
-    | Instructor: Staff
+    | Instructor: William Uminowicz
     | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 346-001
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 346-001.
 
 
 :doc:`comp447` 
@@ -270,22 +277,15 @@ COMP 488 Topic: DevOps: MethodsToolsPractices
     DevOps: Methods, Tools & Practices
     
     
-    Combined with COMP 388-001
-
-
-
-COMP 488 Topic: Data Warehousing 
-    | Section 796 (6071) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Corboy Law Center:L08 (Water Tower) Thursday 07:00PM-09:30
-
-
-    **Notes:**
-    Data Warehousing
+    Prerequisite: COMP 271
     
     
     
-    Combined with COMP 388-796
+    This course is an introduction on how to think and work as a DevOps Engineer. DevOps takes its name from Development (Software Engineering) and Operations
+    (IT Systems/Operations Management), with the addition of a Quality Assurance dimension. In the course students will develop a product, test and analyze
+    their code, package, deploy, and monitor the systems their code runs on. Learning about the systems that code will be running on and minimizing any risk
+    factors during the deployment and upgrading process is critical in order to keep any business up and running. Knowing the whole pipeline from engineering to
+    deployment and maintenance will give any student an edge a broader picture of how new industries work.
 
 
 :doc:`comp490` 1-6 credits
@@ -307,7 +307,7 @@ COMP 488 Topic: Data Warehousing
 
 :doc:`comp605` 
     | Section 001 (3077) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Water Tower) Times: TBA
 
     **Notes:**

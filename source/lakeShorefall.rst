@@ -1,18 +1,18 @@
 
 Fall 2017 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 05/30/2017 06:20:40
+Updated 07/24/2017 17:47:23
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
-For open/full status and latest changes, see 
+For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
 TextBook information to be updated soon.
 
-Section titles lines link to the course description page, 
+Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
@@ -22,15 +22,15 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 You can skip down to
-:ref:`fall_graduate_courses_list_Lake Shore`. 
+:ref:`fall_graduate_courses_list_Lake Shore`.
 
 **View Campus Specific Courses below :**
- 
+
 :doc:`fall`
 
 :doc:`waterTowerFall`
 
-:doc:`onlineFall` 
+:doc:`onlineFall`
 
 
 
@@ -41,21 +41,18 @@ Undergraduate Courses
 
 
 
-:doc:`comp111` 
+:doc:`comp111`
     | Section 01W (4091) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
     | Life Science Buildin:412 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
     **Notes:**
-    *This is a writing intensive course.*
-    
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+    *This is a writing intensive course.*  This course is blended/online (33%).  MW meetings are on-campus, and F meetings are online and asynchronous.  This
+    course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental graduate
+    advisor.
 
 
-:doc:`comp125` 
+:doc:`comp125`
     | Section 001 (3245) Credits: 3; In person; Laboratory
     | Instructor: David Wetzel
     | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
@@ -65,7 +62,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`comp150`
     | Section 001 (3246) Credits: 3; In person; Lecture
     | Instructor: Catherine Putonti
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
@@ -75,17 +72,17 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`comp150`
     | Section 002 (3247) Credits: 3; In person; Lecture
     | Instructor: Ting Xiao
-    | Sullivan Center:253 (Lake Shore) Monday, Wednesday 04:15PM-05:30
+    | Crown Center:105 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`comp150`
     | Section 003 (3248) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
@@ -95,7 +92,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp163` 
+:doc:`comp163`
     | Section 001 (3249) Credits: 3; In person; Lecture
     | Instructor: Curtis D Tuckey
     | Mundelein Center:0608 (Lake Shore) Monday, Wednesday 02:45PM-04:00
@@ -106,7 +103,7 @@ Undergraduate Courses
     a section of this course should contact their departmental graduate advisor.
 
 
-:doc:`comp163` 
+:doc:`comp163`
     | Section 002 (3514) Credits: 3; In person; Lecture
     | Instructor: Curtis D Tuckey
     | Dumbach Hall:231 (Lake Shore) Monday, Wednesday 04:15PM-05:30
@@ -117,10 +114,10 @@ Undergraduate Courses
     a section of this course should contact their departmental graduate advisor.
 
 
-:doc:`comp163` 
+:doc:`comp163`
     | Section 003 (5993) Credits: 3; In person; Lecture
     | Instructor: Chandra N Sekharan
-    | Mundelein Center:0605 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    | Dumbach Hall:228 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
     This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
@@ -128,7 +125,7 @@ Undergraduate Courses
     a section of this course should contact their departmental graduate advisor.
 
 
-:doc:`comp170` 
+:doc:`comp170`
     | Section 001 (3250) Credits: 3; Blended; Lecture
     | Instructor: Robert Yacobellis
     | Crown Center:105 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
@@ -137,15 +134,20 @@ Undergraduate Courses
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
-    
-    This is a 'blended' course, consisting of required pre-recorded lectures, coupled with in-class lab sessions.
-    
+
+
+
+    This is a *blended* course, consisting of required pre-recorded lectures, coupled with in-class lab sessions.
+
+
     This programming intensive course, with its in-class lab component, introduces basic concepts of object-oriented programming in a language such as Java.
-    
-    As a 'blended' course, required lectures are primarily pre-recorded and to be viewed before each in-class lab session.  Some parts of in-class sessions may also be devoted to lecture/discussion.
 
 
-:doc:`comp170` 
+    As a blended course, required lectures are primarily pre-recorded and to be viewed before each in-class lab session.  Some parts of in-class sessions may
+    also be devoted to lecture/discussion.
+
+
+:doc:`comp170`
     | Section 002 (3251) Credits: 3; In person; Lecture
     | Instructor: Dmitriy Dligach
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 02:30PM-04:05
@@ -156,19 +158,19 @@ Undergraduate Courses
     should contact their departmental graduate advisor.
 
 
-:doc:`comp170` 
+:doc:`comp170`
     | Section 003 (3626) Credits: 3; In person; Lecture
     | Instructor: William Honig
     | Crown Center:103 (Lake Shore) Monday, Wednesday 09:20AM-11:15
 
     **Notes:** Combined Section ID:
-    
+
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
 
 
-:doc:`comp170` 
+:doc:`comp170`
     | Section 004/04L (3860) Credits: 3; In person; Lecture/Lab
     | Instructor: William Honig
     | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
@@ -178,13 +180,13 @@ Undergraduate Courses
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
     170 should contact the Computer Science Department to request an enrollment override.  Graduate students wishing to enroll in a section of this course
     should contact their departmental graduate advisor.
-    
-    
-    
+
+
+
     Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in COMP 170-04L (Lab).
 
 
-:doc:`comp215` 
+:doc:`comp215`
     | Section 001 (3274) Credits: 3; In person; Lecture
     | Instructor: Aaron Lauve
     | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 02:45PM-03:35
@@ -193,7 +195,7 @@ Undergraduate Courses
     COMP 215 is crosslisted with MATH 215. Register for MATH 215.
 
 
-:doc:`comp250` 
+:doc:`comp250`
     | Section 01W (3425) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
     | Sullivan Center:253 (Lake Shore) Monday, Wednesday 02:45PM-04:00
@@ -203,7 +205,7 @@ Undergraduate Courses
     should contact their departmental graduate advisor.
 
 
-:doc:`comp251` 
+:doc:`comp251`
     | Section 001 (3361) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
     | Crown Center:140 (Lake Shore) Monday 07:00PM-09:30
@@ -213,7 +215,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp264` 
+:doc:`comp264`
     | Section 001 (3627) Credits: 3; In person; Lecture
     | Instructor: Ronald I Greenberg
     | Cuneo Hall:003 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
@@ -223,7 +225,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp271` 
+:doc:`comp271`
     | Section 001 (3252) Credits: 3; In person; Lecture
     | Instructor: Mark Albert
     | Cuneo Hall:203 (Lake Shore) Tuesday, Thursday 02:30PM-04:05
@@ -233,7 +235,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp271` 
+:doc:`comp271`
     | Section 002/02L (3628) Credits: 3; Blended; Lecture/Lab
     | Instructor: Konstantin Laufer
     | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
@@ -242,30 +244,17 @@ Undergraduate Courses
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
-    
-    
-    
+
+
+
     Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).
 
 
-:doc:`comp312` 
-    | Section 01E (4045) Credits: 3; Blended; Lecture
-    | Instructor: Michael Lewis
-    | Crown Center:141 (Lake Shore) Thursday 07:00PM-09:30
 
-    **Notes:**
-    This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
-    
-    
-    
-    This is a blended section.  More details will be forthcoming.
-    
-    
-    
-    Combined with COMP 412-001.
+    * This is a blended course.  More details will be forthcoming. *
 
 
-:doc:`comp313` 
+:doc:`comp313`
     | Section 001 (3740) Credits: 3; In person; Lecture
     | Instructor: Robert Yacobellis
     | Mundelein Center:0519 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
@@ -281,8 +270,8 @@ COMP 314  (Description: :doc:`comp314-315`)
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
-    Organizational meeting on the first day of classes:  Monday, August 28th, 3:00 pm - 4:00 pm, to arrange upcoming practice times and place.  Contact Dr.
-    Andrew Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
+    Organizational meeting: Tuesday, August 29th, 4:15 pm - 5:00 pm, at the Lake Shore Campus, to arrange upcoming practice times and place.  Contact Dr. Andrew
+    Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
 
 
 COMP 315  (Description: :doc:`comp314-315`)
@@ -291,11 +280,11 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
-    Organizational meeting on the first day of classes:  Monday, August 28th, 3:00 pm - 4:00 pm, to arrange upcoming practice times and place.  Contact Dr.
-    Andrew Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
+    Organizational meeting: Tuesday, August 29th, 4:15 pm - 5:00 pm, at the Lake Shore Campus, to arrange upcoming practice times and place.  Contact Dr. Andrew
+    Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
 
 
-:doc:`comp322` 
+:doc:`comp322`
     | Section 001 (4804) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:117 (Lake Shore) Friday 02:45PM-05:15
@@ -304,15 +293,16 @@ COMP 315  (Description: :doc:`comp314-315`)
     Combined with COMP 422-001
 
 
-:doc:`comp330` 
+:doc:`comp330`
     | Section 001 (6005) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
     | Dumbach Hall:125 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
 
+    **Notes:**
+    This is a blended class.  More details will be forthcoming.
 
 
-
-:doc:`comp331` 
+:doc:`comp331`
     | Section 001 (5846) Credits: 3; In person; Lecture
     | Instructor: Aaron Greicius
     | Dumbach Hall:234 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
@@ -321,7 +311,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     COMP 331 is cross listed with MATH 331. Please register for MATH 331.
 
 
-:doc:`comp363` 
+:doc:`comp363`
     | Section 001 (3264) Credits: 3; In person; Lecture
     | Instructor: Chandra N Sekharan
     | Mundelein Center:0303 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -331,7 +321,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     graduate advisor.
 
 
-:doc:`comp374` 
+:doc:`comp374`
     | Section 001 (4834) Credits: 3; In person; Lecture
     | Instructor: Sarah Kaylor
     | Cuneo Hall:203 (Lake Shore) Thursday 07:00PM-09:30
@@ -340,7 +330,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     Combined with COMP 410-001
 
 
-:doc:`comp379` 
+:doc:`comp379`
     | Section 001 (4835) Credits: 3; In person; Lecture
     | Instructor: Dmitriy Dligach
     | Mundelein Center:0415 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
@@ -349,7 +339,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     Combined with COMP 488-379
 
 
-:doc:`comp381` 
+:doc:`comp381`
     | Section 001 (4101) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
     | Crown Center:105 (Lake Shore) Monday, Wednesday 02:45PM-04:00
@@ -358,7 +348,7 @@ COMP 315  (Description: :doc:`comp314-315`)
     COMP 381-002 is combined with BIOL 388-001.  Register for BIOL 388-001 (2013).  Also, combined with COMP 488-381 and BIOL 488-001.
 
 
-:doc:`comp386` 
+:doc:`comp386`
     | Section 001 (6008) Credits: 3; In person; Lecture
     | Instructor: Mark Albert
     | Mundelein Center:0519 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
@@ -368,18 +358,30 @@ COMP 315  (Description: :doc:`comp314-315`)
 
 
 
-COMP 388 Topic: Data Visualization and Explor 
-    | Section 307 (6565) Credits: 1 - 6; In person; Lecture
+COMP 388 Topic: Data Visualization and Explor
+    | Section 307 (6565) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Cuneo Hall:117 (Lake Shore) Monday 02:45PM-05:15
-    | Description similar to: :doc:`comp307`
+    | Description similar to: :doc:`comp388`
 
     **Notes:**
-    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business
+    Data Visualization and Exploration
 
 
 
-COMP 388 Topic: RapidAppDevMethodology(.NET) 
+    Prerequisite: COMP 271 or instructor permission
+
+
+
+    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business,
+    science and public policy datasets, using a variety of data visualization tools.
+
+
+    Combined with COMP 488-307
+
+
+
+COMP 388 Topic: RapidAppDevMethodology(.NET)
     | Section 325 (6010) Credits: 3; Hybrid; Lecture
     | Instructor: Karim Kabani
     | Crown Center:103 (Lake Shore) Saturday 10:00AM-12:30
@@ -387,19 +389,23 @@ COMP 388 Topic: RapidAppDevMethodology(.NET)
 
     **Notes:**
     Rapid App Dev Methodology (.NET)
-    
-    
-    
+
+
+
+    Prerequisite: COMP 251 OR 271
+
+
+
     This course is offered in a hybrid format.  Class will meet on campus during the first and last sessions, with the remaining sessions to be held online.
     The online sessions will be synchronous (Saturday, 10:00 am to 12:30 pm).  Details on schedule and format of the online sessions will be provided as part of
     the course syllabus at the beginning of the term.
-    
-    
-    
-    Combined with COMP 488-325.
 
 
-:doc:`comp391` 
+
+    Combined with COMP 488-325
+
+
+:doc:`comp391`
     | Section 01E (2173) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
@@ -409,37 +415,37 @@ COMP 388 Topic: RapidAppDevMethodology(.NET)
     staff member will enroll you.
 
 
-:doc:`comp392` 
+:doc:`comp392`
     | Section 01E (6018) Credits: 3; In person; Lecture
     | Instructor: Michael Bradley Burns
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
 
     **Notes:** Combined Section ID:
-    
+
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
     Instructor Consent Required.
-    
-    
-    
+
+
+
     Combined with COMP 488-384 and BIOL 392-001.
 
 
 :doc:`comp398` 1-6 credits
-    You cannot register 
+    You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
-:doc:`comp399` 
+:doc:`comp399`
     | Section 001 (6012) Credits: 1; In person; Lecture
     | Instructor: Mark Albert
     | Dumbach Hall:234 (Lake Shore) Thursday 04:15PM-05:30
 
 
 
-        
+
 
 .. _Fall_graduate_courses_list_Lake Shore:
 
@@ -448,7 +454,7 @@ Graduate Courses
 
 
 
-:doc:`comp410` 
+:doc:`comp410`
     | Section 001 (4837) Credits: 3; In person; Lecture
     | Instructor: Sarah Kaylor
     | Cuneo Hall:203 (Lake Shore) Thursday 07:00PM-09:30
@@ -457,20 +463,7 @@ Graduate Courses
     Combined with COMP 374-001
 
 
-:doc:`comp412` 
-    | Section 001 (4052) Credits: 3; Blended; Lecture
-    | Instructor: Michael Lewis
-    | Crown Center:141 (Lake Shore) Thursday 07:00PM-09:30
-
-    **Notes:**
-    This is a blended section.  More details will be forthcoming.
-    
-    
-    
-    Combined with COMP 312-01E.
-
-
-:doc:`comp413` 
+:doc:`comp413`
     | Section 001 (3741) Credits: 3; In person; Lecture
     | Instructor: Robert Yacobellis
     | Dumbach Hall:123 (Lake Shore) Thursday 04:15PM-06:45
@@ -478,7 +471,7 @@ Graduate Courses
 
 
 
-:doc:`comp417` 
+:doc:`comp417`
     | Section 001 (3255) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
     | Dumbach Hall:228 (Lake Shore) Wednesday 04:15PM-06:45
@@ -486,7 +479,7 @@ Graduate Courses
 
 
 
-:doc:`comp422` 
+:doc:`comp422`
     | Section 001 (4843) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:117 (Lake Shore) Friday 02:45PM-05:15
@@ -495,7 +488,7 @@ Graduate Courses
     Combined with COMP 322-001
 
 
-:doc:`comp431` 
+:doc:`comp431`
     | Section 001 (5847) Credits: 3; In person; Lecture
     | Instructor: Aaron Greicius
     | Dumbach Hall:234 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
@@ -505,18 +498,30 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Data Visualization & Explor 
-    | Section 307 (6569) Credits: 1 - 3; In person; Lecture
+COMP 488 Topic: Data Visualization & Explor
+    | Section 307 (6569) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Cuneo Hall:117 (Lake Shore) Monday 02:45PM-05:15
-    | Description similar to: :doc:`comp307`
+    | Description similar to: :doc:`comp388`
 
     **Notes:**
-    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business
+    Data Visualization and Exploration
 
 
 
-COMP 488 Topic: RapidAppl Dev Metholodgy(.NET) 
+    Prerequisite: COMP 271 or instructor permission
+
+
+
+    An introduction to Data Visualization theory and the techniques used for effective exploration and communication of data. Lab applications to business,
+    science and public policy datasets, using a variety of data visualization tools.
+
+
+    Combined with COMP 388-307
+
+
+
+COMP 488 Topic: RapidAppl Dev Metholodgy(.NET)
     | Section 325 (6068) Credits: 3; Hybrid; Lecture
     | Instructor: Karim Kabani
     | Crown Center:103 (Lake Shore) Saturday 10:00AM-12:30
@@ -524,20 +529,24 @@ COMP 488 Topic: RapidAppl Dev Metholodgy(.NET)
 
     **Notes:**
     Rapid App Dev Methodology (.NET)
-    
-    
-    
+
+
+
+    Prerequisite: COMP 251 OR 271
+
+
+
     This course is offered in a hybrid format.  Class will meet on campus during the first and last sessions, with the remaining sessions to be held online.
     The online sessions will be synchronous (Saturday, 10:00 am to 12:30 pm).  Details on schedule and format of the online sessions will be provided as part of
     the course syllabus at the beginning of the term.
-    
-    
-    
+
+
+
     Combined with COMP 388-325.
 
 
 
-COMP 488 Topic: Machine Learning 
+COMP 488 Topic: Machine Learning
     | Section 379 (6069) Credits: 3; In person; Lecture
     | Instructor: Dmitriy Dligach
     | Mundelein Center:0415 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
@@ -545,14 +554,24 @@ COMP 488 Topic: Machine Learning
 
     **Notes:**
     Machine Learning
-    
-    
-    
+
+
+
+    Prerequisite: COMP 271
+
+
+
+    Machine learning is the process of making predictions and decisions from data without being explicitly programmed. Topics include a variety of supervised
+    learning methods. Ensemble approaches are used to combine independent models efficiently. Unsupervised and semi-supervised methods demonstrate the power of
+    learning from data without an explicit training goal.
+
+
+
     Combined with COMP 379-001
 
 
 
-COMP 488 Topic: Bioinformatics 
+COMP 488 Topic: Bioinformatics
     | Section 381 (4856) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
     | Crown Center:105 (Lake Shore) Monday, Wednesday 02:45PM-04:00
@@ -560,14 +579,19 @@ COMP 488 Topic: Bioinformatics
 
     **Notes:**
     Bioinformatics
-    
-    
-    
+
+
+
+    Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and
+    evolution. Students will be able to apply their understanding of genetic and evolutionary processes to the appropriate use of computer software and
+    manipulation of large databases to accurately predict structural, informational, functional, and evolutionary characteristics of DNA and protein sequences.
+
+
     Combined with COMP 381-002, BIOL 388-001, and BIOL 488-001
 
 
 
-COMP 488 Topic: Computational Neurosci 
+COMP 488 Topic: Computational Neurosci
     | Section 386 (6070) Credits: 3; In person; Lecture
     | Instructor: Mark Albert
     | Mundelein Center:0519 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
@@ -575,14 +599,24 @@ COMP 488 Topic: Computational Neurosci
 
     **Notes:**
     Computational Neuroscience
-    
-    
-    
+
+
+
+    Prerequisite: COMP 150 OR 170
+
+
+
+    Introduces computational methods to understand neural processing in the brain. Levels of representation from low-level, temporally precise neural circuits
+    to systems-level rate-encoded models, to information-theoretic approaches. Emphasis on sensory systems, primarily vision and audition, most readily
+    demonstrating the need for such computational techniques.
+
+
+
     Combined with COMP 386-001
 
 
 
-COMP 488 Topic: Metagenomics 
+COMP 488 Topic: Metagenomics
     | Section 392 (6019) Credits: 1 - 3; In person; Lecture
     | Instructor: Michael Bradley Burns
     | Crown Center:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
@@ -590,18 +624,22 @@ COMP 488 Topic: Metagenomics
 
     **Notes:**
     Metagenomics
-    
-    
-    
-    Instructor Consent Required
-    
-    
-    
+
+
+
+    Prerequisite: Instructor Consent
+
+
+
+    Exploration of next-generation sequencing technologies for assessing microbial diversity in ecological niches. Students will gain hands-on experience with
+    metagenomic methodologies while working in an interdisciplinary, collaborative setting.
+
+
     Combined with COMP 384-001 and BIOL 392-001
 
 
 :doc:`comp490` 1-6 credits
-    You cannot register 
+    You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
