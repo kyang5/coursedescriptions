@@ -3,7 +3,7 @@
 COMP 125: Visual Information Processing
 =======================================
 
-This course, intended primarily for non-majors, provides an introduction to computer programming using a language well-suited to beginning programmers and practical applications, e.g., Visual Basic.Net.
+This course, intended primarily for non-majors, provides an introduction to computer programming using a language well-suited to beginning programmers and practical applications, e.g., `Processing <https://processing.org>`_.
 
 Credit Hours
 -----------------------
@@ -19,7 +19,7 @@ Description
 --------------------
 
 An elementary introduction to programming using a language such as
-Visual Basic. Topics include variables, formatted input/output, arrays,
+Processing. Topics include variables, formatted input/output, arrays,
 looping, conditional execution, subroutines, functions, computer
 graphics, animation. Applications to other disciplines are stressed.
 
