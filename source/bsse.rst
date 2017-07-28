@@ -33,7 +33,7 @@ One of the following must be taken:
 
 One of the following must be taken:
 
--   :doc:`comp333`
+-   :doc:`comp335`
 -   :doc:`comp373`
 
 All of the following must be taken:
