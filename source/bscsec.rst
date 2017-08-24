@@ -9,7 +9,7 @@ Overview
 
 This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; and functioning as an effective member of a network and security services division in an organization.
 
-The Bureau of Labor Statistics indicates high median pay and estimates an 18% increase (much higher than average) in the demand for information security analysts for the period 2014 to 2024."
+The Bureau of Labor Statistics indicates high median pay and estimates an 18% increase (much higher than average) in the demand for information security analysts for the period 2014 to 2024.
 
 Curriculum
 -----------
