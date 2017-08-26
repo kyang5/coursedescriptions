@@ -20,6 +20,8 @@ This course is used to introduce emerging topics in computer science
 that do not yet have a regular course number. Content of the course
 varies. Recent topics have included
 
+-  Foundations of Computer Science I (mostly an accelerated :doc:`comp170`)
+-  Foundations of Computer Science II (mostly an accelerated :doc:`comp271`)
 -  Enterprise Software Development
 -  Rapid Application Development Metholodgy (.NET)
 -  Robotics Software Development

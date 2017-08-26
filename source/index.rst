@@ -142,8 +142,6 @@ Undergraduate Courses
    comp383
    comp386
    comp388
-   comp388fcs1
-   comp388fcs2
    comp390
    comp391
    comp392
