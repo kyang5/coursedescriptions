@@ -78,7 +78,7 @@ Year 2
 Year 3
 
 -   :doc:`comp330`
--   :doc:`comp333` or :doc:`comp373`
+-   :doc:`comp335` or :doc:`comp373`
 -   Electives
 
 Year 4
