@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 07/24/2017 17:47:23
+Updated 09/07/2017 11:05:52
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -118,7 +118,7 @@ Undergraduate Courses
 
 :doc:`comp346` 
     | Section 001 (6006) Credits: 3; Blended; Lecture
-    | Instructor: William Uminowicz
+    | Instructor: Leo Irakliotis
     | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**
@@ -224,7 +224,7 @@ Graduate Courses
 
 :doc:`comp446` 
     | Section 001 (6064) Credits: 3; Blended; Lecture
-    | Instructor: William Uminowicz
+    | Instructor: Leo Irakliotis
     | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
 
     **Notes:**

@@ -1,7 +1,7 @@
 
 Fall 2017 Schedule ( Online Courses )
 ==========================================================================
-Updated 07/24/2017 17:47:23
+Updated 09/07/2017 11:05:52
 
 The following courses will (tentatively) be held during the Fall 2017 semester.
 
@@ -69,7 +69,7 @@ Undergraduate Courses
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  More details will be forthcoming.  Combined with COMP 488-305.
+    This is an online, synchronous class.  Synchronous meeting time:  Thursday, 2:30 pm - 4:00 pm.  Combined with COMP 488-305.
 
 
 :doc:`comp317` 
@@ -90,6 +90,7 @@ Undergraduate Courses
     | Section 002 (4826) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
+    | Online Tuesday 02:00PM-03:30
 
     **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
@@ -163,6 +164,7 @@ Graduate Courses
     | Section 002 (4848) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
+    | Online Tuesday 02:00PM-03:30
 
     **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
@@ -205,8 +207,7 @@ COMP 488 Topic: Database Administration
     
     
     
-    * This is an online class.  More details will be forthcoming. *
-    
+    This is an online, synchronous class.  Synchronous meeting time:  Thursday, 2:30 pm - 4:00 pm.  Combined with COMP 305-001.
     
     
     Businesses and scientific institutions have started using commercial grade database servers increasingly. Hence it has become important to install,
