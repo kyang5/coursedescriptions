@@ -35,4 +35,4 @@ Syllabi
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
-	"Spring 2014", "Dr. Läufer", "http://lucproglangcourse.github.io/syllabus.html"
+	"Spring 2017", "Dr. Läufer", "http://lucproglangcourse.github.io/syllabus.html"
