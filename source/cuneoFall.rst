@@ -1,9 +1,9 @@
 
-Fall 2017 Schedule ( Cuneo Mansion Campus )
+Spring 2018 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 09/07/2017 11:05:52
+Updated 10/17/2017 16:18:37
 
-The following courses will (tentatively) be held during the Fall 2017 semester.
+The following courses will (tentatively) be held during the Spring 2018 semester.
 
 For open/full status and latest changes, see 
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -27,7 +27,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 
-.. _Fall_undergraduate_courses_list:
+.. _Spring_undergraduate_courses_list:
 
 
 ~~~~~~~~~~~~~~~~~~~~~
@@ -35,7 +35,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
         
 
-.. _Fall_graduate_courses_list_Cuneo Mansion:
+.. _Spring_graduate_courses_list_Cuneo Mansion:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
