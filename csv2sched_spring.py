@@ -90,7 +90,7 @@ topicsSection472Template = '''
 {placeTimes}
 
 {notes}
-''' 
+'''
 
 class Section:
     '''Has members (example in paren)
@@ -110,7 +110,7 @@ class Section:
       placeTimes (indented string lines from list of place-days-time-campus)
       notes (indented string of lines)
       crsAbbr (comp150)
-      abbr (comp150-001) 
+      abbr (comp150-001)
       docName (comp150 or special for topics course section))
     '''
     def __init__(self, campus, term, lines, indent = ' '*4):
@@ -135,7 +135,7 @@ class Section:
         self.mixture = lines[1][-1].strip()[1:-1]
         self.crsAbbr = self.area.lower() + self.number
         self.abbr = self.crsAbbr + '-' + self.section
-        self.setDocName() 
+        self.setDocName()
         placeTimeList = [] #allow multiple lines
         placeTimeListUnique = []
         i = 2
@@ -155,19 +155,19 @@ class Section:
                 if lastFriLoc != loc:
                     placeTimeList.append(loc + ' - Check week(s)')
                 lastFriLoc = loc
-            
+
             else:
                 if len(placeTimeListUnique)>0:
-                    print('')  
-                else: 
+                    print('')
+                else:
                     placeTimeList.append(loc)
-                    
+
             i += 1
             if len(lines[i-1]) == len(lines[i]) and not lines[i][0]: # further instr under orig, empty fields before
                 if lines[i][-1] and lines[i][-1] not in self.instructorList:
                      self.instructorList.append(lines[i][-1])
                 i += 1
-                                                                  
+
         lastFriLoc = ''
         self.placeTimes = joinIndented(placeTimeList, indent + '| ')  # force separate lines
         self.instructorList.sort()
@@ -181,7 +181,7 @@ class Section:
         if lines[i] and lines[i][0]: # skip seq of empty column
             i += 1
         notes = [line[0] if line else '' for line in lines[i:-1] ] # skip dashes line at end
-        
+
         if notes:
             notes[0] = '**Notes:** ' + notes[0].strip()
         self.notes = joinIndented(notes, indent).rstrip()
@@ -202,7 +202,7 @@ class Section:
                 self.docName = 'comp' + self.section
             elif self.section >= '100':
                 self.docName = 'comp' + self.section
-                
+
     def toRST(self):
         if self.crsAbbr in ['comp314', 'comp315']:
             return comp314_315Template.format(**self.__dict__)
@@ -210,9 +210,9 @@ class Section:
             if self.section in ['301', '302', '402']:
                 return topicsSectionTemplate.format(**self.__dict__)
             elif self.section == '367':
-                return topicsSection367Template.format(**self.__dict__) 
+                return topicsSection367Template.format(**self.__dict__)
             elif self.section == '472':
-                return topicsSection472Template.format(**self.__dict__)     
+                return topicsSection472Template.format(**self.__dict__)
         if self.crsAbbr == self.docName:
             return sectionTemplate.format(**self.__dict__)
         return topicsSectionTemplate.format(**self.__dict__)
@@ -220,7 +220,7 @@ class Section:
     def __lt__(self, other):
         return self.abbr < other.abbr
 
-                                   
+
 def getPlaceTime(line, campus):
     'Return string for place, time, campus; online, TBA treated specially'
     bldg = line[1].strip()
@@ -238,7 +238,7 @@ def getPlaceTime(line, campus):
     else:
         place = bldg+ ':' + room
     return '{} ({}) {}'.format(place, campus, time)
-    
+
 def parse_days(days):
     'Remove day abbreviations: MWF -> Monday, Wednesday, Friday'
     days = days.strip()
@@ -273,14 +273,14 @@ headingTemplate = '''
 
 The following courses will (tentatively) be held during the {semester} semester.
 
-For open/full status and latest changes, see 
+For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
 {txtBookURLline}
 
-Section titles lines link to the course description page, 
+Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
@@ -302,7 +302,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 '''
 
-gradHeadingTemplate = '''        
+gradHeadingTemplate = '''
 
 .. _{season}_graduate_courses_list_{mainCampus}:
 
@@ -313,7 +313,7 @@ Graduate Courses
 
 indepStudyTemplate = '''
 :doc:`{}` 1-6 credits
-    You cannot register 
+    You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
@@ -333,8 +333,8 @@ def doIndepStudyRST(crsAbbr, courses):
             names = "Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis"
         if(crsAbbr == 'comp398'):
             names = "Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Maria Del Carmen Saenz, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis"
-        return indepStudyTemplate.format(crsAbbr, names) 
-    return indepStudyTemplate.format(crsAbbr, ', '.join(names))  
+        return indepStudyTemplate.format(crsAbbr, names)
+    return indepStudyTemplate.format(crsAbbr, ', '.join(names))
 
 def fixLabs(courses):
     for name, sect in list(courses.items()):
@@ -352,22 +352,22 @@ def doLevelRST(names, indep, rstParts, courses):
     for sect in names:
         if sect == indep:
             rstParts.append(doIndepStudyRST(sect, courses))
-        course = courses.get(sect) 
+        course = courses.get(sect)
         if course:  # so not deleted lab section
-            rstParts.append(course.toRST())    
+            rstParts.append(course.toRST())
 
 def toRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
     undergrad = ['comp398'] + [section for section in courses   # one placeholder for 398
-                               if courses[section].area == 'COMP' and 
+                               if courses[section].area == 'COMP' and
                                   '398' != courses[section].number < '400']
-    undergrad.sort() 
+    undergrad.sort()
 
     fixLabs(courses) # need if stupid separate lab sections
     grad = ['comp490'] + [section for section in courses  # one placeholder for 490
-                          if courses[section].area == 'COMP' and 
+                          if courses[section].area == 'COMP' and
                              '490' != courses[section].number >= '400']
-    grad.sort() 
+    grad.sort()
 
     # later CSIS, too?
 
@@ -376,7 +376,7 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
     txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( `{mainCampus}` Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
-    campusURLTemplate= ''' 
+    campusURLTemplate= '''
 :doc:`lakeShoreSpring`
 
 :doc:`waterTowerSpring`
@@ -384,7 +384,7 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoSpring`
 
 :doc:`onlineSpring` '''
-    campusURLTemplateCuneo= ''' 
+    campusURLTemplateCuneo= '''
 :doc:`lakeShoreSpring`
 
 :doc:`waterTowerSpring`
@@ -395,11 +395,11 @@ You can skip down to
 :ref:`Spring_graduate_courses_list_`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
-    
+
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
-    
+
     return '\n'.join(parts)
 
 
@@ -407,17 +407,17 @@ You can skip down to
 def toLSRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
     undergrad = ['comp398'] + [section for section in courses   # one placeholder for 398
-                               if courses[section].area == 'COMP' and 
-                                  '398' != courses[section].number < '400' and 
+                               if courses[section].area == 'COMP' and
+                                  '398' != courses[section].number < '400' and
                                   courses[section].campus == 'Lake Shore']
-    undergrad.sort() 
+    undergrad.sort()
 
     fixLabs(courses) # need if stupid separate lab sections
     grad = ['comp490'] + [section for section in courses  # one placeholder for 490
-                          if courses[section].area == 'COMP' and 
-                             '490' != courses[section].number >= '400' and 
+                          if courses[section].area == 'COMP' and
+                             '490' != courses[section].number >= '400' and
                                   courses[section].campus == 'Lake Shore']
-    grad.sort() 
+    grad.sort()
 
     # later CSIS, too?
     mainCampus = 'Lake Shore'
@@ -426,7 +426,7 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
     txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
-    campusURLTemplate= ''' 
+    campusURLTemplate= '''
 :doc:`spring`
 
 :doc:`waterTowerSpring`
@@ -434,7 +434,7 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoSpring`
 
 :doc:`onlineSpring` '''
-    campusURLTemplateCuneo= ''' 
+    campusURLTemplateCuneo= '''
 :doc:`spring`
 
 :doc:`waterTowerSpring`
@@ -445,7 +445,7 @@ You can skip down to
 :ref:`Spring_graduate_courses_list_Lake Shore`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
-    
+
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
@@ -454,17 +454,17 @@ You can skip down to
 def toWTRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
     undergrad = ['comp398'] + [section for section in courses   # one placeholder for 398
-                               if courses[section].area == 'COMP' and 
-                                  '398' != courses[section].number < '400' and 
+                               if courses[section].area == 'COMP' and
+                                  '398' != courses[section].number < '400' and
                                   courses[section].campus == 'Water Tower']
-    undergrad.sort() 
+    undergrad.sort()
 
     fixLabs(courses) # need if stupid separate lab sections
     grad = ['comp490'] + [section for section in courses  # one placeholder for 490
-                          if courses[section].area == 'COMP' and 
-                             '490' != courses[section].number >= '400' and 
+                          if courses[section].area == 'COMP' and
+                             '490' != courses[section].number >= '400' and
                                   courses[section].campus == 'Water Tower']
-    grad.sort() 
+    grad.sort()
 
     # later CSIS, too?
     mainCampus = 'Water Tower'
@@ -473,7 +473,7 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
     txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
-    campusURLTemplate= ''' 
+    campusURLTemplate= '''
 :doc:`spring`
 
 :doc:`lakeShoreSpring`
@@ -481,7 +481,7 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`cuneoSpring`
 
 :doc:`onlineSpring` '''
-    campusURLTemplateCuneo= ''' 
+    campusURLTemplateCuneo= '''
 :doc:`spring`
 
 :doc:`lakeShoreSpring`
@@ -492,27 +492,27 @@ You can skip down to
 :ref:`Spring_graduate_courses_list_Water Tower`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
-    
+
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
-     
+
     return '\n'.join(parts)
 
 def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
     undergrad = [section for section in courses   # one placeholder for 398
-                               if courses[section].area == 'COMP' and 
-                                  '398' != courses[section].number < '400' and 
+                               if courses[section].area == 'COMP' and
+                                  '398' != courses[section].number < '400' and
                                   courses[section].campus == 'Cuneo Mansion']
-    undergrad.sort() 
+    undergrad.sort()
 
     fixLabs(courses) # need if stupid separate lab sections
     grad = ['comp490'] + [section for section in courses  # one placeholder for 490
-                          if courses[section].area == 'COMP' and 
-                             '490' != courses[section].number >= '400' and 
+                          if courses[section].area == 'COMP' and
+                             '490' != courses[section].number >= '400' and
                                   courses[section].campus == 'Cuneo Mansion']
-    grad.sort() 
+    grad.sort()
 
     # later CSIS, too?
     mainCampus = 'Cuneo Mansion'
@@ -521,7 +521,7 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
-    campusURLTemplate= ''' 
+    campusURLTemplate= '''
 :doc:`spring`
 
 :doc:`lakeShoreSpring`
@@ -533,27 +533,27 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     graduateLink = ''
     udergradeTxt = ''
     parts = [headingTemplate.format(**locals())]
-    
+
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
-    
+
     return '\n'.join(parts)
 
 def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
     'return the entire rst file contents'
     undergrad = ['comp398'] + [section for section in courses   # one placeholder for 398
-                               if courses[section].area == 'COMP' and 
-                                  '398' != courses[section].number < '400' and 
+                               if courses[section].area == 'COMP' and
+                                  '398' != courses[section].number < '400' and
                                   courses[section].campus == 'Online']
-    undergrad.sort() 
+    undergrad.sort()
 
     fixLabs(courses) # need if stupid separate lab sections
     grad = ['comp490'] + [section for section in courses  # one placeholder for 490
-                          if courses[section].area == 'COMP' and 
-                             '490' != courses[section].number >= '400' and 
+                          if courses[section].area == 'COMP' and
+                             '490' != courses[section].number >= '400' and
                                   courses[section].campus == 'Online']
-    grad.sort() 
+    grad.sort()
 
     # later CSIS, too?
     mainCampus = 'Online'
@@ -562,7 +562,7 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
     txtBookURLline = txtBookURLTemplate.format(**locals()) if textURL else ''
     textURLTemplate= '''( {mainCampus} Courses )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
-    campusURLTemplate= ''' 
+    campusURLTemplate= '''
 :doc:`spring`
 
 :doc:`lakeShoreSpring`
@@ -570,7 +570,7 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
 :doc:`waterTowerSpring`
 
 :doc:`cuneoSpring` '''
-    campusURLTemplateCuneo= ''' 
+    campusURLTemplateCuneo= '''
 :doc:`spring`
 
 :doc:`lakeShoreSpring`
@@ -581,11 +581,11 @@ You can skip down to
 :ref:`spring_graduate_courses_list_Online`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
-    
+
     doLevelRST(undergrad, 'comp398', parts, courses)
     parts.append(gradHeadingTemplate.format(**locals()))
     doLevelRST(grad, 'comp490', parts, courses)
-    
+
     return '\n'.join(parts)
 def printLines(lines, n):
     'front n > 0; end, backwards, n <0'
@@ -599,7 +599,7 @@ def printLines(lines, n):
         print('\nprinting', n, 'lines from end back:')
         for line in lines[-1:-n-1:-1]:
             print(line)
-        
+
 def getLines(rawLines):
     '''return csv list of entries for each line,
     If rawLines is a string it is taken as a csv file name'''
@@ -620,7 +620,7 @@ def getToDashes(lines):
         line = lines.pop()
         part.append(line)
         if line and isDashes(line[0]):
-            return part       
+            return part
     return None
 
 
@@ -636,7 +636,7 @@ def parseCSV(csvFile):
     semester = 'Not set'
     created = 'Not set'
     mainCampus = ''
-     
+
     while(lines):
         part = getToDashes(lines)
         if part is None:
@@ -655,7 +655,7 @@ def parseCSV(csvFile):
             campus = part[2][0].partition('Location')[0].strip().replace('Campus: ', '').replace(' Campus', '')
             # assume campus and location same?
             term = part[3][0] # empty string for regular session
-            
+
             if term == 'Regular Academic Session':
             	term = ''
             if term:
@@ -671,7 +671,7 @@ def parseCSV(csvFile):
         #input('press return: ')  #DEBUG
 
 def main():
-    (courses, semester, created, mainCampus) = parseCSV('spring2017.csv')
+    (courses, semester, created, mainCampus) = parseCSV('spring2018.csv')
     rst = toRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/spring.rst', 'w') as outf:

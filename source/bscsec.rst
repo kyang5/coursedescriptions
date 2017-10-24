@@ -16,7 +16,7 @@ Curriculum
 
 If you enrolled prior to Fall 2013 you may use the old Communication Networks and Security B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscns/oldcurriculum/>`_.
 
-Major Requirements (42 Credit Hours)
+Major Requirements (48 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 One of the following must be taken:
@@ -41,6 +41,8 @@ All of the following must be taken:
 -   :doc:`comp343`
 -   :doc:`comp347`
 -   :doc:`comp348`
+
+Two courses from the ones listed under the Electives section below.
 
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
