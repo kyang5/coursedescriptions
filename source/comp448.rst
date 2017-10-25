@@ -29,8 +29,9 @@ including TCP/IP.
 Syllabi
 --------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   	:widths: 60, 60, 200
 
-	"Spring 2014", "Corby Schmitz", "https://luc.box.com/s/rjw2mw8iwtvdtt4jftpqvre09t78lrfe"
+    "Spring 2017", "Corby Schmitz", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/233088133610"
+	  "Spring 2014", "Corby Schmitz", "https://luc.box.com/s/rjw2mw8iwtvdtt4jftpqvre09t78lrfe"

@@ -26,9 +26,9 @@ Ring and FDDI); transport.
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   	:widths: 60, 60, 150
 
-	"Spring 2013", "Dr. Dordal", "https://luc.box.com/s/pvw81deb39p4d3h084iqr7y4tu3fflum"
-
+    "Summer 2015", "Dr. Dordal", "http://pld.cs.luc.edu/courses/346/sum15/"
+	  "Spring 2013", "Dr. Dordal", "https://luc.box.com/s/pvw81deb39p4d3h084iqr7y4tu3fflum"

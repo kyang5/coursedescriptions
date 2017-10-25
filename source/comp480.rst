@@ -22,13 +22,12 @@ Introduction to concepts and methods for managing production and service operati
 
 Outcome:  Understanding of role of operations management in organizations, and the ability to use the modleing tools and techniques for problem-solving in operations management.
 
-..  for later
-    Syllabi
-    --------------------
 
-    .. csv-table:: 
+Syllabi
+--------------------
+
+    .. csv-table::
        	:header: "Semester/Year", "Instructor", "URL"
-       	:widths: 15, 25, 50
+       	:widths: 15, 25, 200
 
-    	"Fall 2016", "Dr. Naiman", "???"
- 
+    	"Fall 2016", "Dr. Naiman", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790150116"

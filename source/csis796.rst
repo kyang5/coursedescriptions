@@ -29,4 +29,7 @@ Class meets with INFS 796.
 Syllabi
 -------------
 
-No recent syllabi available.
+. csv-table::
+    :header: "Topic", "Semester/Year", "Instructor", "URL"
+    :widths: 60, 15, 25, 200
+        "Data Warehousing", "Spring 2014", "Abhishek Sharma", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790180054"
