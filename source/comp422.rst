@@ -21,9 +21,9 @@ This course will focus on the unique challenges, methods, tools, and technologie
 
 Syllabi
 ----------------------
-
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   	:widths: 60, 60, 200
 
-	"Spring 2009", "Dr. Honig", "https://luc.box.com/s/sm75okfbnv8b7fn0z55cw4rkjozju31n"
+    "Fall 2017", "Dr. Hayward", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/223003869555"
+	  "Spring 2009", "Dr. Honig", "https://luc.box.com/s/sm75okfbnv8b7fn0z55cw4rkjozju31n"

@@ -29,8 +29,9 @@ students working together on a student team.
 Syllabi
 --------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   	:widths: 25, 25, 200
 
-	"Spring 2016", "Dr. Channah Naiman", "https://luc.box.com/s/1tgu3y4lxl7uy2kc2mct0wyo2iu4ls7y"
+    "Spring 2017 (J-Term)", "Dr. Channah Naiman", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790164567"
+  	"Spring 2016", "Dr. Channah Naiman", "https://luc.box.com/s/1tgu3y4lxl7uy2kc2mct0wyo2iu4ls7y"
