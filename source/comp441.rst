@@ -27,8 +27,8 @@ their interfaces.
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+   	:widths: 60, 60, 150
 
-	"Spring 2016", "Nicholas Hayward", "https://luc.box.com/s/x6ygjsx6f8nxqj4gjxl8xwuk3grpgkf2"
+	  "Spring 2016", "Nicholas Hayward", "https://luc.box.com/s/x6ygjsx6f8nxqj4gjxl8xwuk3grpgkf2"
