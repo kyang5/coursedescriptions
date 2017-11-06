@@ -13,9 +13,13 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp170` or :doc:`comp215` 
+:doc:`comp170` or :doc:`comp215`
 
 :doc:`comp163` or |math201| (corequisite)
+
+Co-requisites
+------------------------
+:doc:`comp163` or |math201| (corequisite or prerequisite) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
 
 
 Description
@@ -38,7 +42,7 @@ Students will learn to design new data structures as well as learn to use existi
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 
