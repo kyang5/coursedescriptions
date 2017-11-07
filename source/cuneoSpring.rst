@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 10/17/2017 16:18:37
+Updated 11/06/2017 20:12:34
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 

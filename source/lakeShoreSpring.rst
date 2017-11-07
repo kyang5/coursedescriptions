@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 10/17/2017 16:18:37
+Updated 11/06/2017 20:12:34
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 
@@ -42,19 +42,20 @@ Undergraduate Courses
 
 
 :doc:`comp111` 
-    | Section 01W (3828) Credits: 3; In person; Lecture
+    | Section 01W (3828) Credits: 3; Blended; Lecture
     | Instructor: George Thiruvathukal
     | Cuneo Hall:218 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
     **Notes:**
-    *This is a writing intensive course.*  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
-    should contact their departmental graduate advisor.
+    **This is a writing intensive course.**  This course is blended/online (33%).  MW meetings are on-campus, and F meetings are online and asynchronous.  This
+    course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental graduate
+    advisor.
 
 
 :doc:`comp122` 
     | Section 001 (5759) Credits: 3; In person; Lecture
     | Instructor: David Wetzel
-    | Cuneo Hall:318 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    | Mundelein Center:1017 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
 
 
@@ -168,9 +169,8 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
 
     **Notes:**
-    Restricted to Engineering Science students.  Students from other schools must register for one of the other sections of this course.  Students enrolled in
-    COMP 170-001 (Lecture) will be automatically enrolled in COMP 170-01L (Lab).  This course is restricted to undergraduate students.  Graduate students
-    wishing to enroll in a section of this course should contact their departmental graduate advisor.
+    Restricted to Engineering Science students.  Students from other schools must register for one of the other sections of this course.  This course is
+    restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 
 :doc:`comp170` 
@@ -180,9 +180,8 @@ Undergraduate Courses
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-    contact the Computer Science Department to request an enrollment override.  Students enrolled in COMP 170-002 (Lecture) will be automatically enrolled in
-    COMP 170-02L (Lab).  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact
-    their departmental graduate advisor.
+    contact the Computer Science Department to request an enrollment override.  This course is restricted to undergraduate students.  Graduate students wishing
+    to enroll in a section of this course should contact their departmental graduate advisor.
 
 
 :doc:`comp170` 
@@ -219,7 +218,15 @@ Undergraduate Courses
     | Cuneo Hall:312 (Lake Shore) Friday 04:15PM-08:15 - Check week(s)
     | Cuneo Hall:311 (Lake Shore) Friday 04:15PM-08:15 - Check week(s)
 
-
+    **Notes:**
+    Foundations of Computer Science I. Seven Week-Third
+    
+    (7W3) Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
 
 
 :doc:`comp180` 
@@ -233,7 +240,7 @@ Undergraduate Courses
 :doc:`comp250` 
     | Section 01W (2641) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
-    | Sullivan Center:253 (Lake Shore) Monday, Wednesday 02:45PM-04:00
+    | Cuneo Hall:107 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
     **Notes:**
     **This is a writing intensive class.**  This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course
@@ -266,8 +273,8 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday 01:40PM-03:35
 
     **Notes:**
-    Students enrolled in COMP 271-001 (Lecture) will be automatically enrolled in COMP 271-01L (Lab).  This course is restricted to undergraduate students.
-    Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`comp271` 
@@ -276,8 +283,8 @@ Undergraduate Courses
     | Cuneo Hall:324 (Lake Shore) Tuesday, Thursday 04:15PM-06:10
 
     **Notes:**
-    Students enrolled in COMP 271-002 (Lecture) will be automatically enrolled in COMP 271-02L (Lab).  This course is restricted to undergraduate students.
-    Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`comp271` [Term: Eight Week - Second]
@@ -384,7 +391,7 @@ Undergraduate Courses
 :doc:`comp369` 
     | Section 001 (6272) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Place TBA (Lake Shore) Monday 07:00PM-09:30
+    | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
 
     **Notes:**
     Combined with COMP 488-369
@@ -411,7 +418,7 @@ Undergraduate Courses
 :doc:`comp388`: Intro to Natural Language Prcs 
     | Section 002 (6276) Credits: 3; In person; Lecture
     | Instructor: Dmitriy Dligach
-    | Cuneo Hall:203 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
+    | Cuneo Hall:203 (Lake Shore) Thursday 07:00PM-09:30
 
     **Notes:**
     Introduction to Natural Language Processing. This course provides an introduction to the field of natural language processing (NLP). NLP is a field that
@@ -447,20 +454,10 @@ COMP 388 Topic: Game Design and Development
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
 
 
-:doc:`comp392` 
-    | Section 01E (5170) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Place TBA (Lake Shore) Times: TBA
-
-    **Notes:**
-    COMP 384 is permanently cross-listed with BIOL 392. Register under BIOL 392.
-    This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
-
-
 :doc:`comp397` 
     | Section 001 (3823) Credits: 1; In person; Seminar
     | Instructor: Mark Albert
-    | Cuneo Hall:116 (Lake Shore) Friday 01:40PM-02:30
+    | Cuneo Hall:218 (Lake Shore) Thursday 04:15PM-05:30
 
 
 
@@ -482,7 +479,7 @@ Graduate Courses
 
 
 :doc:`comp412` 
-    | Section 001 (6278) Credits: 3; Blended; Lecture
+    | Section 001 (6278) Credits: 3; In person; Lecture
     | Instructor: Maria Del Carmen Saenz
     | Cuneo Hall:103 (Lake Shore) Thursday 07:00PM-09:30
 
@@ -552,9 +549,9 @@ Graduate Courses
 
 
 :doc:`comp488`: Intro to Natural Language Prcs 
-    | Section 002 (6287) Credits: 3; In person; Lecture
+    | Section 002 (6287) Credits: 3; Hybrid; Lecture
     | Instructor: Dmitriy Dligach
-    | Cuneo Hall:203 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
+    | Cuneo Hall:203 (Lake Shore) Thursday 07:00PM-09:30
 
     **Notes:**
     Introduction to Natural Language Processing.  This course provides an introduction to the field of natural language processing (NLP). NLP is a field that
@@ -585,7 +582,7 @@ COMP 488 Topic: Game Design and Development
 COMP 488 Topic: Physical Design & Fabrication 
     | Section 369 (6293) Credits: 3; In person; Lecture
     | Instructor: Jonathan Durston
-    | Place TBA (Lake Shore) Monday 07:00PM-09:30
+    | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
     | Description similar to: :doc:`comp369`
 
     **Notes:**
@@ -604,10 +601,11 @@ COMP 488 Topic: Computational Biology
 
 
 
-COMP 488 Topic 
-    | Section 402 (6397) Credits: 1 - 3; Blended; Lecture
+COMP 488 Topic: Intro Digital Hmnts Dsgn & Prg 
+    | Section 402 (6397) Credits: 1 - 3; Hybrid; Lecture
     | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Times: TBA
+    | Online: (Lake Shore) Tuesday 04:15PM-06:45
+    | Cudahy Library:318 (Lake Shore) Tuesday 04:15PM-06:45
     | Description similar to: :doc:`comp488`
 
 

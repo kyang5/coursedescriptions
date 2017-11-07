@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 10/17/2017 16:18:37
+Updated 11/06/2017 20:12:34
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 
@@ -149,7 +149,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Data Warehouse & Mining 
+COMP 488 Topic: Data Mining 
     | Section 301 (6288) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | School of Communicat:013 (Water Tower) Wednesday 04:15PM-06:45
