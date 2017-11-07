@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 10/17/2017 16:18:37
+Updated 11/06/2017 20:12:34
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 
@@ -186,7 +186,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Data Warehouse & Mining 
+COMP 488 Topic: Data Mining 
     | Section 302 (6289) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA

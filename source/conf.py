@@ -46,7 +46,7 @@ rst_epilog = """
 
 .. |math309| replace:: `MATH 309: Numerical Methods <http://luc.edu/math/academics/courses/math309/index.shtml>`__
 
-.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math331/index.shtml>`__
+.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math313/index.shtml>`__
 
 .. |math314| replace:: `MATH 314: Advanced Topics in Abstract Algebra <http://luc.edu/math/academics/courses/math314/index.shtml>`__
 
@@ -222,7 +222,7 @@ html_theme_options = {
     # be in the form [(name, page), ..]
 
     #'navbar_links': [('Index', 'genindex')],
-    
+
     # Include hidden TOCs in Site navbar?
     #
     # Note: If this is "false", you cannot have mixed ``:hidden:`` and

@@ -671,7 +671,7 @@ def parseCSV(csvFile):
         #input('press return: ')  #DEBUG
 
 def main():
-    (courses, semester, created, mainCampus) = parseCSV('spring2018.csv')
+    (courses, semester, created, mainCampus) = parseCSV('Spring2018.csv')
     rst = toRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
     printLog()
     with open('source/spring.rst', 'w') as outf:
