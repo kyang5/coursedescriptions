@@ -4,7 +4,7 @@ COMP 320: Software Systems Analysis
 ===================================
 
 Software systems analysis and design document user needs, create system architecture, and guide implementation. This course teaches the
-Unified Modeling Language (UML), and uses current software tools for analysis and design. 
+Unified Modeling Language (UML), and uses current software tools for analysis and design.
 
 Credit Hours
 -----------------------
@@ -14,7 +14,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`comp163` and :doc:`comp271`
+:doc:`comp163` and :doc:`comp170`
 
 Description
 --------------------
@@ -34,7 +34,7 @@ oriented settings.
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 

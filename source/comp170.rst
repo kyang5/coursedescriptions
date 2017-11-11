@@ -14,16 +14,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-Students are required to have taken |math117| as a prerequisite or to have been placed in |math118| or placement or :doc:`comp125`
-or :doc:`comp150` or :doc:`comp163` or permission. Experience programming in a procedural or object-oriented language recommended.
-
-Alternatively, students can take any **one** of the following courses as a prerequisite or as a co-requisite:
-
-- :doc:`comp163`
-- :doc:`comp150`
-- |math118|
-- |math131|
-- |math161|
+|math118| or Placement or :doc:`comp125` or :doc:`comp150` or :doc:`comp163` or permission. Experience programming in a procedural or object-oriented language recommended.
 
 Description
 --------------------
