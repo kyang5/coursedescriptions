@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule 
 ==========================================================================
-Updated 11/06/2017 20:12:34
+Updated 12/21/2017 14:29:20
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing>`_.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -80,24 +80,21 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp125` 
-    | Section 003 (5773) Credits: 3; In person; Laboratory
-    | Instructor: Vincent Nguyen
-    | Crown Center:105 (Lake Shore) Saturday 09:30AM-12:00
-
-    **Notes:**
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
-
-
 :doc:`comp150` 
-    | Section 001 (2643) Credits: 3; In person; Lecture
-    | Instructor: Curtis D Tuckey
+    | Section 001 (2643) Credits: 3; Blended; Lecture
+    | Instructor: Andrew N Harrington
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
     **Notes:**
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+    This class has run successfully both face to face and online, with the same content. This blended format takes advantage of face-to-face in initially
+    getting to know each other, getting the class going, finding partners, and getting direct help with any online technology. Later, since the class is
+    flipped, and most all interaction is help on your individual computer work, help can come online, either in part of regular class time or at varied times
+    convenient to you and the instructor. We will use software to share screens online. A quiet place is important for online help, with a computer that you
+    have access to having a good Internet speed and with the ability to talk and listen online.
+    
+    
+    
+    This course is restricted to undergraduate students.
 
 
 :doc:`comp150` 
@@ -120,20 +117,10 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`comp150` 
-    | Section 004 (6257) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Crown Center:103 (Lake Shore) Friday 05:45PM-08:15
-
-    **Notes:**
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
-
-
 :doc:`comp163` 
     | Section 001 (3143) Credits: 3; In person; Lecture
-    | Instructor: Curtis D Tuckey
-    | Cuneo Hall:318 (Lake Shore) Monday, Wednesday 04:15PM-05:30
+    | Instructor: Staff
+    | Inst for Environment:111 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
     This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
@@ -208,25 +195,6 @@ Undergraduate Courses
     contact the Computer Science Department to request an enrollment override.  Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in
     COMP 170-04L (Lab).  This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact
     their departmental graduate advisor.
-
-
-:doc:`comp170` [Term: Seven Week -Third]
-    | Section 400 (6425) Credits: 3; In person; Lecture
-    | Instructor: Andrew N Harrington
-    | Cuneo Hall:311 (Lake Shore) Monday 04:15PM-08:15
-    | Cuneo Hall:311 (Lake Shore) Wednesday 04:15PM-06:30
-    | Cuneo Hall:312 (Lake Shore) Friday 04:15PM-08:15 - Check week(s)
-    | Cuneo Hall:311 (Lake Shore) Friday 04:15PM-08:15 - Check week(s)
-
-    **Notes:**
-    Foundations of Computer Science I. Seven Week-Third
-    
-    (7W3) Session.
-    
-    
-    
-    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-    enroll you.
 
 
 :doc:`comp170` [Term: Eight Week - First]
@@ -330,7 +298,7 @@ Undergraduate Courses
 
 :doc:`comp271` [Term: Eight Week - First]
     | Section 700N (4954) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Wednesday 06:00PM-07:30
 
     **Notes:**
@@ -367,7 +335,7 @@ Undergraduate Courses
 
 :doc:`comp305` [Term: Eight Week - Second]
     | Section 700N (4979) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Tuesday 06:00PM-07:30
 
     **Notes:**
@@ -394,7 +362,7 @@ Undergraduate Courses
 
 :doc:`comp313` [Term: Eight Week - Second]
     | Section 700N (6141) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Thursday 06:00PM-07:30
     | Online Friday 06:00PM-07:30 - Check week(s)
 
@@ -469,15 +437,6 @@ Undergraduate Courses
 
     **Notes:**
     COMP 328 is taught in conjunction with COMP 428, MATH 328 & 428
-
-
-:doc:`comp339` 
-    | Section 001 (6267) Credits: 3; In person; Lecture
-    | Instructor: Sarah Kaylor
-    | Cuneo Hall:103 (Lake Shore) Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 439-001
 
 
 :doc:`comp340` 
@@ -567,7 +526,8 @@ Undergraduate Courses
     | Instructor: Heather E. Wheeler
     | Cuneo Hall:202 (Lake Shore) Tuesday, Thursday 02:30PM-04:10
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+    
     Combined with COMP 488-383
 
 
@@ -594,11 +554,15 @@ Undergraduate Courses
 COMP 388 Topic: Game Design and Development 
     | Section 323 (6277) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Cuneo Hall:324 (Lake Shore) Friday 02:45PM-05:15
+    | Cuneo Hall:217 (Lake Shore) Friday 02:45PM-05:15
     | Description similar to: :doc:`comp323`
 
     **Notes:**
     Game Design and Development.  Combined with COMP 488-323.
+    
+    
+    
+    Prerequisite: COMP 271 or instructor permission.
 
 
 :doc:`comp391` 
@@ -693,15 +657,6 @@ Graduate Courses
 
     **Notes:**
     COMP 428 is taught in conjunction with COMP 328, MATH 328 & 428.
-
-
-:doc:`comp439` 
-    | Section 001 (6281) Credits: 3; In person; Lecture
-    | Instructor: Sarah Kaylor
-    | Cuneo Hall:103 (Lake Shore) Wednesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 339-001
 
 
 :doc:`comp441` 
@@ -823,11 +778,15 @@ COMP 488 Topic: Database Administration
 COMP 488 Topic: Game Design and Development 
     | Section 323 (6291) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Cuneo Hall:324 (Lake Shore) Friday 02:45PM-05:15
+    | Cuneo Hall:217 (Lake Shore) Friday 02:45PM-05:15
     | Description similar to: :doc:`comp323`
 
     **Notes:**
     Game Design and Development.  Combined with COMP 388-323.
+    
+    
+    
+    Prerequisite: COMP 271 or instructor permission.
 
 
 
@@ -872,16 +831,6 @@ COMP 488 Topic: Intro Digital Hmnts Dsgn & Prg
     | Description similar to: :doc:`comp488`
 
 
-
-
-
-:doc:`comp488`: Organizational Change and Development 
-    | Section 472 (4994) Credits: 3; In person; Lecture
-    | Instructor: Guy Bevente
-    | Corboy Law Center:0522 (Water Tower) Monday 07:00PM-09:30
-
-    **Notes:**
-    Organizational Change and Development
 
 
 :doc:`comp490` 1-6 credits
