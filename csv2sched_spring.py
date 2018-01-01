@@ -672,28 +672,28 @@ def parseCSV(csvFile):
 
 def main():
     (courses, semester, created, mainCampus) = parseCSV('Spring2018.csv')
-    rst = toRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
+    rst = toRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing')
     printLog()
     with open('source/spring.rst', 'w') as outf:
         outf.write(rst)
 ##    if sys.args
 #RST file for Lake shore Campus
-    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
+    lsrst = toLSRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing')
     printLog()
     with open('source/lakeShoreSpring.rst', 'w') as outf:
         outf.write(lsrst)
 #RST file for Water Tower Campus
-    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
+    wtrst = toWTRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing')
     printLog()
     with open('source/waterTowerSpring.rst', 'w') as outf:
         outf.write(wtrst)
 #RST file for Cuneo Courses
-    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
+    cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing')
     printLog()
     with open('source/cuneoSpring.rst', 'w') as outf:
         outf.write(cuneorst)
 #RST file for Online Courses
-    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing')
+    onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL='https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing')
     printLog()
     with open('source/onlineSpring.rst', 'w') as outf:
         outf.write(onlinerst)

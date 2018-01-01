@@ -1,7 +1,7 @@
 
 Spring 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 11/06/2017 20:12:34
+Updated 12/21/2017 14:29:20
 
 The following courses will (tentatively) be held during the Spring 2018 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/1dSuQKC8XU0qzzvs25yx46qNnyilFgk7PV3dy3VI5ZOI/edit?usp=sharing>`_.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -53,7 +53,7 @@ Undergraduate Courses
 
 :doc:`comp271` [Term: Eight Week - First]
     | Section 700N (4954) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Wednesday 06:00PM-07:30
 
     **Notes:**
@@ -72,7 +72,7 @@ Undergraduate Courses
 
 :doc:`comp305` [Term: Eight Week - Second]
     | Section 700N (4979) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Tuesday 06:00PM-07:30
 
     **Notes:**
@@ -82,7 +82,7 @@ Undergraduate Courses
 
 :doc:`comp313` [Term: Eight Week - Second]
     | Section 700N (6141) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Udayan Das
     | Online Thursday 06:00PM-07:30
     | Online Friday 06:00PM-07:30 - Check week(s)
 
