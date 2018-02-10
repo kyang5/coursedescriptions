@@ -1,7 +1,7 @@
-.. index:: b.s. in physics and computer science
-   physics and computer science
+.. index:: b.s. in physics with computer science
+   physics with computer science
 
-B.S. in Physics and Computer Science
+B.S. in Physics with Computer Science
 =====================================
 
 Overview
@@ -27,7 +27,7 @@ Computer Science Requirements
 
 -   :doc:`comp150` (may be replaced by a 300-level classroom elective if :doc:`comp215` is taken)
 -   Introduction to Object-Oriented Programming & Data Structures
-        
+
         -   Either :doc:`comp170`
         -   OR :doc:`comp215`
 
@@ -63,5 +63,3 @@ Physics Requirements
 -   |phys314|
 -   |phys328|
 -   |phys351|
-
-

@@ -1,8 +1,8 @@
-.. index:: free/open source computing
+.. index:: open source software practicum
    open source
 
-COMP 312: Free/Open Source Computing
-====================================
+COMP 312: Open Source Software Practicum
+========================================
 
 This course will cover the fundamentals of Free and Open Source software development. Topics to be addressed include licensing, Linux, typical software development tools, applications, and techniques for managing remote servers.
 
@@ -24,7 +24,7 @@ development. Topics to be addressed include licensing, Linux, typical
 software development tools (e.g. compilers, scripting languages, build
 tools, and version control software), applications, and techniques for
 managing remote servers. Students will work on a significant
-developmentproject involving free and open-source software and learn how
+development project involving free and open-source software and learn how
 to participate in open-source projects effectively.
 
 Outcome
@@ -35,7 +35,7 @@ Students will learn to implement projects involving Free and Open Source softwar
 Syllabi
 ----------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 

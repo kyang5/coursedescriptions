@@ -1,1 +1,1 @@
-.. include:: schedules/summer2017.inc
+.. include:: schedules/summer2018.inc
