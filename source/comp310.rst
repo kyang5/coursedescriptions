@@ -1,10 +1,10 @@
 .. index:: introduction to operating systems
    operating systems
 
-COMP 374: Introduction to Operating Systems
-=====================================================
+COMP 310 (formerly 374): Introduction to Operating Systems
+==========================================================
 
-This course introduces principles of operating systems and how they are designed.  Various important parts of operating systems such as memory addressing, file structures, processes, and threads are covered. 
+This course introduces principles of operating systems and how they are designed.  Various important parts of operating systems such as memory addressing, file structures, processes, and threads are covered.
 
 Credit Hours
 -------------------
@@ -45,7 +45,7 @@ Students will learn the different parts of an operating system at a functional l
 Syllabi
 ---------------------
 
-.. csv-table:: 
+.. csv-table::
    	:header: "Semester/Year", "Instructor", "URL"
    	:widths: 15, 25, 50
 

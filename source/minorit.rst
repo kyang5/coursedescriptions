@@ -14,7 +14,7 @@ Curriculum
 
 Eighteen (18) total credits (or 21 if taking ACCT201 and MGMT201):
 
--   :doc:`comp125` or :doc:`comp150` or :doc:`comp170` or :doc:`comp215`.
+-   :doc:`comp125` or :doc:`comp150` or :doc:`comp170` or :doc:`comp180` or :doc:`comp215`.
 -   :doc:`comp251` or :doc:`comp264` or :doc:`comp271`.
 -   :doc:`comp377` or :doc:`isscm349`.
 -   One of :doc:`comp300`, :doc:`comp305`, :doc:`comp353`, :doc:`comp343`, :doc:`comp345`, :doc:`comp346`, :doc:`comp348`, :doc:`comp349`, :doc:`comp351`, :doc:`comp352`, :doc:`comp340`, :doc:`comp347`.

@@ -32,12 +32,12 @@ One of the following must be taken:
 
 One of the following must be taken:
 
--   :doc:`comp372`
--   :doc:`comp374`
+-   :doc:`comp371`
+-   :doc:`comp310`
 
 All of the following must be taken:
 
--   :doc:`comp163`
+-   :doc:`comp163` or |math201|
 -   :doc:`comp264`
 -   :doc:`comp271`
 -   :doc:`comp313`
@@ -47,18 +47,18 @@ All of the following must be taken:
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`comp390`, :doc:`comp391`, and :doc:`comp398`. See the details of registering in the links for each course. (See also individual degree requirements, which generally permit three additional units beyond the practicum to be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.) Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`. See the details of registering in the links for each course. (See also individual degree requirements, which generally permit three additional units beyond the practicum to be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.) Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
 Electives
 ~~~~~~~~~~
 
 13 Credits taken from:
 
--   :doc:`comp250` or |engl210|
+-   3 credits of |engl210|
 
--   :doc:`isscm349`
+-   Any COMP 300 level electives except :doc:`comp391` and :doc:`comp398`
 
--   Any COMP 300 level electives NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
+-   Advanced/Interdisciplinary studies: 7 credits of any COMP 3xx, ISSCM 349:Project Management, MATH 3xx,PHYS 3xx, or STAT 3xx.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,12 +78,12 @@ Year 2
 
 Year 3
 
--   :doc:`comp372`
+-   :doc:`comp371`
 -   :doc:`comp363`
 -   Electives
 
 Year 4
 
--   :doc:`comp374`
+-   :doc:`comp310`
 -   Electives
 -   Practicum
