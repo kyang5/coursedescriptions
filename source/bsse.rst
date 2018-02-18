@@ -34,11 +34,6 @@ One of the following must be taken:
 One of the following must be taken:
 
 -   :doc:`comp335`
--   :doc:`comp373`
-
-One of the following must be taken:
-
--   :doc:`comp333`
 -   :doc:`comp371`
 -   :doc:`comp373`
 -   :doc:`comp376`
@@ -60,7 +55,7 @@ Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`
 Electives
 ~~~~~~~~~~
 
-18 credits taken from:
+18 credits comprised of:
 
 -   3 credits of any COMP course except :doc:`comp391` and :doc:`comp398`
 -   6 credits from |engl210| or :doc:`comp250`, :doc:`comp264`, and :doc:`comp250` and any COMP 3xx except :doc:`comp391` and :doc:`comp398`
