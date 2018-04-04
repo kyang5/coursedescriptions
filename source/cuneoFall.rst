@@ -1,9 +1,9 @@
 
-Fall 2017 Schedule ( Cuneo Mansion Campus )
+Fall 2018 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 09/07/2017 11:05:52
+Updated 03/27/2018 14:50:35
 
-The following courses will (tentatively) be held during the Fall 2017 semester.
+The following courses will (tentatively) be held during the Fall 2018 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
