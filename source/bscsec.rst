@@ -53,20 +53,20 @@ Two courses taken from:
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`.  See the details of registering in the links for each course. (See also individual degree requirements, which generally permit three additional units beyond the practicum to be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.) Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`.  See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
 Electives
 ~~~~~~~~~~
 
-12 credits taken from:
+12 credits comprised of:
 
 -   3 credits of any COMP course except :doc:`comp391` :doc:`comp398`
 
--   6 credits from :doc:`comp250` or |engl210|
-    :doc:`comp264` or :doc:`comp271` NOTE: You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
-    Any COMP 3xx level courses except :doc:`comp391` and :doc:`comp398`
+-   6 credits from :doc:`comp250` or |engl210|,
+    :doc:`comp264` or :doc:`comp271` (note one of these must be taken as part of the Major requirements, while the other can be used as an elective),
+    Any COMP 3xx courses except :doc:`comp391` and :doc:`comp398`
 
--   3 credits of any COMP 3xx level courses or :doc:`isscm349`
+-   3 credits of any COMP 3xx courses or :doc:`isscm349`
 
 
 Suggested Ordering of Courses

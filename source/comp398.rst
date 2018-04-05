@@ -4,7 +4,7 @@
 COMP 398: Independent Study
 ===========================
 
-The student and a sponsoring faculty member will determine an advanced topic for the student to work on. 
+The student and a sponsoring faculty member will determine an advanced topic for the student to work on.
 
 Credit Hours
 -----------------------
@@ -14,7 +14,7 @@ Variable (presently 1-3)
 Prerequisites
 -----------------------
 
-Undergraduate Program Director approval
+Undergraduate Program Director approval (usually limited to 6 total credits).
 
 Description
 -----------------------

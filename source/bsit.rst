@@ -52,7 +52,7 @@ All of the following must be taken:
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`. See the details of registering in the links for each course. (See also individual degree requirements, which generally permit three additional units beyond the practicum to be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.) Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
 Electives
 ~~~~~~~~~~
