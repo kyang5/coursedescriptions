@@ -1,9 +1,9 @@
 
-Fall 2018 Schedule ( Water Tower Campus )
+Fall 2017 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 03/27/2018 14:50:35
+Updated 09/07/2017 11:05:52
 
-The following courses will (tentatively) be held during the Fall 2018 semester.
+The following courses will (tentatively) be held during the Fall 2017 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -41,58 +41,132 @@ Undergraduate Courses
 
 
 
-:doc:`comp324` 
-    | Section 001 (6286) Credits: 3; In person; Lecture
-    | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0105 (Water Tower) Tuesday 07:00PM-09:30
+:doc:`comp170` [Term: Eight Week 1 - Alternate]
+    | Section 400 (6220) Credits: 3; In person; Lecture
+    | Instructor: Andrew N Harrington
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
+    | Lewis Towers:410 (Water Tower) Friday 04:15PM-08:15 - Check week(s)
 
     **Notes:**
-    Combined with COMP 424-001.
+    Foundations of Computer Science I.  Eight Week-First Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
+    
+    
+    
+    COMP 170-400 meets on Mondays, 4:15 pm - 8:15 pm, for the first eight weeks of the Semester, replacing holiday/vacation Mondays with Fridays.  So the
+    Monday/Friday class schedule is: Mon, Aug 28; Fri, Sept 8; Mon, Sept 11; Mon, Sept 18; Mon, Sept 25; Mon, Oct 2; Fri, Oct 13; and Mon, Oct 16.
+    
+    
+    Labs meet on consecutive Thursdays, 4:15 pm - 6:30 pm: Thurs, Aug 31 through Thurs, Oct 19.
+
+
+:doc:`comp271` [Term: Eight Week - Second]
+    | Section 400 (6107) Credits: 3; In person; Lecture
+    | Instructor: Peter L Dordal
+    | Lewis Towers:410 (Water Tower) Monday 04:15PM-08:15
+    | Lewis Towers:410 (Water Tower) Thursday 04:15PM-06:30
+
+    **Notes:**
+    Foundations of Computer Science II.  Eight Week-Second Session.
+    
+    
+    
+    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+    enroll you.
+
+
+:doc:`comp324` 
+    | Section 001 (4820) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Corboy Law Center:L08 (Water Tower) Monday 04:15PM-06:45
+
+    **Notes:**
+    Combined with COMP 424-001
 
 
 :doc:`comp333` 
-    | Section 001 (6288) Credits: 3; In person; Lecture
+    | Section 001 (4827) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Corboy Law Center:0321 (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:L09 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 433-001.
+    Combined with COMP 433-001
 
 
 :doc:`comp336` 
-    | Section 001 (6289) Credits: 3; In person; Lecture
+    | Section 001 (4821) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0522 (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 436-001.
+    Combined with COMP 436-001
 
 
 :doc:`comp343` 
-    | Section 001 (6290) Credits: 3; In person; Lecture
+    | Section 001 (4823) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0208 (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 443-001.
+    Combined with COMP 443-001
+
+
+:doc:`comp346` 
+    | Section 001 (6006) Credits: 3; Blended; Lecture
+    | Instructor: Leo Irakliotis
+    | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
+
+    **Notes:**
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 446-001.
 
 
 :doc:`comp347` 
-    | Section 001 (6292) Credits: 3; In person; Lecture
+    | Section 001 (4830) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0303 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
-    Combined with COMP 447-001.
+    Combined with COMP 447-001
 
 
 :doc:`comp377` 
-    | Section 001 (6324) Credits: 3; In person; Lecture
+    | Section 001 (6007) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Corboy Law Center:0523 (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:0302 (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 477-001.
+    Combined with COMP 477-001
+
+
+
+COMP 388 Topic: DevOps: MethodsToolsPractices 
+    | Section 001 (6009) Credits: 3; In person; Lecture
+    | Instructor: Maria Del Carmen Saenz
+    | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
+
+
+    **Notes:**
+    DevOps: Methods, Tools & Practices
+    
+    
+    Prerequisite: COMP 271
+    
+    
+    
+    This course is an introduction on how to think and work as a DevOps Engineer. DevOps takes its name from Development (Software Engineering) and Operations
+    (IT Systems/Operations Management), with the addition of a Quality Assurance dimension. In the course students will develop a product, test and analyze
+    their code, package, deploy, and monitor the systems their code runs on. Learning about the systems that code will be running on and minimizing any risk
+    factors during the deployment and upgrading process is critical in order to keep any business up and running. Knowing the whole pipeline from engineering to
+    deployment and maintenance will give any student an edge a broader picture of how new industries work.
 
 
 :doc:`comp398` 1-6 credits
@@ -111,66 +185,107 @@ Graduate Courses
 
 
 
-:doc:`comp403` 
-    | Section 001 (6329) Credits: 3; In person; Lecture
-    | Instructor: Staff
-    | Corboy Law Center:0423 (Water Tower) Wednesday 07:00PM-09:30
-
-
-
-
 :doc:`comp424` 
-    | Section 001 (6377) Credits: 3; In person; Lecture
+    | Section 001 (4844) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0105 (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:L08 (Water Tower) Monday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 324-001.
+    Combined with COMP 324-001
 
 
 :doc:`comp433` 
-    | Section 001 (6340) Credits: 3; In person; Lecture
+    | Section 001 (4845) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Corboy Law Center:0321 (Water Tower) Monday 07:00PM-09:30
+    | Corboy Law Center:L09 (Water Tower) Tuesday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 333-001.
+    Combined with COMP 344-001
 
 
 :doc:`comp436` 
-    | Section 001 (6341) Credits: 3; In person; Lecture
+    | Section 001 (4846) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Corboy Law Center:0522 (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 336-001.
+    Prerequisite for students in the MA in Digital Humanities program: DIGH 402 taken in spring 2016 or previously, or COMP 271.
+    Combined with COMP 336-001
 
 
 :doc:`comp443` 
-    | Section 001 (6342) Credits: 3; In person; Lecture
+    | Section 001 (4847) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0523 (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 343-001.
+    Combined with COMP 343-001
+
+
+:doc:`comp446` 
+    | Section 001 (6064) Credits: 3; Blended; Lecture
+    | Instructor: Leo Irakliotis
+    | Corboy Law Center:0302 (Water Tower) Wednesday 07:00PM-09:30
+
+    **Notes:**
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 346-001.
 
 
 :doc:`comp447` 
-    | Section 001 (6358) Credits: 3; In person; Lecture
+    | Section 001 (4849) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0303 (Water Tower) Friday 05:45PM-08:15
 
     **Notes:**
-    Combined with COMP 347-001.
+    Combined with COMP 347-001
+
+
+:doc:`comp453` 
+    | Section 001 (3267) Credits: 3; In person; Lecture
+    | Instructor: Channah Naiman
+    | School of Communicat:014 (Water Tower) Tuesday 04:15PM-06:45
+
+    **Notes:**
+    This section of COMP 453 will cover advanced concepts in database access and programming, including SQL, using MySQL and PHP for the project.
+    
+    
+    Outcome: Students will learn application development using the latest software tools.  Students will also learn techniques for web based data retrieval and
+    manipulation.
 
 
 :doc:`comp477` 
-    | Section 001 (6362) Credits: 3; In person; Lecture
+    | Section 001 (6065) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
-    | Corboy Law Center:0523 (Water Tower) Monday 04:15PM-06:45
+    | Corboy Law Center:0302 (Water Tower) Monday 07:00PM-09:30
 
     **Notes:**
-    Combined with COMP 377-001.
+    Combined with COMP 377-001
+
+
+
+COMP 488 Topic: DevOps: MethodsToolsPractices 
+    | Section 001 (6066) Credits: 3; In person; Lecture
+    | Instructor: Maria Del Carmen Saenz
+    | Corboy Law Center:0201 (Water Tower) Friday 05:45PM-08:15
+
+
+    **Notes:**
+    DevOps: Methods, Tools & Practices
+    
+    
+    Prerequisite: COMP 271
+    
+    
+    
+    This course is an introduction on how to think and work as a DevOps Engineer. DevOps takes its name from Development (Software Engineering) and Operations
+    (IT Systems/Operations Management), with the addition of a Quality Assurance dimension. In the course students will develop a product, test and analyze
+    their code, package, deploy, and monitor the systems their code runs on. Learning about the systems that code will be running on and minimizing any risk
+    factors during the deployment and upgrading process is critical in order to keep any business up and running. Knowing the whole pipeline from engineering to
+    deployment and maintenance will give any student an edge a broader picture of how new industries work.
 
 
 :doc:`comp490` 1-6 credits
@@ -179,3 +294,21 @@ Graduate Courses
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+
+
+:doc:`comp499` 
+    | Section 001 (2182) Credits: 1 - 6; In person; Independent Study
+    | Instructor: Andrew N Harrington, Channah Naiman
+    | Place TBA (Water Tower) Times: TBA
+
+    **Notes:**
+    This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member will enroll you.
+
+
+:doc:`comp605` 
+    | Section 001 (3077) Credits: 0; In person; FTC-Supervision
+    | Instructor: Andrew N Harrington, Channah Naiman
+    | Place TBA (Water Tower) Times: TBA
+
+    **Notes:**
+    Department Consent required, and then a Computer Science Department staff member will enroll you.
