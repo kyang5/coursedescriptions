@@ -100,9 +100,11 @@ Undergraduate Courses
    comp319
    comp320
    comp322
-    comp323   comp324
+   comp323
+   comp324
    comp325
-   comp328    comp329
+   comp328
+   comp329
    comp330
    comp331
    comp333
@@ -177,7 +179,8 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 .. toctree::
    :maxdepth: 1
 
-    comp403   comp409
+   comp403
+   comp409
    comp410
    comp412
    comp413
