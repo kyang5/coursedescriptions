@@ -29,16 +29,18 @@ One of the following must be taken:
 -   |psyc304|
 
 One of the following must be taken:
+(note that later options are more limited without COMP 170 or 215)
 
 -   :doc:`comp125`
 -   :doc:`comp150`
 -   :doc:`comp170`
+-   :doc:`comp180`
 -   :doc:`comp215`
 
 One of the following must be taken:
 
 -   :doc:`comp251`
--   :doc:`comp271`
+-   :doc:`comp271` (prereq :doc:`comp170`)
 
 All of the following must be taken:
 
@@ -54,21 +56,25 @@ Practicum Capstone
 
 Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, :doc:`comp392`, and :doc:`comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
-Electives
+Electives 
 ~~~~~~~~~~
 
-15 credits taken from:
+15 credits taken from (note that some COMP 3xx electives have a prereq of COMP 271 or higher, and MGMT and ENTR courses also have prereqs):
 
 -   :doc:`comp250` or |engl210|
 -   :doc:`comp251` or :doc:`comp271` NOTE: You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
 -   :doc:`comp264`
--   MGMT 304: Strategic Management
 -   MGMT 315: International Management
 -   MGMT 318: Organizational Development and Change
 -   MGMT 320: Leading and Managing Team
 -   MGMT 335: Micro-enterprise Consulting
 -   MGMT 360: Values Based Leadership
 -   ENTR 310: Innovation and Entrepreneurship
+-   ENTR 311: Social Entrepreneurship (Not for Profit ventures)
+-   ENTR 312: Intellectual Property & Commercialization
+-   ENTR 313: Entrepreneurship-Global Opportunity Scan
+-   ENTR 345: Entrepreneurial Marketing
+-   ENTR 390: Entrepreneurship Strategies  
 -   Any COMP 300 level electives NOTE: A special case is :doc:`comp390`, :doc:`comp391` and :doc:`comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
 -   MGMT 201 or ACCT 201 may count as 3 credits of major Electives if either ISSCM 349 or ENTR 310 is completed to count toward this major.
 

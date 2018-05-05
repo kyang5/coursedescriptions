@@ -133,6 +133,7 @@ Undergraduate Courses
    comp369
    comp370
    comp371
+   comp372
    comp373
    comp376
    comp377
@@ -179,6 +180,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 .. toctree::
    :maxdepth: 1
 
+   comp400
    comp403
    comp409
    comp410
@@ -190,6 +192,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp421
    comp422
    comp424
+   comp425
    comp428
    comp431
    comp433
@@ -210,6 +213,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp460
    comp462
    comp464
+   comp470
    comp471
    comp472
    comp473
