@@ -1,7 +1,7 @@
 
 Fall 2018 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 03/27/2018 14:50:35
+Updated 04/27/2018 20:44:20
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
