@@ -1,7 +1,7 @@
 
 Fall 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 03/27/2018 14:50:35
+Updated 04/27/2018 20:44:20
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
@@ -150,8 +150,9 @@ Undergraduate Courses
     
     
     This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
-    the instructor in accord with the course design.
-    
+    the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
+    semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
+    first semester, respectively).
     
     
     This class satisfies the Engaged Learning requirement in the Service Learning category.
@@ -159,7 +160,7 @@ Undergraduate Courses
 
 :doc:`comp391` 
     | Section 02E (4918) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -231,6 +232,12 @@ COMP 488 Topic: Comp Forensics Investigations
 
     **Notes:**
     Computer Forensics.
+    
+    
+    
+    Prerequisites: COMP 170 (or equivalent) and ( COMP 417 or COMP 443 )
+    
+    
     
     
     
