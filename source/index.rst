@@ -29,14 +29,14 @@ Schedules
    summer
    spring
 
-If you wish to look forward further, see
+.. If you wish to look forward further, see
 
-* :doc:`longtermschedule`
-* :doc:`cuneo2yrschedule`
+.. * :doc:`longtermschedule`
+.. * :doc:`cuneo2yrschedule`
 
-Or look further back:
+.. Or look further back:
 
-* :doc:`schedulearchive`
+.. s* :doc:`schedulearchive`
 
 
 Tutoring
