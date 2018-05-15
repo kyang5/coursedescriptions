@@ -19,11 +19,14 @@ equivalents of our
 :doc:`comp264`
 and :doc:`comp363`
 to the two courses already listed above. 
+In particular advanced undergraduate algorithm background is required 
+before taking the required spring grad course, Comp 460, Algorithms. 
+
 
 Software Engineering students are in the middle.   
 The background for the Computer Science student is helpful, but adept
 transitioning students may manage with the two basic courses 
-that the IT students need.
+that the IT students need if they perform very well in them.
 
 Many of our best students in Information Technology and Software Engineering
 have transitioned from other fields.
@@ -62,28 +65,19 @@ compressed prerequisites with
 all the work that goes with them does require some dedication!   
 Many transitioning students with full-time jobs have found this to be 
 *too much* to take on even without an additional grad course.  You can see the
-speed of topics in the first course in fall 2016 
+speed of topics in the first course in fall 2017 
 by looking at the course website,
-http://anh.cs.luc.edu/388Intro, though there will be a change of language and book
-for Fall 2017, starting with Python from
-http://interactivepython.org/runestone/static/thinkcspy/index.html
-and then a comparison and brief transition to Java in preparation for the next course.
-
-.. Andy
-    You can spread your work out by getting an early start
-    looking at the text used by Comp 170 
-    and the compressed version:  
-    The text by Dr. Harrington and Dr. Thiruvathukal is free online,
-    http://introcs.cs.luc.edu/, with accompanying videos.  
-    You are welcomed to use the online book 
-    whether you formally take our course or not.
+http://anh.cs.luc.edu/170, where we start with Python from
+https://runestone.academy/runestone/static/thinkcspy/index.html
+and then have a comparison and brief transition to Java 
+in preparation for the next course.
 
 Comp 170 does not require any background 
 in programming, but if you have no background in programming, 
 then it IS important to have a math background in which you are comfortable 
 with the material in a   
 precalculus course like our Math 118, which includes 
-*significant manipulation of functions*.  
+*significant manipulation of functions and logical symbolic progressions*.  
 If you have a previous modest introduction to programming, including 
 defining and using 
 functions, then the formal math background is not so important.  
