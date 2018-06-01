@@ -29,14 +29,14 @@ Schedules
    summer
    spring
 
-.. If you wish to look forward further, see
+If you wish to look forward further, see
 
-.. * :doc:`longtermschedule`
-.. * :doc:`cuneo2yrschedule`
+* :doc:`longtermschedule`
+* :doc:`cuneo2yrschedule`
 
-.. Or look further back:
+Or look further back:
 
-.. s* :doc:`schedulearchive`
+* :doc:`schedulearchive`
 
 
 Tutoring
@@ -133,7 +133,6 @@ Undergraduate Courses
    comp369
    comp370
    comp371
-   comp372
    comp373
    comp376
    comp377
@@ -213,7 +212,6 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp460
    comp462
    comp464
-   comp470
    comp471
    comp472
    comp473
@@ -221,6 +219,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp475
    comp476
    comp477
+   comp479
    comp480
    comp484
    comp488
