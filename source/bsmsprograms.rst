@@ -88,6 +88,8 @@ Application Requirements
 The academic prerequisites to be considered for admission to the BS/MS 
 programs in the Computer Science Department are as follows:
 
+-   Apply *before the start of your senior (final undergrad) year*.  CAS requires this
+    to be clear how to handle your advising for your final undergrad year.
 -   Successful completion of a total of at least 15 credits of major 
     COMP courses, including :doc:`comp271` 
     (even if :doc:`comp271` is only an elective in the major) and including 
@@ -100,7 +102,7 @@ programs in the Computer Science Department are as follows:
 -   A cumulative GPA of 3.3 or higher for all course work at Loyola;
 -   Satisfactory progress towards completion of Loyola’s core.
 
-Further notes on BS completion:  Before the deadlines do apply to graduate 
+Further notes on BS completion:  Before the undergraduate deadlines do apply to graduate 
 with your B.S in the semester you will actually finish!  
 Otherwise you complicate the conversion to graduate status.
 If the date when you will start graduate status changes from your original
@@ -118,10 +120,6 @@ the final undergrad semester in which s/he is taking COMP courses.
 Students who have an interest in the program are encouraged to consult 
 with the Graduate Program Director for Computer Science, Dr. Andrew Harrington, 
 in the semester prior to their application. 
-Students who have substantial transfer or AP credit, or wish to finish the 
-combined program in less than five years, should discuss the timing of their 
-application with Dr. Harrington. The student should then fill out the 
-on-line Graduate Application Form through the Graduate School web-site. 
 The application will be evaluated upon completion of the following:
 
 -   `The Graduate Application Form <https://gpem.luc.edu/apply/>`_; 
@@ -132,7 +130,7 @@ The application will be evaluated upon completion of the following:
     of the BS).  This is *not* generally the semester coming right after the student 
     has filled out the application.  This is *after* all double-counted
     courses are completed.
--   A one page personal statement of purpose;
+-   A one page personal statement of purpose.
 -   Three letters of recommendation, at least two coming from faculty 
     in the Department of Computer Science at Loyola University.
 
@@ -152,7 +150,7 @@ with three of them replacing undergraduate major courses, and a fourth *if*
 student will graduate with at least 123 credits and not need the fourth course 
 as a part of *any* undergraduate requirement. 
 Students generally take the remainder of their 30 credits of 400-level 
-classes during their fifth year. This schedule can be modified for students 
+MS classes during their fifth year. This schedule can be modified for students 
 with AP or transfer credit who desire to finish the combined program 
 in less than five years. Students in the program are expected to consult 
 regularly with the Graduate Program Director to insure that they are on track 
