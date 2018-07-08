@@ -16,6 +16,7 @@ Prerequisites
 .. LOCUS lists BIOL 282
 
 |biol101| (or equivalent) or NTSC 104
+|biol282|
 
 Description
 --------------------
