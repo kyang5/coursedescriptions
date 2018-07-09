@@ -58,7 +58,7 @@ Electives
 18 credits comprised of:
 
 -   3 credits of any COMP course except :doc:`comp391` and :doc:`comp398`
--   6 credits from |engl210| or :doc:`comp250`, :doc:`comp264`, and :doc:`comp250` and any COMP 3xx except :doc:`comp391` and :doc:`comp398`
+-   6 credits from |engl210| or :doc:`comp250`, :doc:`comp264`, and any COMP 3xx except :doc:`comp391` and :doc:`comp398`
 -   9 credits of any COMP 3xx or :doc:`isscm349`
 
 Suggested Ordering of Courses
