@@ -102,6 +102,8 @@ rst_epilog = """
 
 .. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
+.. |biol282| replace:: `BIOL 282: Genetics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+
 .. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
 
 .. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
