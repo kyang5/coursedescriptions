@@ -70,7 +70,7 @@ Undergraduate Courses
 --------------------------
 
 NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Textbook Information https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g`
+`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
 
 .. toctree::
    :maxdepth: 1
@@ -177,7 +177,7 @@ Graduate Courses
 ----------------------------
 
 NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Textbook Information https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g`
+`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
 
 
 For administrative information on course loads, registration, and course selection,
