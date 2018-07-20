@@ -10,7 +10,9 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-TextBook information to be updated soon.
+NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
+`Textbook Information https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g`
+
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
