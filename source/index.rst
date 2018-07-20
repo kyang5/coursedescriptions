@@ -69,6 +69,9 @@ Undergraduate Degree Programs
 Undergraduate Courses
 --------------------------
 
+NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
+`Textbook Information https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g`
+
 .. toctree::
    :maxdepth: 1
 
@@ -172,6 +175,10 @@ Graduate Degree Programs
 
 Graduate Courses
 ----------------------------
+
+NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
+`Textbook Information https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g`
+
 
 For administrative information on course loads, registration, and course selection,
 please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
