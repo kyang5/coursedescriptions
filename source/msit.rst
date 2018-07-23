@@ -68,39 +68,49 @@ Major Requirements (3 credits)
 
 Tracks (9 credits)
 ~~~~~~~~~~~~~~~~~~
+
 Students starting before Spring 2017 may also include courses from the old  EIM or TM tracks (:doc:`oldtracks`).  Anyone may follow the tracks listed below:
 
 *   Three (3) courses from any *one* of the following Tracks must be taken.
 
 Enterprise Information Management (EIM) Track
-    *   :doc:`comp453`
-    *   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
-    *   `COMP 488-305: Database Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
-    *   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
-    *   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+*   :doc:`comp453`
+*   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
+*   `COMP 488-305: Database Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
+*   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
+*   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
+
 .. old :doc:`csis496`
 
 Technology Management (TM) Track
-    *   :doc:`comp420`
-    *   :doc:`comp477`
-    *   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
-    *   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+*   :doc:`comp420`
+*   :doc:`comp477`
+*   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
+*   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
 
 .. old :doc:`csis478`
 
 Information Assurance (IA) Track
-    *   :doc:`comp431`
-    *   :doc:`comp443`
-    *   :doc:`comp447`
-    *   :doc:`comp448`
-    *   :doc:`comp449`
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+*   :doc:`comp431`
+*   :doc:`comp443`
+*   :doc:`comp447`
+*   :doc:`comp448`
+*   :doc:`comp449`
 
 Enterprise Networking (EN) Track
-    *   :doc:`comp443`
-    *   :doc:`comp446`
-    *   :doc:`comp448`
-    *   :doc:`comp449`
-    *   :doc:`comp451`
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+*   :doc:`comp443`
+*   :doc:`comp446`
+*   :doc:`comp448`
+*   :doc:`comp449`
+*   :doc:`comp451`
 
 .. old :doc:`csis591`
    :doc:`csis793`

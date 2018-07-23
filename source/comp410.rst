@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`comp374`
+:doc:`comp310`
 
 
 Description
