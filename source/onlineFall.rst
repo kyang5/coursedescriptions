@@ -1,11 +1,7 @@
 
 Fall 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 04/27/2018 20:44:20
-
-NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
-
+Updated 03/27/2018 14:50:35
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
@@ -14,6 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
+See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -153,9 +150,8 @@ Undergraduate Courses
     
     
     This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
-    the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
-    semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
-    first semester, respectively).
+    the instructor in accord with the course design.
+    
     
     
     This class satisfies the Engaged Learning requirement in the Service Learning category.
@@ -163,7 +159,7 @@ Undergraduate Courses
 
 :doc:`comp391` 
     | Section 02E (4918) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Ronald I Greenberg, Robert Yacobellis
+    | Instructor: Staff
     | Online Times: TBA
 
     **Notes:**
@@ -235,12 +231,6 @@ COMP 488 Topic: Comp Forensics Investigations
 
     **Notes:**
     Computer Forensics.
-    
-    
-    
-    Prerequisites: COMP 170 (or equivalent) and ( COMP 417 or COMP 443 )
-    
-    
     
     
     
