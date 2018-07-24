@@ -21,4 +21,12 @@ Core computer science areas are important, and research involving them is even m
 
 Many of these courses could vary depending on specific research interests.
 
+Recent Thesis titles:
+
+* Andrew Phillips. Using Natural Language Processing and Machine Learning for the Identification of Alcohol Misuse In Trauma Patients. Aug 2018.
+* Pinky Sindhu. Toddler Activity Recognition using Machine Learning. Aug 2018.
+* Anne Zhao. A mobile app demonstrating sensory neural codes through an efficient coding of collected images and sounds. May 2017.
+* Ilona Shparii. Real-time fall detection and response on mobile phones using machine learning. May 2017.
+* Pichleap Sok. Activity Recognition for Incomplete Spinal Cord Injury Subjects using a Hidden Markov Model. May 2016.
+
 Back to :doc:`careerpaths`
