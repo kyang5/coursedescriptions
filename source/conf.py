@@ -150,7 +150,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Course Handbook'
-copyright = u'2016, CS Department'
+copyright = u'2018, CS Department'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
