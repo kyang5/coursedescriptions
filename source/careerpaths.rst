@@ -19,6 +19,7 @@ so the student gets to choose the degree programs in those cases:
 * :doc:`securityauditor`
 * :doc:`phdprep`
 * :doc:`dataanalyst`
+* :doc:`datasci`
 * :doc:`ai`
 * :doc:`enterprise`  
 * :doc:`dba`
@@ -29,7 +30,6 @@ so the student gets to choose the degree programs in those cases:
 
 .. missing 
    testing
-   split of data analyst for programming vs only IT
 
 .. linksfromprograms
    Each individual MS degree program page should have at the end:
