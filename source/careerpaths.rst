@@ -15,17 +15,17 @@ so the student gets to choose the degree programs in those cases:
    Each line should be a link to its new T4 page 
    not the temp sphinx page shown at the end of each line here for reference
 
-* Cyber Security Analyst/Network Security Administrator :doc:`cyberanalyst`
-* Cyber Security Engineer or Auditor :doc:`securityauditor`
-* PhD preparation  :doc:`phdprep`
-* Data Analyst / Data Scientist  :doc:`dataanalyst`
-* Artificial Intelligence  :doc:`ai`
-* Enterprise Architect   :doc:`enterprise`  
-* Database Administration  :doc:`dba`
-* Data Architect  :doc:`dataarchitect`
-* Project Manager :doc:`projectmanager`
-* Video Game Developer  :doc:`game`
-* Web Developer / User Experience Designer :doc:`web`
+* :doc:`cyberanalyst`
+* :doc:`securityauditor`
+* :doc:`phdprep`
+* :doc:`dataanalyst`
+* :doc:`ai`
+* :doc:`enterprise`  
+* :doc:`dba`
+* :doc:`dataarchitect`
+* :doc:`projectmanager`
+* :doc:`game`
+* :doc:`web`
 
 .. missing 
    testing
