@@ -410,7 +410,7 @@ texinfo_documents = [
 epub_title = u'LUC CS Course Handbook'
 epub_author = u'CS Department'
 epub_publisher = u'CS Department'
-epub_copyright = u'2016, CS Department'
+epub_copyright = u'2018, CS Department'
 epub_basename = 'LoyolaComputerScienceCourseHandbook'
 
 # The language of the text. It defaults to the language option

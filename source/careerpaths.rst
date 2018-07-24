@@ -24,10 +24,10 @@ so the student gets to choose the degree programs in those cases:
 * Database Administration  :doc:`dba`
 * Data Architect  :doc:`dataarchitect`
 * Project Manager :doc:`projectmanager`
+* Video Game Developer  :doc:`game`
+* Web Developer / User Experience Designer :doc:`web`
 
-.. missing
-   web dev
-   game dev
+.. missing 
    testing
    split of data analyst for programming vs only IT
 
