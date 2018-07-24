@@ -3,7 +3,7 @@ MS Career Paths
 =================================
 
 The three MS degrees have many electives and  
-choices give much flexibility for all
+choices to give much flexibility for all
 kinds of more specific interests.  
 Some collections of courses suggested for the more common interests and career paths 
 are listed briefly below with links to fuller descriptions of individual ones.
