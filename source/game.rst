@@ -16,17 +16,29 @@ As a video game designer and developer,
 there are many opportunities to directly apply abstract concepts in a fun, entertaining environment. 
 It’s a lot of work, but also a lot of fun!
 
+Consider these courses:
+
+
 .. tosphinx
    all courses should link to the sphinx pages with text being course name and number.
 
-* COMP 422: Wireless/Mobile Software Development 
-* COMP 441: Human-computer Interface Design
-* Comp 413: Intermediate OOP
-* COMP 460: Algorithms and Complexity
-* COMP 488: Game Design and Development
-* COMP 479: Machine Learning (useful)
-* COMP 484: Artificial Intelligence (useful)
-* required Comp 417 and 2-4 electives
+    * COMP 422: Wireless/Mobile Software Development 
+    * COMP 441: Human-computer Interface Design
+    * Comp 413: Intermediate OOP
+    * COMP 460: Algorithms and Complexity
+    * COMP 488: Game Design and Development
+    * COMP 479: Machine Learning (useful)
+    * COMP 484: Artificial Intelligence (useful)
+    * required Comp 417 and 2-4 electives
+
+* :doc:`comp422` 
+* :doc:`comp441`
+* :doc:`comp413`
+* :doc:`comp460`
+* graduate version of :doc:`comp323`
+* :doc:`comp479` (useful)
+* :doc:`comp484` (useful)
+* required :doc:`comp417` and 2-4 electives
 
 Back to :doc:`careerpaths`
 

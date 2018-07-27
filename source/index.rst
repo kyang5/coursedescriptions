@@ -166,9 +166,10 @@ Graduate Degree Programs
    masters_prereqs
    mscs
    msit
-   oldtracks
    msse
    madh
+
+..   oldtracks
 
 .. _graduate-courses:
 

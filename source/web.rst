@@ -17,17 +17,29 @@ offering myriad opportunities for a software engineer and designer alike.
 It’s a fun, direct application of software engineering design and practices, 
 providing clear, discernible skills for prospective job seekers. 
 
+Consider these courses:
+
+
 .. tosphinx
    all courses should link to the sphinx pages with text being course name and number.
 
-* COMP 424: Client-side Web Design
-* COMP 436: Markup Languages
-* COMP 441: Human-computer Interface Design
-* COMP 453: Database Programming
-* Comp 413: Intermediate OOP
-* COMP 460: Algorithms and Complexity
-* Comp 433: Web Services Programming (useful)
-* Required Comp 417 and 2-3 electives
+    * COMP 424: Client-side Web Design
+    * COMP 436: Markup Languages
+    * COMP 441: Human-computer Interface Design
+    * COMP 453: Database Programming
+    * Comp 413: Intermediate OOP
+    * COMP 460: Algorithms and Complexity
+    * Comp 433: Web Services Programming (useful)
+    * Required Comp 417 and 2-3 electives
+
+* :doc:`comp424`
+* :doc:`comp436`
+* :doc:`comp441`
+* :doc:`comp453`
+* :doc:`comp413`
+* :doc:`comp460`
+* :doc:`comp433` (useful)
+* Required :doc:`comp417` and 2-3 electives
 
 Back to :doc:`careerpaths`
 

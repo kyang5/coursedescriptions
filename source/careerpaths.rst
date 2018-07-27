@@ -21,12 +21,12 @@ so the student gets to choose the degree programs in those cases:
 * :doc:`dataanalyst`
 * :doc:`datasci`
 * :doc:`ai`
+* :doc:`web`
 * :doc:`enterprise`  
 * :doc:`dba`
 * :doc:`dataarchitect`
 * :doc:`projectmanager`
 * :doc:`game`
-* :doc:`web`
 
 .. missing 
    testing
