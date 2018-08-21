@@ -900,8 +900,10 @@ Graduate Courses
     | Cuneo Hall:203 (Lake Shore) Thursday 04:15PM-06:45
 
     **Notes:**
-    This section of COMP 453 will cover advanced concepts in database access and programming, including SQL, using MySQL and PHP for the project.
-    
+    This section of COMP 453 will use Python to access a MySQL database both locally and remotely.  The Flask web development framework is used.  We will
+    incorporate both standard SQL queries as well as SQLAlchemy as an object-relational mapping (ORM) tool.  A complete website with user account support and
+    CRUD capabilities is developed.  Python will also be used to introduce MongoDB for data cleaning and querying, using the MongoDB Aggregation Framework as
+    well as the MongoDB query language.  We will use Jupyter Notebooks for interactive testing, MongoDB Atlas as a cloud-based host, and Compass as a local GUI.
     
     Outcome: Students will learn application development using the latest software tools.  Students will also learn techniques for web based data retrieval and
     manipulation.
