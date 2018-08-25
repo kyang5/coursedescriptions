@@ -1,7 +1,7 @@
 
 Fall 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 03/27/2018 14:50:35
+Updated 08/24/2018 13:53:05
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
@@ -50,6 +50,18 @@ Undergraduate Courses
     COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
     COMP 170-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST.
+
+
+:doc:`comp170` [Term: Eight Week - Second]
+    | Section 701N (6919) Credits: 3; Online; Lecture
+    | Instructor: Udayan Das
+    | Online Wednesday 06:00PM-09:00
+    | Online Friday 06:00PM-09:00 - Check week(s)
+
+    **Notes:**
+    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-701N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST and one session Friday 11/16 for holiday make-up class.
 
 
 :doc:`comp251` [Term: Eight Week - Second]
@@ -150,8 +162,9 @@ Undergraduate Courses
     
     
     This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
-    the instructor in accord with the course design.
-    
+    the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
+    semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
+    first semester, respectively).
     
     
     This class satisfies the Engaged Learning requirement in the Service Learning category.
@@ -159,7 +172,7 @@ Undergraduate Courses
 
 :doc:`comp391` 
     | Section 02E (4918) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -234,6 +247,12 @@ COMP 488 Topic: Comp Forensics Investigations
     
     
     
+    Prerequisites: COMP 170 (or equivalent) and ( COMP 417 or COMP 443 )
+    
+    
+    
+    
+    
     This is an online, synchronous class.  Synchronous meeting time:  Wednesdays, 7:00 pm - 9:30 pm.
     
     
@@ -250,7 +269,7 @@ COMP 488 Topic: Comp Forensics Investigations
 
 :doc:`comp499` 
     | Section 002 (4919) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
