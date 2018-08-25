@@ -1,7 +1,7 @@
 
 Fall 2018 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 03/27/2018 14:50:35
+Updated 08/24/2018 13:53:05
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
@@ -113,7 +113,7 @@ Graduate Courses
 
 :doc:`comp403` 
     | Section 001 (6329) Credits: 3; In person; Lecture
-    | Instructor: Staff
+    | Instructor: Channah Naiman
     | Corboy Law Center:0423 (Water Tower) Wednesday 07:00PM-09:30
 
 
@@ -149,7 +149,7 @@ Graduate Courses
 :doc:`comp443` 
     | Section 001 (6342) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0523 (Water Tower) Tuesday 04:15PM-06:45
+    | Corboy Law Center:0208 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
     Combined with COMP 343-001.
