@@ -29,14 +29,13 @@ Schedules
    summer
    spring
 
-If you wish to look forward further, see
+If you wish to look forward further, see the Google doc containing the long term schedule, https://bit.ly/luccslts
 
-* :doc:`longtermschedule`
-* :doc:`cuneo2yrschedule`
+.. old
+   * :doc:`longtermschedule`
+   * :doc:`cuneo2yrschedule`
 
-Or look further back:
-
-* :doc:`schedulearchive`
+Or look further back to the :doc:`schedulearchive`
 
 
 Tutoring
@@ -167,9 +166,10 @@ Graduate Degree Programs
    masters_prereqs
    mscs
    msit
-   oldtracks
    msse
    madh
+
+..   oldtracks
 
 .. _graduate-courses:
 

@@ -14,7 +14,6 @@ Prerequisites
 :doc:`comp264`
 :doc:`comp271`
 
-
 Description
 ----------------------------
 

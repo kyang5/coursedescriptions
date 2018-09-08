@@ -150,7 +150,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Course Handbook'
-copyright = u'2016, CS Department'
+copyright = u'2018, CS Department'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -410,7 +410,7 @@ texinfo_documents = [
 epub_title = u'LUC CS Course Handbook'
 epub_author = u'CS Department'
 epub_publisher = u'CS Department'
-epub_copyright = u'2016, CS Department'
+epub_copyright = u'2018, CS Department'
 epub_basename = 'LoyolaComputerScienceCourseHandbook'
 
 # The language of the text. It defaults to the language option
