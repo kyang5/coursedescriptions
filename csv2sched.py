@@ -332,22 +332,22 @@ def toRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( `{mainCampus}` Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= '''
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`cuneoFall`
+:doc:`cuneoSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     campusURLTemplateCuneo= '''
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     graduateLink = '''
 You can skip down to
-:ref:`fall_graduate_courses_list_`. '''
+:ref:`spring_graduate_courses_list_`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
 
@@ -382,22 +382,22 @@ def toLSRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`cuneoFall`
+:doc:`cuneoSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     campusURLTemplateCuneo= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     graduateLink = '''
 You can skip down to
-:ref:`fall_graduate_courses_list_Lake Shore`. '''
+:ref:`spring_graduate_courses_list_Lake Shore`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
 
@@ -429,22 +429,22 @@ def toWTRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`cuneoFall`
+:doc:`cuneoSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     campusURLTemplateCuneo= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     graduateLink = '''
 You can skip down to
-:ref:`fall_graduate_courses_list_Water Tower`. '''
+:ref:`spring_graduate_courses_list_Water Tower`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
 
@@ -477,13 +477,13 @@ def toCuneoRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Campus )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`onlineFall` '''
+:doc:`onlineSpring` '''
     campusURLTemplateCuneo = ''
     graduateLink = ''
     udergradeTxt = ''
@@ -518,22 +518,22 @@ def toOnlineRST(courses, semester, created, mainCampus, textURL=''):
     textURLTemplate= '''( {mainCampus} Courses )'''
     textURLline = textURLTemplate.format(**locals()) if mainCampus else ''
     campusURLTemplate= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`waterTowerFall`
+:doc:`waterTowerSpring`
 
-:doc:`cuneoFall` '''
+:doc:`cuneoSpring` '''
     campusURLTemplateCuneo= '''
-:doc:`fall`
+:doc:`spring`
 
-:doc:`lakeShorefall`
+:doc:`lakeShorespring`
 
-:doc:`waterTowerFall` '''
+:doc:`waterTowerSpring` '''
     graduateLink = '''
 You can skip down to
-:ref:`fall_graduate_courses_list_Online`. '''
+:ref:`spring_graduate_courses_list_Online`. '''
     udergradeTxt = 'Undergraduate Courses'
     parts = [headingTemplate.format(**locals())]
 
@@ -631,28 +631,28 @@ def main():
     (courses, semester, created, mainCampus) = parseCSV(csvFileName)
     rst = toRST(courses, semester, created, mainCampus, textURL=textURL)
     printLog()
-    with open('source/fall.rst', 'w') as outf:
+    with open('source/spring.rst', 'w') as outf:
         outf.write(rst)
 ##    if sys.args
 #RST file for Lake shore Campus
     lsrst = toLSRST(courses, semester, created, mainCampus, textURL=textURL)
     printLog()
-    with open('source/lakeShoreFall.rst', 'w') as outf:
+    with open('source/lakeShoreSpring.rst', 'w') as outf:
         outf.write(lsrst)
 #RST file for Water Tower Campus
     wtrst = toWTRST(courses, semester, created, mainCampus, textURL=textURL)
     printLog()
-    with open('source/waterTowerFall.rst', 'w') as outf:
+    with open('source/waterTowerSpring.rst', 'w') as outf:
         outf.write(wtrst)
 #RST file for Cuneo Courses
     cuneorst = toCuneoRST(courses, semester, created, mainCampus, textURL=textURL)
     printLog()
-    with open('source/cuneoFall.rst', 'w') as outf:
+    with open('source/cuneoSpring.rst', 'w') as outf:
         outf.write(cuneorst)
 #RST file for Online Courses
     onlinerst = toOnlineRST(courses, semester, created, mainCampus, textURL=textURL)
     printLog()
-    with open('source/onlineFall.rst', 'w') as outf:
+    with open('source/onlineSpring.rst', 'w') as outf:
         outf.write(onlinerst)
 
 main()
