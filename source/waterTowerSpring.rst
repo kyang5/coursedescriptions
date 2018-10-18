@@ -38,8 +38,8 @@ Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
 
 
-:doc:`comp 250` 
-    | Section 01W (2533) Credits: 3; (In person); Lecture
+:doc:`comp250` 
+    | Section 1W (2533) Credits: 3; (In person); Lecture
     | Instructor: Schwab,Roxanne
     |Information Commons:111 (Water Tower) Monday, Wednesday 02:45PM-04:00
 
@@ -50,8 +50,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 376` 
-    | Section 001 (5863) Credits: 3; (In person); Lecture
+:doc:`comp376` 
+    | Section 01 (5863) Credits: 3; (In person); Lecture
     | Instructor: Haught,Christine A
     |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
 
@@ -60,8 +60,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 476` 
-    | Section 001 (5862) Credits: 3; (In person); Lecture
+:doc:`comp476` 
+    | Section 01 (5862) Credits: 3; (In person); Lecture
     | Instructor: Haught,Christine A
     |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
 
@@ -70,58 +70,59 @@ Undergraduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 001 (5996) Credits: 3; (In person); Lecture
-    | Instructor: Chan-Tin,David Eric
-    |Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+comp488 TopicAdv Topics in Cybersecurity 
+	| Section 01 (5996) Credits: 3; (In person); Lecture
+	| Instructor: Chan-Tin,David Eric
+	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Advanced Topics in Cybersecurity
         
 
 
-:doc:`comp 300` 
-    | Section 001 (6000) Credits: 3; (In person); Lecture
+:doc:`comp300` 
+    | Section 01 (6000) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
     |Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 305` 
-    | Section 001 (5961) Credits: 3; (Blended); Lecture
+:doc:`comp305` 
+    | Section 01 (5961) Credits: 3; (Blended); Lecture
     | Instructor: Hasso,Sargon
     |Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 341` 
-    | Section 001 (6005) Credits: 3; (In person); Lecture
+:doc:`comp341` 
+    | Section 01 (6005) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 348` 
-    | Section 001 (5977) Credits: 3; (In person); Lecture
+:doc:`comp348` 
+    | Section 01 (5977) Credits: 3; (In person); Lecture
     | Instructor: Schmitz,Corby
     |Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
 	
 
 
-:doc:`comp 370` 
-    | Section 001 (5970) Credits: 3; (In person); Lecture
+:doc:`comp370` 
+    | Section 01 (5970) Credits: 3; (In person); Lecture
     | Instructor: Weisert,Conrad
     |Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
 
 	
 
 
-:doc:`comp 373` 
-    | Section 001 (5972) Credits: 3; (In person); Lecture
+:doc:`comp373` 
+    | Section 01 (5972) Credits: 3; (In person); Lecture
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
@@ -136,44 +137,45 @@ Graduate Courses
 
 
 
-:doc:`comp 400` 
-    | Section 001 (5992) Credits: 3; (In person); Lecture
+:doc:`comp400` 
+    | Section 01 (5992) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
     |Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 441` 
-    | Section 001 (6007) Credits: 3; (In person); Lecture
+:doc:`comp441` 
+    | Section 01 (6007) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 448` 
-    | Section 001 (5979) Credits: 3; (In person); Lecture
+:doc:`comp448` 
+    | Section 01 (5979) Credits: 3; (In person); Lecture
     | Instructor: Schmitz,Corby
     |Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
 
 	
 
 
-:doc:`comp 473` 
-    | Section 001 (5973) Credits: 3; (In person); Lecture
+:doc:`comp473` 
+    | Section 01 (5973) Credits: 3; (In person); Lecture
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 488` 
-    | Section 305 (5975) Credits: 3; (Blended); Lecture
-    | Instructor: Hasso,Sargon
-    |Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+comp488 TopicDatabase Administration 
+	| Section 05 (5975) Credits: 3; (Blended); Lecture
+	| Instructor: Hasso,Sargon
+	|Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Database Administration
         This is a blended class.  More details will be forthcoming.
         Prerequisites:  Comp 251 or Comp 271 
@@ -184,12 +186,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 370 (5971) Credits: 3; (In person); Lecture
-    | Instructor: Weisert,Conrad
-    |Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+comp488 TopicSoftware Quality & Testing 
+	| Section 70 (5971) Credits: 3; (In person); Lecture
+	| Instructor: Weisert,Conrad
+	|Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Software Quality & Testing
         Prerequisite: Comp 271. 
         The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
@@ -199,12 +202,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 472 (5965) Credits: 3; (In person); Lecture
-    | Instructor: Bevente,Guy
-    |Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+comp488 TopicOrganizational Change & Dev. 
+	| Section 72 (5965) Credits: 3; (In person); Lecture
+	| Instructor: Bevente,Guy
+	|Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Organizational Change & Development
         
 

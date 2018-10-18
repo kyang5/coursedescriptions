@@ -38,8 +38,8 @@ Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
 
 
-:doc:`comp 125` 
-    | Section 001 (2534) Credits: 3; (In person); Laboratory
+:doc:`comp125` 
+    | Section 01 (2534) Credits: 3; (In person); Laboratory
     | Instructor: Hayward,Nicholas J
     |Sullivan Center:253 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
@@ -49,8 +49,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 125` 
-    | Section 002 (2624) Credits: 3; (In person); Laboratory
+:doc:`comp125` 
+    | Section 02 (2624) Credits: 3; (In person); Laboratory
     | Instructor: Nguyen,Vincent
     |Crown Center:105 (Lake Shore) Tuesday 06:00PM-08:30
 
@@ -60,8 +60,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 150` 
-    | Section 001 (2535) Credits: 3; (Blended); Lecture
+:doc:`comp150` 
+    | Section 01 (2535) Credits: 3; (Blended); Lecture
     | Instructor: Dordal,Peter L
     |Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
@@ -72,8 +72,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 150` 
-    | Section 002 (2538) Credits: 3; (Hybrid); Lecture
+:doc:`comp150` 
+    | Section 02 (2538) Credits: 3; (Hybrid); Lecture
     | Instructor: O'Sullivan,John Nikolas
     |Crown Center:103 (Lake Shore) Tuesday 07:00PM-09:30
 
@@ -84,8 +84,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 150` 
-    | Section 003 (2539) Credits: 3; (In person); Lecture
+:doc:`comp150` 
+    | Section 03 (2539) Credits: 3; (In person); Lecture
     | Instructor: Lewis,Michael
     |Crown Center:105 (Lake Shore) Thursday 07:00PM-09:30
 
@@ -95,8 +95,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 150` 
-    | Section 004 (5959) Credits: 3; (In person); Lecture
+:doc:`comp150` 
+    | Section 04 (5959) Credits: 3; (In person); Lecture
     | Instructor: Nguyen,Vincent
     |Crown Center:105 (Lake Shore) Monday 07:00PM-09:30
 
@@ -106,8 +106,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 163` 
-    | Section 001 (2983) Credits: 3; (In person); Lecture
+:doc:`comp163` 
+    | Section 01 (2983) Credits: 3; (In person); Lecture
     | Instructor: Turkoglu,Duru
     |Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
 
@@ -119,8 +119,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 163` 
-    | Section 002 (3501) Credits: 3; (In person); Lecture
+:doc:`comp163` 
+    | Section 02 (3501) Credits: 3; (In person); Lecture
     | Instructor: Lopez,Nathan
     |Dumbach Hall:004 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
@@ -132,8 +132,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 163` 
-    | Section 003 (5121) Credits: 3; (In person); Lecture
+:doc:`comp163` 
+    | Section 03 (5121) Credits: 3; (In person); Lecture
     | Instructor: Lopez,Nathan
     |Dumbach Hall:004 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
@@ -145,8 +145,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 001 (2858) Credits: 3; (In person); Lecture
+:doc:`comp170` 
+    | Section 01 (2858) Credits: 3; (In person); Lecture
     | Instructor: Yacobellis,Robert
     |Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
 
@@ -158,8 +158,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 002 (2859) Credits: 3; (In person); Lecture
+:doc:`comp170` 
+    | Section 02 (2859) Credits: 3; (In person); Lecture
     | Instructor: Chan-Tin,David Eric
     |Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 02:30PM-04:25
 
@@ -171,10 +171,11 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 003 (2861) Credits: 3; (In person); Lecture
+:doc:`comp170` 
+    | Section 03/03L (2861) Credits: 3; (In person); Lecture
     | Instructor: Honig,William
     |Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
+    |Cuneo Hall: 311 (Lake Shore) Tuesday 11:30AM-12:45 (lab)
 
 	**Notes**
         This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -185,10 +186,11 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 004 (2978) Credits: 3; (In person); Lecture
+:doc:`comp170` 
+    | Section 04/04L (2978) Credits: 3; (In person); Lecture
     | Instructor: Honig,William
     |Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+    |Cuneo Hall: 311 (Lake Shore) Thursday 11:30AM-12:45 (lab)
 
 	**Notes**
         This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -199,10 +201,11 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 005 (5981) Credits: 3; (Hybrid); Lecture
+:doc:`comp170` 
+    | Section 05/05L (5981) Credits: 3; (Hybrid); Lecture
     | Instructor: Harrington,Andrew N
     |Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
+    |Cuneo Hall: 311 (Lake Shore) Friday 11:30AM-12:20 (lab)
 
 	**Notes**
         This is a hybrid class.  More details will be forthcoming.
@@ -214,59 +217,23 @@ Undergraduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 03L (3179) Credits: 3; (In person); Laboratory
-    | Instructor: Honig,William
-    |Cuneo Hall:311 (Lake Shore) Tuesday 11:30AM-12:45
-
-	**Notes**
-        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-        contact the Computer Science Department to request an enrollment override.
-        Students enrolled in COMP 170-003 (Lecture) will be automatically enrolled in COMP 170-03L (Lab).
-        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
-        
-
-
-:doc:`comp 170` 
-    | Section 04L (3180) Credits: 3; (In person); Laboratory
-    | Instructor: Honig,William
-    |Cuneo Hall:311 (Lake Shore) Thursday 11:30AM-12:45
-
-	**Notes**
-        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-        contact the Computer Science Department to request an enrollment override.
-        Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in COMP 170-04L (Lab).
-        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
-        
-
-
-:doc:`comp 170` 
-    | Section 05L (6111) Credits: 3; (Hybrid); Laboratory
-    | Instructor: Harrington,Andrew N
-    |Cuneo Hall:311 (Lake Shore) Friday 11:30AM-12:20
-
-	**Notes**
-        This is a hybrid class.  More details will be forthcoming.
-        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-        contact the Computer Science Department to request an enrollment override.
-        Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
-        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
-        
-
-
-:doc:`comp 180` 
-    | Section 001 (5122) Credits: 3; (In person); Lecture
+:doc:`comp180` 
+    | Section 01 (5122) Credits: 3; (In person); Lecture
     | Instructor: Xiao,Ting
     |Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
 
-	
+	**Notes**
+        This is a hybrid class.  More details will be forthcoming.
+        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
+        contact the Computer Science Department to request an enrollment override.
+        Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
+        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+        graduate advisor.
+        
 
 
-:doc:`comp 250` 
-    | Section 01W (2533) Credits: 3; (In person); Lecture
+:doc:`comp250` 
+    | Section 1W (2533) Credits: 3; (In person); Lecture
     | Instructor: Schwab,Roxanne
     |Information Commons:111 (Water Tower) Monday, Wednesday 02:45PM-04:00
 
@@ -277,8 +244,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 264` 
-    | Section 001 (2532) Credits: 3; (Blended); Lecture
+:doc:`comp264` 
+    | Section 01 (2532) Credits: 3; (Blended); Lecture
     | Instructor: Greenberg,Ronald I
     |Cuneo Hall:324 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
@@ -289,8 +256,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 264` 
-    | Section 002 (5123) Credits: 3; (Blended); Lecture
+:doc:`comp264` 
+    | Section 02 (5123) Credits: 3; (Blended); Lecture
     | Instructor: Dordal,Peter L
     |Mundelein Center:0606 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
 
@@ -300,8 +267,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 271` 
-    | Section 001 (2531) Credits: 3; (In person); Lecture
+:doc:`comp271` 
+    | Section 01 (2531) Credits: 3; (In person); Lecture
     | Instructor: Albert,Mark
     |Cuneo Hall:302 (Lake Shore) Tuesday, Thursday 02:30PM-04:25
 
@@ -311,8 +278,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 271` 
-    | Section 002 (2540) Credits: 3; (In person); Lecture
+:doc:`comp271` 
+    | Section 02 (2540) Credits: 3; (In person); Lecture
     | Instructor: Sekharan,Chandra N
     |Crown Center:105 (Lake Shore) Monday, Wednesday 01:40PM-03:35
 
@@ -322,16 +289,16 @@ Undergraduate Courses
         
 
 
-:doc:`comp 310` 
-    | Section 001 (5963) Credits: 3; (In person); Lecture
+:doc:`comp310` 
+    | Section 01 (5963) Credits: 3; (In person); Lecture
     | Instructor: Kaylor,Sarah
     |Cuneo Hall:311 (Lake Shore) Tuesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 313` 
-    | Section 001 (3181) Credits: 3; (In person); Lecture
+:doc:`comp313` 
+    | Section 01 (3181) Credits: 3; (In person); Lecture
     | Instructor: Yacobellis,Robert
     |Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
 
@@ -341,8 +308,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 317` 
-    | Section 01W (3589) Credits: 3; (In person); Lecture
+:doc:`comp317` 
+    | Section 1W (3589) Credits: 3; (In person); Lecture
     | Instructor: Schwab,Roxanne
     |Cuneo Hall:103 (Lake Shore) Wednesday 04:15PM-06:45
 
@@ -353,24 +320,24 @@ Undergraduate Courses
         
 
 
-:doc:`comp 323` 
-    | Section 001 (5982) Credits: 3; (In person); Lecture
+:doc:`comp323` 
+    | Section 01 (5982) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
 
 	
 
 
-:doc:`comp 324` 
-    | Section 001 (6004) Credits: 3; (In person); Lecture
+:doc:`comp324` 
+    | Section 01 (6004) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Cuneo Hall:311 (Lake Shore) Monday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 330` 
-    | Section 001 (5983) Credits: 3; (Hybrid); Lecture
+:doc:`comp330` 
+    | Section 01 (5983) Credits: 3; (Hybrid); Lecture
     | Instructor: Thiruvathukal,George
     |Cuneo Hall:311 (Lake Shore) Monday, Wednesday 11:30AM-12:45
 
@@ -379,8 +346,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 339` 
-    | Section 001 (5984) Credits: 3; (Blended); Lecture
+:doc:`comp339` 
+    | Section 01 (5984) Credits: 3; (Blended); Lecture
     | Instructor: Thiruvathukal,George
     |TBA:TBA  Monday, Wednesday, Friday 10:25AM-11:15
 
@@ -389,16 +356,16 @@ Undergraduate Courses
         
 
 
-:doc:`comp 353` 
-    | Section 001 (3182) Credits: 3; (In person); Lecture
+:doc:`comp353` 
+    | Section 01 (3182) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
     |Cuneo Hall:117 (Lake Shore) Thursday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 363` 
-    | Section 001 (3590) Credits: 3; (In person); Lecture
+:doc:`comp363` 
+    | Section 01 (3590) Credits: 3; (In person); Lecture
     | Instructor: Turkoglu,Duru
     |Cuneo Hall:202 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
 
@@ -408,16 +375,16 @@ Undergraduate Courses
         
 
 
-:doc:`comp 369` 
-    | Section 001 (5968) Credits: 3; (In person); Lecture
+:doc:`comp369` 
+    | Section 01 (5968) Credits: 3; (In person); Lecture
     | Instructor: Durston,Jonathan
     |TBA:TBA  Monday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 376` 
-    | Section 001 (5863) Credits: 3; (In person); Lecture
+:doc:`comp376` 
+    | Section 01 (5863) Credits: 3; (In person); Lecture
     | Instructor: Haught,Christine A
     |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
 
@@ -426,26 +393,27 @@ Undergraduate Courses
         
 
 
-:doc:`comp 383` 
-    | Section 001 (5989) Credits: 4; (In person); Lecture
+:doc:`comp383` 
+    | Section 01 (5989) Credits: 4; (In person); Lecture
     | Instructor: Putonti,Catherine
     |Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
 
 	
 
 
-:doc:`comp 388` 
-    | Section 001 (5988) Credits: 3; (In person); Lecture
-    | Instructor: Chan-Tin,David Eric
-    |Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
+comp388 TopicAdv Topics in Cybersecurity 
+	| Section 01 (5988) Credits: 3; (In person); Lecture
+	| Instructor: Chan-Tin,David Eric
+	|Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Advanced Topics in Cybersecurity
         
 
 
-:doc:`comp 391` 
-    | Section 01E (2051) Credits: 1 - 6; (In person); Field Studies
+:doc:`comp391` 
+    | Section 1E (2051) Credits: 1 - 6; (In person); Field Studies
     | Instructor: Yacobellis,Robert
     |TBA:TBA  None TBA
 
@@ -454,8 +422,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 397` 
-    | Section 001 (3524) Credits: 1; (In person); Seminar
+:doc:`comp397` 
+    | Section 01 (3524) Credits: 1; (In person); Seminar
     | Instructor: Albert,Mark
     |Cuneo Hall:311 (Lake Shore) Thursday 04:45PM-06:00
 
@@ -478,40 +446,40 @@ Graduate Courses
 
 
 
-:doc:`comp 410` 
-    | Section 001 (5974) Credits: 3; (In person); Lecture
+:doc:`comp410` 
+    | Section 01 (5974) Credits: 3; (In person); Lecture
     | Instructor: Kaylor,Sarah
     |Cuneo Hall:311 (Lake Shore) Tuesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 413` 
-    | Section 001 (3183) Credits: 3; (In person); Lecture
+:doc:`comp413` 
+    | Section 01 (3183) Credits: 3; (In person); Lecture
     | Instructor: Yacobellis,Robert
     |Cuneo Hall:117 (Lake Shore) Monday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 417` 
-    | Section 001 (3184) Credits: 3; (In person); Lecture
+:doc:`comp417` 
+    | Section 01 (3184) Credits: 3; (In person); Lecture
     | Instructor: Montaner,Nicoletta Christina
     |Cuneo Hall:103 (Lake Shore) Thursday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 424` 
-    | Section 001 (6006) Credits: 3; (In person); Lecture
+:doc:`comp424` 
+    | Section 01 (6006) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Cuneo Hall:311 (Lake Shore) Monday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 439` 
-    | Section 001 (5995) Credits: 3; (Blended); Lecture
+:doc:`comp439` 
+    | Section 01 (5995) Credits: 3; (Blended); Lecture
     | Instructor: Thiruvathukal,George
     |TBA:TBA  Monday, Wednesday, Friday 10:25AM-11:15
 
@@ -520,16 +488,16 @@ Graduate Courses
         
 
 
-:doc:`comp 460` 
-    | Section 001 (3526) Credits: 3; (In person); Lecture
+:doc:`comp460` 
+    | Section 01 (3526) Credits: 3; (In person); Lecture
     | Instructor: Albert,Mark
     |Cuneo Hall:311 (Lake Shore) Wednesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 476` 
-    | Section 001 (5862) Credits: 3; (In person); Lecture
+:doc:`comp476` 
+    | Section 01 (5862) Credits: 3; (In person); Lecture
     | Instructor: Haught,Christine A
     |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
 
@@ -538,22 +506,24 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 001 (5996) Credits: 3; (In person); Lecture
-    | Instructor: Chan-Tin,David Eric
-    |Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+comp488 TopicAdv Topics in Cybersecurity 
+	| Section 01 (5996) Credits: 3; (In person); Lecture
+	| Instructor: Chan-Tin,David Eric
+	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Advanced Topics in Cybersecurity
         
 
 
-:doc:`comp 488` 
-    | Section 323 (6014) Credits: 3; (In person); Lecture
-    | Instructor: Hayward,Nicholas J
-    |Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
+comp488 TopicGame Design and Development 
+	| Section 23 (6014) Credits: 3; (In person); Lecture
+	| Instructor: Hayward,Nicholas J
+	|Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Game Design and Development
         This course studies design, development, and publication of games and game-based applications. This includes example games and designers, industry
         practices, and team-based project development.
@@ -564,12 +534,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 369 (5969) Credits: 3; (In person); Lecture
-    | Instructor: Durston,Jonathan
-    |Crown Center:103 (Lake Shore) Monday 07:00PM-09:30
+comp488 TopicPhysical Design & Fabrication 
+	| Section 69 (5969) Credits: 3; (In person); Lecture
+	| Instructor: Durston,Jonathan
+	|Crown Center:103 (Lake Shore) Monday 07:00PM-09:30
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Physical Design & Fabrication
         This course explores the role of products in the economy and how things are made, including:  product conceptualization and design, physical design vs.
         design of things that are not physical, rapid prototyping, 3D printing, 2D conceptualization and sketching, 3D modeling, and design reviews.
@@ -579,12 +550,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 383 (5997) Credits: 3; (In person); Lecture
-    | Instructor: Putonti,Catherine
-    |Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
+comp488 TopicComputational Biology 
+	| Section 83 (5997) Credits: 3; (In person); Lecture
+	| Instructor: Putonti,Catherine
+	|Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Computational Biology
         Prerequisites: COMP 271 and COMP 381 (Equivalencies: BIOI/BIOL 388)
         This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems
@@ -610,8 +582,8 @@ Graduate Courses
 	*supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 	
 
-:doc:`comp 605` 
-    | Section 001 (2449) Credits: 0; (In person); FTC-Supervision
+:doc:`comp605` 
+    | Section 01 (2449) Credits: 0; (In person); FTC-Supervision
     | Instructor: Staff
     |TBA:TBA  None TBA
 
@@ -620,8 +592,8 @@ Graduate Courses
         
 
 
-:doc:`comp 170` [Foundations of Computer Science I.  Seven Week-First Session.]
-    | Section 400 (6112) Credits: 3; (In person); Lecture
+:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
+    | Section 00 (6112) Credits: 3; (In person); Lecture
     | Instructor: Harrington,Andrew N
     | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
     | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
@@ -639,8 +611,8 @@ Graduate Courses
         
 
 
-:doc:`comp 271` [Foundations of Computer Science II.  Eight Week-Second Session.]
-    | Section 400 (4288) Credits: 3; (In person); Lecture
+:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
+    | Section 00 (4288) Credits: 3; (In person); Lecture
     | Instructor: Dordal,Peter L
     | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
     | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
@@ -655,8 +627,8 @@ Graduate Courses
         
 
 
-:doc:`comp 125` 
-    | Section 003 (6110) Credits: 3; (Online); Laboratory
+:doc:`comp125` 
+    | Section 03 (6110) Credits: 3; (Online); Laboratory
     | Instructor: Wetzel,David
     |TBA:TBA  None TBA
 
@@ -665,8 +637,8 @@ Graduate Courses
         
 
 
-:doc:`comp 300` 
-    | Section 002 (6002) Credits: 3; (Online); Lecture
+:doc:`comp300` 
+    | Section 02 (6002) Credits: 3; (Online); Lecture
     | Instructor: Naiman,Channah
     |TBA:TBA  None TBA
 
@@ -675,8 +647,8 @@ Graduate Courses
         
 
 
-:doc:`comp 317` 
-    | Section 001 (4086) Credits: 3; (Online); Lecture
+:doc:`comp317` 
+    | Section 01 (4086) Credits: 3; (Online); Lecture
     | Instructor: Butcher,Matthew Paul
     |TBA:TBA  None TBA
 
@@ -686,16 +658,16 @@ Graduate Courses
         
 
 
-:doc:`comp 340` 
-    | Section 001 (5966) Credits: 3; (Online); Lecture
+:doc:`comp340` 
+    | Section 01 (5966) Credits: 3; (Online); Lecture
     | Instructor: Yarrish,Thomas
     |TBA:TBA  Tuesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 348` 
-    | Section 002 (5978) Credits: 3; (Online); Lecture
+:doc:`comp348` 
+    | Section 02 (5978) Credits: 3; (Online); Lecture
     | Instructor: Schmitz,Corby
     |TBA:TBA  None TBA
 
@@ -704,8 +676,8 @@ Graduate Courses
         
 
 
-:doc:`comp 390` 
-    | Section 01E (5990) Credits: 1 - 3; (Online); Lecture
+:doc:`comp390` 
+    | Section 1E (5990) Credits: 1 - 3; (Online); Lecture
     | Instructor: Greenberg,Ronald I
     |TBA:TBA  None TBA
 
@@ -721,8 +693,8 @@ Graduate Courses
         
 
 
-:doc:`comp 391` 
-    | Section 02E (4287) Credits: 1 - 6; (Online); Field Studies
+:doc:`comp391` 
+    | Section 2E (4287) Credits: 1 - 6; (Online); Field Studies
     | Instructor: Yacobellis,Robert
     |TBA:TBA  None TBA
 
@@ -739,8 +711,8 @@ Graduate Courses
 
 
 
-:doc:`comp 400` 
-    | Section 002 (5993) Credits: 3; (Online); Lecture
+:doc:`comp400` 
+    | Section 02 (5993) Credits: 3; (Online); Lecture
     | Instructor: Naiman,Channah
     |TBA:TBA  None TBA
 
@@ -749,8 +721,8 @@ Graduate Courses
         
 
 
-:doc:`comp 448` 
-    | Section 002 (5980) Credits: 3; (Online); Lecture
+:doc:`comp448` 
+    | Section 02 (5980) Credits: 3; (Online); Lecture
     | Instructor: Schmitz,Corby
     |TBA:TBA  None TBA
 
@@ -759,8 +731,8 @@ Graduate Courses
         
 
 
-:doc:`comp 474` 
-    | Section 001 (3185) Credits: 3; (Online); Lecture
+:doc:`comp474` 
+    | Section 01 (3185) Credits: 3; (Online); Lecture
     | Instructor: Stone,Christopher
     |TBA:TBA  Wednesday 07:00PM-09:30
 
@@ -769,12 +741,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 340 (5967) Credits: 3; (Online); Lecture
-    | Instructor: Yarrish,Thomas
-    |TBA:TBA  Tuesday 07:00PM-09:30
+comp488 TopicComp Forensics Investigations 
+	| Section 40 (5967) Credits: 3; (Online); Lecture
+	| Instructor: Yarrish,Thomas
+	|TBA:TBA  Tuesday 07:00PM-09:30
+	| Description similar to: :doc:`comp340`
 
-	**Notes**
+**Notes**
         Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
         The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
@@ -782,8 +755,8 @@ Graduate Courses
         
 
 
-:doc:`comp 170` 
-    | Section 700N (5037) Credits: 3; (Online); Lecture
+:doc:`comp170` 
+    | Section 00N (5037) Credits: 3; (Online); Lecture
     | Instructor: Das,Udayan
     |TBA:TBA  Tuesday 06:00PM-09:00
 
@@ -794,8 +767,8 @@ Graduate Courses
         
 
 
-:doc:`comp 271` 
-    | Section 700N (4253) Credits: 3; (Online); Lecture
+:doc:`comp271` 
+    | Section 00N (4253) Credits: 3; (Online); Lecture
     | Instructor: Das,Udayan
     | TBA : TBA    Thursday  06:00PM-09:00  
     | TBA:  TBA    Friday  06:00PM-09:00 
@@ -808,8 +781,8 @@ Graduate Courses
         
 
 
-:doc:`comp 317` 
-    | Section 700N (4270) Credits: 3; (Online); Lecture
+:doc:`comp317` 
+    | Section 00N (4270) Credits: 3; (Online); Lecture
     | Instructor: Montes,Bruce A
     |TBA:TBA  Wednesday 06:00PM-09:00
 
@@ -819,48 +792,48 @@ Graduate Courses
         
 
 
-:doc:`comp 300` 
-    | Section 001 (6000) Credits: 3; (In person); Lecture
+:doc:`comp300` 
+    | Section 01 (6000) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
     |Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 305` 
-    | Section 001 (5961) Credits: 3; (Blended); Lecture
+:doc:`comp305` 
+    | Section 01 (5961) Credits: 3; (Blended); Lecture
     | Instructor: Hasso,Sargon
     |Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 341` 
-    | Section 001 (6005) Credits: 3; (In person); Lecture
+:doc:`comp341` 
+    | Section 01 (6005) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 348` 
-    | Section 001 (5977) Credits: 3; (In person); Lecture
+:doc:`comp348` 
+    | Section 01 (5977) Credits: 3; (In person); Lecture
     | Instructor: Schmitz,Corby
     |Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
 	
 
 
-:doc:`comp 370` 
-    | Section 001 (5970) Credits: 3; (In person); Lecture
+:doc:`comp370` 
+    | Section 01 (5970) Credits: 3; (In person); Lecture
     | Instructor: Weisert,Conrad
     |Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
 
 	
 
 
-:doc:`comp 373` 
-    | Section 001 (5972) Credits: 3; (In person); Lecture
+:doc:`comp373` 
+    | Section 01 (5972) Credits: 3; (In person); Lecture
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
@@ -875,44 +848,45 @@ Graduate Courses
 
 
 
-:doc:`comp 400` 
-    | Section 001 (5992) Credits: 3; (In person); Lecture
+:doc:`comp400` 
+    | Section 01 (5992) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
     |Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
 
 	
 
 
-:doc:`comp 441` 
-    | Section 001 (6007) Credits: 3; (In person); Lecture
+:doc:`comp441` 
+    | Section 01 (6007) Credits: 3; (In person); Lecture
     | Instructor: Hayward,Nicholas J
     |Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 448` 
-    | Section 001 (5979) Credits: 3; (In person); Lecture
+:doc:`comp448` 
+    | Section 01 (5979) Credits: 3; (In person); Lecture
     | Instructor: Schmitz,Corby
     |Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
 
 	
 
 
-:doc:`comp 473` 
-    | Section 001 (5973) Credits: 3; (In person); Lecture
+:doc:`comp473` 
+    | Section 01 (5973) Credits: 3; (In person); Lecture
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 488` 
-    | Section 305 (5975) Credits: 3; (Blended); Lecture
-    | Instructor: Hasso,Sargon
-    |Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+comp488 TopicDatabase Administration 
+	| Section 05 (5975) Credits: 3; (Blended); Lecture
+	| Instructor: Hasso,Sargon
+	|Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Database Administration
         This is a blended class.  More details will be forthcoming.
         Prerequisites:  Comp 251 or Comp 271 
@@ -923,12 +897,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 370 (5971) Credits: 3; (In person); Lecture
-    | Instructor: Weisert,Conrad
-    |Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+comp488 TopicSoftware Quality & Testing 
+	| Section 70 (5971) Credits: 3; (In person); Lecture
+	| Instructor: Weisert,Conrad
+	|Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Software Quality & Testing
         Prerequisite: Comp 271. 
         The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
@@ -938,12 +913,13 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 472 (5965) Credits: 3; (In person); Lecture
-    | Instructor: Bevente,Guy
-    |Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+comp488 TopicOrganizational Change & Dev. 
+	| Section 72 (5965) Credits: 3; (In person); Lecture
+	| Instructor: Bevente,Guy
+	|Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+	| Description similar to: :doc:``
 
-	**Notes**
+**Notes**
         Organizational Change & Development
         
 
