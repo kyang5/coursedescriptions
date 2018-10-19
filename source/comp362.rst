@@ -41,11 +41,10 @@ multiprocessor systems, and distributed shared memory systems.
 Outcome
 -------------
 
-A basic understanding of how computers work at many levels and how to use 
-various analytical tools and techniques to design computer components.
+A basic understanding of how computers work at many levels and how to use various analytical tools and techniques to design computer components.
 
 
 Syllabi
 ----------------------
 
-No recent syllabi available.
+Not recently offered. See COMP 264.
