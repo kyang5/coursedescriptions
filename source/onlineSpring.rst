@@ -45,6 +45,32 @@ Undergraduate Courses
 
 	**Notes**
         This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
+
+
+
+:doc:`comp170` 
+    | Section 00N (5037) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    |TBA:TBA  Tuesday 06:00PM-09:00
+
+	**Notes**
+        COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+        COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
+
+
+
+:doc:`comp271` 
+    | Section 00N (4253) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    | TBA : TBA    Thursday  06:00PM-09:00  
+    | TBA:  TBA    Friday  06:00PM-09:00 
+    
+
+	**Notes**
+        COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
+        COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
         
 
 
@@ -66,6 +92,17 @@ Undergraduate Courses
 	**Notes**
         This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
         during the semester, with possible times chosen to fit different groups' schedules.
+
+
+
+:doc:`comp317` 
+    | Section 00N (4270) Credits: 3; (Online); Lecture
+    | Instructor: Montes,Bruce A
+    |TBA:TBA  Wednesday 06:00PM-09:00
+
+	**Notes**
+        COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
         
 
 
@@ -163,41 +200,3 @@ comp488 TopicComp Forensics Investigations
         The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
         Outcome: The student will learn computer software and hardware relevant for analysis, and investigative and evidence-gathering protocols.
-        
-
-
-:doc:`comp170` 
-    | Section 00N (5037) Credits: 3; (Online); Lecture
-    | Instructor: Das,Udayan
-    |TBA:TBA  Tuesday 06:00PM-09:00
-
-	**Notes**
-        COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-        COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
-        
-
-
-:doc:`comp271` 
-    | Section 00N (4253) Credits: 3; (Online); Lecture
-    | Instructor: Das,Udayan
-    | TBA : TBA    Thursday  06:00PM-09:00  
-    | TBA:  TBA    Friday  06:00PM-09:00 
-    
-
-	**Notes**
-        COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
-        COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-        
-
-
-:doc:`comp317` 
-    | Section 00N (4270) Credits: 3; (Online); Lecture
-    | Instructor: Montes,Bruce A
-    |TBA:TBA  Wednesday 06:00PM-09:00
-
-	**Notes**
-        COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-

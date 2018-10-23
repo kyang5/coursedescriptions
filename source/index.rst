@@ -117,6 +117,7 @@ NOTE:  Correction for out of date syllabi links in course pages:  The past sylla
    comp339
    comp340
    comp341
+   comp342 
    comp343
    comp345
    comp346
