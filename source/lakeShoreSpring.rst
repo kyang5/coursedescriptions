@@ -388,6 +388,41 @@ Graduate Courses
 
 
 
+:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
+    | Section 00 (6112) Credits: 3; (In person); Lecture
+    | Instructor: Harrington,Andrew N
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
+    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
+        enroll you.
+        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
+        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
+        February 25th.
+        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
+        
+
+
+:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
+    | Section 00 (4288) Credits: 3; (In person); Lecture
+    | Instructor: Dordal,Peter L
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+        enroll you.
+        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
+
+        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
+
+
+
 :doc:`comp410` 
     | Section 01 (5974) Credits: 3; (In person); Lecture
     | Instructor: Kaylor,Sarah
@@ -474,40 +509,3 @@ comp488 TopicComputational Biology
         and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and
         rapid sequence analysis.  
         Outcome: Students will learn, in detail, foundational methods and algorithms in bioinformatics.
-        
-
-
-:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
-    | Section 00 (6112) Credits: 3; (In person); Lecture
-    | Instructor: Harrington,Andrew N
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
-    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
-        enroll you.
-        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
-        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
-        February 25th.
-        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
-        
-
-
-:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
-    | Section 00 (4288) Credits: 3; (In person); Lecture
-    | Instructor: Dordal,Peter L
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-        enroll you.
-        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
-
-        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
-        
-

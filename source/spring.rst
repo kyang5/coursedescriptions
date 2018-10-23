@@ -446,6 +446,41 @@ Graduate Courses
 
 
 
+:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
+    | Section 00 (6112) Credits: 3; (In person); Lecture
+    | Instructor: Harrington,Andrew N
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
+    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
+        enroll you.
+        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
+        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
+        February 25th.
+        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
+        
+
+
+:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
+    | Section 00 (4288) Credits: 3; (In person); Lecture
+    | Instructor: Dordal,Peter L
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+        enroll you.
+        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
+
+        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
+
+
+
 :doc:`comp400` 
     | Section 01 (5992) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
@@ -536,6 +571,27 @@ Graduate Courses
 
 	**Notes**
         This is an online class.  Synchronous meeting time:  Wednesday, 7:00 pm - 9:30 pm.
+
+
+
+:doc:`comp476` 
+    | Section 01 (5862) Credits: 3; (In person); Lecture
+    | Instructor: Haught,Christine A
+    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
+
+	**Notes**
+        COMP 476 is cross-listed with MATH 476. Please register for MATH 476.
+
+
+
+comp488 TopicAdv Topics in Cybersecurity 
+	| Section 01 (5996) Credits: 3; (In person); Lecture
+	| Instructor: Chan-Tin,David Eric
+	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+	| Description similar to: :doc:``
+
+**Notes**
+        Advanced Topics in Cybersecurity
 
 	
 
@@ -640,38 +696,3 @@ comp488 TopicOrganizational Change & Dev.
 	| Instructor: Bevente,Guy
 	|Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
 	| Description similar to: :doc:``
-
-
-
-:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
-    | Section 00 (6112) Credits: 3; (In person); Lecture
-    | Instructor: Harrington,Andrew N
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
-    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
-        enroll you.
-        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
-        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
-        February 25th.
-        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
-        
-
-
-:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
-    | Section 00 (4288) Credits: 3; (In person); Lecture
-    | Instructor: Dordal,Peter L
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-        enroll you.
-        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
-
-        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.

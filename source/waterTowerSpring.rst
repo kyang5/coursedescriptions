@@ -50,37 +50,6 @@ Undergraduate Courses
         
 
 
-:doc:`comp376` 
-    | Section 01 (5863) Credits: 3; (In person); Lecture
-    | Instructor: Haught,Christine A
-    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
-
-	**Notes**
-        COMP 376 is cross-listed with MATH 376.  Please register for MATH 376.
-        
-
-
-:doc:`comp476` 
-    | Section 01 (5862) Credits: 3; (In person); Lecture
-    | Instructor: Haught,Christine A
-    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
-
-	**Notes**
-        COMP 476 is cross-listed with MATH 476. Please register for MATH 476.
-        
-
-
-comp488 TopicAdv Topics in Cybersecurity 
-	| Section 01 (5996) Credits: 3; (In person); Lecture
-	| Instructor: Chan-Tin,David Eric
-	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
-	| Description similar to: :doc:``
-
-**Notes**
-        Advanced Topics in Cybersecurity
-        
-
-
 :doc:`comp300` 
     | Section 01 (6000) Credits: 3; (In person); Lecture
     | Instructor: Naiman,Channah
@@ -126,6 +95,16 @@ comp488 TopicAdv Topics in Cybersecurity
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
+
+
+:doc:`comp376` 
+    | Section 01 (5863) Credits: 3; (In person); Lecture
+    | Instructor: Haught,Christine A
+    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
+
+	**Notes**
+        COMP 376 is cross-listed with MATH 376.  Please register for MATH 376.
+
 	
 
 
@@ -166,8 +145,28 @@ Graduate Courses
     | Instructor: Zewdie,Berhane
     |Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
 
-	
 
+
+:doc:`comp476` 
+    | Section 01 (5862) Credits: 3; (In person); Lecture
+    | Instructor: Haught,Christine A
+    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
+
+	**Notes**
+        COMP 476 is cross-listed with MATH 476. Please register for MATH 476.
+
+
+
+comp488 TopicAdv Topics in Cybersecurity 
+	| Section 01 (5996) Credits: 3; (In person); Lecture
+	| Instructor: Chan-Tin,David Eric
+	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
+	| Description similar to: :doc:``
+
+**Notes**
+        Advanced Topics in Cybersecurity
+
+	
 
 comp488 TopicDatabase Administration 
 	| Section 05 (5975) Credits: 3; (Blended); Lecture
