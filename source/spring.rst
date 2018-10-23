@@ -57,6 +57,16 @@ Undergraduate Courses
 	**Notes**
         This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
         graduate advisor.
+
+
+
+:doc:`comp125` 
+    | Section 03 (6110) Credits: 3; (Online); Laboratory
+    | Instructor: Wetzel,David
+    |TBA:TBA  None TBA
+
+	**Notes**
+        This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
         
 
 
@@ -198,6 +208,18 @@ Undergraduate Courses
         Students enrolled in COMP 170-004 (Lecture) will be automatically enrolled in COMP 170-04L (Lab).
         This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
         graduate advisor.
+
+
+
+:doc:`comp170` 
+    | Section 00N (5037) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    |TBA:TBA  Tuesday 06:00PM-09:00
+
+	**Notes**
+        COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+        COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
         
 
 
@@ -208,12 +230,26 @@ Undergraduate Courses
     |Cuneo Hall: 311 (Lake Shore) Friday 11:30AM-12:20 (lab)
 
 	**Notes**
-        This is a hybrid class.  More details will be forthcoming.
-        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-        contact the Computer Science Department to request an enrollment override.
-        Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
-        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
+	This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also highly 	used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not in Python 	(mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important language, preparing 	you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read, test, code, answer 	questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom for a while, many 	classes will be online in Zoom, and all students will need a notebook computer – preferably your own. If you want the traditional Java Comp 170 course, 	register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools specifically wishing 	to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP 170-005 (Lecture) will be 	automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this 	course should contact their departmental graduate advisor.
+
+
+
+:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
+    | Section 00 (6112) Credits: 3; (In person); Lecture
+    | Instructor: Harrington,Andrew N
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
+    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
+        enroll you.
+        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
+        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
+        February 25th.
+        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
         
 
 
@@ -286,6 +322,60 @@ Undergraduate Courses
 	**Notes**
         This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
         graduate advisor.
+
+
+
+:doc:`comp271` 
+    | Section 00N (4253) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    | TBA : TBA    Thursday  06:00PM-09:00  
+    | TBA:  TBA    Friday  06:00PM-09:00 
+    
+
+	**Notes**
+        COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
+        COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+
+
+
+:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
+    | Section 00 (4288) Credits: 3; (In person); Lecture
+    | Instructor: Dordal,Peter L
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+        enroll you.
+        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
+
+        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
+
+
+
+:doc:`comp300` 
+    | Section 01 (6000) Credits: 3; (In person); Lecture
+    | Instructor: Naiman,Channah
+    |Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
+
+
+
+:doc:`comp300` 
+    | Section 02 (6002) Credits: 3; (Online); Lecture
+    | Instructor: Naiman,Channah
+    |TBA:TBA  None TBA
+
+	**Notes**
+        This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+
+
+
+:doc:`comp305` 
+    | Section 01 (5961) Credits: 3; (Blended); Lecture
+    | Instructor: Hasso,Sargon
+    |Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
         
 
 
@@ -317,6 +407,28 @@ Undergraduate Courses
         **This is a writing intensive class.**
         This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
         graduate advisor.
+
+
+
+:doc:`comp317` 
+    | Section 01 (4086) Credits: 3; (Online); Lecture
+    | Instructor: Butcher,Matthew Paul
+    |TBA:TBA  None TBA
+
+	**Notes**
+        This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
+        during the semester, with possible times chosen to fit different groups' schedules.
+
+
+
+:doc:`comp317` 
+    | Section 00N (4270) Credits: 3; (Online); Lecture
+    | Instructor: Montes,Bruce A
+    |TBA:TBA  Wednesday 06:00PM-09:00
+
+	**Notes**
+        COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
         
 
 
@@ -353,6 +465,37 @@ Undergraduate Courses
 
 	**Notes**
         This is a blended class.  More details with be forthcoming.
+
+
+
+:doc:`comp340` 
+    | Section 01 (5966) Credits: 3; (Online); Lecture
+    | Instructor: Yarrish,Thomas
+    |TBA:TBA  Tuesday 07:00PM-09:30
+
+
+
+:doc:`comp341` 
+    | Section 01 (6005) Credits: 3; (In person); Lecture
+    | Instructor: Hayward,Nicholas J
+    |Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
+
+
+
+:doc:`comp348` 
+    | Section 01 (5977) Credits: 3; (In person); Lecture
+    | Instructor: Schmitz,Corby
+    |Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
+
+
+
+:doc:`comp348` 
+    | Section 02 (5978) Credits: 3; (Online); Lecture
+    | Instructor: Schmitz,Corby
+    |TBA:TBA  None TBA
+
+	**Notes**
+        This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
         
 
 
@@ -380,8 +523,21 @@ Undergraduate Courses
     | Instructor: Durston,Jonathan
     |TBA:TBA  Monday 07:00PM-09:30
 
-	
 
+
+:doc:`comp370` 
+    | Section 01 (5970) Credits: 3; (In person); Lecture
+    | Instructor: Weisert,Conrad
+    |Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
+
+
+
+:doc:`comp373` 
+    | Section 01 (5972) Credits: 3; (In person); Lecture
+    | Instructor: Zewdie,Berhane
+    |Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
+
+	
 
 :doc:`comp376` 
     | Section 01 (5863) Credits: 3; (In person); Lecture
@@ -409,6 +565,23 @@ comp388 TopicAdv Topics in Cybersecurity
 
 **Notes**
         Advanced Topics in Cybersecurity
+
+
+
+:doc:`comp390` 
+    | Section 1E (5990) Credits: 1 - 3; (Online); Lecture
+    | Instructor: Greenberg,Ronald I
+    |TBA:TBA  None TBA
+
+	**Notes**
+        Broadening Participation in STEM (Computing, Mathematics, and Science).
+
+        This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
+        the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
+        semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
+        first semester, respectively).
+
+        This class satisfies the Engaged Learning requirement in the Service Learning category.
         
 
 
@@ -419,6 +592,16 @@ comp388 TopicAdv Topics in Cybersecurity
 
 	**Notes**
         This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+
+
+
+:doc:`comp391` 
+    | Section 2E (4287) Credits: 1 - 6; (Online); Field Studies
+    | Instructor: Yacobellis,Robert
+    |TBA:TBA  None TBA
+
+	**Notes**
+        This is an online class.  This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
         
 
 
@@ -443,41 +626,6 @@ comp388 TopicAdv Topics in Cybersecurity
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
-
-
-
-:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
-    | Section 00 (6112) Credits: 3; (In person); Lecture
-    | Instructor: Harrington,Andrew N
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
-    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
-        enroll you.
-        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
-        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
-        February 25th.
-        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
-        
-
-
-:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
-    | Section 00 (4288) Credits: 3; (In person); Lecture
-    | Instructor: Dordal,Peter L
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-        enroll you.
-        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
-
-        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
 
 
 
