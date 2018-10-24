@@ -31,7 +31,7 @@ def parseing(fileName):
 ''' 
 
 	comp314_315Template = '''
-	{subject} {catNumber} {Term} (Description: :doc:`comp314-315`)
+	{subject}{catNumber} {Term} (Description: :doc:`comp314-315`)
 		| Section {section} ({classNumber}) Credits: {units}; {mixture}; {component}
 		| Instructor: {Instructor}
 	        |{Building}:{Room} {Location} {Days} {Time}
@@ -40,7 +40,7 @@ def parseing(fileName):
 	'''
 
 	topicsSectionTemplate = '''
-{subject} {catNumber} Topic{topics} {Term}
+{subject}{catNumber} Topic{topics} {Term}
 	| Section {section} ({classNumber}) Credits: {units}; {mixture}; {component}
 	| Instructor: {Instructor}
 	|{Building}:{Room} {Location} {Days} {Time}
@@ -128,8 +128,8 @@ Graduate Courses
 		
 		for i in range(0, len(row)):
 			if "COMP" == row[0]:
-				object['subject'] = row[i].lower()
-				object['catNumber'] = row[i+1]
+				object['subject'] = row[i].lower().strip()
+				object['catNumber'] = str(int(row[i+1]))
 				if object['catNumber'] == '398':
 					object['isStudy'] = True
 				object['section'] = row[i+2]
@@ -140,8 +140,8 @@ Graduate Courses
 							hasLab = True
 							classes[m]['labSection'] = row[i+2]
 				else:
-					object['section'] = row[i+2]
-							
+					object['section'] = row[i+2][1:]
+
 				object['classNumber'] = row[i+3]
 				object['title'] = row[i+4]
 				object['component'] = row[i+5]

@@ -38,19 +38,44 @@ Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
 
 
-
-:doc:`comp 125` 
-    | Section 003 (6110) Credits: 3; (Online); Laboratory
+:doc:`comp125` 
+    | Section 03 (6110) Credits: 3; (Online); Laboratory
     | Instructor: Wetzel,David
     |TBA:TBA  None TBA
 
 	**Notes**
         This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
+
+
+
+:doc:`comp170` 
+    | Section 00N (5037) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    |TBA:TBA  Tuesday 06:00PM-09:00
+
+	**Notes**
+        COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+        COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
+
+
+
+:doc:`comp271` 
+    | Section 00N (4253) Credits: 3; (Online); Lecture
+    | Instructor: Das,Udayan
+    | TBA : TBA    Thursday  06:00PM-09:00  
+    | TBA:  TBA    Friday  06:00PM-09:00 
+    
+
+	**Notes**
+        COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
+        COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
         
 
 
-:doc:`comp 300` 
-    | Section 002 (6002) Credits: 3; (Online); Lecture
+:doc:`comp300` 
+    | Section 02 (6002) Credits: 3; (Online); Lecture
     | Instructor: Naiman,Channah
     |TBA:TBA  None TBA
 
@@ -59,27 +84,38 @@ Undergraduate Courses
         
 
 
-:doc:`comp 317` 
-    | Section 001 (4086) Credits: 3; (Online); Lecture
+:doc:`comp317` 
+    | Section 01 (4086) Credits: 3; (Online); Lecture
     | Instructor: Butcher,Matthew Paul
     |TBA:TBA  None TBA
 
 	**Notes**
         This is an online class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at regular intervals
         during the semester, with possible times chosen to fit different groups' schedules.
+
+
+
+:doc:`comp317` 
+    | Section 00N (4270) Credits: 3; (Online); Lecture
+    | Instructor: Montes,Bruce A
+    |TBA:TBA  Wednesday 06:00PM-09:00
+
+	**Notes**
+        COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
         
 
 
-:doc:`comp 340` 
-    | Section 001 (5966) Credits: 3; (Online); Lecture
+:doc:`comp340` 
+    | Section 01 (5966) Credits: 3; (Online); Lecture
     | Instructor: Yarrish,Thomas
     |TBA:TBA  Tuesday 07:00PM-09:30
 
 	
 
 
-:doc:`comp 348` 
-    | Section 002 (5978) Credits: 3; (Online); Lecture
+:doc:`comp348` 
+    | Section 02 (5978) Credits: 3; (Online); Lecture
     | Instructor: Schmitz,Corby
     |TBA:TBA  None TBA
 
@@ -88,8 +124,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 390` 
-    | Section 01E (5990) Credits: 1 - 3; (Online); Lecture
+:doc:`comp390` 
+    | Section 1E (5990) Credits: 1 - 3; (Online); Lecture
     | Instructor: Greenberg,Ronald I
     |TBA:TBA  None TBA
 
@@ -105,8 +141,8 @@ Undergraduate Courses
         
 
 
-:doc:`comp 391` 
-    | Section 02E (4287) Credits: 1 - 6; (Online); Field Studies
+:doc:`comp391` 
+    | Section 2E (4287) Credits: 1 - 6; (Online); Field Studies
     | Instructor: Yacobellis,Robert
     |TBA:TBA  None TBA
 
@@ -123,8 +159,8 @@ Graduate Courses
 
 
 
-:doc:`comp 400` 
-    | Section 002 (5993) Credits: 3; (Online); Lecture
+:doc:`comp400` 
+    | Section 02 (5993) Credits: 3; (Online); Lecture
     | Instructor: Naiman,Channah
     |TBA:TBA  None TBA
 
@@ -133,8 +169,8 @@ Graduate Courses
         
 
 
-:doc:`comp 448` 
-    | Section 002 (5980) Credits: 3; (Online); Lecture
+:doc:`comp448` 
+    | Section 02 (5980) Credits: 3; (Online); Lecture
     | Instructor: Schmitz,Corby
     |TBA:TBA  None TBA
 
@@ -143,8 +179,8 @@ Graduate Courses
         
 
 
-:doc:`comp 474` 
-    | Section 001 (3185) Credits: 3; (Online); Lecture
+:doc:`comp474` 
+    | Section 01 (3185) Credits: 3; (Online); Lecture
     | Instructor: Stone,Christopher
     |TBA:TBA  Wednesday 07:00PM-09:30
 
@@ -153,51 +189,14 @@ Graduate Courses
         
 
 
-:doc:`comp 488` 
-    | Section 340 (5967) Credits: 3; (Online); Lecture
-    | Instructor: Yarrish,Thomas
-    |TBA:TBA  Tuesday 07:00PM-09:30
+comp488 TopicComp Forensics Investigations 
+	| Section 40 (5967) Credits: 3; (Online); Lecture
+	| Instructor: Yarrish,Thomas
+	|TBA:TBA  Tuesday 07:00PM-09:30
+	| Description similar to: :doc:`comp340`
 
-	**Notes**
+**Notes**
         Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
         The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
         Outcome: The student will learn computer software and hardware relevant for analysis, and investigative and evidence-gathering protocols.
-        
-
-
-:doc:`comp 170` 
-    | Section 700N (5037) Credits: 3; (Online); Lecture
-    | Instructor: Das,Udayan
-    |TBA:TBA  Tuesday 06:00PM-09:00
-
-	**Notes**
-        COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-        COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
-        
-
-
-:doc:`comp 271` 
-    | Section 700N (4253) Credits: 3; (Online); Lecture
-    | Instructor: Das,Udayan
-    | TBA : TBA    Thursday  06:00PM-09:00  
-    | TBA:  TBA    Friday  06:00PM-09:00 
-    
-
-	**Notes**
-        COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
-        COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-        
-
-
-:doc:`comp 317` 
-    | Section 700N (4270) Credits: 3; (Online); Lecture
-    | Instructor: Montes,Bruce A
-    |TBA:TBA  Wednesday 06:00PM-09:00
-
-	**Notes**
-        COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-        http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-

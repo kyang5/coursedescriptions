@@ -1,7 +1,7 @@
 
 Fall 2018 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 08/24/2018 13:53:05
+Updated 04/27/2018 20:44:20
 
 The following courses will (tentatively) be held during the Fall 2018 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>`_.
+TextBook information to be updated soon.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -47,7 +47,16 @@ Undergraduate Courses
     | Crown Center:141 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
-    Taught in a blended format, this course will involve independent study of online lectures combined with in-class discussion of these materials.
+    Taught in a blended format, this course will involve independent study of online lectures combined with in-class discussion of these materials.  No exams or
+    term papers are required.
+
+
+:doc:`comp122` 
+    | Section 001 (6147) Credits: 3; In person; Lecture
+    | Instructor: David Wetzel
+    | Place TBA (Lake Shore) Tuesday, Thursday 01:00PM-02:15
+
+
 
 
 :doc:`comp125` 
@@ -72,7 +81,7 @@ Undergraduate Courses
 
 :doc:`comp150` 
     | Section 001 (3044) Credits: 3; In person; Lecture
-    | Instructor: John Nikolas O'Sullivan
+    | Instructor: Staff
     | Crown Center:103 (Lake Shore) Tuesday 07:00PM-09:30
 
     **Notes:**
@@ -85,8 +94,7 @@ Undergraduate Courses
     | Instructor: Vincent Nguyen
     | Crown Center:105 (Lake Shore) Monday 07:00PM-09:30
 
-    **Notes:** Combined Section ID:
-    
+    **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -103,7 +111,7 @@ Undergraduate Courses
 
 :doc:`comp150` 
     | Section 004 (6148) Credits: 3; In person; Lecture
-    | Instructor: William Honig
+    | Instructor: Channah Naiman
     | Crown Center:105 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
 
     **Notes:**
@@ -131,14 +139,7 @@ Undergraduate Courses
     | Instructor: Nathan Lopez
     | Mundelein Center:0519 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
-    **Notes:**
-    This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
-    area are encouraged to enroll in COMP 125 or COMP 150 instead.
-    
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+
 
 
 :doc:`comp163` 
@@ -146,19 +147,12 @@ Undergraduate Courses
     | Instructor: Nathan Lopez
     | Cuneo Hall:324 (Lake Shore) Tuesday, Thursday 04:15PM-05:30
 
-    **Notes:**
-    This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
-    area are encouraged to enroll in COMP 125 or COMP 150 instead.
-    
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+
 
 
 :doc:`comp170` 
     | Section 001/01L (3048) Credits: 3; In person; Lecture/Lab
-    | Instructor: David Eric Chan-Tin
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
     | Cuneo Hall:311 (Lake Shore) Monday 12:35PM-01:25 (lab)
 
@@ -198,7 +192,7 @@ Undergraduate Courses
 
 :doc:`comp170` 
     | Section 003/03L (6367) Credits: 3; In person; Lecture/Lab
-    | Instructor: David Eric Chan-Tin
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
     | Cuneo Hall:311 (Lake Shore) Monday 09:20AM-10:10 (lab)
 
@@ -280,7 +274,7 @@ Undergraduate Courses
 :doc:`comp250` 
     | Section 01W (3197) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
-    | Mundelein Center:0303 (Lake Shore) Monday, Wednesday 02:45PM-04:00
+    | Life Science Buildin:212 (Lake Shore) Monday, Wednesday 02:45PM-04:00
 
     **Notes:**
     *This is a writing intensive course.*
@@ -349,7 +343,7 @@ Undergraduate Courses
 :doc:`comp271` 
     | Section 003/03L (6372) Credits: 3; In person; Lecture/Lab
     | Instructor: Mark Albert
-    | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
+    | Cuneo Hall:203 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
     | Cuneo Hall:311 (Lake Shore) Wednesday 12:35PM-01:25 (lab)
 
     **Notes:**
@@ -386,7 +380,7 @@ Undergraduate Courses
 
 :doc:`comp310` 
     | Section 001 (6322) Credits: 3; In person; Lecture
-    | Instructor: Benjamin Gonzalez
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Thursday 07:00PM-09:30
 
     **Notes:**
@@ -417,8 +411,8 @@ COMP 314  (Description: :doc:`comp314-315`)
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
-    Organizational meeting: Tuesday, August 28, 2018; 4:15 pm - 5:00 pm; at the Lake Shore Campus; to arrange upcoming practice times and place.  Contact Dr.
-    Andrew Harrington (aharrin@luc.edu) beforehand, if you cannot attend, or if you have any questions.
+    Organizational meeting: Tuesday, August 29th, 4:15 pm - 5:00 pm, at the Lake Shore Campus, to arrange upcoming practice times and place.  Contact Dr. Andrew
+    Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
 
 
 COMP 315  (Description: :doc:`comp314-315`)
@@ -427,13 +421,13 @@ COMP 315  (Description: :doc:`comp314-315`)
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
-    Organizational meeting: Tuesday, August 28, 2018; 4:15 pm - 5:00 pm; at the Lake Shore Campus; to arrange upcoming practice times and place.  Contact Dr.
-    Andrew Harrington (aharrin@luc.edu) beforehand, if you cannot attend, or if you have any questions.
+    Organizational meeting: Tuesday, August 29th, 4:15 pm - 5:00 pm, at the Lake Shore Campus, to arrange upcoming practice times and place.  Contact Dr. Andrew
+    Harrington (aharrin@luc.edu) beforehand if you cannot attend, or if you have any questions.
 
 
 :doc:`comp317` 
     | Section 02W (6284) Credits: 3; In person; Lecture
-    | Instructor: Nicoletta C. Ruane
+    | Instructor: Staff
     | Cuneo Hall:203 (Lake Shore) Monday, Wednesday 04:15PM-05:30
 
     **Notes:**
@@ -455,7 +449,7 @@ COMP 315  (Description: :doc:`comp314-315`)
 
 
 :doc:`comp325` 
-    | Section 001 (6287) Credits: 3; Hybrid; Lecture
+    | Section 001 (6287) Credits: 3; In person; Lecture
     | Instructor: Karim Kabani
     | Sullivan Center:253 (Lake Shore) Saturday 10:00AM-12:30
 
@@ -480,6 +474,15 @@ COMP 315  (Description: :doc:`comp314-315`)
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
+
+
+:doc:`comp366` 
+    | Section 001 (6295) Credits: 3; In person; Laboratory
+    | Instructor: William Honig
+    | Cuneo Hall:311 (Lake Shore) Wednesday 04:15PM-06:45
+
+    **Notes:**
+    Combined with COMP 450-001.
 
 
 :doc:`comp371` 
@@ -586,7 +589,7 @@ Graduate Courses
 
 :doc:`comp410` 
     | Section 001 (6330) Credits: 3; In person; Lecture
-    | Instructor: Benjamin Gonzalez
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Thursday 07:00PM-09:30
 
     **Notes:**
@@ -604,7 +607,7 @@ Graduate Courses
 :doc:`comp417` 
     | Section 001 (3052) Credits: 3; In person; Lecture
     | Instructor: Roxanne Schwab
-    | Mundelein Center:0303 (Lake Shore) Wednesday 04:15PM-06:45
+    | Cuneo Hall:003 (Lake Shore) Wednesday 04:15PM-06:45
 
 
 
@@ -619,12 +622,21 @@ Graduate Courses
 
 
 :doc:`comp425` 
-    | Section 001 (6339) Credits: 3; Hybrid; Lecture
+    | Section 001 (6339) Credits: 3; In person; Lecture
     | Instructor: Karim Kabani
     | Sullivan Center:253 (Lake Shore) Saturday 10:00AM-12:30
 
     **Notes:**
     Combined with COMP 325-001
+
+
+:doc:`comp450` 
+    | Section 001 (6360) Credits: 3; In person; Lecture
+    | Instructor: William Honig
+    | Cuneo Hall:311 (Lake Shore) Wednesday 04:15PM-06:45
+
+    **Notes:**
+    Combined with COMP 366-001.
 
 
 :doc:`comp453` 
@@ -633,10 +645,11 @@ Graduate Courses
     | Cuneo Hall:203 (Lake Shore) Thursday 04:15PM-06:45
 
     **Notes:**
-    This section of COMP 453 will use Python to access a MySQL database both locally and remotely.  The Flask web development framework is used.  We will
-    incorporate both standard SQL queries as well as SQLAlchemy as an object-relational mapping (ORM) tool.  A complete website with user account support and
-    CRUD capabilities is developed.  Python will also be used to introduce MongoDB for data cleaning and querying, using the MongoDB Aggregation Framework as
-    well as the MongoDB query language.  We will use Jupyter Notebooks for interactive testing, MongoDB Atlas as a cloud-based host, and Compass as a local GUI.
+    This section of COMP 453 will cover advanced concepts in database access and programming, including SQL, using MySQL and PHP for the project.
+    
+    
+    Outcome: Students will learn application development using the latest software tools.  Students will also learn techniques for web based data retrieval and
+    manipulation.
 
 
 :doc:`comp471` 
@@ -739,7 +752,7 @@ COMP 488 Topic: Metagenomics
 
 :doc:`comp499` 
     | Section 001 (2094) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Andrew N Harrington, Channah Naiman
+    | Instructor: Staff
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -748,7 +761,7 @@ COMP 488 Topic: Metagenomics
 
 :doc:`comp605` 
     | Section 001 (2902) Credits: 0; In person; FTC-Supervision
-    | Instructor: Andrew N Harrington, Channah Naiman
+    | Instructor: Staff
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
