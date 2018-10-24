@@ -208,12 +208,26 @@ Undergraduate Courses
     |Cuneo Hall: 311 (Lake Shore) Friday 11:30AM-12:20 (lab)
 
 	**Notes**
-        This is a hybrid class.  More details will be forthcoming.
-        This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-        contact the Computer Science Department to request an enrollment override.
-        Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab).
-        This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
+	This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also highly 	used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not in Python 	(mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important language, preparing 	you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read, test, code, answer 	questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom for a while, many 	classes will be online in Zoom, and all students will need a notebook computer – preferably your own. If you want the traditional Java Comp 170 course, 	register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools specifically wishing 	to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP 170-005 (Lecture) will be 	automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this 	course should contact their departmental graduate advisor.
+
+
+
+:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
+    | Section 00 (6112) Credits: 3; (In person); Lecture
+    | Instructor: Harrington,Andrew N
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
+    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
+        enroll you.
+        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
+        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
+        February 25th.
+        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
         
 
 
@@ -274,6 +288,22 @@ Undergraduate Courses
 	**Notes**
         This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
         graduate advisor.
+
+
+
+:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
+    | Section 00 (4288) Credits: 3; (In person); Lecture
+    | Instructor: Dordal,Peter L
+    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
+    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
+    
+
+	**Notes**
+        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
+        enroll you.
+        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
+
+        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
         
 
 
@@ -474,40 +504,3 @@ comp488 TopicComputational Biology
         and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and
         rapid sequence analysis.  
         Outcome: Students will learn, in detail, foundational methods and algorithms in bioinformatics.
-        
-
-
-:doc:`comp170` [Foundations of Computer Science I.  Seven Week-First Session.]
-    | Section 00 (6112) Credits: 3; (In person); Lecture
-    | Instructor: Harrington,Andrew N
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall :  318  (Lake Shore)   Wednesday   04:15PM-06:30  
-    | Cuneo Hall :  318  (Lake Shore)   Friday   04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Friday  04:15PM-08:15 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
-        enroll you.
-        FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
-        11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
-        February 25th.
-        Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
-        
-
-
-:doc:`comp271` [Foundations of Computer Science II.  Eight Week-Second Session.]
-    | Section 00 (4288) Credits: 3; (In person); Lecture
-    | Instructor: Dordal,Peter L
-    | Cuneo Hall : 318  (Lake Shore)  Monday  04:15PM-08:15  
-    | Cuneo Hall:  318 (Lake Shore)  Wednesday  04:15PM-06:30 
-    
-
-	**Notes**
-        This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-        enroll you.
-        Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
-
-        Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
-        
-
