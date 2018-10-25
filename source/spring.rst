@@ -3,7 +3,7 @@ Spring 2019 Schedule
 ==========================================================================
 
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.

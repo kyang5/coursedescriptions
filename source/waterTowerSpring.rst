@@ -3,7 +3,7 @@ Spring 2019 Schedule  (Water Tower)
 ==========================================================================
 
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -26,7 +26,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 	:doc:`lakeShoreSpring`
 
-	:doc:`Spring`
+	:doc:`spring`
 
 	:doc:`onlineSpring`
 
