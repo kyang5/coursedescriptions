@@ -19,10 +19,20 @@ Prerequisites
 Description
 ----------------------------
 
-This course provides an in-depth study of the concepts and methods required for the design and implementation of the presentation layer of a web application. Topics include visual design, usability design, multi-channel and multi-modal applications, markup of static and dynamic content, content transformation, client-side executable content including client-side scripting and embedded applets, and web-based content management systems. Coursework includes several substantial programming projects (using technologies such as XHTML, XSTL, DHTML, JavaScript, PHP/ASP/JSP, Flash, and Zope/Plone).
+This course studies the design, development, and publication of client-side web applications.
+
+Students will acquire an awareness of different client-side design and development methods, technologies, and techniques suitable for the development of web applications.
+
+The course has been structured to provide logical groupings of common technologies, which complement each other in the development of modern client-side applications. The student will begin by developing fundamental skills and knowledge in HTML5, CSS, JavaScript (JS), and JSON. This allows a student to then progress to the more advanced implementations of current client-side technologies including React, D3.js, and other suitable JS based libraries.
+
+We shall also consider client-side usage of tools and technologies such as Node.js, Express, and Mongoose. These technologies will be considered primarily from the client-side perspective with complementary introductions to data stores such as Redis, MongoDB, and Firebase.
+
+
 
 Syllabi
 -------------
+
+Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp424.pdf
 
 .. csv-table:: 
    	:header: "Topic", "Semester/Year", "Instructor", "URL"

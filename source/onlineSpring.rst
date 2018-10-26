@@ -1,9 +1,9 @@
 
-Spring 2018 Schedule ( Online Courses )
+Spring 2019 Schedule ( Online Courses )
 ==========================================================================
-Updated 12/21/2017 14:29:20
+Updated 10/15/2018 15:09:01
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -28,7 +28,7 @@ You can skip down to
 
 :doc:`spring`
 
-:doc:`lakeShorespring`
+:doc:`lakeShoreSpring`
 
 :doc:`waterTowerSpring` 
 
@@ -41,59 +41,49 @@ Undergraduate Courses
 
 
 
-:doc:`comp251` [Term: Eight Week - First]
-    | Section 700N (4944) Credits: 3; Online; Lecture
-    | Instructor: Safoora Fatima
+:doc:`comp125` 
+    | Section 003 (6110) Credits: 3; Online; Laboratory
+    | Instructor: David Wetzel
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
+
+
+:doc:`comp170` [Term: Eight Week - First]
+    | Section 700N (5037) Credits: 3; Online; Lecture
+    | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
 
     **Notes:**
-    COMP 251-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`comp271` [Term: Eight Week - First]
-    | Section 700N (4954) Credits: 3; Online; Lecture
+:doc:`comp271` [Term: Eight Week - Second]
+    | Section 700N (4253) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
-    | Online Wednesday 06:00PM-07:30
+    | Online Thursday 06:00PM-09:00
+    | Online Friday 06:00PM-09:00 - Check week(s)
 
     **Notes:**
+    COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 4/12 for holiday make-up class.
     COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
 :doc:`comp300` 
-    | Section 002 (6262) Credits: 3; Online; Lecture
+    | Section 002 (6002) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
 
     **Notes:**
-    Combined with COMP 488-302
-
-
-:doc:`comp305` [Term: Eight Week - Second]
-    | Section 700N (4979) Credits: 3; Online; Lecture
-    | Instructor: Udayan Das
-    | Online Tuesday 06:00PM-07:30
-
-    **Notes:**
-    COMP 305-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-
-
-:doc:`comp313` [Term: Eight Week - Second]
-    | Section 700N (6141) Credits: 3; Online; Lecture
-    | Instructor: Udayan Das
-    | Online Thursday 06:00PM-07:30
-    | Online Friday 06:00PM-07:30 - Check week(s)
-
-    **Notes:**
-    COMP 313-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 313-700N is an online section. Required synchronous sessions will be held Thursdays 6-7:0PM CST and one session Friday 4/13 for holiday make-up class.
+    This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
 
 
 :doc:`comp317` 
-    | Section 001 (4665) Credits: 3; Online; Lecture
+    | Section 001 (4086) Credits: 3; Online; Lecture
     | Instructor: Matthew Paul Butcher
     | Online Times: TBA
 
@@ -103,27 +93,17 @@ Undergraduate Courses
 
 
 :doc:`comp317` [Term: Eight Week - Second]
-    | Section 700N (4978) Credits: 3; Online; Lecture
+    | Section 700N (4270) Credits: 3; Online; Lecture
     | Instructor: Bruce A Montes
-    | Online Wednesday 07:00PM-09:00
+    | Online Wednesday 06:00PM-09:00
 
     **Notes:**
     COMP 317-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`comp320` [Term: Eight Week - First]
-    | Section 700N (4952) Credits: 3; Online; Lecture
-    | Instructor: Sargon Hasso
-    | Online Monday 06:00PM-09:00
-
-    **Notes:**
-    COMP 320-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-
-
 :doc:`comp340` 
-    | Section 001 (6268) Credits: 3; Online; Lecture
+    | Section 001 (5966) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
 
@@ -132,7 +112,7 @@ Undergraduate Courses
 
 
 :doc:`comp348` 
-    | Section 002 (6271) Credits: 3; Online; Lecture
+    | Section 002 (5978) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -141,13 +121,31 @@ Undergraduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
 
 
-:doc:`comp391` 
-    | Section 11E (5008) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Ronald I Greenberg, Robert Yacobellis
+:doc:`comp390` 
+    | Section 01E (5990) Credits: 1 - 3; Online; Lecture
+    | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
     **Notes:**
-    This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent Required.
+    Broadening Participation in STEM (Computing, Mathematics, and Science).
+    
+    
+    This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
+    the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
+    semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
+    first semester, respectively).
+    
+    
+    This class satisfies the Engaged Learning requirement in the Service Learning category.
+
+
+:doc:`comp391` 
+    | Section 02E (4287) Credits: 1 - 6; Online; Field Studies
+    | Instructor: Robert Yacobellis
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online class.  This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
 :doc:`comp398` 1-6 credits
@@ -166,8 +164,17 @@ Graduate Courses
 
 
 
+:doc:`comp400` 
+    | Section 002 (5993) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+
+
 :doc:`comp448` 
-    | Section 002 (6284) Credits: 3; Online; Lecture
+    | Section 002 (5980) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -177,7 +184,7 @@ Graduate Courses
 
 
 :doc:`comp474` 
-    | Section 001 (3400) Credits: 3; Online; Lecture
+    | Section 001 (3185) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
@@ -186,25 +193,24 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Data Mining 
-    | Section 302 (6289) Credits: 3; Online; Lecture
-    | Instructor: Channah Naiman
-    | Online Times: TBA
-    | Description similar to: :doc:`comp302`
-
-    **Notes:**
-    Data Mining.  This class is a totally online, asynchronous course.  Exams may be synchronous and in person.  Combined with COMP 300-002.
-
-
-
 COMP 488 Topic: Comp Forensics Investigations 
-    | Section 340 (6292) Credits: 3; Online; Lecture
+    | Section 340 (5967) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
     | Description similar to: :doc:`comp340`
 
     **Notes:**
     Computer Forensics.  This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 340-001.
+    
+    
+    Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
+    
+    
+    
+    The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
+    
+    
+    Outcome: The student will learn computer software and hardware relevant for analysis, and investigative and evidence-gathering protocols.
 
 
 :doc:`comp490` 1-6 credits
@@ -216,8 +222,9 @@ COMP 488 Topic: Comp Forensics Investigations
 
 
 :doc:`comp499` 
-    | Section 002 (6296) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Andrew N Harrington, Channah Naiman
+    | Section 002 (5157) Credits: 1 - 6; Online; Independent Study
+    | Instructor: Staff
     | Online Times: TBA
 
-
+    **Notes:**
+    This is an online class.  This course involves an internship experience.  Department Consent Required.

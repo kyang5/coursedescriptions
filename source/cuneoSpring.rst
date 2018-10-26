@@ -1,9 +1,9 @@
 
-Spring 2018 Schedule ( Cuneo Mansion Campus )
+Spring 2019 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 12/21/2017 14:29:20
+Updated 10/15/2018 15:09:01
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.

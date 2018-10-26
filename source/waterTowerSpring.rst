@@ -1,9 +1,9 @@
 
-Spring 2018 Schedule ( Water Tower Campus )
+Spring 2019 Schedule ( Water Tower Campus )
 ==========================================================================
-Updated 12/21/2017 14:29:20
+Updated 10/15/2018 15:09:01
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
@@ -28,7 +28,7 @@ You can skip down to
 
 :doc:`spring`
 
-:doc:`lakeShorespring`
+:doc:`lakeShoreSpring`
 
 :doc:`onlineSpring` 
 
@@ -41,60 +41,53 @@ Undergraduate Courses
 
 
 
-:doc:`comp170` [Term: Eight Week - First]
-    | Section 700N (6129) Credits: 3; Online; Lecture
-    | Instructor: Elliott Lawrence Post
-    | School of Communicat:010 (Water Tower) Thursday 06:00PM-09:00
-
-    **Notes:**
-    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
-    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 170-700N is an online section. Required class meetings will be held Thursdays 6-9PM CST.  Students can participate online or face to face on campus.
-
-
 :doc:`comp300` 
-    | Section 001 (6261) Credits: 3; In person; Lecture
+    | Section 001 (6000) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
-    | School of Communicat:013 (Water Tower) Wednesday 04:15PM-06:45
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
-    **Notes:**
-    Combined with COMP 488-301
+
 
 
 :doc:`comp305` 
-    | Section 001 (6263) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | School of Communicat:013 (Water Tower) Tuesday 04:15PM-06:45
+    | Section 001 (5961) Credits: 3; Blended; Lecture
+    | Instructor: Sargon Hasso
+    | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
 
     **Notes:**
-    Combined with COMP 488-305
+    This is a blended class.  More details will be forthcoming.  Combined with COMP 488-305.
 
 
-:doc:`comp320` 
-    | Section 001 (6265) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0208 (Water Tower) Thursday 07:00PM-09:30
+:doc:`comp341` 
+    | Section 001 (6005) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
-    Combined with COMP 420-001
+
 
 
 :doc:`comp348` 
-    | Section 001 (6270) Credits: 3; In person; Lecture
+    | Section 001 (5977) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
-    Combined with COMP 448-001
+
+
+
+:doc:`comp370` 
+    | Section 001 (5970) Credits: 3; In person; Lecture
+    | Instructor: Conrad Weisert
+    | Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
+
+
 
 
 :doc:`comp373` 
-    | Section 001 (6274) Credits: 3; In person; Lecture
+    | Section 001 (5972) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Maguire Hall:240 (Water Tower) Tuesday 07:00PM-09:30
+    | Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
-    **Notes:**
-    Combined with COMP 473-001
+
 
 
 :doc:`comp398` 1-6 credits
@@ -113,61 +106,97 @@ Graduate Courses
 
 
 
-:doc:`comp417` 
-    | Section 001 (3399) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | School of Communicat:013 (Water Tower) Thursday 04:15PM-06:45
+:doc:`comp400` 
+    | Section 001 (5992) Credits: 3; In person; Lecture
+    | Instructor: Channah Naiman
+    | Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
 
 
 
 
-:doc:`comp420` 
-    | Section 001 (6279) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0208 (Water Tower) Thursday 07:00PM-09:30
+:doc:`comp441` 
+    | Section 001 (6007) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
 
-    **Notes:**
-    Combined with COMP 320-001
+
 
 
 :doc:`comp448` 
-    | Section 001 (6283) Credits: 3; In person; Lecture
+    | Section 001 (5979) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
-    | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
+    | Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
 
-    **Notes:**
-    Combined with COMP 348-001
+
 
 
 :doc:`comp473` 
-    | Section 001 (6286) Credits: 3; In person; Lecture
+    | Section 001 (5973) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
-    | Maguire Hall:240 (Water Tower) Tuesday 07:00PM-09:30
-
-    **Notes:**
-    Combined with COMP 373-001
+    | Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
 
 
-
-COMP 488 Topic: Data Mining 
-    | Section 301 (6288) Credits: 3; In person; Lecture
-    | Instructor: Channah Naiman
-    | School of Communicat:013 (Water Tower) Wednesday 04:15PM-06:45
-    | Description similar to: :doc:`comp301`
-
-    **Notes:**
-    Data Mining.  Combined with COMP 300-001.
 
 
 
 COMP 488 Topic: Database Administration 
-    | Section 305 (6290) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | School of Communicat:013 (Water Tower) Tuesday 04:15PM-06:45
+    | Section 305 (5975) Credits: 3; Blended; Lecture
+    | Instructor: Sargon Hasso
+    | Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
     | Description similar to: :doc:`comp305`
 
     **Notes:**
-    Database Administration.  Combined with COMP 305-001.
+    Database Administration
+    
+    
+    
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Prerequisites:  Comp 251 or Comp 271
+    
+    
+    
+    Business and scientific institutions increasingly use large commercial data base systems.  This course teaches the theory and practice for the definition,
+    security, backup, tuning, and recovery of these systems.
+    
+    
+    Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
+
+
+
+COMP 488 Topic: Software Quality & Testing 
+    | Section 370 (5971) Credits: 3; In person; Lecture
+    | Instructor: Conrad Weisert
+    | Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+    | Description similar to: :doc:`comp370`
+
+    **Notes:**
+    Software Quality & Testing
+    
+    
+    
+    Prerequisite: Comp 271.
+    
+    
+    
+    The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
+    test case development, and regression testing.
+    
+    
+    Outcome: Students will learn how to prevent errors, how to get 'bugs' out of software, and be able to apply this knowledge in other courses and projects.
+
+
+
+COMP 488 Topic: Organizational Change & Dev. 
+    | Section 472 (5965) Credits: 3; In person; Lecture
+    | Instructor: Guy Bevente
+    | Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+    | Description similar to: :doc:`comp472`
+
+    **Notes:**
+    Organizational Change & Development
 
 
 :doc:`comp490` 1-6 credits
