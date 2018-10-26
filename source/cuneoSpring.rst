@@ -1,16 +1,16 @@
 
-Spring 2018 Schedule ( Cuneo Mansion Campus )
+Spring 2019 Schedule ( Cuneo Mansion Campus )
 ==========================================================================
-Updated 12/21/2017 14:29:20
+Updated 10/15/2018 15:09:01
 
-The following courses will (tentatively) be held during the Spring 2018 semester.
+The following courses will (tentatively) be held during the Spring 2019 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/1Xucka4tluanvfHP-pAcbzG5sVBwvoTN1DQyu9t3rxdk/edit?usp=sharing>`_.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -47,4 +47,4 @@ Graduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty

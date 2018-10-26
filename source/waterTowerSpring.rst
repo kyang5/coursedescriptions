@@ -1,7 +1,7 @@
 
-Spring 2019 Schedule  (Water Tower)
+Spring 2019 Schedule ( Water Tower Campus )
 ==========================================================================
-
+Updated 10/15/2018 15:09:01
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -21,14 +21,16 @@ Be sure to look at the section's notes or Locus for an 8-week courses with more 
 Friday line(s) are likely to be isolated makeup days, not every week.
 
 
+You can skip down to
+:ref:`spring_graduate_courses_list_Water Tower`. 
 
 **View Campus Specific Courses below :**
 
-	:doc:`lakeShoreSpring`
+:doc:`spring`
 
-	:doc:`spring`
+:doc:`lakeShoreSpring`
 
-	:doc:`onlineSpring`
+:doc:`onlineSpring` 
 
 
 
@@ -38,74 +40,62 @@ Undergraduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
 
 
-:doc:`comp250` 
-    | Section 1W (2533) Credits: 3; (In person); Lecture
-    | Instructor: Schwab,Roxanne
-    |Information Commons:111 (Water Tower) Monday, Wednesday 02:45PM-04:00
-
-	**Notes**
-        **This is a writing intensive class.**
-        This class is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-        graduate advisor.
-        
-
 
 :doc:`comp300` 
-    | Section 01 (6000) Credits: 3; (In person); Lecture
-    | Instructor: Naiman,Channah
-    |Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
+    | Section 001 (6000) Credits: 3; In person; Lecture
+    | Instructor: Channah Naiman
+    | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
-	
+
 
 
 :doc:`comp305` 
-    | Section 01 (5961) Credits: 3; (Blended); Lecture
-    | Instructor: Hasso,Sargon
-    |Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
+    | Section 001 (5961) Credits: 3; Blended; Lecture
+    | Instructor: Sargon Hasso
+    | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
 
-	
+    **Notes:**
+    This is a blended class.  More details will be forthcoming.  Combined with COMP 488-305.
 
 
 :doc:`comp341` 
-    | Section 01 (6005) Credits: 3; (In person); Lecture
-    | Instructor: Hayward,Nicholas J
-    |Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
+    | Section 001 (6005) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
-	
+
 
 
 :doc:`comp348` 
-    | Section 01 (5977) Credits: 3; (In person); Lecture
-    | Instructor: Schmitz,Corby
-    |Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
+    | Section 001 (5977) Credits: 3; In person; Lecture
+    | Instructor: Corby Schmitz
+    | Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
-	
+
 
 
 :doc:`comp370` 
-    | Section 01 (5970) Credits: 3; (In person); Lecture
-    | Instructor: Weisert,Conrad
-    |Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
+    | Section 001 (5970) Credits: 3; In person; Lecture
+    | Instructor: Conrad Weisert
+    | Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
 
-	
+
 
 
 :doc:`comp373` 
-    | Section 01 (5972) Credits: 3; (In person); Lecture
-    | Instructor: Zewdie,Berhane
-    |Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
+    | Section 001 (5972) Credits: 3; In person; Lecture
+    | Instructor: Berhane Zewdie
+    | Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
 
 
-:doc:`comp376` 
-    | Section 01 (5863) Credits: 3; (In person); Lecture
-    | Instructor: Haught,Christine A
-    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
 
-	**Notes**
-        COMP 376 is cross-listed with MATH 376.  Please register for MATH 376.
-
-	
+:doc:`comp398` 1-6 credits
+    You cannot register
+    yourself for an independent study course!
+    You must find a faculty member who
+    agrees to supervisor the work that you outline and schedule together.  This
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
 
@@ -117,97 +107,101 @@ Graduate Courses
 
 
 :doc:`comp400` 
-    | Section 01 (5992) Credits: 3; (In person); Lecture
-    | Instructor: Naiman,Channah
-    |Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
+    | Section 001 (5992) Credits: 3; In person; Lecture
+    | Instructor: Channah Naiman
+    | Corboy Law Center:L09 (Water Tower) Wednesday 04:15PM-06:45
 
-	
+
 
 
 :doc:`comp441` 
-    | Section 01 (6007) Credits: 3; (In person); Lecture
-    | Instructor: Hayward,Nicholas J
-    |Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
+    | Section 001 (6007) Credits: 3; In person; Lecture
+    | Instructor: Nicholas J Hayward
+    | Maguire Hall:240 (Water Tower) Wednesday 07:00PM-09:30
 
-	
+
 
 
 :doc:`comp448` 
-    | Section 01 (5979) Credits: 3; (In person); Lecture
-    | Instructor: Schmitz,Corby
-    |Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
+    | Section 001 (5979) Credits: 3; In person; Lecture
+    | Instructor: Corby Schmitz
+    | Corboy Law Center:0301 (Water Tower) Friday 05:45PM-08:15
 
-	
+
 
 
 :doc:`comp473` 
-    | Section 01 (5973) Credits: 3; (In person); Lecture
-    | Instructor: Zewdie,Berhane
-    |Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
+    | Section 001 (5973) Credits: 3; In person; Lecture
+    | Instructor: Berhane Zewdie
+    | Corboy Law Center:0602 (Water Tower) Monday 07:00PM-09:30
 
 
 
-:doc:`comp476` 
-    | Section 01 (5862) Credits: 3; (In person); Lecture
-    | Instructor: Haught,Christine A
-    |Inst for Environment:111 (Water Tower) Tuesday, Thursday 02:30PM-03:45
-
-	**Notes**
-        COMP 476 is cross-listed with MATH 476. Please register for MATH 476.
 
 
+COMP 488 Topic: Database Administration 
+    | Section 305 (5975) Credits: 3; Blended; Lecture
+    | Instructor: Sargon Hasso
+    | Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
+    | Description similar to: :doc:`comp305`
 
-comp488 TopicAdv Topics in Cybersecurity 
-	| Section 01 (5996) Credits: 3; (In person); Lecture
-	| Instructor: Chan-Tin,David Eric
-	|Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 11:30AM-12:45
-	| Description similar to: :doc:``
-
-**Notes**
-        Advanced Topics in Cybersecurity
-
-	
-
-comp488 TopicDatabase Administration 
-	| Section 05 (5975) Credits: 3; (Blended); Lecture
-	| Instructor: Hasso,Sargon
-	|Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
-	| Description similar to: :doc:``
-
-**Notes**
-        Database Administration
-        This is a blended class.  More details will be forthcoming.
-        Prerequisites:  Comp 251 or Comp 271 
-        Business and scientific institutions increasingly use large commercial data base systems.  This course teaches the theory and practice for the definition,
-        security, backup, tuning, and recovery of these systems. 
-
-        Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
-        
+    **Notes:**
+    Database Administration
+    
+    
+    
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Prerequisites:  Comp 251 or Comp 271
+    
+    
+    
+    Business and scientific institutions increasingly use large commercial data base systems.  This course teaches the theory and practice for the definition,
+    security, backup, tuning, and recovery of these systems.
+    
+    
+    Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
 
 
-comp488 TopicSoftware Quality & Testing 
-	| Section 70 (5971) Credits: 3; (In person); Lecture
-	| Instructor: Weisert,Conrad
-	|Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
-	| Description similar to: :doc:``
 
-**Notes**
-        Software Quality & Testing
-        Prerequisite: Comp 271. 
-        The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
-        test case development, and regression testing. 
+COMP 488 Topic: Software Quality & Testing 
+    | Section 370 (5971) Credits: 3; In person; Lecture
+    | Instructor: Conrad Weisert
+    | Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
+    | Description similar to: :doc:`comp370`
 
-        Outcome: Students will learn how to prevent errors, how to get 'bugs' out of software, and be able to apply this knowledge in other courses and projects.
-        
+    **Notes:**
+    Software Quality & Testing
+    
+    
+    
+    Prerequisite: Comp 271.
+    
+    
+    
+    The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
+    test case development, and regression testing.
+    
+    
+    Outcome: Students will learn how to prevent errors, how to get 'bugs' out of software, and be able to apply this knowledge in other courses and projects.
 
 
-comp488 TopicOrganizational Change & Dev. 
-	| Section 72 (5965) Credits: 3; (In person); Lecture
-	| Instructor: Bevente,Guy
-	|Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
-	| Description similar to: :doc:``
 
-**Notes**
-        Organizational Change & Development
-        
+COMP 488 Topic: Organizational Change & Dev. 
+    | Section 472 (5965) Credits: 3; In person; Lecture
+    | Instructor: Guy Bevente
+    | Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
+    | Description similar to: :doc:`comp472`
 
+    **Notes:**
+    Organizational Change & Development
+
+
+:doc:`comp490` 1-6 credits
+    You cannot register
+    yourself for an independent study course!
+    You must find a faculty member who
+    agrees to supervisor the work that you outline and schedule together.  This
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty

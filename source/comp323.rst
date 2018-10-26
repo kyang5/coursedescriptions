@@ -16,8 +16,15 @@ Prerequisites
 Description
 ----------------------------
 
-This course studies design, development, and publication of games and game-based applications.
-This includes example games and designers, industry practices, and team-based project development.
+This semester long course will offer CS department students a practical introduction to *Game Design and Development*. Underlying concepts will be introduced and demonstrated throughout the course with a particular focus on working examples and *playtesting*.
+
+Students will gain practical experience of design and development, which is applied as part of the project-based assessment for the course.
+
+Throughout the course, students will also be exposed to the many and various types of games and gaming environments now available across multiple genres.
+
+The course has been structured to provide logical groupings of common technologies, which complement each other in the development of games and games-based applications.
+
+As such, this course will offer a combination of technical concepts and development, awareness of aesthetic requirements, and cultural perspectives inherently necessary to create well-rounded, performant games and gaming environments.
 
 Outcome
 ----------------------------
@@ -28,4 +35,5 @@ and techniques suitable for the development of a variety of game based environme
 Syllabi
 ----------------------
 
-No recent syllabi available.
+Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp488.pdf
+
