@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>`_.
+TextBook information to be updated soon.
 
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
@@ -240,7 +240,7 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Friday 11:30AM-12:20 (lab)
 
     **Notes:**
-    This is an experimental hybrid version of Comp 170, tested very successfully twice before: It starts in the much easier language Python, which is also highly used by professionals. With the central concepts developed simply in that context, it then goes on to transition into Java and add a few concepts not in Python (mostly declarations with static typing), plus Java's more verbose syntax. The Java transition is important since Java is also an important language, preparing you for Comp 271 in Java. The course uses only free open-source online materials, starting with the Python text, where you can read, test, code, answer questions, and check yourself, all in a browser, with little learning curve. The course will be hybrid: after starting in the classroom for a while, many classes will be online in Zoom, and all students will need a notebook computer - preferably your own. If you want the traditional Java Comp 170 course, register for a different section! This course is restricted to students in the College of Arts and Sciences. Students from other schools specifically wishing to enroll in COMP 170 should contact the Computer Science Department to request an enrollment override. Students enrolled in COMP 170-005 (Lecture) will be automatically enrolled in COMP 170-05L (Lab). This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
+    This is a hybrid class.  More details will be forthcoming.
     
     
     

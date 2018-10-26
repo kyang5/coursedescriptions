@@ -625,7 +625,7 @@ def parseCSV(csvFile):
             courses[section.abbr] = section
         #input('press return: ')  #DEBUG
 
-textURL= 'https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing'
+textURL= '' # ''https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing'
 def main():
     csvFileName=input("Enter CSV file name: (EX:fall2018.csv)")
     (courses, semester, created, mainCampus) = parseCSV(csvFileName)
