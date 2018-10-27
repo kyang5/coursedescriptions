@@ -45,6 +45,8 @@ from csv import reader
 
 ############## for log of errors/warnings #########
 
+import sys
+
 logList = []
 campuses = ['Lake Shore', 'Watertower', 'Online'] 
 TESTPREFIX = '' # 'TEST' #DEBUG
@@ -472,8 +474,9 @@ def parseCSV(csvFile):
         #input('press return: ')  #DEBUG
 
 
-def main():
-    csvFileName=input("Enter CSV file name base (like fall2018): ")
+def main(csvFileName=None):
+    if not csvFileName:
+        csvFileName=input("Enter CSV file name base (like fall2018): ")
     if not csvFileName.endswith('.csv'):
         csvFileName += '.csv'
     print("Make sure last year's semester is archived!")
@@ -508,5 +511,7 @@ def printLines(lines, n):  # for debugging
         for line in lines[-1:-n-1:-1]:
             print(line)
 
-
-main()
+f = None
+if sys.argv[1:]:
+    f = sys.argv[1]
+main(f)
