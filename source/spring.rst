@@ -39,7 +39,6 @@ Undergraduate Courses
 
 
 
-
 :doc:`comp125` 
     | Section 001 (2534) Credits: 3; In person; Laboratory
     | Instructor: Nicholas J Hayward
@@ -368,8 +367,12 @@ Undergraduate Courses
     **Notes:**
     Foundations of Computer Science II.  Eight Week-Second Session.
     
+    
+    
     This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
     enroll you.
+    
+    
     
     Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
     
@@ -596,7 +599,9 @@ Undergraduate Courses
 
 
 
-COMP 388 Topic: Adv Topics in Cybersecurity 
+
+
+COMP 388 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5988) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
@@ -647,12 +652,7 @@ COMP 388 Topic: Adv Topics in Cybersecurity
     | Instructor: Mark Albert
     | Cuneo Hall:311 (Lake Shore) Thursday 04:45PM-06:00
 
-:doc:`comp398` 1-6 credits
-    You cannot register
-    yourself for an independent study course!
-    You must find a faculty member who
-    agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+
 
 
 :doc:`comp398` 1-6 credits
@@ -661,6 +661,8 @@ COMP 388 Topic: Adv Topics in Cybersecurity
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+
+
 
 .. _spring_graduate_courses_list:
 
@@ -790,49 +792,6 @@ Graduate Courses
 
 
 
-COMP 488 Topic: Adv Topics in Cybersecurity 
-    | Section 001 (5996) Credits: 3; In person; Lecture
-    | Instructor: David Eric Chan-Tin
-    | Corboy Law Center:0422 (Lake Shore) Tuesday, Thursday 11:30AM-12:45
-
-
-    **Notes:**
-    Advanced Topics in Cybersecurity
-
-
-
-COMP 488 Topic: Database Administration 
-    | Section 305 (5975) Credits: 3; Blended; Lecture
-    | Instructor: Sargon Hasso
-    | Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
-    | Description similar to: :doc:`comp305`
-
-    **Notes:**
-    Database Administration
-    
-    
-    
-    This is a blended class.  More details will be forthcoming.
-    
-    
-    
-    Prerequisites:  Comp 251 or Comp 271
-    
-    
-    
-    Business and scientific institutions increasingly use large commercial data base systems.  This course teaches the theory and practice for the definition,
-    security, backup, tuning, and recovery of these systems.
-    
-    
-    Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
-
-
-COMP 488 Topic: Game Design and Development 
-    | Section 323 (6014) Credits: 3; In person; Lecture
-    | Instructor: Nicholas J Hayward
-    | Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
-    | Description similar to: :doc:`comp323`
-
 COMP 488 Topic : Adv Topics in Cybersecurity 
     | Section 001 (5996) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
@@ -849,6 +808,7 @@ COMP 488 Topic : Database Administration
     | Instructor: Sargon Hasso
     | Corboy Law Center:0421 (Water Tower) Tuesday 04:15PM-06:45
     | Description similar to: :doc:`comp305`
+
     **Notes:**
     Database Administration
     
@@ -868,11 +828,7 @@ COMP 488 Topic : Database Administration
     
     Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
 
-COMP 488 Topic: Physical Design & Fabrication 
-    | Section 369 (5969) Credits: 3; In person; Lecture
-    | Instructor: Jonathan Durston
-    | Crown Center:103 (Lake Shore) Monday 07:00PM-09:30
-    | Description similar to: :doc:`comp369`
+
 
 COMP 488 Topic : Game Design and Development 
     | Section 323 (6014) Credits: 3; In person; Lecture
@@ -963,45 +919,6 @@ COMP 488 Topic : Software Quality & Testing
 
 
 COMP 488 Topic : Computational Biology 
-=======
-    **Notes:**
-    Physical Design & Fabrication
-    
-    
-    
-    This course explores the role of products in the economy and how things are made, including:  product conceptualization and design, physical design vs.
-    design of things that are not physical, rapid prototyping, 3D printing, 2D conceptualization and sketching, 3D modeling, and design reviews.
-    
-    
-    Outcomes: Students will be able to visualize ideas via sketching basic shapes, create 3D models using 3D modeling software, use a 3D Printer, and give
-    constructive feedback in peer review sessions.
-
-
-
-COMP 488 Topic: Software Quality & Testing 
-    | Section 370 (5971) Credits: 3; In person; Lecture
-    | Instructor: Conrad Weisert
-    | Corboy Law Center:0302 (Water Tower) Friday 02:45PM-05:15
-    | Description similar to: :doc:`comp370`
-
-    **Notes:**
-    Software Quality & Testing
-    
-    
-    
-    Prerequisite: Comp 271.
-    
-    
-    
-    The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing,
-    test case development, and regression testing.
-    
-    
-    Outcome: Students will learn how to prevent errors, how to get 'bugs' out of software, and be able to apply this knowledge in other courses and projects.
-
-
-
-COMP 488 Topic: Computational Biology 
     | Section 383 (5997) Credits: 3; In person; Lecture
     | Instructor: Catherine Putonti
     | Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
@@ -1026,7 +943,7 @@ COMP 488 Topic: Computational Biology
 
 
 
-COMP 488 Topic: Organizational Change & Dev. 
+COMP 488 Topic : Organizational Change & Dev. 
     | Section 472 (5965) Credits: 3; In person; Lecture
     | Instructor: Guy Bevente
     | Maguire Hall:330 (Water Tower) Tuesday 07:00PM-09:30
