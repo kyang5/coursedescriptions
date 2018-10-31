@@ -27,9 +27,3 @@ Syllabi
 ----------------------
 
 Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp441.pdf
-
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2013", "Dr. Albert", "http://mva.me/edu/hci/"
