@@ -27,9 +27,3 @@ Syllabi
 ----------------------
 
 Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp441.pdf
-
-.. csv-table::
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 60, 60, 150
-
-	  "Spring 2016", "Nicholas Hayward", "https://luc.box.com/s/x6ygjsx6f8nxqj4gjxl8xwuk3grpgkf2"

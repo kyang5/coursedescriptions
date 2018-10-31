@@ -36,4 +36,3 @@ Syllabi
 ----------------------
 
 Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp488.pdf
-

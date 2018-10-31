@@ -33,9 +33,3 @@ Syllabi
 -------------
 
 Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp424.pdf
-
-.. csv-table:: 
-   	:header: "Topic", "Semester/Year", "Instructor", "URL"
-   	:widths: 60, 15, 25, 60
-
-	"Client Side Web Design", "Fall 2014", "Dr. Albert", "http://comp424.pacsites.org"
