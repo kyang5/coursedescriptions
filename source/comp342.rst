@@ -1,7 +1,9 @@
 .. index:: comp342
 
-COMP 342
-========
+.. index:: web development
+
+COMP 342: Introduction to Web Application Development
+======================================================
 
 Credit Hours
 -----------------------
