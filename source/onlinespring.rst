@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Online )
 ==========================================================================
-Updated 11/01/2018 22:27:01
+Updated 11/02/2018 20:49:49
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
