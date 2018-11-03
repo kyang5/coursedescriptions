@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 11/01/2018 22:27:01
+Updated 11/02/2018 20:49:49
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -166,13 +166,8 @@ Undergraduate Courses
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 08:15AM-09:05
 
     **Notes:**
-    This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
-    contact the Computer Science Department to request an enrollment override.
-    
-    
-    
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
+    Restricted to Engineering Science students.  Students from other schools must register for one of the other sections of this course.  This course is
+    restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental graduate advisor.
 
 
 :doc:`comp170` 
