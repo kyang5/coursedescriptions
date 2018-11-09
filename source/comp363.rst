@@ -43,9 +43,4 @@ The ability to design and analyze efficient algorithms; understanding of the nec
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   :header: "Semester/Year", "Instructor", "URL"
-   :widths: 15, 25, 50
-
-        "Fall 2013", "Dr. Albert", "https://luc.box.com/s/r5s1mpy8vt0bv2y4y9d87ls0bgtlnloe"
-	"Spring 2013", "Dr. Harrington", "https://luc.box.com/s/r5s1mpy8vt0bv2y4y9d87ls0bgtlnloe"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20363

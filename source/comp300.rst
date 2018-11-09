@@ -1,4 +1,4 @@
-.. index:: data warehousing and data mining
+﻿.. index:: data warehousing and data mining
    data warehousing
    data mining
 
@@ -44,8 +44,4 @@ Students will be able to define and critically analyze data warehouse and mining
 Syllabi
 ----------------------
 
-.. csv-table::
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2014", "Channah Naiman", "https://luc.box.com/s/vehaxaonmpiitl3ho3d02nnm85pglgmj"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20300

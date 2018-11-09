@@ -1,4 +1,4 @@
-.. index:: intermediate object-oriented development
+﻿.. index:: intermediate object-oriented development
    object-oriented development
 
 COMP 413: Intermediate Object-Oriented Development
@@ -62,9 +62,4 @@ You will learn to design and implement more complex programs using good software
 Syllabi
 -------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2014", "Dr. Yacobellis", "https://luc.box.com/s/m24hdedq5ghw8ecgr7gjtdtkg71juvhy"
-	"Fall 2013", "Dr. Läufer", "https://luc.box.com/s/m24hdedq5ghw8ecgr7gjtdtkg71juvhy"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20413

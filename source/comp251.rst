@@ -34,8 +34,4 @@ data for patterns, and design web interfaces to data.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-    :header: "Semester/Year", "Instructor", "URL"
-    :widths: 15, 25, 50
-
-    "Fall 2013", "Guy Bevente", "https://luc.box.com/s/34jl29hua7f0vo4ul17hoe3rljv5lc1s"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20251

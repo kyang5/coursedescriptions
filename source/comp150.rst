@@ -1,4 +1,4 @@
-.. index:: introduction to computing
+﻿.. index:: introduction to computing
 
 COMP 150: Introduction to Computing
 ===================================
@@ -38,11 +38,4 @@ Empowerment to manage and transform masses of data; understanding of technical, 
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2016", "Michael Lewis", "https://luc.box.com/s/rqubwh2u96999jzzsoek4c28a990rouz"
-	"Spring 2016", "Dr. Andrew Harrington", "https://luc.box.com/s/0dm3l12rbwxw3mj8is314180na6e34uj"
-	"Fall 2015", "Dr. Christopher P Stone", "https://luc.box.com/s/tvghcr954e0dkmky7dk2go9r7opjat8i"
-	"Past Offerings", , "https://luc.box.com/s/atg3mq2isjogedvc6cxz343oi5ilzdjb"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20150

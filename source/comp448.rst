@@ -29,9 +29,4 @@ including TCP/IP.
 Syllabi
 --------------------
 
-.. csv-table::
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 60, 60, 200
-
-    "Spring 2017", "Corby Schmitz", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/233088133610"
-	  "Spring 2014", "Corby Schmitz", "https://luc.box.com/s/rjw2mw8iwtvdtt4jftpqvre09t78lrfe"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20448
