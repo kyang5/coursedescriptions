@@ -51,9 +51,4 @@ issues (including authentication and access control).
 Syllabi
 ----------------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2013", "Joe Kaylor", "https://luc.box.com/s/7krnwnsup8j13ekyeelsju7p0mt902wi"
-	"Spring 2012", "Joe Kaylor and George K. Thiruvathukal", "https://luc.box.com/s/7krnwnsup8j13ekyeelsju7p0mt902wi"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20410

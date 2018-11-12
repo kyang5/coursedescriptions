@@ -1,4 +1,4 @@
-.. index:: intrusion detection and computer security
+﻿.. index:: intrusion detection and computer security
    intrusion detection
    computer security
 
@@ -35,9 +35,5 @@ Students will learn to configure ID systems (e.g. SNORT) and analyze their outpu
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2015", "Corby Schmitz", "https://luc.box.com/s/57n40325p8xudttu7i35nxfb3tl9ieh5"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20347
 

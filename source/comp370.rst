@@ -48,8 +48,4 @@ Students will learn how to prevent errors, how to get 'bugs' out of software, an
 Syllabi
 --------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2014", "Conrad Weisert", "https://luc.box.com/s/f5q8r3a9h7opfcwcy0fraoqvri6ev79m"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20370

@@ -39,18 +39,4 @@ Understand an emerging area of Computer Science.
 Syllabi
 --------------------------------------
 
-.. csv-table::
-    :header: "Topic", "Semester/Year", "Instructor", "URL"
-    :widths: 60, 15, 25, 200
-
-        "Data Warehousing and Data Mining", "Spring 2017", "Dr. Channah Naiman", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790163593"
-        "Database Administration", "Fall 2017", "Sorin Ciobanu", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790162564"
-        "Data Visualization", "Fall 2017", "Dr. Channah Naiman", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790123549"
-        "Dev Ops", "Fall 2017", "Maria Saenz", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790152597"
-        "Robotics Software Development", "Spring 2013", "Dr. William Honig", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790134693"
-        "Physical Design and Fabrication", "Spring 2016", "Jonathan Durston", "https://luc.box.com/s/2oyte72cslhh13feckwby10ujwz198th"
-        "Introduction to Computer Forensics", "Spring 2016", "Thomas Yarish", "https://luc.box.com/s/sa7ybkvrd3elmf7yj7voxqgt4dgoqg30"
-        "Metagenomics", "Fall 2015", "Dr. Putonti", "https://luc.box.com/s/bg4vgtlumwnxafuq1tdvwf33mhvfw5a6"
-        "Introduction to Digital Humanites Design and Programming", "Spring 2015", "Nicholas Hayward", "https://luc.box.com/s/q4k5x000vydb9av4lb3z2p6wr6f8wps1"
-        "Software Quality and Testing", "Fall 2014", "Conrad Weisert", "https://luc.box.com/s/yrm6n3065hbbsbv4khq3tlvm47j93cf5"
-        "Organizational Change & Development", "Spring 2017", "Guy Bevente", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/222790156706"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20488

@@ -21,9 +21,5 @@ This course will focus on the unique challenges, methods, tools, and technologie
 
 Syllabi
 ----------------------
-.. csv-table::
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 60, 60, 200
 
-    "Fall 2017", "Dr. Hayward", "https://luc.app.box.com/s/t9tvtasql74v4dsj8kyfjddmj925ts9a/file/223003869555"
-	  "Spring 2009", "Dr. Honig", "https://luc.box.com/s/sm75okfbnv8b7fn0z55cw4rkjozju31n"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=3ac9a09e-e00e-7000-605a-8f72e6088b2d&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20422

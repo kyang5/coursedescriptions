@@ -31,10 +31,5 @@ Understanding of computer mechanisms for representing and analyzing numerical an
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20125
 
-	"Spring 2016", "Channah Naiman", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"
-	"Fall 2011", "Dr. William Honig", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"
-	"Fall 2011", "Dr. Ron Greenberg", "https://luc.box.com/s/9tiy2yyrxjv6b2n60bumsa3bvn9vqgia"

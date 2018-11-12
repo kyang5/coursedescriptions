@@ -34,8 +34,4 @@ stressed.
 Syllabi
 --------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2016", "Dr. Thiruvathukal", "https://luc.box.com/s/f5wmc53zwpb7r9q1w1s46mpdq3a0ajmm"
+https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20111
