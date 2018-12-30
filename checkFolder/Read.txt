@@ -1,0 +1,6 @@
+This is a folder for files generated from Test.py. The files are not ready to be deployed until given the ok.
+
+Current Bugs:
+Summer classes are out of order.
+Online is no longer under the building category for some classes
+Online classes sometimes will have Online Campus as their building, rather than Online
