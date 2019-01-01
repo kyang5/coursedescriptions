@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Online )
 ==========================================================================
-Updated 11/02/2018 20:49:49
+Updated 12/18/2018 15:44:38
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -77,7 +77,9 @@ Undergraduate Courses
     | Online Wednesday 06:00PM-09:00
 
     **Notes:**
-    Restricted to students in the School of Professional Studies.
+    COMP 271-701N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
+    COMP 271-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
 :doc:`comp300` 
@@ -87,6 +89,9 @@ Undergraduate Courses
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+    
+    
+    Combined with COMP 400-002.
 
 
 :doc:`comp317` 
@@ -147,7 +152,7 @@ Undergraduate Courses
 
 :doc:`comp391` 
     | Section 02E (4287) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Robert Yacobellis
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -159,7 +164,7 @@ Undergraduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 
@@ -177,6 +182,9 @@ Graduate Courses
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+    
+    
+    Combined with COMP 300-002.
 
 
 :doc:`comp448` 
@@ -206,7 +214,15 @@ COMP 488 Topic : Comp Forensics Investigations
     | Description similar to: :doc:`comp340`
 
     **Notes:**
-    Computer Forensics.  This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 340-001.
+    Computer Forensics
+    
+    
+    
+    This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.
+    
+    
+    Combined with COMP 340-001.
+    
     
     
     Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
@@ -214,9 +230,6 @@ COMP 488 Topic : Comp Forensics Investigations
     
     
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
-    
-    
-    Outcome: The student will learn computer software and hardware relevant for analysis, and investigative and evidence-gathering protocols.
 
 
 :doc:`comp490` 1-6 credits
@@ -224,12 +237,12 @@ COMP 488 Topic : Comp Forensics Investigations
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`comp499` 
     | Section 002 (5157) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**

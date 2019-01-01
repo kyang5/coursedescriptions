@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule 
 ==========================================================================
-Updated 11/02/2018 20:49:49
+Updated 12/18/2018 15:44:38
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -42,7 +42,7 @@ Undergraduate Courses
 :doc:`comp125` 
     | Section 001 (2534) Credits: 3; In person; Laboratory
     | Instructor: Nicholas J Hayward
-    | Sullivan Center:253 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
+    | Mundelein Center:0520 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -126,7 +126,7 @@ Undergraduate Courses
 
 :doc:`comp163` 
     | Section 001 (2983) Credits: 3; In person; Lecture
-    | Instructor: Duru Turkoglu
+    | Instructor: Leo Irakliotis
     | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
 
     **Notes:**
@@ -253,32 +253,6 @@ Undergraduate Courses
     enroll in a section of this course should contact their departmental graduate advisor.
 
 
-:doc:`comp170` [Term: Seven Week - First]
-    | Section 400 (6112) Credits: 3; In person; Lecture
-    | Instructor: Andrew N Harrington
-    | Cuneo Hall:318 (Lake Shore) Monday 04:15PM-08:15
-    | Cuneo Hall:318 (Lake Shore) Wednesday 04:15PM-06:30
-    | Cuneo Hall:318 (Lake Shore) Friday 04:15PM-08:15 - Check week(s)
-
-    **Notes:**
-    Foundations of Computer Science I.  Seven Week-First Session.
-    
-    
-    
-    This section is restricted to students with undergraduate degrees.  Department Consent is required, and then a Computer Science Department staff member will
-    enroll you.
-    
-    
-    
-    FIRST CLASS EARLY:  Friday before other classes start: Friday, January 11th!  Lectures meet from 4:15 pm - 8:15 pm on the following days: Friday, January
-    11th; Friday, January 18th; Friday, January 25th; Monday, January 28th; Monday, February 4th; Monday, February 11th; Monday, February 18th; and Monday,
-    February 25th.
-    
-    
-    
-    Labs meet on consecutive Wednesdays, 4:15 pm - 6:30 pm: Wednesday, January 16th through Wednesday, February 27th.
-
-
 :doc:`comp170` [Term: Eight Week - First]
     | Section 700N (5037) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
@@ -342,7 +316,7 @@ Undergraduate Courses
 
 :doc:`comp271` 
     | Section 001 (2531) Credits: 3; In person; Lecture
-    | Instructor: Mark Albert
+    | Instructor: Chandra N Sekharan
     | Cuneo Hall:302 (Lake Shore) Tuesday, Thursday 02:30PM-04:25
 
     **Notes:**
@@ -352,34 +326,12 @@ Undergraduate Courses
 
 :doc:`comp271` 
     | Section 002 (2540) Credits: 3; In person; Lecture
-    | Instructor: Chandra N Sekharan
+    | Instructor: Mark Albert
     | Crown Center:105 (Lake Shore) Monday, Wednesday 01:40PM-03:35
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
-
-
-:doc:`comp271` [Term: Eight Week - Second]
-    | Section 400 (4288) Credits: 3; In person; Lecture
-    | Instructor: Peter L Dordal
-    | Cuneo Hall:318 (Lake Shore) Monday 04:15PM-08:15
-    | Cuneo Hall:318 (Lake Shore) Wednesday 04:15PM-06:30
-
-    **Notes:**
-    Foundations of Computer Science II.  Eight Week-Second Session.
-    
-    
-    
-    This section is restricted to students with undergraduate degrees.  Department Consent required, and then a Computer Science Department staff member will
-    enroll you.
-    
-    
-    
-    Mondays, 4:15 pm - 8:15 pm:  March 11, March 18, March 25, April 1, April 8, April 15, April 22, April 29.
-    
-    
-    Labs meet on Wednesdays, 4:15 pm - 6:30 pm:  March 13, March 20, March 27, April 3, April 10, April 17, April 24, May 1.
 
 
 :doc:`comp271` [Term: Eight Week - Second]
@@ -400,7 +352,9 @@ Undergraduate Courses
     | Online Wednesday 06:00PM-09:00
 
     **Notes:**
-    Restricted to students in the School of Professional Studies.
+    COMP 271-701N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST
+    COMP 271-701N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
 :doc:`comp300` 
@@ -408,7 +362,8 @@ Undergraduate Courses
     | Instructor: Channah Naiman
     | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 400-001.
 
 
 :doc:`comp300` 
@@ -418,15 +373,22 @@ Undergraduate Courses
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+    
+    
+    Combined with COMP 400-002.
 
 
 :doc:`comp305` 
     | Section 001 (5961) Credits: 3; Blended; Lecture
-    | Instructor: Sargon Hasso
-    | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
+    | Instructor: Ammar Ahmed
+    | Corboy Law Center:0522 (Water Tower) Tuesday 05:30PM-08:00
 
     **Notes:**
-    This is a blended class.  More details will be forthcoming.  Combined with COMP 488-305.
+    This is a blended class.  More details will be forthcoming.
+    
+    
+    
+    Combined with COMP 488-305.
 
 
 :doc:`comp310` 
@@ -434,7 +396,8 @@ Undergraduate Courses
     | Instructor: Sarah Kaylor
     | Cuneo Hall:311 (Lake Shore) Tuesday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 410-001.
 
 
 :doc:`comp313` 
@@ -485,7 +448,8 @@ Undergraduate Courses
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:311 (Lake Shore) Friday 02:45PM-05:15
 
-
+    **Notes:**
+    Combined with COMP 488-323.
 
 
 :doc:`comp324` 
@@ -493,7 +457,8 @@ Undergraduate Courses
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:311 (Lake Shore) Monday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 424-001.
 
 
 :doc:`comp330` 
@@ -511,7 +476,7 @@ Undergraduate Courses
     | Mundelein Center:0607 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
-    COMP 339-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
+    COMP 339-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.  Combined with COMP 439-001.
 
 
 :doc:`comp340` 
@@ -528,7 +493,8 @@ Undergraduate Courses
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 441-001.
 
 
 :doc:`comp348` 
@@ -536,7 +502,8 @@ Undergraduate Courses
     | Instructor: Corby Schmitz
     | Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
-
+    **Notes:**
+    Combined with COMP 448-001.
 
 
 :doc:`comp348` 
@@ -559,7 +526,7 @@ Undergraduate Courses
 
 :doc:`comp363` 
     | Section 001 (3590) Credits: 3; In person; Lecture
-    | Instructor: Duru Turkoglu
+    | Instructor: Andrew N Harrington
     | Cuneo Hall:202 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
@@ -572,7 +539,8 @@ Undergraduate Courses
     | Instructor: Jonathan Durston
     | Sullivan Center:253 (Lake Shore) Monday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 488-369.
 
 
 :doc:`comp370` 
@@ -580,7 +548,8 @@ Undergraduate Courses
     | Instructor: Conrad Weisert
     | Corboy Law Center:0602 (Water Tower) Friday 02:45PM-05:15
 
-
+    **Notes:**
+    Combined with COMP 488-370.
 
 
 :doc:`comp373` 
@@ -588,7 +557,8 @@ Undergraduate Courses
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 473-001.
 
 
 :doc:`comp376` 
@@ -607,7 +577,8 @@ Undergraduate Courses
     | Instructor: Catherine Putonti
     | Crown Center:103 (Lake Shore) Tuesday 04:15PM-07:00
 
-
+    **Notes:**
+    Combined with COMP 488-383.
 
 
 
@@ -622,6 +593,10 @@ COMP 388 Topic : Adv Topics in Cybersecurity
     
     
     
+    Combined with COMP 488-001.
+    
+    
+    
     Description:
     
     Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
@@ -630,8 +605,6 @@ COMP 388 Topic : Adv Topics in Cybersecurity
     
     
     Prerequisites:
-    
-    COMP 347 OR COMP 348
 
 
 :doc:`comp390` 
@@ -654,7 +627,7 @@ COMP 388 Topic : Adv Topics in Cybersecurity
 
 :doc:`comp391` 
     | Section 01E (2051) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Robert Yacobellis
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -663,7 +636,7 @@ COMP 388 Topic : Adv Topics in Cybersecurity
 
 :doc:`comp391` 
     | Section 02E (4287) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Robert Yacobellis
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -683,7 +656,7 @@ COMP 388 Topic : Adv Topics in Cybersecurity
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 
@@ -699,7 +672,8 @@ Graduate Courses
     | Instructor: Channah Naiman
     | Corboy Law Center:L08 (Water Tower) Wednesday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 300-001.
 
 
 :doc:`comp400` 
@@ -709,6 +683,9 @@ Graduate Courses
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
+    
+    
+    Combined with COMP 300-002.
 
 
 :doc:`comp410` 
@@ -716,7 +693,8 @@ Graduate Courses
     | Instructor: Sarah Kaylor
     | Cuneo Hall:311 (Lake Shore) Tuesday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 310-001.
 
 
 :doc:`comp413` 
@@ -740,7 +718,8 @@ Graduate Courses
     | Instructor: Nicholas J Hayward
     | Cuneo Hall:311 (Lake Shore) Monday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 324-001.
 
 
 :doc:`comp439` 
@@ -749,7 +728,7 @@ Graduate Courses
     | Mundelein Center:0607 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
 
     **Notes:**
-    COMP 439-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.
+    COMP 439-001 is a hybrid class.  It meets in person on Mondays and online on Wednesdays and Fridays.  Combined with COMP 339-001.
 
 
 :doc:`comp441` 
@@ -757,7 +736,8 @@ Graduate Courses
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0105 (Water Tower) Wednesday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 341-001.
 
 
 :doc:`comp448` 
@@ -765,7 +745,8 @@ Graduate Courses
     | Instructor: Corby Schmitz
     | Corboy Law Center:0105 (Water Tower) Friday 05:45PM-08:15
 
-
+    **Notes:**
+    Combined with COMP 348-001.
 
 
 :doc:`comp448` 
@@ -791,7 +772,8 @@ Graduate Courses
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0305 (Water Tower) Monday 07:00PM-09:30
 
-
+    **Notes:**
+    Combined with COMP 373-001.
 
 
 :doc:`comp474` 
@@ -809,7 +791,7 @@ Graduate Courses
     | Inst for Environment:111 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
     **Notes:**
-    COMP 476 is cross-listed with MATH 476. Please register for MATH 476.
+    COMP 476 is cross-listed with MATH 476.
     
     Combined with COMP 376.
 
@@ -826,6 +808,10 @@ COMP 488 Topic : Adv Topics in Cybersecurity
     
     
     
+    Combined with COMP 388-001.
+    
+    
+    
     Description:
     
     Security and privacy are critical components of any system. This class will discuss the latest in computer security and privacy. Topics will include
@@ -834,15 +820,13 @@ COMP 488 Topic : Adv Topics in Cybersecurity
     
     
     Prerequisites:
-    
-    COMP 347 OR COMP 348
 
 
 
 COMP 488 Topic : Database Administration 
     | Section 305 (5975) Credits: 3; Blended; Lecture
-    | Instructor: Sargon Hasso
-    | Corboy Law Center:0301 (Water Tower) Tuesday 04:15PM-06:45
+    | Instructor: Ammar Ahmed
+    | Corboy Law Center:0522 (Water Tower) Tuesday 05:30PM-08:00
     | Description similar to: :doc:`comp305`
 
     **Notes:**
@@ -854,15 +838,16 @@ COMP 488 Topic : Database Administration
     
     
     
-    Prerequisites:  Comp 251 or Comp 271
+    Combined with COMP 305-001.
+    
+    
+    
+    Prerequisites:  Comp 251 or Comp 271.
     
     
     
     Business and scientific institutions increasingly use large commercial data base systems.  This course teaches the theory and practice for the definition,
     security, backup, tuning, and recovery of these systems.
-    
-    
-    Outcome:  Students will be able to use theory and pragmatic approaches to define and implement realistic solutions for large database administration
 
 
 
@@ -877,6 +862,10 @@ COMP 488 Topic : Game Design and Development
     
     
     
+    Combined with COMP 323-001.
+    
+    
+    
     This course studies design, development, and publication of games and game-based applications. This includes example games and designers, industry
     practices, and team-based project development.
     
@@ -886,7 +875,6 @@ COMP 488 Topic : Game Design and Development
     
     
     Outcomes: Students will acquire an awareness of different game design and development methods, technologies, and techniques suitable for the development of
-    a variety of game based environments.
 
 
 
@@ -897,7 +885,15 @@ COMP 488 Topic : Comp Forensics Investigations
     | Description similar to: :doc:`comp340`
 
     **Notes:**
-    Computer Forensics.  This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 340-001.
+    Computer Forensics
+    
+    
+    
+    This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.
+    
+    
+    Combined with COMP 340-001.
+    
     
     
     Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
@@ -905,9 +901,6 @@ COMP 488 Topic : Comp Forensics Investigations
     
     
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
-    
-    
-    Outcome: The student will learn computer software and hardware relevant for analysis, and investigative and evidence-gathering protocols.
 
 
 
@@ -919,6 +912,10 @@ COMP 488 Topic : Physical Design & Fabrication
 
     **Notes:**
     Physical Design & Fabrication
+    
+    
+    
+    Combined with COMP 369-001.
     
     
     
@@ -939,6 +936,10 @@ COMP 488 Topic : Software Quality & Testing
 
     **Notes:**
     Software Quality & Testing
+    
+    
+    
+    Combined with COMP 370-001.
     
     
     
@@ -965,6 +966,10 @@ COMP 488 Topic : Computational Biology
     
     
     
+    Combined with COMP 383-001.
+    
+    
+    
     Prerequisites: COMP 271 and COMP 381 (Equivalencies: BIOI/BIOL 388)
     
     
@@ -972,10 +977,6 @@ COMP 488 Topic : Computational Biology
     This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems
     and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and
     rapid sequence analysis.
-    
-    
-    
-    Outcome: Students will learn, in detail, foundational methods and algorithms in bioinformatics.
 
 
 
@@ -994,12 +995,12 @@ COMP 488 Topic : Organizational Change & Dev.
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`comp499` 
     | Section 001 (2066) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -1008,7 +1009,7 @@ COMP 488 Topic : Organizational Change & Dev.
 
 :doc:`comp499` 
     | Section 002 (5157) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
@@ -1017,7 +1018,7 @@ COMP 488 Topic : Organizational Change & Dev.
 
 :doc:`comp605` 
     | Section 001 (2449) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
