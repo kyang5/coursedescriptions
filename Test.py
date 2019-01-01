@@ -1,7 +1,9 @@
 import os
 import csv
 import datetime
+now = datetime.datetime.now()
 def parseing(fileName):
+	debugCounter = 0
 	sectionTemplate = '''
 :doc:`{subject}{catNumber}`{SpTopic} {Term}
     | Section {section} ({classNumber}) Credits: {units}; {mixture}; {component}
@@ -9,7 +11,7 @@ def parseing(fileName):
     |{Building}:{Room} {Location} {Days} {Time}
 
 	{description}
-''' 
+'''
 
 	sectionTemplateMultiRoom = '''
 :doc:`{subject}{catNumber}`{SpTopic} {Term}
@@ -18,7 +20,7 @@ def parseing(fileName):
     {multiRoom}
 
 	{description}
-''' 
+'''
 
 	sectionTemplateLab = '''
 :doc:`{subject}{catNumber}`{SpTopic} {Term}
@@ -28,7 +30,7 @@ def parseing(fileName):
     |{labBuilding}: {labRoom} ({labLocation}) {labDay} {labTime} (lab)
 
 	{description}
-''' 
+'''
 
 	comp314_315Template = '''
 	{subject}{catNumber} {Term} (Description: :doc:`comp314-315`)
@@ -48,7 +50,7 @@ def parseing(fileName):
 
 {description}
 '''
-	
+
 	headerTemplate = '''
 {semester} Schedule {txtURLline} {where}
 ==========================================================================
@@ -73,8 +75,7 @@ Friday line(s) are likely to be isolated makeup days, not every week.
 
 {graduateLink}
 
-**View Campus Specific Courses below :**
-{pages}
+**View Campus Specific Courses below :**{pages}
 
 
 
@@ -103,13 +104,13 @@ Graduate Courses
 	*supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 	'''
 	classes = []
-	headerObject = {'semester':'', 'textBookURLline':'<https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>', 
+	headerObject = {'semester':'', 'textBookURLline':'<https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>',
 		 'created':'', 'graduateLink':'', 'campusURLTemplateCuneo':'','season':'','udergradeTxt':'Undergraduate Courses', 'where':'', 'pages':'',
 		 'txtURLline':''}
 	object = {'subject':'','catNumber' : '', 'section':'', 'classNumber':'' , 'title':'','component':'',
 	'units':'', 'topics':'', 'Building' : '', 'Location':'', 'Room':'', 'Days':'',
-	'Time':'', 'Instructor':'', 'classCap':'','totalStudents':'', 'waitCap':'', 'waitTotal':'', 
-	'minEnroll':'', 'Attributes':'', 'roomCharicteristics':'', 'CombinedSID':'', 'ClassEquiv':'', 
+	'Time':'', 'Instructor':'', 'classCap':'','totalStudents':'', 'waitCap':'', 'waitTotal':'',
+	'minEnroll':'', 'Attributes':'', 'roomCharicteristics':'', 'CombinedSID':'', 'ClassEquiv':'',
 	'SpTopic':'', 'Term':'', 'mixture':'', 'description':'', 'hasLab':False, 'labBuilding':'', 'labRoom':'',
 	'labTime':'', 'labDay':'', 'labLocation':'', 'Term':'', 'isStudy':False, 'isMultiRoom':False, 'docName':'',
 	 'multiRoom':''}
@@ -122,10 +123,9 @@ Graduate Courses
 	hasLab = False
 	semester = ''
 	season = ''
-	now = datetime.datetime.now()
 	for row in reader:
 		#print(row)
-		
+
 		for i in range(0, len(row)):
 			if "COMP" == row[0]:
 				object['subject'] = row[i].lower().strip()
@@ -151,13 +151,18 @@ Graduate Courses
 					break
 				break
 			elif " Fall " in row[0]:
-				semester = "Fall " + str(now.year)
 				season = 'Fall'
+				semester = "Fall " + getYear(row[0].split(" "), season)
 				headerObject['season'] = season
 				headerObject['semester']= semester
 			elif " Spring " in row[0]:
-				semester = "Spring " + str(now.year)
 				season = 'Spring'
+				semester = "Spring " + getYear(row[0].split(" "), season)
+				headerObject['season'] = season
+				headerObject['semester']= semester
+			elif " Summer " in row[0]:
+				season = 'Summer'
+				semester = "Summer " + getYear(row[0].split(" "), season)
 				headerObject['season'] = season
 				headerObject['semester']= semester
 			elif 'Week' in row[0]:
@@ -166,7 +171,7 @@ Graduate Courses
 				if object['Building'] != '':
 					object['Building'] = object['Building'] + ' +' +str(row[i+1])
 					object['Room'] = object['Room'] +' + '+row[i+3]
-					object['Days']= object['Days'] +' + '+convertDays(row[i+5])
+					object['Days']= str(object['Days']) +' + '+ str(convertDays(row[i+5]))
 					object['Time'] = object['Time'] +' + '+row[i+7]
 					for j in range(0, len(LSBuildings)):
 						if LSBuildings[j] in row[i+1]:
@@ -175,12 +180,12 @@ Graduate Courses
 						if row[i+1] == 'TBA':
 							object["Location"] = '' + ' + ' + object['Location']
 							break
-						if row[i+1] == 'Online':
+						if 'Online' in row[i+1]:
 							object['Location'] =  '(Online)' + ' +' + object['Location']
 							break
 						if j == len(LSBuildings)-1:
-							object['Location'] = '(Water Tower)' + ' +' + object['Location'] 
-						  
+							object['Location'] = '(Water Tower)' + ' +' + object['Location']
+
 					object['isMultiRoom'] = True
 				else:
 					object['Building'] = row[i+1]
@@ -196,7 +201,7 @@ Graduate Courses
 						elif object["Building"] == 'TBA':
 							object["Location"] = ''
 							break
-						elif object['Building'] == 'Online':
+						elif 'Online' in object["Building"]:
 							object['Location'] = '(Online)'
 							break
 						else:
@@ -221,11 +226,11 @@ Graduate Courses
 								waterTower = False
 						if waterTower:
 							classes[m]['labLocation'] = 'Water Tower'
-							
-								
+
+
 						classes[m]['labRoom'] = row[i+3]
 						classes[m]['labDay']= convertDays(row[i+5])
-						classes[m]['labTime'] = row[i+7]	
+						classes[m]['labTime'] = row[i+7]
 				break
 			elif row[0] == 'Class Enrl Cap:':
 				object['classCap'] = row[i+1]
@@ -235,7 +240,7 @@ Graduate Courses
 				if i+9 < len(row[i]):
 					object['minEnroll'] = row[i+9]
 					break
-				break	
+				break
 			elif row[0] == 'Attributes:':
 				object['Attributes'] = row[1]
 			elif row[0] == 'Room Characteristics:':
@@ -266,7 +271,10 @@ Graduate Courses
 				for q in range(0,len(row)):
 					if row[q] != '':
 						object['mixture'] = row[q]
-					
+						if object['mixture'] == "(Online)":
+							object["Location"] = '(Online)'
+							object["Building"] = "Online"
+
 			else:
 				if row[i] != '':
 					string +=  row[i] + '\n        '
@@ -277,7 +285,7 @@ Graduate Courses
 				#print(len(classes))
 			elif object['isStudy']:
 				continue
-				
+
 			object = object.fromkeys(object, '')
 			appendToList = False
 			object['Building'] = ''
@@ -286,40 +294,32 @@ Graduate Courses
 			object['Days']= ''
 			object['Time'] = ''
 			object['Location'] = ''
-	mainRST = open(season+'.rst','w')
-	onlineRST = open('online'+season+'.rst','w')
-	lakeRST = open('lakeShore'+season+'.rst','w')
-	waterRST = open('waterTower'+season+'.rst','w')
+	mainRST = open('./checkFolder/'+season.lower()+'.rst','w')
+	onlineRST = open('./checkFolder/online'+season.lower()+'.rst','w')
+	lakeRST = open('./checkFolder/lakeshore'+season.lower()+'.rst','w')
+	waterRST = open('./checkFolder/watertower'+season.lower()+'.rst','w')
 	headerObject['pages'] = '''
-	:doc:`lakeShore{0}`
-
-	:doc:`waterTower{0}`
-
-	:doc:`online{0}`'''.format(season)
+	* :doc:`lakeshore{0}`
+	* :doc:`watertower{0}`
+	* :doc:`online{0}`'''.format(season.lower())
 	mainRST.write(headerTemplate.format(**headerObject))
 	headerObject['where'] = '(Lake Shore)'
 	headerObject['pages'] = '''
-	:doc:`{0}`
-
-	:doc:`waterTower{0}`
-
-	:doc:`online{0}`'''.format(season)
+	* :doc:`{0}`
+	* :doc:`watetower{0}`
+	* :doc:`online{0}`'''.format(season.lower())
 	lakeRST.write(headerTemplate.format(**headerObject))
 	headerObject['where'] = '(Online)'
 	headerObject['pages'] = '''
-	:doc:`lakeShore{0}`
-
-	:doc:`waterTower{0}`
-
-	:doc:`{0}`'''.format(season)
+	* :doc:`lakeshore{0}`
+	* :doc:`watertower{0}`
+	* :doc:`{0}`'''.format(season.lower())
 	onlineRST.write(headerTemplate.format(**headerObject))
 	headerObject['where'] = '(Water Tower)'
 	headerObject['pages'] = '''
-	:doc:`lakeShore{0}`
-
-	:doc:`{0}`
-
-	:doc:`online{0}`'''.format(season)
+	* :doc:`lakeshore{0}`
+	* :doc:`{0}`
+	* :doc:`online{0}`'''.format(season.lower())
 	waterRST.write(headerTemplate.format(**headerObject))
 	Check398 = True
 	Check499 = True
@@ -367,7 +367,7 @@ Graduate Courses
 		createHeading = False
 		if int(classes[k-1]['catNumber']) < 400 and int(classes[k]['catNumber']) >= 400:
 			createHeading = True
-			
+
 		if currentLine != 0:
 			if 'Lake' in classes[k]['Location']:
 				if createHeading:
@@ -391,8 +391,8 @@ Graduate Courses
 				fcurrentLine = gradHeadingTemplate.format(season, 'Fall') + '\n' + currentLine
 				mainRST.write(fcurrentLine+'\n')
 			else:
-				mainRST.write(currentLine+'\n')	
-	
+				mainRST.write(currentLine+'\n')
+
 	mainRST.close()
 	onlineRST.close()
 	lakeRST.close()
@@ -417,6 +417,13 @@ def convertDays(days):
 		return 'Tuesday, Thursday'
 	if days == 'MW':
 		return 'Monday, Wednesday'
-	
+#the first few lines of the csv have the semester and yearself.
+#once the parser gets to that row it parses it looking for the year.
+def getYear(words, season):
+	for i in range (0, len(words)):
+		if words[i] == season:
+			return words[i+1]
+	return str(now.year)
+
 name = input("Enter file name.")
-parseing(name) 
+parseing(name)
