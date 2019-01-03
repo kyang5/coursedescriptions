@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Watertower Campus )
 ==========================================================================
-Updated 12/18/2018 15:44:38
+Updated 01/02/2019 17:39:05
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
