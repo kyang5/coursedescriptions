@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule ( Online )
 ==========================================================================
-Updated 12/18/2018 15:44:38
+Updated 01/02/2019 17:39:05
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -100,7 +100,7 @@ Undergraduate Courses
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  More details will be forthcoming.
+    This is an online class, and totally asynchronous, with the option of meeting by appointment online or in person.
 
 
 :doc:`comp317` [Term: Eight Week - Second]
