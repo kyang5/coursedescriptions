@@ -29,14 +29,14 @@ Schedules
    summer
    spring
 
-Spring 2019 Syllabi
---------------------
+Syllabi
+---------
 .. toctree::
    :maxdepth: 1
 
    Spring_2019_Syllabi
 
-   
+
 
 If you wish to look forward further, see the Google doc containing the long term schedule, https://bit.ly/luccslts
 
