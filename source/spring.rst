@@ -1,7 +1,7 @@
 
 Spring 2019 Schedule 
 ==========================================================================
-Updated 12/18/2018 15:44:38
+Updated 01/02/2019 17:39:05
 
 The following courses will (tentatively) be held during the Spring 2019 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-Textbook information will be linked in later.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
 
 Section titles lines link to the course description page,
 except for special topics courses.  
@@ -416,7 +416,7 @@ Undergraduate Courses
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  More details will be forthcoming.
+    This is an online class, and totally asynchronous, with the option of meeting by appointment online or in person.
 
 
 :doc:`comp317` 
@@ -525,11 +525,16 @@ Undergraduate Courses
 
 
 :doc:`comp363` 
-    | Section 001 (3590) Credits: 3; In person; Lecture
+    | Section 001 (3590) Credits: 3; Blended; Lecture
     | Instructor: Andrew N Harrington
     | Cuneo Hall:202 (Lake Shore) Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
+    COMP 363 will be a blended course: starting in the classroom, with the middle of the semester online in Zoom at the regular class times, and ending the
+    semester in the classroom.  Exams are in the classroom.
+    
+    
+    
     This course is restricted to undergraduate students. Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
