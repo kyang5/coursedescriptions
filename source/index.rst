@@ -1,11 +1,13 @@
 CS Course Catalog
 ======================
 
-Welcome to the Course Catalog for the Computer Science Department
-of Loyola University Chicago!
+Overview
+-------------------------
+Welcome to the Course Catalog for the `Computer Science Department <https://luc.edu/cs/>`_
+at `Loyola University Chicago <https://luc.edu>`_.
 
-Below you can find information on all of our Course Offerings and Scedules as well as our
-Undergraduate and Graduate Degree Programs.
+Contents
+--------------------------
 
 * :ref:`schedules`
 * :ref:`undergraduate-degree-programs`
@@ -79,8 +81,10 @@ Undergraduate Degree Programs
 Undergraduate Courses
 --------------------------
 
-NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
+.. note::
+
+   Previous syllabi are available at :ref:`legacy_syllabi` 
+
 
 .. toctree::
    :maxdepth: 1
@@ -188,12 +192,9 @@ Graduate Degree Programs
 Graduate Courses
 ----------------------------
 
-NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
+.. note::
 
-
-For administrative information on course loads, registration, and course selection,
-please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
+   Previous syllabi are available at :ref:`legacy_syllabi` For administrative information on course loads, registration, and course selection, please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
 
 .. toctree::
    :maxdepth: 1
@@ -246,6 +247,14 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp499
    comp605
 
+
+.. _legacy_syllabi:
+
+Legacy Syllabi
+-----------------
+
+NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
+`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
 
 .. _downloading:
 
