@@ -1,11 +1,13 @@
 CS Course Catalog
 ======================
 
-Welcome to the Course Catalog for the Computer Science Department
-of Loyola University Chicago!
+Overview
+-------------------------
+Welcome to the Course Catalog for the `Computer Science Department <https://luc.edu/cs/>`_
+at `Loyola University Chicago <https://luc.edu>`_.
 
-Below you can find information on all of our Course Offerings and Scedules as well as our
-Undergraduate and Graduate Degree Programs.
+Contents
+--------------------------
 
 * :ref:`schedules`
 * :ref:`undergraduate-degree-programs`
@@ -13,9 +15,8 @@ Undergraduate and Graduate Degree Programs.
 * :ref:`graduate-degree-programs`
 * :ref:`graduate-courses`
 * :ref:`downloading`
-
-If you want another format of this document (html, pdf, ebook),
-see :ref:`download_other_formats`.
+* :ref:`tutoring`
+* :ref:`downloading`
 
 .. _schedules:
 
@@ -34,22 +35,33 @@ Syllabi
 .. toctree::
    :maxdepth: 1
 
-   Spring_2019_Syllabi
+   spring_2019_syllabi
 
 
 
-If you wish to look forward further, see the Google doc containing the long term schedule, https://bit.ly/luccslts
+* `Long-Term Schedule <https://bit.ly/luccslts>`_
+* :doc:`schedulearchive`
 
 .. old
    * :doc:`longtermschedule`
    * :doc:`cuneo2yrschedule`
 
-Or look further back to the :doc:`schedulearchive`
 
+.. _syllabi:
+
+Syllabi
+--------------------
+.. toctree::
+   :maxdepth: 1
+
+   spring_2019_syllabi
+
+.. _tutoring:
 
 Tutoring
+-------------
 
-* http://luc.edu/cs/schedules/tutoringhours/
+* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
 
 .. _undergraduate-degree-programs:
 
@@ -77,8 +89,10 @@ Undergraduate Degree Programs
 Undergraduate Courses
 --------------------------
 
-NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
+.. note::
+
+   Previous syllabi are available at :ref:`legacy_syllabi`
+
 
 .. toctree::
    :maxdepth: 1
@@ -186,12 +200,9 @@ Graduate Degree Programs
 Graduate Courses
 ----------------------------
 
-NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
-`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
+.. note::
 
-
-For administrative information on course loads, registration, and course selection,
-please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
+   Previous syllabi are available at :ref:`legacy_syllabi` For administrative information on course loads, registration, and course selection, please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulations.html>`_ of the Graduate Student Handbook.
 
 .. toctree::
    :maxdepth: 1
@@ -245,12 +256,20 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
    comp605
 
 
+.. _legacy_syllabi:
+
+Legacy Syllabi
+-----------------
+
+NOTE:  Correction for out of date syllabi links in course pages:  The past syllabus archive is temporarily located at the following link, with subfolders for each course:
+`Syllabi Information <https://loyolauniversitychicago-my.sharepoint.com/:f:/g/personal/rgreen_luc_edu/EpK_UT8HB5BNlJ-e7QlugxIBX9LMmcfJc7NfcUUQ3DcOQA?e=QNGD0g>`_
+
 .. _downloading:
 
 Downloading
 ----------------
 
-* :doc:`downloading`
-
+If you want another format of this document (html, pdf, ebook),
+see :ref:`download_other_formats`.
 
 :ref:`genindex`
