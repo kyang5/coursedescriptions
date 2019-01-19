@@ -30,6 +30,11 @@ Schedules
    summer
    spring
 
+* `Long-Term Schedule <https://bit.ly/luccslts>`_
+* :doc:`schedulearchive`
+
+.. _syllabi:
+
 Syllabi
 ---------
 .. toctree::
@@ -37,24 +42,7 @@ Syllabi
 
    spring_2019_syllabi
 
-
-
-* `Long-Term Schedule <https://bit.ly/luccslts>`_
-* :doc:`schedulearchive`
-
-.. old
-   * :doc:`longtermschedule`
-   * :doc:`cuneo2yrschedule`
-
-
-.. _syllabi:
-
-Syllabi
---------------------
-.. toctree::
-   :maxdepth: 1
-
-   spring_2019_syllabi
+* :ref:`legacy_syllabi` (deprecated)
 
 .. _tutoring:
 
