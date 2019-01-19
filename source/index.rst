@@ -13,9 +13,8 @@ Undergraduate and Graduate Degree Programs.
 * :ref:`graduate-degree-programs`
 * :ref:`graduate-courses`
 * :ref:`downloading`
-
-If you want another format of this document (html, pdf, ebook),
-see :ref:`download_other_formats`.
+* :ref:`tutoring`
+* :ref:`downloading`
 
 .. _schedules:
 
@@ -29,27 +28,30 @@ Schedules
    summer
    spring
 
-Spring 2019 Syllabi
---------------------
-.. toctree::
-   :maxdepth: 1
 
-   Spring_2019_Syllabi
-
-   
-
-If you wish to look forward further, see the Google doc containing the long term schedule, https://bit.ly/luccslts
+* `Long-Term Schedule <https://bit.ly/luccslts>`_
+* :doc:`schedulearchive`
 
 .. old
    * :doc:`longtermschedule`
    * :doc:`cuneo2yrschedule`
 
-Or look further back to the :doc:`schedulearchive`
 
+.. _syllabi:
+
+Syllabi
+--------------------
+.. toctree::
+   :maxdepth: 1
+
+   spring_2019_syllabi
+
+.. _tutoring:
 
 Tutoring
+-------------
 
-* http://luc.edu/cs/schedules/tutoringhours/
+* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
 
 .. _undergraduate-degree-programs:
 
@@ -250,7 +252,7 @@ please see the `Regulations Section <http://gradhandbook.cs.luc.edu/html/regulat
 Downloading
 ----------------
 
-* :doc:`downloading`
-
+If you want another format of this document (html, pdf, ebook),
+see :ref:`download_other_formats`.
 
 :ref:`genindex`
