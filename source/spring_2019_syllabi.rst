@@ -6,12 +6,11 @@ Spring 2019 Syllabi
    :header: "Class", "Professor", "Semester", "Syllabi"
    :widths: 20, 10, 20, 40
 
-   "COMP 111", "Dordal", "Spring 2019", "`PDF <https://drive.google.com/open?id=1KtCHefms4eSgp1KetIQ8SSMX0zhoe07e>`_"
    "COMP 125", "Nguyen", "Spring 2019", "`PDF <https://drive.google.com/open?id=17qKp1h8t-OZ-N2xg0hGwvdSYv5rjsKou>`_"
    "COMP 125", "Wetzel", "Spring 2019", "`PDF <https://drive.google.com/open?id=1JrFUyb3v9O7yc3MveTmP6eUq_ME4mi6D>`_"
-   "COMP 150", "Dordal", "Spring 2019", "`PDF <https://drive.google.com/open?id=1KtCHefms4eSgp1KetIQ8SSMX0zhoe07e>`_"
    "COMP 150", "Nguyen", "Spring 2019", "`PDF <https://drive.google.com/open?id=16htBVOBv4xSCW6ot5aAmhwvc25qmgFLZ>`_"
    "COMP 150", "O'Sullivan", "Spring 2019", "`PDF <https://drive.google.com/open?id=1NcXHvfQupvdAi6BNUtSHc4H9QtuglqZI>`_"
+   "COMP 150-111", "Dordal", "Spring 2019", "`PDF <https://drive.google.com/open?id=1KtCHefms4eSgp1KetIQ8SSMX0zhoe07e>`_"
    "COMP 163", "Irakliotis", "Spring 2019", "`PDF <https://drive.google.com/open?id=1AFENAEgVflOsjlWNlitwRwRPVjVHIK9n>`_"
    "COMP 163-001", "Irakliotis", "Spring 2019", "`PDF <https://drive.google.com/open?id=1Jn7qrDqL4okFi8HNvgsV3OnREqmGwtE8>`_"
    "COMP 163-003", "Lopez", "Spring 2019", "`PDF <https://drive.google.com/open?id=11BQFMNdgfmHV3BOyGj5KeCO594HN_vJu>`_"
@@ -55,8 +54,6 @@ Spring 2019 Syllabi
    "COMP 462", "Chan-Tin", "Spring 2019", "`PDF <https://drive.google.com/open?id=1aggb5HQHA_KZNCO9tdHaiVnxw5Cq2Ipu>`_"
    "COMP 469", "Durston", "Spring 2019", "`PDF <https://drive.google.com/open?id=1YstJID4UcnJaMeqkic7336U_sg4_nMdY>`_"
    "COMP 470", "Weisert", "Spring 2019", "`PDF <https://drive.google.com/open?id=1RclcnRNKRmg1DeG7Bxh_qkRFC9dbYSqE>`_"
-   "COMP 472", "Bevente", "Spring 2019", "`PDF <https://drive.google.com/open?id=1GJRdue0NiREeVzmoAJ2LKa1uVyAHINaF>`_"
-   "COMP 473", "Zewdie", "Spring 2019", "`PDF <https://drive.google.com/open?id=1PFT4TiI3skyBNNXM07rCZmN4mlMy79Ts>`_"
    "COMP 474", "Stone", "Spring 2019", "`PDF <https://drive.google.com/open?id=1vqi1LDrRnpRgF06RYbHUIF_ZIHACCUHq>`_"
    "COMP 474-001", "Stone", "Spring 2019", "`PDF <https://drive.google.com/open?id=1rkD2okSjK4bdlhkuTvzFwM110OjCMbgy>`_"
    "COMP 488", "Bevente", "Spring 2019", "`PDF <https://drive.google.com/open?id=1GJRdue0NiREeVzmoAJ2LKa1uVyAHINaF>`_"

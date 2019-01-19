@@ -30,6 +30,14 @@ Schedules
    summer
    spring
 
+Syllabi
+---------
+.. toctree::
+   :maxdepth: 1
+
+   spring_2019_syllabi
+
+
 
 * `Long-Term Schedule <https://bit.ly/luccslts>`_
 * :doc:`schedulearchive`
@@ -83,7 +91,7 @@ Undergraduate Courses
 
 .. note::
 
-   Previous syllabi are available at :ref:`legacy_syllabi` 
+   Previous syllabi are available at :ref:`legacy_syllabi`
 
 
 .. toctree::
