@@ -29,6 +29,13 @@ Schedules
    summer
    spring
 
+Spring 2019 Syllabi
+--------------------
+  .. toctree::
+     :maxdepth:
+
+    Spring_2019_Syllabi 
+
 If you wish to look forward further, see the Google doc containing the long term schedule, https://bit.ly/luccslts
 
 .. old
@@ -117,7 +124,7 @@ NOTE:  Correction for out of date syllabi links in course pages:  The past sylla
    comp339
    comp340
    comp341
-   comp342 
+   comp342
    comp343
    comp345
    comp346
