@@ -6,6 +6,6 @@ Course Schedules / Information
 
    spring
    summer
+   longtermschedule
 
-* `Long-Term Schedule <https://bit.ly/luccslts>`_
 
