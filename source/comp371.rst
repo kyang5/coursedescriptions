@@ -1,7 +1,7 @@
 ﻿.. index:: programming languages
 
-COMP 371 (formerly 372): Programming Languages
-===============================
+COMP 371: Programming Languages
+==================================
 
 There are over two thousand programming languages.  This course studies several languages that represent the much smaller number of underlying principles and paradigms.
 

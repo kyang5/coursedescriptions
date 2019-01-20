@@ -1,7 +1,7 @@
 .. index:: internet of things
 
 COMP 345: Internet of Things Device and Application Security
-=======================================================
+=============================================================
 
 Credit Hours
 -----------------------------------

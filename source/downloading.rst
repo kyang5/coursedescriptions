@@ -1,6 +1,6 @@
 .. index:: download
 
-.. _download_other_formats:
+.. _downloading:
 
 Download Other Formats
 =========================

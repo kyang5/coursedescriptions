@@ -2,7 +2,7 @@
    natural language processing 
 
 COMP 329: introduction to natural language processing
-===================================================
+=======================================================
 
 This course will act as an introduction to NPL(Natural Language Processing). NPL is the study of how a computer could comprehend human language.
 

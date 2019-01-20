@@ -1,7 +1,7 @@
 .. index:: cryptography
 
 COMP 331: Mathematical Foundations of Cryptography
-======================
+======================================================
 
 This course introduces the formal foundations of cryptography and also investigates some well-known standards and protocols, including
 private and public key cryptosystems, hashing, digital signatures, RSA, DSS, PGP, and related topics.
