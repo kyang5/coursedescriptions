@@ -18,6 +18,7 @@ Spring 2019 Syllabi
    "COMP 170", "Yacobellis", "Spring 2019", "`PDF <https://drive.google.com/open?id=1_d80QqkDTFd0ySthOSzz0-3uxQ-K0ZRW>`_"
    "COMP 170-003", "HONIG", "Spring 2019", "`PDF <https://drive.google.com/open?id=1g0FV_rjtd-37fazleZ3A8PTmvXtj6J6C>`_"
    "COMP 170-004", "HONIG", "Spring 2019", "`PDF <https://drive.google.com/open?id=1MoM-xk49zavDZzxVOIaxGF_Q1MAjec7o>`_"
+   "COMP 170-005", "Harrington", "Spring 2019", "`PDF <https://drive.google.com/open?id=1_dkn6pn2qo5qr_CC7QWRuBfelVcw-bgw>`_"
    "COMP 180", "Xiao", "Spring 2019", "`PDF <https://drive.google.com/open?id=1XzPWW4GybM43Pjpmhjd3lDJIw_fo8cm1>`_"
    "COMP 250", "Schwab", "Spring 2019", "`PDF <https://drive.google.com/open?id=1TKG7g70AUdWOA7V2ehf-t7vkIaUFWOlN>`_"
    "COMP 264", "Dordal", "Spring 2019", "`PDF <https://drive.google.com/open?id=1sSsiP85AalIWXNnWlw1RdCnQWs2iqJuU>`_"
