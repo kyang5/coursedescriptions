@@ -1,7 +1,7 @@
 .. _syllabi:
 
-Syllabi
----------
+Current Course Syllabi
+----------------------------------------------
 .. toctree::
    :maxdepth: 1
 

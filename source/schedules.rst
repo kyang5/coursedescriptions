@@ -1,5 +1,5 @@
-Schedules
-------------
+Course Scheduling Information
+-----------------------------------------------------
 
 .. toctree::
    :maxdepth: 1
@@ -9,5 +9,4 @@ Schedules
    spring
 
 * `Long-Term Schedule <https://bit.ly/luccslts>`_
-* :doc:`schedulearchive`
 
