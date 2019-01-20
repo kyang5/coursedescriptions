@@ -43,4 +43,7 @@ etc.
    legacy-syllabi
 
 
+Topics/Index
+-------------------
+
 :ref:`genindex`
