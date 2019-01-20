@@ -1,12 +1,11 @@
-Course Scheduling Information
+Course Schedules / Information
 -----------------------------------------------------
 
 .. toctree::
    :maxdepth: 1
 
-   fall
-   summer
    spring
+   summer
 
 * `Long-Term Schedule <https://bit.ly/luccslts>`_
 
