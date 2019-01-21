@@ -12,6 +12,7 @@ General Info
 
    schedules
    syllabi
+   legacy-syllabi
    tutoring
 
 Undergraduate Student Resources
@@ -33,17 +34,7 @@ Graduate Student Resources
    graduate-courses
 
 
-etc.
-----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   downloading
-   legacy-syllabi
-
-
-Topics/Index
+Topical Index
 -------------------
 
-:ref:`genindex`
+* :ref:`genindex`
