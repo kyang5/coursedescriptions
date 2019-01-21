@@ -13,7 +13,13 @@ General Info
    schedules
    syllabi
    legacy-syllabi
-   tutoring
+
+Key Department Links
+--------------------------
+
+* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
+
+.. _undergraduate-degree-programs:
 
 Undergraduate Student Resources
 -----------------------------------
