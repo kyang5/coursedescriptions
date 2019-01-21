@@ -3,6 +3,5 @@
 Tutoring
 -------------
 
-* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
+* `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_ (leaves site)
 
-.. _undergraduate-degree-programs:
