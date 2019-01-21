@@ -45,9 +45,4 @@ Students will learn the different parts of an operating system at a functional l
 Syllabi
 ---------------------
 
-.. csv-table::
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2013", "Joe Kaylor", "https://luc.box.com/s/6do6ewznl4fsppy9ofqrsoqm74t00bwz"
-	"Spring 2012", "Joe Kaylor and George K. Thiruvathukal", "https://luc.box.com/s/6do6ewznl4fsppy9ofqrsoqm74t00bwz"
+See :doc:`syllabi`.

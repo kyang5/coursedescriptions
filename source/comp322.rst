@@ -23,8 +23,4 @@ This course will focus on the unique challenges, methods, tools, and technologie
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2009", "Dr. Honig", "https://drive.google.com/file/d/0Bz_4VraMwHUoSGdaOU9JS0VUTms/edit?usp=sharing"
+See :doc:`syllabi`.

@@ -29,8 +29,4 @@ Appreciation that many aspects of neuroscience cannot be understood without appr
 Syllabi
 ---------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-  	"Fall 2015", "Dr.Albert", "https://docs.google.com/document/d/1eUdWoTmRYZtFVt0Sgnm4f2wnXKpRGmR1stZE9YpcYsQ/edit?usp=sharing"
+See :doc:`syllabi`.

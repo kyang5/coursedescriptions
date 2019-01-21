@@ -26,4 +26,4 @@ The course has been structured to provide logical, contiguous groupings of mater
 Syllabi
 ----------------------
 
-Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp441.pdf
+See :doc:`syllabi`.

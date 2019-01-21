@@ -24,3 +24,9 @@ Outcomes
 ----------------------------
 
 Students will explore the history of robotics, overview the theory of autonomous robotic systems, and develop complete robot projects.
+
+
+Syllabi
+--------------------
+
+See :doc:`syllabi`.

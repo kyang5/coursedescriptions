@@ -32,8 +32,4 @@ Students will gain hands-on experience with metagenomic methodologies while work
 Syllabi
 ---------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2015", "Dr. Putonti", "https://luc.box.com/s/xaz9hhvvql03to5o8g6xpj3tny2eia08"
+See :doc:`syllabi`.

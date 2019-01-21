@@ -23,5 +23,4 @@ Students will be exposed to a wide range of topics in computer science, particip
 Syllabi
 ---------------------
 
-None
-
+See :doc:`syllabi`.

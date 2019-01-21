@@ -28,4 +28,4 @@ Students will be able to create webpages using JavaScript and related tools and 
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

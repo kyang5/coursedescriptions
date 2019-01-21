@@ -44,3 +44,8 @@ Outcome
 ----------
 
 Knowledge of an advanced topic.
+
+Syllabi
+---------------------
+
+See :doc:`syllabi`.

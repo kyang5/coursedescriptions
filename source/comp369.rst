@@ -28,3 +28,8 @@ Outcomes
 Students will be able to visualize ideas via sketching basic shapes, create
 3D models using 3D modeling software, use a 3D Printer, and give constructive
 feedback in peer review sessions.
+
+Syllabi
+--------------------
+
+See :doc:`syllabi`.

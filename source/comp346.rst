@@ -34,9 +34,4 @@ Students will understand how modern telephone systems work.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2013", "Dr. Dordal", "https://luc.box.com/s/ggz236rzzkm8j93vwa8cwx4ukvjqw2lh"
-
+See :doc:`syllabi`.

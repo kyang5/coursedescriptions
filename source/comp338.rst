@@ -41,10 +41,4 @@ development tools and test-driven development.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2012", "Dr. Läufer", "https://luc.box.com/s/rqxwpqjrrmfumaf095x8g4p1qefbwss5"
-
-
+See :doc:`syllabi`.

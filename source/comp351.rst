@@ -44,10 +44,4 @@ Students will become familiar with the SNMP protocol, with how large-scale Netwo
 Syllabi
 --------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2011", "Dr. Dordal", "https://luc.box.com/s/qh7vz7emcb2bcou3c2v7nky4ghhwet68"
-
-
+See :doc:`syllabi`.

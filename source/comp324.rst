@@ -32,4 +32,4 @@ We shall also consider client-side usage of tools and technologies such as Node.
 Syllabi
 -------------
 
-Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp424.pdf
+See :doc:`syllabi`.

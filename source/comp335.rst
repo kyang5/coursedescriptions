@@ -28,3 +28,8 @@ Outcomes
 An understanding of the role of formal methods in the
 construction of software systems; proficiency in representative
 methods and tools, such as UML and ESC.
+
+Syllabi
+------------------
+
+See :doc:`syllabi`.

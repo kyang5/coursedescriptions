@@ -34,4 +34,4 @@ Students will learn how a compiler is built.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

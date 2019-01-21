@@ -48,4 +48,4 @@ Student will learn how to program real-time interactive applications using libra
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

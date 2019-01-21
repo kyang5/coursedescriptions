@@ -23,3 +23,8 @@ Outcomes
 ----------------------------
 Describe some recent computer software vulnerabilities at the machine-code level and how they can be leveraged into an attack.
 Run a virus in a virtual-machine sandbox with appropriate monitoring.
+
+Syllabi
+--------------------
+
+See :doc:`syllabi`.

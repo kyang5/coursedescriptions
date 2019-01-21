@@ -27,4 +27,4 @@ Syllabus
     :header: "Offering", "Instructor", "URL"
     :widths: 15, 25, 50
 
-	"Fall 2012", "Dr. Laufer", "http://laufer.cs.luc.edu/teaching/433"
+See :doc:`syllabi`.

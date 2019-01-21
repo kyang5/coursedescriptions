@@ -24,4 +24,4 @@ Regular progress on research projects and final presentations of results for dem
 Syllabi
 ---------------------
 
-None
+See :doc:`syllabi`.

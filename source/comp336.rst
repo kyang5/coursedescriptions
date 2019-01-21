@@ -46,10 +46,4 @@ relational databases, and network services.
 Syllabus
 ---------------------
 
-
-.. csv-table::
-    :header: "Offering", "Instructor", "URL"
-    :widths: 15, 25, 50
-
-	"Fall 2013", "Matt Bone", "https://luc.box.com/s/qferpymqukil4be7yw5yd7kclidq5r9e"
-    "Spring 2012", "Dr. Thiruvathukal", "http://markuplanguages.cs.courseclouds.com"
+See :doc:`syllabi`.

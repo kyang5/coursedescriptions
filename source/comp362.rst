@@ -47,4 +47,4 @@ A basic understanding of how computers work at many levels and how to use variou
 Syllabi
 ----------------------
 
-Not recently offered. See COMP 264.
+See :doc:`syllabi`.

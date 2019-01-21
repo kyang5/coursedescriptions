@@ -35,4 +35,4 @@ and techniques suitable for the development of a variety of game based environme
 Syllabi
 ----------------------
 
-Syllabus URL = http://linode4.cs.luc.edu/teaching/cs/syllabi/syllabus-comp488.pdf
+See :doc:`syllabi`.

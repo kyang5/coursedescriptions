@@ -2,6 +2,10 @@
 
 COMP 372: Programming languages
 ==========================
-This class has now been renamed to 371, to read more information click the link below.
 
-:doc:`comp371`
+See :doc:`comp371`. COMP 372 is now COMP 371.
+
+Syllabi
+--------------------
+
+See :doc:`syllabi`.

@@ -38,11 +38,4 @@ transient network failures and other potential anomalies.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2013", "Dr. Thiruvathukal", "https://luc.box.com/s/wtdgdnx6xiz6bwfhtejmo0u3nubhvln7"
-
-
-
+See :doc:`syllabi`.
