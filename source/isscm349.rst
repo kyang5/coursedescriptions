@@ -24,4 +24,4 @@ effective project teams.
 Syllabi
 --------------
 
-No recent syllabus available.
+See :doc:`syllabi`.
