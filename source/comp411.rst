@@ -22,4 +22,4 @@ System administration is an essential ingredient of modern computing practice. K
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

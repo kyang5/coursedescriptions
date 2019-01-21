@@ -33,4 +33,4 @@ production and operations management to decision making.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

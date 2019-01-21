@@ -34,4 +34,4 @@ solution of ordinary and partial differential equations.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

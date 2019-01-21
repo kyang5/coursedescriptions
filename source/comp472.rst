@@ -35,4 +35,4 @@ Students will learn the theory and practice of how to build a compiler.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

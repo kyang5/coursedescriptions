@@ -28,8 +28,4 @@ CORBA, Java RMI, SOAP (XML-based RPCs), and Globus.
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2013", "Dr. Thiruvathukal", "https://luc.box.com/s/s42vfem0702wvlo0fje3j8kff2hdjvmp"
+See :doc:`syllabi`.

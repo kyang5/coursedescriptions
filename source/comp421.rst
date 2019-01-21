@@ -33,4 +33,4 @@ for constructing an acceptable inventory policy.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

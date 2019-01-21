@@ -29,4 +29,4 @@ Students will create database applications using server-side technologies.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

@@ -29,8 +29,4 @@ Edition).
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Spring 2012", "Dr. Läufer", "https://luc.box.com/s/cq1dbfvyb6pej9b205oxtz67he1h93et"
+See :doc:`syllabi`.

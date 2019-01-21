@@ -31,8 +31,4 @@ support devices.
 Syllabi
 --------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
-	"Fall 2014", "William Honig", "https://luc.box.com/s/xqid0wvx7inxqb8zv0543prstan192tj"
+See :doc:`syllabi`.

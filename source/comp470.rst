@@ -28,4 +28,4 @@ to large data sets to make inferences for prediction or decision making.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

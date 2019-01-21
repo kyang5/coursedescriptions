@@ -31,4 +31,4 @@ Text: Applied Combinatorics, 4th edition, by Alan Tucker.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

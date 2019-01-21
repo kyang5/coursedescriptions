@@ -36,4 +36,4 @@ Students will learn both the theory and application of error-correcting codes.
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.
