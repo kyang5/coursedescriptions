@@ -39,4 +39,4 @@ Students will learn to design new data structures as well as learn to use existi
 
 Syllabi
 ----------------------
-https://loyolauniversitychicago-my.sharepoint.com/personal/rgreen_luc_edu/Documents/Forms/All.aspx?slrid=92c6a09e-50ce-7000-605a-8761ca33e7ad&FolderCTID=0x01200084ECD12922E500469949EFBB71732EEC&id=%2Fpersonal%2Frgreen_luc_edu%2FDocuments%2FSyllabi%2FCOMP%20271
+See :doc:`syllabi`.

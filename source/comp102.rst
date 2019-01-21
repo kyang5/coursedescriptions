@@ -35,4 +35,4 @@ An understanding of the technologies behind web sites and the ability to use the
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

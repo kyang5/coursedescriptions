@@ -39,4 +39,4 @@ Experience with Internet tools, desktop publishing, spreadsheets, databases, sta
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

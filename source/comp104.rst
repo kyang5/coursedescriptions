@@ -44,4 +44,4 @@ Ability to publish created animated media projects to the web in a process that 
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.

@@ -37,4 +37,4 @@ Outcome
 Syllabi
 ----------------------
 
-No recent syllabi available.
+See :doc:`syllabi`.
