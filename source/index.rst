@@ -10,16 +10,14 @@ General Info
 .. toctree::
    :maxdepth: 1
 
-   schedules
-   syllabi
-   legacy-syllabi
+   schedules/schedules
+   syllabi/syllabi
+   syllabi/legacy-syllabi
 
 Key Department Links
 --------------------------
 
 * `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
-
-.. _undergraduate-degree-programs:
 
 Undergraduate Student Resources
 -----------------------------------
@@ -27,8 +25,8 @@ Undergraduate Student Resources
 .. toctree::
    :maxdepth: 1
 
-   undergraduate-degree-programs
-   undergraduate-courses
+   undergraduate/undergraduate-degree-programs
+   courses/undergraduate-courses
 
 Graduate Student Resources
 -----------------------------------
@@ -36,8 +34,16 @@ Graduate Student Resources
 .. toctree::
    :maxdepth: 1
 
-   graduate-degree-programs
-   graduate-courses
+   graduate/graduate-degree-programs
+   courses/graduate-courses
+
+Legacy
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   careers/careerpaths
 
 
 Topical Index

@@ -1,0 +1,77 @@
+.. index:: problem solving strategies
+   acm programming team
+   programming team
+
+COMP 314/315: Problem Solving Strategies
+========================================
+
+This course allows students to sharpen problem-solving skills along with, 
+or as part of, the ACM Programming Team. 
+Groups generally work on old competition problems on alternate weekends, 
+with short follow-ups during the next week.
+
+Credit Hours
+-----------------------
+
+For 314: 1; For 315: 2
+
+Prerequisites
+---------------------
+
+For COMP 314: 
+
+:doc:`../courses/comp271` (or corequisite)
+
+For COMP 315:
+
+COMP 314: Problem Solving Strategies
+
+Description
+--------------------
+
+This course started as a means to give ACM programing team members
+academic credit for their participation. The class work will be designed
+to help these people. We will mostly work old programming team
+competition problems, alone and in groups, and discuss strategies for
+solving such problems effectively. You do not need to be interested in
+the official team to find these problems and the discussions about them
+interesting. You do NOT need to agree to be on the team to be in the
+class. You are welcomed to be in the class if you just want to sharpen
+your problem solving and triaging skills.  
+The competition problems are reasonable
+ones to work on with or without the competition. They are are quite
+unlike typical course homework exercises:  They come from all different areas,
+all different levels of difficulty, and the words describing them do not 
+directly say any algorithm needed. A significant part of each 
+problem is to classify it.  Advanced students will certainly find challenging
+problems to work on.  Students in Comp 271 should find enough to keep them
+productively occupied, and get a taste of more advanced techniques from 
+class discussions. 
+
+If you *do* want to compete officially, see also 
+http://anh.cs.luc.edu/314-315/prog-team.html.
+
+By enrolling in the sequence 314-315 over two years, you satisfy 3 units
+of elective credit in Computer Science department majors.
+
+In keeping with the programming competition format, we will arrange a
+schedule to meet about every two weekends for a 5 hour practice/problem
+solving session, with a weekday followup discussion for 1-1.5 hours on a
+weekday in the following week.
+
+The organizational meeting to agree on practice and discussion times
+will be in the afternoon in the first week of classes. The time will be
+posted.
+
+Contact Dr. Harrington if you cannot attend that session. Try to let him
+know ahead of time your available weekend times through October.
+
+Outcome
+----------------------
+
+Ability to work in small groups, quickly and accurately assessing and solving focused problems involving many sorts of programming knowledge.
+
+Syllabi
+----------------------
+
+See :doc:`../syllabi/syllabi`.

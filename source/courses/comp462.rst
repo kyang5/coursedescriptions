@@ -1,0 +1,49 @@
+.. index:: computer architecture
+
+COMP 462: Computer Architecture
+=======================================================
+
+Credit Hours
+-----------------------------------
+
+3
+
+Prerequisites
+----------------------------
+
+:doc:`../courses/comp264` or Comp 360 or comparable background, including but not limited to the following:
+
+- Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexors, registers, main memory, caches, and buses
+- familiarity with the roles of compilers, assemblers, and operating systems
+- some familiarity with assembly language
+- ability to understand simple C programs and to run programs in a UNIX environment, and
+- familiarity with the representation of numbers in digital computers
+
+
+Description
+----------------------------
+
+This course presents key principles underlying the design of modern digital
+computers. The course introduces quantitative techniques used to guide the
+design process. It describes CPU performance issues and introduces instruction
+set architectures. The course then uses a hypothetical computer design, with a
+simple RISC architecture, to show how modern digital computers are
+implemented, first using a simple non-pipelined implementation, followed by a
+higher-performace pipelined implementation. The major hazards introduced by
+pipelining, including structural hazards, data hazards, and control hazards
+are discussed and techniques for overcoming them are described. Additional
+topics covered in this course include the design of the memory hierarchy in
+modern digital computers, caching and virtual storage techniques,
+multiprocessor systems, and distributed shared memory systems.
+
+Outcome
+-------------
+
+Students gain an understanding of the design of the memory hierarchy in modern digital
+computers, caching and virtual storage techniques, multiprocessor systems, and distributed
+shared memory systems.
+
+Syllabi
+----------------------
+
+See :doc:`../syllabi/syllabi`.
