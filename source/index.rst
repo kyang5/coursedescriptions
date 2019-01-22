@@ -37,15 +37,6 @@ Graduate Student Resources
    graduate/graduate-degree-programs
    courses/graduate-courses
 
-Legacy
------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   careers/careerpaths
-
-
 Topical Index
 -------------------
 
