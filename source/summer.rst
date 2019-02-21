@@ -1,7 +1,7 @@
 
 Summer 2019 Schedule 
 ==========================================================================
-Updated 12/18/2018 15:53:02
+Updated 02/21/2019 12:23:16
 
 The following courses will (tentatively) be held during the Summer 2019 semester.
 
@@ -92,7 +92,7 @@ Undergraduate Courses
 
 :doc:`comp170` [Term: Eight Week - First]
     | Section 001 (1952) Credits: 3; Online; Lecture
-    | Instructor: Staff
+    | Instructor: Elliott Lawrence Post
     | Online Wednesday, Saturday 12:00PM-01:00
 
     **Notes:**
@@ -104,10 +104,18 @@ Undergraduate Courses
     graduate advisor.
 
 
+:doc:`comp271` [Term: Twelve Week]
+    | Section 001 (2745) Credits: 3; In person; Lecture
+    | Instructor: Leo Irakliotis
+    | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:30PM-03:10
+
+
+
+
 :doc:`comp312` [Term: Six Week - Second]
     | Section 01E (2570) Credits: 3; Blended; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Times: TBA
+    | Corboy Law Center:0306 (Water Tower) Tuesday, Thursday 05:30PM-08:45
 
     **Notes:**
     This is a blended class.  More details will be forthcoming.
@@ -124,7 +132,7 @@ Undergraduate Courses
 :doc:`comp313` [Term: Twelve Week]
     | Section 001 (2568) Credits: 3; Online; Lecture
     | Instructor: Robert Yacobellis
-    | Online Monday, Tuesday, Thursday 04:30PM-05:30
+    | Online Times: TBA
 
     **Notes:**
     This is an online class, combined with COMP 413-001. Preliminary synchronous (online) meeting times: Mondays, Tuesdays, and Thursdays, from 4:30 pm - 5:30
@@ -133,18 +141,19 @@ Undergraduate Courses
 
 
 :doc:`comp317` [Term: Six Week - First]
-    | Section 001 (2566) Credits: 3; In person; Lecture
+    | Section 01W (2566) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 05:30PM-08:45
 
     **Notes:**
+    This is a writing intensive class.
     Combined with COMP 417-001.
 
 
 :doc:`comp349` [Term: Six Week - Second]
     | Section 001 (2564) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Monday, Wednesday 06:00PM-09:15
+    | Online Times: TBA
 
     **Notes:**
     This is an online class.  Sessions will be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
@@ -153,7 +162,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Six Week - First]
     | Section 01E (1186) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -162,7 +171,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Six Week - Second]
     | Section 02E (1187) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -171,7 +180,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Eight Week - First]
     | Section 03E (1188) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -180,7 +189,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Twelve Week]
     | Section 04E (1743) Credits: 1 - 6; In person; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -189,7 +198,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Eight Week - First]
     | Section 05E (1907) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -198,7 +207,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Six Week - First]
     | Section 06E (1962) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -207,7 +216,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Six Week - Second]
     | Section 07E (1963) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -216,7 +225,7 @@ Undergraduate Courses
 
 :doc:`comp391` [Term: Twelve Week]
     | Section 08E (1964) Credits: 1 - 6; Online; Field Studies
-    | Instructor: Staff
+    | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
     **Notes:**
@@ -228,7 +237,7 @@ Undergraduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
 
 
 
@@ -242,7 +251,7 @@ Graduate Courses
 :doc:`comp412` [Term: Six Week - Second]
     | Section 001 (2571) Credits: 3; Blended; Lecture
     | Instructor: Peter L Dordal
-    | Place TBA (Water Tower) Times: TBA
+    | Corboy Law Center:0306 (Water Tower) Tuesday, Thursday 05:30PM-08:45
 
     **Notes:**
     This is a blended class.  More details will be forthcoming.
@@ -255,7 +264,7 @@ Graduate Courses
 :doc:`comp413` [Term: Twelve Week]
     | Section 001 (2569) Credits: 3; Online; Lecture
     | Instructor: Robert Yacobellis
-    | Online Monday, Tuesday, Thursday 04:30PM-05:30
+    | Online Times: TBA
 
     **Notes:**
     This is an online class, combined with COMP 313-001. Preliminary synchronous (online) meeting times: Mondays, Tuesdays, and Thursdays, from 4:30 pm - 5:30
@@ -266,7 +275,7 @@ Graduate Courses
 :doc:`comp417` [Term: Six Week - First]
     | Section 001 (2567) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
-    | Corboy Law Center:0423 (Water Tower) Tuesday, Thursday 05:30PM-08:45
+    | Corboy Law Center:0422 (Water Tower) Tuesday, Thursday 05:30PM-08:45
 
     **Notes:**
     Combined with COMP 317-001.
@@ -275,7 +284,7 @@ Graduate Courses
 :doc:`comp449` [Term: Six Week - Second]
     | Section 001 (2565) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Monday, Wednesday 06:00PM-09:15
+    | Online Times: TBA
 
     **Notes:**
     This is an online class.  Sessions will be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
@@ -286,8 +295,8 @@ Graduate Courses
 COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     | Section 001 (2632) Credits: 3; In person; Lecture
     | Instructor: Patrick L. Daubenmire
-    | Place TBA (Lake Shore) Monday, Tuesday, Wednesday, Thursday 08:00AM-05:00
-    | Place TBA (Lake Shore) Friday 08:00AM-12:00 - Check week(s)
+    | Sullivan Center:253 (Lake Shore) Monday, Tuesday, Wednesday, Thursday 08:00AM-05:00
+    | Sullivan Center:253 (Lake Shore) Friday 08:00AM-12:00 - Check week(s)
 
 
     **Notes:**
@@ -299,12 +308,12 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
 
 
 :doc:`comp499` [Term: Six Week - First]
     | Section 001 (1199) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -313,7 +322,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Six Week - Second]
     | Section 002 (1200) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -322,7 +331,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Eight Week - First]
     | Section 003 (1305) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -331,7 +340,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Twelve Week]
     | Section 004 (1306) Credits: 1 - 6; In person; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -340,7 +349,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Six Week - First]
     | Section 005 (1965) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
@@ -349,7 +358,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Six Week - Second]
     | Section 006 (1966) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
@@ -358,7 +367,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Eight Week - First]
     | Section 007 (1967) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
@@ -367,7 +376,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp499` [Term: Twelve Week]
     | Section 008 (1968) Credits: 1 - 6; Online; Independent Study
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 
     **Notes:**
@@ -376,7 +385,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp605` [Term: Six Week - First]
     | Section 001 (1492) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -385,7 +394,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp605` [Term: Six Week - Second]
     | Section 002 (1493) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -394,7 +403,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp605` [Term: Eight Week - First]
     | Section 003 (1494) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
@@ -403,7 +412,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
 
 :doc:`comp605` [Term: Twelve Week]
     | Section 004 (1745) Credits: 0; In person; FTC-Supervision
-    | Instructor: Staff
+    | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
 
     **Notes:**
