@@ -5,17 +5,32 @@ python:
 addons:
   apt:
     packages:
+    - latex-xcolor
+    - texlive-base
     - texlive-latex-base
     - texlive-latex-recommended
-    - texlive-latex-extra
     - texlive-fonts-recommended
+    - texlive-fonts-extra
+    - texlive-latex-extra
+    - texlive-formats-extra
+    - texlive-bibtex-extra
+    - texlive-humanities
     - texinfo
-    - mercurial
-install:
-- pip install sphinx
-- pip install sphinx_bootstrap_theme
+    - texlive-science
+    - latexmk
 script:
-- GH_USER=LoyolaChicagoCS GH_REPO=coursedescriptions "./gh-pages.sh"
-env:
-  global:
-  - secure: Wt8lqr0vx4nAyTlUPqdOZfDxuZ10IVyo1o2KL/JOkn4+mIxR5AoieN7xyImK5qhMKPy8fNxowz6CkMypCGNVT26kpnLJYXYF2lZf8H/6teYZTDMPLcj+A46rkBxYALtQrgpEbC4j6BI6Sk78LrLBs8+VC+MjpGB2/zq0qBi2FKc=
+- pip install -r requirements.txt
+- BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -s source
+- BOOK_VERSION=$(./get-current-version.sh) make latexpdf
+after_success:
+- travis-sphinx deploy #--cname academics.cs.luc.edu
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+  file_glob: true
+  file:
+    - ./**/LoyolaComputerScienceCourseHandbook.pdf
+  skip_cleanup: true
+  on:
+    repo: LoyolaChicagoCS/coursedescriptions
+    tags: true
