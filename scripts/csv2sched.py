@@ -46,6 +46,8 @@ from csv import reader
 ############## for log of errors/warnings #########
 
 import sys
+import os, os.path
+import argparse
 
 logList = []
 campuses = ['Lake Shore', 'Watertower', 'Online'] 
@@ -473,13 +475,26 @@ def parseCSV(csvFile):
             courses[section.abbr] = section
         #input('press return: ')  #DEBUG
 
+def get_argparse():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--csv-file', help="load CSV file", required=True)
+    parser.add_argument('--dest-dir', help="where to write files", default=os.getcwd())
+    return parser
 
 def main(csvFileName=None):
-    if not csvFileName:
-        csvFileName=input("Enter CSV file name base (like fall2018): ")
+
+    parser = get_argparse()
+    args = parser.parse_args()
+
+    csvFileName=args.csv_file
     if not csvFileName.endswith('.csv'):
-        csvFileName += '.csv'
-    print("Make sure last year's semester is archived!")
+        print("Filename %s MUST be CSV and end in .csv (aborting)" % csvFileName)
+        sys.exit(1)
+
+    if not os.path.exists(args.dest_dir):
+        printf("Destination dir %s must exist a priori. Please create now." % args.dest_dir)
+        sys.exit(1)
+
     (courses, semester, created) = parseCSV(csvFileName)
     fixLabs(courses)
     season = semester.split()[0].lower() # like Spring 2019 -> spring
@@ -491,7 +506,7 @@ def main(csvFileName=None):
     for mainCampus in [''] + campuses:
         rst = toAllRST(courses, semester, created, mainCampus, textURL)
         fName = campSeasonToDocName(mainCampus, season) + '.rst'
-        fName = 'source/' + fName
+        fName = os.path.join(args.dest_dir, fName)
         with open(fName, 'w') as outf:
             outf.write(rst)
         print('Wrote ' + fName)
