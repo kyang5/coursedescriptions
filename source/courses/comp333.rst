@@ -23,8 +23,4 @@ Web services are building blocks for enterprise applications that use open data 
 Syllabus
 ---------------------
 
-.. csv-table::
-    :header: "Offering", "Instructor", "URL"
-    :widths: 15, 25, 50
-
 See :doc:`../syllabi/syllabi`.

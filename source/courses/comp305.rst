@@ -38,8 +38,4 @@ Students will be able to use theory and pragmatic approaches to define and imple
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
 See :doc:`../syllabi/syllabi`.

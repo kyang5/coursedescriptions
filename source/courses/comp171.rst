@@ -33,8 +33,4 @@ Students will learn how a program can be put together quickly and efficiently to
 Syllabi
 ----------------------
 
-.. csv-table:: 
-   	:header: "Semester/Year", "Instructor", "URL"
-   	:widths: 15, 25, 50
-
 See :doc:`../syllabi/syllabi`.
