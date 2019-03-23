@@ -487,6 +487,8 @@ def main(csvFileName=None):
     args = parser.parse_args()
 
     csvFileName=args.csv_file
+    (csvPath, csvFileNameOnly) = os.path.split(csvFileName)
+    print(csvPath, csvFileNameOnly)
     if not csvFileName.endswith('.csv'):
         print("Filename %s MUST be CSV and end in .csv (aborting)" % csvFileName)
         sys.exit(1)
@@ -498,7 +500,9 @@ def main(csvFileName=None):
     (courses, semester, created) = parseCSV(csvFileName)
     fixLabs(courses)
     season = semester.split()[0].lower() # like Spring 2019 -> spring
-    with open(semester.replace(' ', '') + '.txt') as inf: # Spring 2019 -> Spring2019.txt
+    textbookFile = semester.replace(' ', '') + '.txt'
+    textbookPath = os.path.join(csvPath, textbookFile)
+    with open(textbookPath) as inf: # Spring 2019 -> Spring2019.txt
         semesterData = inf.readlines()
     textURL = semesterData[0].strip() # comment on omission of texts, or URL
     # more data later?
