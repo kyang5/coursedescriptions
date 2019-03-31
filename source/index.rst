@@ -41,6 +41,12 @@ Graduate Student Resources
    graduate/graduate-degree-programs
    courses/graduate-courses
 
+
+Download
+------------------
+
+- See `github.com/LoyolaChicagoCS/coursedescriptions/releases <https://github.com/LoyolaChicagoCS/coursedescriptions/releases>`_.
+
 Topical Index
 -------------------
 
