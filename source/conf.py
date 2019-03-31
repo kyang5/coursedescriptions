@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# LUC LUC CS Course Handbook build configuration file, created by
+# LUC LUC CS Loyola Chicago CS Academic Programs build configuration file, created by
 # sphinx-quickstart on Sat Feb  2 23:37:32 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -113,7 +113,7 @@ rst_epilog = """
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
-.. |cjc101| replace:: `CJC 101: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc102| replace:: `CJC 101: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
@@ -148,7 +148,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Course Handbook'
+project = u'Loyola Chicago CS Academic Programs'
 copyright = u'2018, CS Department'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -201,6 +201,8 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
+html_static_path = ['_static']
+
 html_context = {
             'css_files': [
                     '_static/theme_overrides.css',  # override wide tables in RTD theme
@@ -221,7 +223,7 @@ html_context = {
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "LUC CS Course Handbook"
+html_short_title = "LUC CS Loyola Chicago CS Academic Programs"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -235,7 +237,6 @@ html_short_title = "LUC CS Course Handbook"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-#html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
@@ -279,7 +280,7 @@ html_short_title = "LUC CS Course Handbook"
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LoyolaComputerScienceCourseHandbookdoc'
+htmlhelp_basename = 'LoyolaComputerScienceAcademicProgramsdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -298,7 +299,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LoyolaComputerScienceCourseHandbook.tex', u'LUC CS Course Handbook',
+  ('index', 'LoyolaComputerScienceAcademicPrograms.tex', u'LUC CS Loyola Chicago CS Academic Programs',
    u'CS Department', 'manual'),
 ]
 
@@ -328,7 +329,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'loyolauniversitychicagocomputerscience-Coursehandbook', u'LUC CS Course Handbook',
+    ('index', 'loyolauniversitychicagocomputerscience-Coursehandbook', u'LUC CS Loyola Chicago CS Academic Programs',
      [u'CS Department'], 1)
 ]
 
@@ -342,8 +343,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LoyolaComputerScienceCourseHandbook', u'LUC CS Course Handbook',
-   u'CS Department', 'LoyolaComputerScienceCourseHandbook', 'One line description of project.',
+  ('index', 'LoyolaComputerScienceAcademicPrograms', u'LUC CS Loyola Chicago CS Academic Programs',
+   u'CS Department', 'LoyolaComputerScienceAcademicPrograms', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -360,11 +361,11 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'LUC CS Course Handbook'
+epub_title = u'LUC CS Loyola Chicago CS Academic Programs'
 epub_author = u'CS Department'
 epub_publisher = u'CS Department'
 epub_copyright = u'2018, CS Department'
-epub_basename = 'LoyolaComputerScienceCourseHandbook'
+epub_basename = 'LoyolaComputerScienceAcademicPrograms'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
