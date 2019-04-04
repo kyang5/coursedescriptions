@@ -13,7 +13,7 @@ For open/full status and latest changes, see
 See `Textbook Information <https://docs.google.com/spreadsheets/d/19MYq_5u8uIOPtt200yDNJbdh8d-a93rZCstBDKzSQAc/edit#gid=0>`_.
 
 Section titles lines link to the course description page,
-except for special topics courses.  
+except for special topics courses.
 Some of those later show a link to a related course description.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -55,7 +55,7 @@ Graduate Courses
 
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
