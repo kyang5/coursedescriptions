@@ -6,5 +6,5 @@ Course Schedules / Information
 
    * longtermschedule
    * doc:`fall2019/fall`
-   * summer2019/summer
-   * spring2019/spring
+   * doc:`summer2019/summer`
+   * doc:`spring2019/spring`
