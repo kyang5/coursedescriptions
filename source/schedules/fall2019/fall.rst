@@ -83,7 +83,7 @@ Undergraduate Courses
     | Online Tuesday 07:00PM-09:30
 
     **Notes:**
-    The course will have a synchronous meeting time every  Tuesday from 7:00 pm � 9:30 pm
+    The course will have a synchronous meeting time every  Tuesday from 7:00 pm to 9:30 pm
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -638,7 +638,7 @@ COMP 388 Topic : Computing Career Preparation
     It is best for students to have taken a course such as COMP 125 or COMP 150 or COMP 170 or COMP 180 so that they have begun to acquire some technical
 
 
-:doc:`../../courses/comp390` 
+:doc:`../../courses/comp390`
     | Section 01E (3302) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
