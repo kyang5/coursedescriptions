@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`../../courses/125`
+:doc:`../../courses/comp125`
     | Section 003 (6124) Credits: 3; Online; Laboratory
     | Instructor: David Wetzel
     | Online Times: TBA
@@ -48,7 +48,7 @@ Undergraduate Courses
     This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
 
 
-:doc:`../../courses/150`
+:doc:`../../courses/comp150`
     | Section 001 (2938) Credits: 3; Online; Lecture
     | Instructor: John Nikolas O'Sullivan
     | Online Tuesday 07:00PM-09:30
@@ -61,7 +61,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`../../courses/150`
+:doc:`../../courses/comp150`
     | Section 002 (2940) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 01:00PM-02:15
@@ -79,7 +79,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`../../courses/150`
+:doc:`../../courses/comp150`
     | Section 003 (5174) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 08:30AM-09:45
@@ -97,7 +97,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`../../courses/150`
+:doc:`../../courses/comp150`
     | Section 004 (6123) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 10:00AM-11:15
@@ -115,7 +115,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`../../courses/170` [Term: Eight Week - First]
+:doc:`../../courses/comp170` [Term: Eight Week - First]
     | Section 700N (4980) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -126,7 +126,7 @@ Undergraduate Courses
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST.
 
 
-:doc:`../../courses/251` [Term: Eight Week - Second]
+:doc:`../../courses/comp251` [Term: Eight Week - Second]
     | Section 700N (5035) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -137,7 +137,7 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`../../courses/271` [Term: Eight Week - Second]
+:doc:`../../courses/comp271` [Term: Eight Week - Second]
     | Section 700N (5334) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Thursday 06:00PM-09:00
@@ -149,7 +149,7 @@ Undergraduate Courses
     COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 11/22 for holiday make-up class.
 
 
-:doc:`../../courses/319`
+:doc:`../../courses/comp319`
     | Section 001 (6134) Credits: 1; Online; Laboratory
     | Instructor: William Honig
     | Online Times: TBA
@@ -158,7 +158,7 @@ Undergraduate Courses
     This is an online class.  More details will be forthcoming.
 
 
-:doc:`../../courses/340`
+:doc:`../../courses/comp340`
     | Section 001 (6219) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
@@ -170,7 +170,7 @@ Undergraduate Courses
     Combined with COMP 488-340.
 
 
-:doc:`../../courses/343`
+:doc:`../../courses/comp343`
     | Section 002 (6262) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -183,7 +183,7 @@ Undergraduate Courses
     Combined with COMP 443-002.
 
 
-:doc:`../../courses/347`
+:doc:`../../courses/comp347`
     | Section 002 (6277) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Friday 05:45PM-08:15
@@ -197,7 +197,7 @@ Undergraduate Courses
     Combined with COMP 447-002.
 
 
-:doc:`../../courses/364`
+:doc:`../../courses/comp364`
     | Section 001 (6280) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
@@ -209,7 +209,7 @@ Undergraduate Courses
     Combined with COMP 464-001.
 
 
-:doc:`../../courses/390`
+:doc:`../../courses/comp390`
     | Section 01E (3302) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
@@ -227,7 +227,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
-:doc:`../../courses/391`
+:doc:`../../courses/comp391`
     | Section 02E (4329) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
@@ -237,7 +237,7 @@ Undergraduate Courses
     Computer Science Department staff member will enroll you.
 
 
-:doc:`../../courses/398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -253,7 +253,7 @@ Graduate Courses
 
 
 
-:doc:`../../courses/443`
+:doc:`../../courses/comp443`
     | Section 002 (6264) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -266,7 +266,7 @@ Graduate Courses
     Combined with COMP 343-002.
 
 
-:doc:`../../courses/447`
+:doc:`../../courses/comp447`
     | Section 002 (6279) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Friday 05:45PM-08:15
@@ -280,7 +280,7 @@ Graduate Courses
     Combined with COMP 347-002.
 
 
-:doc:`../../courses/464`
+:doc:`../../courses/comp464`
     | Section 001 (6281) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
@@ -297,7 +297,7 @@ COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (6188) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: :doc:`../../courses/340`
+    | Description similar to: :doc:`../../courses/comp340`
 
     **Notes:**
     Computer Forensics
@@ -318,7 +318,7 @@ COMP 488 Topic : Comp Forensics Investigations
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-:doc:`../../courses/490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -326,7 +326,7 @@ COMP 488 Topic : Comp Forensics Investigations
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
-:doc:`../../courses/499`
+:doc:`../../courses/comp499`
     | Section 002 (4330) Credits: 1 - 6; Online; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
