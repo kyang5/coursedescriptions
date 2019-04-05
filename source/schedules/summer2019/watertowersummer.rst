@@ -1,7 +1,7 @@
 
 Summer 2019 Schedule ( Watertower Campus )
 ==========================================================================
-Updated 02/21/2019 12:23:16
+Updated 04/05/2019 16:06:07
 
 The following courses will (tentatively) be held during the Summer 2019 semester.
 
@@ -10,7 +10,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-Textbook information will be linked in later.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
 
 Section titles lines link to the course description page,
 except for special topics courses.
@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`../../courses/comp398` 1-6 credits
+:doc:`../../courses/398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -55,9 +55,9 @@ Graduate Courses
 
 
 
-:doc:`../../courses/comp490` 1-6 credits
+:doc:`../../courses/490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis, Robert Yacobellis
