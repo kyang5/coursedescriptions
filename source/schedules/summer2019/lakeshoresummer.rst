@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp271` [Term: Twelve Week]
+:doc:`../../courses/comp271` [Term: Twelve Week]
     | Section 001 (2745) Credits: 3; In person; Lecture
     | Instructor: Leo Irakliotis
     | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:30PM-03:10
@@ -47,7 +47,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp391` [Term: Six Week - First]
+:doc:`../../courses/comp391` [Term: Six Week - First]
     | Section 01E (1186) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
@@ -56,7 +56,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
-:doc:`comp391` [Term: Six Week - Second]
+:doc:`../../courses/comp391` [Term: Six Week - Second]
     | Section 02E (1187) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
@@ -65,7 +65,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
-:doc:`comp391` [Term: Eight Week - First]
+:doc:`../../courses/comp391` [Term: Eight Week - First]
     | Section 03E (1188) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
@@ -74,7 +74,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
-:doc:`comp391` [Term: Twelve Week]
+:doc:`../../courses/comp391` [Term: Twelve Week]
     | Section 04E (1743) Credits: 1 - 6; In person; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Place TBA (Lake Shore) Times: TBA
@@ -83,7 +83,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -111,7 +111,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     AP Computer Science Principles Teacher Workshop meets July 8 - July 12, 2019:  Monday - Thursday, 8:00 am - 5:00 pm; and Friday, 8:00 am - 12:00 pm.
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -119,7 +119,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
 
 
-:doc:`comp499` [Term: Six Week - First]
+:doc:`../../courses/comp499` [Term: Six Week - First]
     | Section 001 (1199) Credits: 1 - 6; In person; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -128,7 +128,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     This course involves an internship experience.  Department Consent required.
 
 
-:doc:`comp499` [Term: Six Week - Second]
+:doc:`../../courses/comp499` [Term: Six Week - Second]
     | Section 002 (1200) Credits: 1 - 6; In person; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -137,7 +137,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     This course involves an internship experience.  Department Consent required.
 
 
-:doc:`comp499` [Term: Eight Week - First]
+:doc:`../../courses/comp499` [Term: Eight Week - First]
     | Section 003 (1305) Credits: 1 - 6; In person; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -146,7 +146,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     This course involves an internship experience.  Department Consent required.
 
 
-:doc:`comp499` [Term: Twelve Week]
+:doc:`../../courses/comp499` [Term: Twelve Week]
     | Section 004 (1306) Credits: 1 - 6; In person; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -155,7 +155,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     This course involves an internship experience.  Department Consent required.
 
 
-:doc:`comp605` [Term: Six Week - First]
+:doc:`../../courses/comp605` [Term: Six Week - First]
     | Section 001 (1492) Credits: 0; In person; FTC-Supervision
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -164,7 +164,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     Department Consent required.
 
 
-:doc:`comp605` [Term: Six Week - Second]
+:doc:`../../courses/comp605` [Term: Six Week - Second]
     | Section 002 (1493) Credits: 0; In person; FTC-Supervision
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -173,7 +173,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     Department Consent required.
 
 
-:doc:`comp605` [Term: Eight Week - First]
+:doc:`../../courses/comp605` [Term: Eight Week - First]
     | Section 003 (1494) Credits: 0; In person; FTC-Supervision
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
@@ -182,7 +182,7 @@ COMP 488 Topic : AP Comp Sci Principles W [Term: Six Week - Second]
     Department Consent required.
 
 
-:doc:`comp605` [Term: Twelve Week]
+:doc:`../../courses/comp605` [Term: Twelve Week]
     | Section 004 (1745) Credits: 0; In person; FTC-Supervision
     | Instructor: Andrew N Harrington, Channah Naiman
     | Place TBA (Lake Shore) Times: TBA
