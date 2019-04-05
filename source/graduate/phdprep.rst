@@ -1,3 +1,5 @@
+:orphan:
+
 PhD preparation
 ======================================================
 
@@ -21,7 +23,7 @@ Consider these courses:
     * Computer Networks: Comp 443
     * Ethical and Social Issues:  Comp 417
 
-* 6 credits of :doc:`comp490`
+* 6 credits of :doc:`../../courses/comp490`
 * :doc:`../courses/comp460`
 * :doc:`../courses/comp413`
 * :doc:`../courses/comp471`

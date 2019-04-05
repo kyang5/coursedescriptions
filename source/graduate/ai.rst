@@ -1,3 +1,5 @@
+:orphan:
+
 Artificial Intelligence
 ======================================================
 
@@ -25,6 +27,6 @@ Consider these courses:
 * Computer Vision (proposed)
 * Computational Neuroscience (still special topics :doc:`../courses/comp488`)
 * Faculty directed research: 6 credits of :doc:`../courses/comp490`
-* Required :doc:`../courses/comp417`, :doc:`comp413` and :doc:`../courses/comp460`
+* Required :doc:`../courses/comp417`, :doc:`../../courses/comp413` and :doc:`../courses/comp460`
 
 Back to :doc:`careerpaths`
