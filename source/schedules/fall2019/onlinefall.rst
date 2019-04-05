@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp125` 
+:doc:`../../courses/125`
     | Section 003 (6124) Credits: 3; Online; Laboratory
     | Instructor: David Wetzel
     | Online Times: TBA
@@ -48,74 +48,74 @@ Undergraduate Courses
     This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
 
 
-:doc:`comp150` 
+:doc:`../../courses/150`
     | Section 001 (2938) Credits: 3; Online; Lecture
     | Instructor: John Nikolas O'Sullivan
     | Online Tuesday 07:00PM-09:30
 
     **Notes:**
     This is an online, synchronous class.  Synchronous meeting time:  Tuesday, 7:00 pm - 9:30 pm.
-    
-    
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`../../courses/150`
     | Section 002 (2940) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
     This is an online, synchronous class.
-    
-    
+
+
     Synchronous in Zoom.  Synchronous meeting time:
-    
+
     Tuesday and Thursday, 1:00 pm - 2:15 pm.
-    
-    
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`../../courses/150`
     | Section 003 (5174) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 08:30AM-09:45
 
     **Notes:**
     This is an online, synchronous class.
-    
-    
+
+
     Synchronous in Zoom.  Synchronous meeting time:
-    
+
     Tuesday and Thursday, 8:30 am - 9:45 am.
-    
-    
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
 
-:doc:`comp150` 
+:doc:`../../courses/150`
     | Section 004 (6123) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
     This is an online, synchronous class.
-    
-    
+
+
     Synchronous in Zoom.  Synchronous meeting time:
-    
+
     Tuesday and Thursday, 10:00 am - 11:15 am.
-    
-    
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
 
-:doc:`comp170` [Term: Eight Week - First]
+:doc:`../../courses/170` [Term: Eight Week - First]
     | Section 700N (4980) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -126,7 +126,7 @@ Undergraduate Courses
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST.
 
 
-:doc:`comp251` [Term: Eight Week - Second]
+:doc:`../../courses/251` [Term: Eight Week - Second]
     | Section 700N (5035) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -137,7 +137,7 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`comp271` [Term: Eight Week - Second]
+:doc:`../../courses/271` [Term: Eight Week - Second]
     | Section 700N (5334) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Thursday 06:00PM-09:00
@@ -149,7 +149,7 @@ Undergraduate Courses
     COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 11/22 for holiday make-up class.
 
 
-:doc:`comp319` 
+:doc:`../../courses/319`
     | Section 001 (6134) Credits: 1; Online; Laboratory
     | Instructor: William Honig
     | Online Times: TBA
@@ -158,19 +158,19 @@ Undergraduate Courses
     This is an online class.  More details will be forthcoming.
 
 
-:doc:`comp340` 
+:doc:`../../courses/340`
     | Section 001 (6219) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
 
     **Notes:**
     This is an online, synchronous class.  Synchronous meeting time:  Wednesdays, 7:00 pm - 9:30 pm.
-    
-    
+
+
     Combined with COMP 488-340.
 
 
-:doc:`comp343` 
+:doc:`../../courses/343`
     | Section 002 (6262) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -178,12 +178,12 @@ Undergraduate Courses
     **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
-    
-    
+
+
     Combined with COMP 443-002.
 
 
-:doc:`comp347` 
+:doc:`../../courses/347`
     | Section 002 (6277) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Friday 05:45PM-08:15
@@ -191,43 +191,43 @@ Undergraduate Courses
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
-    
-    
-    
+
+
+
     Combined with COMP 447-002.
 
 
-:doc:`comp364` 
+:doc:`../../courses/364`
     | Section 001 (6280) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
     **Notes:**
     This is an online, synchronous class.  Synchronous meeting time: Wednesday, 7:00 pm - 9:30 pm.
-    
-    
+
+
     Combined with COMP 464-001.
 
 
-:doc:`comp390` 
+:doc:`../../courses/390`
     | Section 01E (3302) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
     **Notes:**
     Broadening Participation in STEM (Computing, Mathematics, and Science).
-    
-    
+
+
     This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
     the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
     semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
     first semester, respectively).
-    
-    
+
+
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
-:doc:`comp391` 
+:doc:`../../courses/391`
     | Section 02E (4329) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
@@ -237,7 +237,7 @@ Undergraduate Courses
     Computer Science Department staff member will enroll you.
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -253,7 +253,7 @@ Graduate Courses
 
 
 
-:doc:`comp443` 
+:doc:`../../courses/443`
     | Section 002 (6264) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
@@ -261,12 +261,12 @@ Graduate Courses
     **Notes:**
     This is an online class that includes synchronous and asynchronous interaction among students and Instructor.  Synchronous discussion sessions will be held
     Mondays and Tuesdays at 2:30 pm, and may vary in length from 30 minutes to one hour.  Participation in synchronous sessions is strongly recommended.
-    
-    
+
+
     Combined with COMP 343-002.
 
 
-:doc:`comp447` 
+:doc:`../../courses/447`
     | Section 002 (6279) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Friday 05:45PM-08:15
@@ -274,51 +274,51 @@ Graduate Courses
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
-    
-    
-    
+
+
+
     Combined with COMP 347-002.
 
 
-:doc:`comp464` 
+:doc:`../../courses/464`
     | Section 001 (6281) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
     **Notes:**
     This is an online, synchronous class.  Synchronous meeting time: Wednesday, 7:00 pm - 9:30 pm.
-    
-    
+
+
     Combined with COMP 364-001.
 
 
 
-COMP 488 Topic : Comp Forensics Investigations 
+COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (6188) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: :doc:`comp340`
+    | Description similar to: :doc:`../../courses/340`
 
     **Notes:**
     Computer Forensics
-    
-    
-    
+
+
+
     This is an online, synchronous class.  Synchronous meeting time:  Wednesdays, 7:00 pm - 9:30 pm.
-    
-    
+
+
     Combined with COMP 340-001.
-    
-    
-    
+
+
+
     Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
-    
-    
-    
+
+
+
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -326,7 +326,7 @@ COMP 488 Topic : Comp Forensics Investigations
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
-:doc:`comp499` 
+:doc:`../../courses/499`
     | Section 002 (4330) Credits: 1 - 6; Online; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
