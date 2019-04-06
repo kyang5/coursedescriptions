@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# LUC LUC CS Loyola Chicago CS Academic Programs build configuration file, created by
+# LUC LUC CS Loyola University Chicago CS - Academic Programs build configuration file, created by
 # sphinx-quickstart on Sat Feb  2 23:37:32 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -151,7 +151,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Loyola Chicago CS Academic Programs'
+project = u'Loyola University Chicago CS - Academic Programs'
 copyright = u'2018, CS Department'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -226,7 +226,7 @@ html_context = {
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "LUC CS Loyola Chicago CS Academic Programs"
+html_short_title = "LUC CS Loyola University Chicago CS - Academic Programs"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -302,7 +302,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LoyolaComputerScienceAcademicPrograms.tex', u'LUC CS Loyola Chicago CS Academic Programs',
+  ('index', 'LoyolaComputerScienceAcademicPrograms.tex', u'LUC CS Loyola University Chicago CS - Academic Programs',
    u'CS Department', 'manual'),
 ]
 
@@ -332,7 +332,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'loyolauniversitychicagocomputerscience-Coursehandbook', u'LUC CS Loyola Chicago CS Academic Programs',
+    ('index', 'loyolauniversitychicagocomputerscience-Coursehandbook', u'LUC CS Loyola University Chicago CS - Academic Programs',
      [u'CS Department'], 1)
 ]
 
@@ -346,7 +346,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LoyolaComputerScienceAcademicPrograms', u'LUC CS Loyola Chicago CS Academic Programs',
+  ('index', 'LoyolaComputerScienceAcademicPrograms', u'LUC CS Loyola University Chicago CS - Academic Programs',
    u'CS Department', 'LoyolaComputerScienceAcademicPrograms', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -364,7 +364,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'LUC CS Loyola Chicago CS Academic Programs'
+epub_title = u'LUC CS Loyola University Chicago CS - Academic Programs'
 epub_author = u'CS Department'
 epub_publisher = u'CS Department'
 epub_copyright = u'2018, CS Department'
