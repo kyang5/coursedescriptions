@@ -1,3 +1,5 @@
+:orphan:
+
 Web Developer / User Experience Designer
 ==========================================
 
@@ -39,6 +41,6 @@ Consider these courses:
 * :doc:`../courses/comp413`
 * :doc:`../courses/comp460`
 * :doc:`../courses/comp433` (useful)
-* Required :doc:`comp417` and 2-3 electives
+* Required :doc:`../../courses/comp417` and 2-3 electives
 
 Back to :doc:`careerpaths`

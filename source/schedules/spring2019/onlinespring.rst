@@ -1,3 +1,4 @@
+:orphan:
 
 Spring 2019 Schedule ( Online )
 ==========================================================================
@@ -39,7 +40,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp125`
+:doc:`../../courses/comp125`
     | Section 003 (6110) Credits: 3; Online; Laboratory
     | Instructor: David Wetzel
     | Online Times: TBA
@@ -48,7 +49,7 @@ Undergraduate Courses
     This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
 
 
-:doc:`comp170` [Term: Eight Week - First]
+:doc:`../../courses/comp170` [Term: Eight Week - First]
     | Section 700N (5037) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -59,7 +60,7 @@ Undergraduate Courses
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`comp271` [Term: Eight Week - Second]
+:doc:`../../courses/comp271` [Term: Eight Week - Second]
     | Section 700N (4253) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Thursday 06:00PM-09:00
@@ -71,7 +72,7 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`comp271` [Term: Eight Week - First]
+:doc:`../../courses/comp271` [Term: Eight Week - First]
     | Section 701N (6561) Credits: 3; Online; Lecture
     | Instructor: Elliott Lawrence Post
     | Online Wednesday 06:00PM-09:00
@@ -82,7 +83,7 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`comp300`
+:doc:`../../courses/comp300`
     | Section 002 (6002) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
@@ -94,7 +95,7 @@ Undergraduate Courses
     Combined with COMP 400-002.
 
 
-:doc:`comp317`
+:doc:`../../courses/comp317`
     | Section 001 (4086) Credits: 3; Online; Lecture
     | Instructor: Nicoletta Christina Montaner
     | Online Times: TBA
@@ -103,7 +104,7 @@ Undergraduate Courses
     This is an online class, and totally asynchronous, with the option of meeting by appointment online or in person.
 
 
-:doc:`comp317` [Term: Eight Week - Second]
+:doc:`../../courses/comp317` [Term: Eight Week - Second]
     | Section 700N (4270) Credits: 3; Online; Lecture
     | Instructor: Bruce A Montes
     | Online Wednesday 06:00PM-09:00
@@ -113,7 +114,7 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`comp340`
+:doc:`../../courses/comp340`
     | Section 001 (5966) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
@@ -122,7 +123,7 @@ Undergraduate Courses
     This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 488-340.
 
 
-:doc:`comp348`
+:doc:`../../courses/comp348`
     | Section 002 (5978) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -132,7 +133,7 @@ Undergraduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
 
 
-:doc:`comp390`
+:doc:`../../courses/comp390`
     | Section 01E (5990) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
@@ -150,7 +151,7 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
-:doc:`comp391`
+:doc:`../../courses/comp391`
     | Section 02E (4287) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
@@ -159,7 +160,7 @@ Undergraduate Courses
     This is an online class.  This class satisfies the Engaged Learning requirement in the Internship category.  Department Consent required.
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -175,7 +176,7 @@ Graduate Courses
 
 
 
-:doc:`comp400`
+:doc:`../../courses/comp400`
     | Section 002 (5993) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
@@ -187,7 +188,7 @@ Graduate Courses
     Combined with COMP 300-002.
 
 
-:doc:`comp448`
+:doc:`../../courses/comp448`
     | Section 002 (5980) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -197,7 +198,7 @@ Graduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 348-002.
 
 
-:doc:`comp474`
+:doc:`../../courses/comp474`
     | Section 001 (3185) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
@@ -211,7 +212,7 @@ COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (5967) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
-    | Description similar to: :doc:`comp340`
+    | Description similar to: :doc:`../../courses/comp340`
 
     **Notes:**
     Computer Forensics
@@ -232,7 +233,7 @@ COMP 488 Topic : Comp Forensics Investigations
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -240,7 +241,7 @@ COMP 488 Topic : Comp Forensics Investigations
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
-:doc:`comp499`
+:doc:`../../courses/comp499`
     | Section 002 (5157) Credits: 1 - 6; Online; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA

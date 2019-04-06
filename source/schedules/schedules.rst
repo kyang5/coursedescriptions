@@ -2,7 +2,7 @@ Course Schedules / Information
 -----------------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    longtermschedule
    fall2019/fall

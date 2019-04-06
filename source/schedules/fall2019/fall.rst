@@ -1,7 +1,7 @@
 
 Fall 2019 Schedule
 ==========================================================================
-Updated 03/21/2019 14:08:57
+Updated 04/05/2019 15:54:05
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -83,7 +83,9 @@ Undergraduate Courses
     | Online Tuesday 07:00PM-09:30
 
     **Notes:**
-    The course will have a synchronous meeting time every  Tuesday from 7:00 pm to 9:30 pm
+    This is an online, synchronous class.  Synchronous meeting time:  Tuesday, 7:00 pm - 9:30 pm.
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -91,10 +93,19 @@ Undergraduate Courses
 :doc:`../../courses/comp150`
     | Section 002 (2940) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
-    | Online Monday, Wednesday, Friday 08:15AM-09:05
+    | Online Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 1:00 pm - 2:15 pm.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp150`
@@ -103,7 +114,16 @@ Undergraduate Courses
     | Online Tuesday, Thursday 08:30AM-09:45
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 8:30 am - 9:45 am.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp150`
@@ -112,13 +132,22 @@ Undergraduate Courses
     | Online Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 10:00 am - 11:15 am.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp163`
     | Section 003 (4297) Credits: 3; In person; Lecture
-    | Instructor: George Thiruvathukal
-    | Place TBA (Lake Shore) Tuesday, Thursday 10:00AM-11:15
+    | Instructor: Neil Klingensmith
+    | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 08:30AM-09:45
 
     **Notes:**
     This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
@@ -133,7 +162,7 @@ Undergraduate Courses
 :doc:`../../courses/comp163`
     | Section 004 (5640) Credits: 3; In person; Lecture
     | Instructor: Neil Klingensmith
-    | Mundelein Center:0605 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
+    | Cuneo Hall:324 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
     **Notes:**
     This course is primarily intended to serve certain majors and minors.  Students wishing to satisfy Core requirements in the Quantitative Analysis knowledge
@@ -147,7 +176,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp163`
     | Section 005 (5641) Credits: 3; In person; Lecture
-    | Instructor: Neil Klingensmith
+    | Instructor: George Thiruvathukal
     | Cuneo Hall:103 (Lake Shore) Tuesday, Thursday 04:15PM-05:30
 
     **Notes:**
@@ -163,8 +192,8 @@ Undergraduate Courses
 :doc:`../../courses/comp170`
     | Section 001/01L (2941) Credits: 3; In person; Lecture/Lab
     | Instructor: David Eric Chan-Tin
-    | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
-    | Cuneo Hall:311 (Lake Shore) Monday 12:35PM-01:25 (lab)
+    | Cuneo Hall:312 (Lake Shore) Monday, Wednesday, Friday 11:30AM-12:20
+    | Cuneo Hall:312 (Lake Shore) Monday 12:35PM-01:25 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -204,7 +233,7 @@ Undergraduate Courses
     | Section 003/03L (5342) Credits: 3; In person; Lecture/Lab
     | Instructor: Dmitriy Dligach
     | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
-    | Cuneo Hall:312 (Lake Shore) Thursday 02:30PM-03:45 (lab)
+    | Cuneo Hall:311 (Lake Shore) Thursday 02:30PM-03:45 (lab)
 
     **Notes:**
     This course is restricted to students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP 170 should
@@ -224,7 +253,7 @@ Undergraduate Courses
     | Section 004/04L (3378) Credits: 3; In person; Lecture/Lab
     | Instructor: William Honig
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 10:25AM-11:15
-    | Cuneo Hall:312 (Lake Shore) Wednesday 11:30AM-12:20 (lab)
+    | Cuneo Hall:311 (Lake Shore) Wednesday 11:30AM-12:20 (lab)
 
     **Notes:**
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
@@ -243,7 +272,7 @@ Undergraduate Courses
 :doc:`../../courses/comp170`
     | Section 005 (6540) Credits: 3; In person; Lecture
     | Instructor: Robert Yacobellis
-    | Cuneo Hall:312 (Lake Shore) Tuesday, Thursday 04:15PM-06:00
+    | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 04:15PM-06:00
 
     **Notes:**
     This course is restricted to undergraduate students in the College of Arts and Sciences.  Students from other schools specifically wishing to enroll in COMP
@@ -268,7 +297,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp180`
     | Section 001 (5277) Credits: 3; In person; Lecture
-    | Instructor: Ting Xiao
+    | Instructor: Staff
     | Crown Center:103 (Lake Shore) Monday, Wednesday, Friday 09:20AM-10:10
 
 
@@ -341,7 +370,7 @@ Undergraduate Courses
 :doc:`../../courses/comp271`
     | Section 001 (5346) Credits: 3; In person; Lecture
     | Instructor: Chandra N Sekharan
-    | Mundelein Center:0519 (Lake Shore) Tuesday, Thursday 02:30PM-04:05
+    | Cuneo Hall:312 (Lake Shore) Tuesday, Thursday 02:30PM-04:05
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -396,7 +425,7 @@ Undergraduate Courses
 :doc:`../../courses/comp313`
     | Section 002 (6311) Credits: 3; In person; Lecture
     | Instructor: Konstantin Laufer
-    | Cuneo Hall:311 (Lake Shore) Thursday 04:15PM-06:45
+    | Cuneo Hall:312 (Lake Shore) Thursday 04:15PM-06:45
 
 
 
@@ -534,7 +563,7 @@ Undergraduate Courses
 :doc:`../../courses/comp347`
     | Section 002 (6277) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Times: TBA
+    | Online Friday 05:45PM-08:15
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
@@ -581,7 +610,8 @@ Undergraduate Courses
     | Instructor: Konstantin Laufer
     | Cuneo Hall:302 (Lake Shore) Tuesday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 471-001.
 
 
 :doc:`../../courses/comp377`
@@ -805,7 +835,7 @@ Graduate Courses
 :doc:`../../courses/comp447`
     | Section 002 (6279) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Times: TBA
+    | Online Friday 05:45PM-08:15
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
@@ -845,7 +875,8 @@ Graduate Courses
     | Instructor: Konstantin Laufer
     | Cuneo Hall:302 (Lake Shore) Tuesday 04:15PM-06:45
 
-
+    **Notes:**
+    Combined with COMP 371-001.
 
 
 :doc:`../../courses/comp477`
@@ -873,7 +904,8 @@ COMP 488 Topic : Data Visualization & Explor
     | Cuneo Hall:117 (Lake Shore) Thursday 04:15PM-06:45
 
 
-
+    **Notes:**
+    Data Visualization & Exploration
 
 
 
@@ -941,7 +973,7 @@ COMP 488 Topic : Bioinformatics
 
 
 
-    Combined with COMP 381-001.
+    Combined with COMP 381-001, BIOL 388-001, and BIOL 488-001.
 
 
 :doc:`../../courses/comp490` 1-6 credits

@@ -1,3 +1,4 @@
+:orphan:
 
 Spring 2019 Schedule ( Watertower Campus )
 ==========================================================================
@@ -39,7 +40,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -55,7 +56,7 @@ Graduate Courses
 
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who

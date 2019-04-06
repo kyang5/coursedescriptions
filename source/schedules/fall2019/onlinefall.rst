@@ -1,7 +1,8 @@
+:orphan:
 
 Fall 2019 Schedule ( Online )
 ==========================================================================
-Updated 03/21/2019 14:08:57
+Updated 04/05/2019 15:54:05
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -54,7 +55,9 @@ Undergraduate Courses
     | Online Tuesday 07:00PM-09:30
 
     **Notes:**
-    The course will have a synchronous meeting time every  Tuesday from 7:00 pm � 9:30 pm
+    This is an online, synchronous class.  Synchronous meeting time:  Tuesday, 7:00 pm - 9:30 pm.
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -62,10 +65,19 @@ Undergraduate Courses
 :doc:`../../courses/comp150`
     | Section 002 (2940) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
-    | Online Monday, Wednesday, Friday 08:15AM-09:05
+    | Online Tuesday, Thursday 01:00PM-02:15
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 1:00 pm - 2:15 pm.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp150`
@@ -74,7 +86,16 @@ Undergraduate Courses
     | Online Tuesday, Thursday 08:30AM-09:45
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 8:30 am - 9:45 am.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp150`
@@ -83,7 +104,16 @@ Undergraduate Courses
     | Online Tuesday, Thursday 10:00AM-11:15
 
     **Notes:**
-    Synchronous in Zoom
+    This is an online, synchronous class.
+
+
+    Synchronous in Zoom.  Synchronous meeting time:
+
+    Tuesday and Thursday, 10:00 am - 11:15 am.
+
+
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
 :doc:`../../courses/comp170` [Term: Eight Week - First]
@@ -157,7 +187,7 @@ Undergraduate Courses
 :doc:`../../courses/comp347`
     | Section 002 (6277) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Times: TBA
+    | Online Friday 05:45PM-08:15
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
@@ -240,7 +270,7 @@ Graduate Courses
 :doc:`../../courses/comp447`
     | Section 002 (6279) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
-    | Online Times: TBA
+    | Online Friday 05:45PM-08:15
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions

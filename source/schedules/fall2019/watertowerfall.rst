@@ -1,7 +1,8 @@
+:orphan:
 
 Fall 2019 Schedule ( Watertower Campus )
 ==========================================================================
-Updated 03/21/2019 14:08:57
+Updated 04/05/2019 15:54:05
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
