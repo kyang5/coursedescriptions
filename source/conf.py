@@ -113,11 +113,14 @@ rst_epilog = """
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
-.. |cjc102| replace:: `CJC 101: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
+.. |cjc102| replace:: `CJC 102: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+
 
 """
 
