@@ -47,7 +47,7 @@ Tne `Graduate Handbook <https://graduatehandbook.cs.luc.edu>`_ is a separate
 document which has
 administrative and admissions information for the graduate program
 (also available in a
-`pdf version <http://gradhandbook.cs.luc.edu/latex/LoyolaComputerScienceGradHandbook.pdf>`_).
+`pdf version <https://graduatehandbook.cs.luc.edu/LoyolaComputerScienceGradHandbook.pdf>`_).
 
 *Applicants* should particular;ly note the Graduate Handbook sections for
 
