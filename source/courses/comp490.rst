@@ -27,7 +27,7 @@ agreement is made with the student.
 A good feature of an independent project is that you can make your transcript
 show a course title that is specific to your particular project. Fill out the
 `Request for Course Title form <http://www.luc.edu/media/lucedu/gradschool/pdfs/Request%20for%20Course%20Title.pdf>`_, and get the signature of your supervisor and
-the gpd. More information can be found in the `Graduate Program Handbook <http://gradhandbook.cs.luc.edu/html/regulations.html#independent-study>`_.
+the gpd. More information can be found in the `Graduate Program Handbook <https://graduatehandbook.cs.luc.eduregulations.html#independent-study>`_.
 
 
 Syllabi
