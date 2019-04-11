@@ -11,7 +11,7 @@ For open/full status and latest changes, see
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
+See `Textbook Information <https://academics.luc.edu/Summer2019Text.pdf>`_.
 
 Section titles lines link to the course description page,
 except for special topics courses.
