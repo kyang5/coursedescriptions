@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Watertower Campus )
 ==========================================================================
-Updated 04/05/2019 15:54:05
+Updated 04/15/2019 17:17:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -40,12 +40,12 @@ Undergraduate Courses
 
 
 
-:doc:`../../courses/comp398` 1-6 credits
+::doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 
@@ -56,9 +56,9 @@ Graduate Courses
 
 
 
-:doc:`../../courses/comp490` 1-6 credits
+::doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
