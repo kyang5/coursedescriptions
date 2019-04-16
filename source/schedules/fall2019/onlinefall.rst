@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Online )
 ==========================================================================
-Updated 04/05/2019 15:54:05
+Updated 04/15/2019 17:17:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -191,8 +191,15 @@ Undergraduate Courses
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
+    will also be recorded and made available.
 
+
+
+    * Students may participate synchronously or asynchronously at their discretion. *
+
+
+
+    Synchronous meeting time:  Friday, 5:45 pm - 8:15 pm.
 
 
     Combined with COMP 447-002.
@@ -208,6 +215,18 @@ Undergraduate Courses
 
 
     Combined with COMP 464-001.
+
+
+:doc:`../../courses/comp377`
+    | Section 002 (6920) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
+    Combined with COMP 477-002.
 
 
 :doc:`../../courses/comp390`
@@ -238,12 +257,12 @@ Undergraduate Courses
     Computer Science Department staff member will enroll you.
 
 
-:doc:`../../courses/comp398` 1-6 credits
+::doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 
@@ -274,11 +293,33 @@ Graduate Courses
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
+    will also be recorded and made available.
 
+
+
+    * Students may participate synchronously or asynchronously at their discretion. *
+
+
+
+    Synchronous meeting time:  Friday, 5:45 pm - 8:15 pm.
 
 
     Combined with COMP 347-002.
+
+
+:doc:`../../courses/comp453`
+    | Section 002 (6917) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
+    This section of COMP 453 will use Python to access a MySQL database both locally and remotely.  The Flask web development framework is used.  We will
+    incorporate both standard SQL queries as well as SQLAlchemy as an object-relational mapping (ORM) tool.  A complete website with user account support and
+    CRUD capabilities is developed.  Python will also be used to introduce MongoDB for data cleaning and querying, using the MongoDB Aggregation Framework as
+    well as the MongoDB query language.  We will use Jupyter Notebooks for interactive testing, MongoDB Atlas as a cloud-based host, and Compass as a local GUI.
 
 
 :doc:`../../courses/comp464`
@@ -293,12 +334,39 @@ Graduate Courses
     Combined with COMP 364-001.
 
 
+:doc:`../../courses/comp477`
+    | Section 002 (6919) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
+    Combined with COMP 377-002.
+
+
+
+COMP 488 Topic : Data Visualization & Explor
+    | Section 002 (6918) Credits: 1 - 4; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+
+    **Notes:**
+    Data Visualization & Exploration
+
+
+
+    This is an online, asynchronous class.
+
+
 
 COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (6188) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: :doc:`../../courses/comp340`
+    | Description similar to: ::doc:`../../courses/comp340`
 
     **Notes:**
     Computer Forensics
@@ -319,12 +387,12 @@ COMP 488 Topic : Comp Forensics Investigations
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-:doc:`../../courses/comp490` 1-6 credits
+::doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`../../courses/comp499`

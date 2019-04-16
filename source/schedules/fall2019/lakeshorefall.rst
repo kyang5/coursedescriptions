@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 04/05/2019 15:54:05
+Updated 04/15/2019 17:17:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -282,7 +282,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp271`
     | Section 003/03L (5347) Credits: 3; In person; Lecture/Lab
-    | Instructor: Mark Albert
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
     | Cuneo Hall:311 (Lake Shore) Wednesday 12:35PM-01:25 (lab)
 
@@ -383,7 +383,7 @@ Undergraduate Courses
 :doc:`../../courses/comp363`
     | Section 001 (2953) Credits: 3; In person; Lecture
     | Instructor: Catherine Putonti
-    | Cuneo Hall:203 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
+    | Dumbach Hall:227 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -463,17 +463,17 @@ COMP 388 Topic : Computing Career Preparation
     staff member will enroll you.
 
 
-:doc:`../../courses/comp398` 1-6 credits
+::doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`../../courses/comp399`
     | Section 001 (4306) Credits: 1; In person; Lecture
-    | Instructor: Mark Albert
+    | Instructor: Staff
     | Cuneo Hall:202 (Lake Shore) Thursday 04:15PM-05:30
 
 
@@ -595,7 +595,7 @@ COMP 488 Topic : Computer Vulnerabilities
     | Section 352 (6189) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Monday 04:15PM-06:45
-    | Description similar to: :doc:`../../courses/comp352`
+    | Description similar to: ::doc:`../../courses/comp352`
 
     **Notes:**
     Computer Vulnerabilities
@@ -622,7 +622,7 @@ COMP 488 Topic : Bioinformatics
     | Section 381 (6191) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
-    | Description similar to: :doc:`../../courses/comp381`
+    | Description similar to: ::doc:`../../courses/comp381`
 
     **Notes:**
     Bioinformatics
@@ -632,12 +632,12 @@ COMP 488 Topic : Bioinformatics
     Combined with COMP 381-001, BIOL 388-001, and BIOL 488-001.
 
 
-:doc:`../../courses/comp490` 1-6 credits
+::doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`../../courses/comp499`

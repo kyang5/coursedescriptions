@@ -1,7 +1,7 @@
 
 Fall 2019 Schedule
 ==========================================================================
-Updated 04/05/2019 15:54:05
+Updated 04/15/2019 17:17:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -379,7 +379,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp271`
     | Section 003/03L (5347) Credits: 3; In person; Lecture/Lab
-    | Instructor: Mark Albert
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Monday, Wednesday, Friday 01:40PM-02:30
     | Cuneo Hall:311 (Lake Shore) Wednesday 12:35PM-01:25 (lab)
 
@@ -567,8 +567,15 @@ Undergraduate Courses
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
+    will also be recorded and made available.
 
+
+
+    * Students may participate synchronously or asynchronously at their discretion. *
+
+
+
+    Synchronous meeting time:  Friday, 5:45 pm - 8:15 pm.
 
 
     Combined with COMP 447-002.
@@ -586,7 +593,7 @@ Undergraduate Courses
 :doc:`../../courses/comp363`
     | Section 001 (2953) Credits: 3; In person; Lecture
     | Instructor: Catherine Putonti
-    | Cuneo Hall:203 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
+    | Dumbach Hall:227 (Lake Shore) Monday, Wednesday, Friday 12:35PM-01:25
 
     **Notes:**
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -621,6 +628,18 @@ Undergraduate Courses
 
     **Notes:**
     Combined with COMP 477-001.
+
+
+:doc:`../../courses/comp377`
+    | Section 002 (6920) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
+    Combined with COMP 477-002.
 
 
 :doc:`../../courses/comp379`
@@ -706,17 +725,17 @@ COMP 388 Topic : Computing Career Preparation
     Computer Science Department staff member will enroll you.
 
 
-:doc:`../../courses/comp398` 1-6 credits
+::doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`../../courses/comp399`
     | Section 001 (4306) Credits: 1; In person; Lecture
-    | Instructor: Mark Albert
+    | Instructor: Staff
     | Cuneo Hall:202 (Lake Shore) Thursday 04:15PM-05:30
 
 
@@ -839,8 +858,15 @@ Graduate Courses
 
     **Notes:**
     This is an online class.  The classroom session will be broadcast live on Friday evenings via AdobeConnect, allowing online student interaction.  Sessions
-    will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.
+    will also be recorded and made available.
 
+
+
+    * Students may participate synchronously or asynchronously at their discretion. *
+
+
+
+    Synchronous meeting time:  Friday, 5:45 pm - 8:15 pm.
 
 
     Combined with COMP 347-002.
@@ -852,6 +878,21 @@ Graduate Courses
     | Cuneo Hall:202 (Lake Shore) Tuesday 04:15PM-06:45
 
     **Notes:**
+    This section of COMP 453 will use Python to access a MySQL database both locally and remotely.  The Flask web development framework is used.  We will
+    incorporate both standard SQL queries as well as SQLAlchemy as an object-relational mapping (ORM) tool.  A complete website with user account support and
+    CRUD capabilities is developed.  Python will also be used to introduce MongoDB for data cleaning and querying, using the MongoDB Aggregation Framework as
+    well as the MongoDB query language.  We will use Jupyter Notebooks for interactive testing, MongoDB Atlas as a cloud-based host, and Compass as a local GUI.
+
+
+:doc:`../../courses/comp453`
+    | Section 002 (6917) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
     This section of COMP 453 will use Python to access a MySQL database both locally and remotely.  The Flask web development framework is used.  We will
     incorporate both standard SQL queries as well as SQLAlchemy as an object-relational mapping (ORM) tool.  A complete website with user account support and
     CRUD capabilities is developed.  Python will also be used to introduce MongoDB for data cleaning and querying, using the MongoDB Aggregation Framework as
@@ -888,6 +929,18 @@ Graduate Courses
     Combined with COMP 377-001.
 
 
+:doc:`../../courses/comp477`
+    | Section 002 (6919) Credits: 3; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+    **Notes:**
+    This is an online, asynchronous class.
+
+
+    Combined with COMP 377-002.
+
+
 :doc:`../../courses/comp479`
     | Section 001 (6217) Credits: 3; In person; Lecture
     | Instructor: Dmitriy Dligach
@@ -909,11 +962,26 @@ COMP 488 Topic : Data Visualization & Explor
 
 
 
+COMP 488 Topic : Data Visualization & Explor
+    | Section 002 (6918) Credits: 1 - 4; Online; Lecture
+    | Instructor: Channah Naiman
+    | Online Times: TBA
+
+
+    **Notes:**
+    Data Visualization & Exploration
+
+
+
+    This is an online, asynchronous class.
+
+
+
 COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (6188) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: :doc:`../../courses/comp340`
+    | Description similar to: ::doc:`../../courses/comp340`
 
     **Notes:**
     Computer Forensics
@@ -939,7 +1007,7 @@ COMP 488 Topic : Computer Vulnerabilities
     | Section 352 (6189) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Monday 04:15PM-06:45
-    | Description similar to: :doc:`../../courses/comp352`
+    | Description similar to: ::doc:`../../courses/comp352`
 
     **Notes:**
     Computer Vulnerabilities
@@ -966,7 +1034,7 @@ COMP 488 Topic : Bioinformatics
     | Section 381 (6191) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
-    | Description similar to: :doc:`../../courses/comp381`
+    | Description similar to: ::doc:`../../courses/comp381`
 
     **Notes:**
     Bioinformatics
@@ -976,12 +1044,12 @@ COMP 488 Topic : Bioinformatics
     Combined with COMP 381-001, BIOL 388-001, and BIOL 488-001.
 
 
-:doc:`../../courses/comp490` 1-6 credits
+::doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
 :doc:`../../courses/comp499`
