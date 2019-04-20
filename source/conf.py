@@ -159,7 +159,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Loyola University Chicago CS - Academic Programs'
-copyright = u'2018, CS Department'
+copyright = u'2018-Present, Loyola Universtiy Chicago - Computer Science Department'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
