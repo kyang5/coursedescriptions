@@ -22,6 +22,7 @@ script:
 - pip install -r requirements.txt
 - BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -s source
 - BOOK_VERSION=$(./get-current-version.sh) make latexpdf
+- BOOK_VERSION=$(./get-current-version.sh) make epub
 after_success:
 - travis-sphinx deploy --cname academics.cs.luc.edu
 deploy:
@@ -30,6 +31,7 @@ deploy:
   file_glob: true
   file:
     - ./**/LoyolaComputerScienceAcademicPrograms.pdf
+    - ./**/LoyolaComputerScienceAcademicPrograms.epub
   skip_cleanup: true
   on:
     repo: LoyolaChicagoCS/coursedescriptions
