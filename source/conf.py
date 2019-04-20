@@ -127,7 +127,7 @@ rst_epilog = """
 
 .. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/coursedescriptions/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.pdf>`__
 
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
+.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/coursedescriptions/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
 
 """ % vars()
 
