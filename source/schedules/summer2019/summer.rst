@@ -1,8 +1,7 @@
-:orphan:
 
 Summer 2019 Schedule
 ==========================================================================
-Updated 04/05/2019 16:06:07
+Updated 05/03/2019 17:45:08
 
 The following courses will (tentatively) be held during the Summer 2019 semester.
 
@@ -110,7 +109,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp271` [Term: Twelve Week]
     | Section 001 (2745) Credits: 3; In person; Lecture
-    | Instructor: Leo Irakliotis
+    | Instructor: Jesse Meza
     | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:30PM-03:10
 
 
@@ -243,7 +242,7 @@ Undergraduate Courses
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, Mark Albert, David Eric Chan-Tin, David Eric Chan-Tin, Dmitriy Dligach, Dmitriy Dligach, Peter L Dordal, Peter L Dordal, Ronald I Greenberg, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, Nicholas J Hayward, William Honig, William Honig, Konstantin Laufer, Konstantin Laufer, Channah Naiman, Channah Naiman, Catherine Putonti, Catherine Putonti, Chandra N Sekharan, Chandra N Sekharan, George Thiruvathukal, George Thiruvathukal, David Wetzel, Heather E. Wheeler, Heather E. Wheeler, Robert Yacobellis, Robert Yacobellis
 
 
 
