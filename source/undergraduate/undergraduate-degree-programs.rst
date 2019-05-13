@@ -10,6 +10,7 @@ Undergraduate Degree Programs
    bscns
    bscs
    bscsec
+   bsds
    bsmcs
    bspcs
    bsit
