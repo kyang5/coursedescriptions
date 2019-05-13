@@ -30,7 +30,7 @@ Spring 2019 Syllabi
    "COMP 305", "Ahmed", "Spring 2019", "`COMP 305: Ahmed <https://drive.google.com/open?id=1gnNBwq67bKOwU7KnSrygFGqwachCR1V3>`_"
    "COMP 313", "Yacobellis", "Spring 2019", "`COMP 313: Yacobellis <https://drive.google.com/open?id=1ApvA2827DtQyr4hCihGaNKsmf6pyx68w>`_"
    "COMP 317", "Schwab", "Spring 2019", "`COMP 317: Schwab <https://drive.google.com/open?id=1ow7XeuvAJeFb6ufe5gNzsM0McL0K34xF>`_"
-   "COMP 317-001", "Ruane Montaner", "Spring 2019", "`COMP 317-001: Montaner <https://drive.google.com/open?id=1npD6APAOCqyM1Y7MAvaq2bLHkLNm14Kl>`_"
+   "COMP 317-001", "Montaner", "Spring 2019", "`COMP 317-001: Montaner <https://drive.google.com/open?id=1npD6APAOCqyM1Y7MAvaq2bLHkLNm14Kl>`_"
    "COMP 330", "Thiruvathukal", "Spring 2019", "`COMP 330: Thiruvathukal <https://drive.google.com/open?id=1jwC4cBPaTYYd6pAmdIvUWIE2MoFYsHVI>`_"
    "COMP 339", "Thiruvathukal", "Spring 2019", "`COMP 339: Thiruvathukal <https://drive.google.com/open?id=1KNvPUVx8JxkR_1tWAaQvOZIPUhWQJraI>`_"
    "COMP 340", "Yarrish", "Spring 2019", "`COMP 340: Yarrish <https://drive.google.com/open?id=1-gqcVZgSDouLaWuy1Xzynjzxv-EkXEzj>`_"
