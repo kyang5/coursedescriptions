@@ -44,6 +44,10 @@ Graduate Student Resources
    graduate/graduate-degree-programs
    courses/graduate-courses
 
+To Report Issues
+-------------------
+
+* https://github.com/LoyolaChicagoCS/coursedescriptions/issues
 
 Topical Index
 -------------------
