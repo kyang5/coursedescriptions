@@ -1,17 +1,24 @@
 Academic Programs and Courses
 ================================
 
-Welcome to the Academic Programs site for the Computer Science Department at Loyola University Chicago.
+Welcome to the Academic Programs *informational* site for the Computer Science Department at Loyola University Chicago.
 
-This site is aimed at helping prospective, current, and past students find information 
+This site is aimed at helping current students find information 
 about the academic programs and courses in the `Computer Science Department <https://luc.edu/cs/>`_ at `Loyola University Chicago <https://luc.edu>`_.
+
+.. note::
+
+   Students not yet enrolled at Loyola University Chicago  should visit the main `Computer Science Department <https://luc.edu/cs/>`_ pages before spending time on this site, especially if you are looking for information about how to apply to our program.
 
 This site is also available in |pdf-version| and |epub-version| formats.
 
 Schedules and Syllabi
 --------------------------
 
-.. note:: The authoritative source of current course information is `LOCUS <https://locus.luc.edu/>`_. This especially applies to degree requirements, course descriptions, and schedule information.
+.. note::
+
+   Schedules are provided as a convenience and are prepared only after the course schedules are finalized.
+   The authoritative source of current course information is `LOCUS <https://locus.luc.edu/>`_.
 
 .. toctree::
    :maxdepth: 1
