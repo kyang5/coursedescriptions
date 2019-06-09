@@ -56,7 +56,7 @@ Graduate Student Resources
 To Report Issues
 -------------------
 
-* https://github.com/LoyolaChicagoCS/coursedescriptions/issues
+* https://github.com/LoyolaChicagoCS/WebIssues/issues
 
 Topical Index
 -------------------
