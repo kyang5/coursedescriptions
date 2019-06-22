@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Online )
 ==========================================================================
-Updated 06/11/2019 11:37:28
+Updated 06/12/2019 14:06:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -130,7 +130,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp251`
     | Section 700N (5035) Credits: 3; Online; Lecture
-    | Instructor: Udayan Das
+    | Instructor: Ammar Ahmed
     | Online Tuesday 06:00PM-09:00
 
     **Notes:**

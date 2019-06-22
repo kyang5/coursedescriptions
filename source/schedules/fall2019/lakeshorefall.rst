@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 06/11/2019 11:37:28
+Updated 06/12/2019 14:06:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -469,14 +469,6 @@ COMP 388 Topic : Computing Career Preparation
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
-
-
-:doc:`../../courses/comp399`
-    | Section 001 (4306) Credits: 1; In person; Lecture
-    | Instructor: Staff
-    | Cuneo Hall:202 (Lake Shore) Thursday 04:15PM-05:30
-
-
 
 
 
