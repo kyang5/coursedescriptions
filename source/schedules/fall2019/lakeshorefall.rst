@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Lake Shore Campus )
 ==========================================================================
-Updated 04/15/2019 17:17:07
+Updated 06/12/2019 14:06:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -156,7 +156,7 @@ Undergraduate Courses
 
 :doc:`../../courses/comp170`
     | Section 003/03L (5342) Credits: 3; In person; Lecture/Lab
-    | Instructor: Dmitriy Dligach
+    | Instructor: Staff
     | Cuneo Hall:311 (Lake Shore) Tuesday, Thursday 01:00PM-02:15
     | Cuneo Hall:311 (Lake Shore) Thursday 02:30PM-03:45 (lab)
 
@@ -338,7 +338,7 @@ Undergraduate Courses
 :doc:`../../courses/comp322`
     | Section 001 (6265) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Cuneo Hall:117 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
+    | Cuneo Hall:302 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
     **Notes:**
     Combined with COMP 422-001.
@@ -463,20 +463,12 @@ COMP 388 Topic : Computing Career Preparation
     staff member will enroll you.
 
 
-::doc:`../../courses/comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
     *supervisor arranges to get you registered*.  Possible supervisors are: David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
-
-
-:doc:`../../courses/comp399`
-    | Section 001 (4306) Credits: 1; In person; Lecture
-    | Instructor: Staff
-    | Cuneo Hall:202 (Lake Shore) Thursday 04:15PM-05:30
-
-
 
 
 
@@ -516,7 +508,7 @@ Graduate Courses
 :doc:`../../courses/comp422`
     | Section 001 (6268) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
-    | Cuneo Hall:117 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
+    | Cuneo Hall:302 (Lake Shore) Tuesday, Thursday 02:30PM-03:45
 
     **Notes:**
     Combined with COMP 322-001.
@@ -595,7 +587,7 @@ COMP 488 Topic : Computer Vulnerabilities
     | Section 352 (6189) Credits: 3; In person; Lecture
     | Instructor: David Eric Chan-Tin
     | Cuneo Hall:103 (Lake Shore) Monday 04:15PM-06:45
-    | Description similar to: ::doc:`../../courses/comp352`
+    | Description similar to: :doc:`../../courses/comp352`
 
     **Notes:**
     Computer Vulnerabilities
@@ -622,7 +614,7 @@ COMP 488 Topic : Bioinformatics
     | Section 381 (6191) Credits: 3; In person; Lecture
     | Instructor: Heather E. Wheeler
     | Crown Center:103 (Lake Shore) Monday, Wednesday 02:45PM-04:00
-    | Description similar to: ::doc:`../../courses/comp381`
+    | Description similar to: :doc:`../../courses/comp381`
 
     **Notes:**
     Bioinformatics
@@ -632,7 +624,7 @@ COMP 488 Topic : Bioinformatics
     Combined with COMP 381-001, BIOL 388-001, and BIOL 488-001.
 
 
-::doc:`../../courses/comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -649,10 +641,7 @@ COMP 488 Topic : Bioinformatics
     This course involves an internship experience.  Department Consent required, and then a Computer Science Department staff member will enroll you.
 
 
-:doc:`../../courses/comp605`
-    | Section 001 (2809) Credits: 0; In person; FTC-Supervision
-    | Instructor: Andrew N Harrington, Channah Naiman
-    | Place TBA (Lake Shore) Times: TBA
-
-    **Notes:**
-    Department Consent required, and then a Computer Science Department staff member will enroll you.
+.. :doc:`../../courses/comp595`
+..     | Section 001 (6938) Credits: 0; In person; FTC - Thesis Supervision
+..     | Instructor: Channah Naiman
+..     | Place TBA (Lake Shore) Times: TBA

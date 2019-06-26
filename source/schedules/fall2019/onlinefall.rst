@@ -2,7 +2,7 @@
 
 Fall 2019 Schedule ( Online )
 ==========================================================================
-Updated 04/15/2019 17:17:07
+Updated 06/12/2019 14:06:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -67,7 +67,8 @@ Undergraduate Courses
     | Instructor: Andrew N Harrington
     | Online Tuesday, Thursday 01:00PM-02:15
 
-    **Notes:**
+    **Notes:** Combined Section ID:
+
     This is an online, synchronous class.
 
 
@@ -83,7 +84,7 @@ Undergraduate Courses
 :doc:`../../courses/comp150`
     | Section 003 (5174) Credits: 3; Online; Lecture
     | Instructor: Andrew N Harrington
-    | Online Tuesday, Thursday 08:30AM-09:45
+    | Online Tuesday, Thursday 11:30AM-12:45
 
     **Notes:**
     This is an online, synchronous class.
@@ -91,7 +92,7 @@ Undergraduate Courses
 
     Synchronous in Zoom.  Synchronous meeting time:
 
-    Tuesday and Thursday, 8:30 am - 9:45 am.
+    Tuesday and Thursday, 11:30 am - 12:45 pm.
 
 
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
@@ -116,7 +117,7 @@ Undergraduate Courses
     graduate advisor.
 
 
-:doc:`../../courses/comp170` [Term: Eight Week - First]
+:doc:`../../courses/comp170`
     | Section 700N (4980) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
@@ -127,9 +128,9 @@ Undergraduate Courses
     COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST.
 
 
-:doc:`../../courses/comp251` [Term: Eight Week - Second]
+:doc:`../../courses/comp251`
     | Section 700N (5035) Credits: 3; Online; Lecture
-    | Instructor: Udayan Das
+    | Instructor: Ammar Ahmed
     | Online Tuesday 06:00PM-09:00
 
     **Notes:**
@@ -138,11 +139,11 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`../../courses/comp271` [Term: Eight Week - Second]
+:doc:`../../courses/comp271`
     | Section 700N (5334) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Thursday 06:00PM-09:00
-    | Online Friday 06:00PM-09:00 - Check week(s)
+    | Online Friday 06:00PM-09:00
 
     **Notes:**
     COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. Non-SCPS students can request permission to enroll. For more
@@ -257,7 +258,7 @@ Undergraduate Courses
     Computer Science Department staff member will enroll you.
 
 
-::doc:`../../courses/comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -366,7 +367,7 @@ COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (6188) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: ::doc:`../../courses/comp340`
+    | Description similar to: :doc:`../../courses/comp340`
 
     **Notes:**
     Computer Forensics
@@ -387,7 +388,7 @@ COMP 488 Topic : Comp Forensics Investigations
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-::doc:`../../courses/comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
