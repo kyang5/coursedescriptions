@@ -216,6 +216,23 @@ html_context = {
             ],
 }
 
+html_theme_options = {
+    #'canonical_url': '',
+    'analytics_id': 'UA-5482792-28'
+    #'logo_only': False,
+    #'display_version': True,
+    #'prev_next_buttons_location': 'bottom',
+    #'style_external_links': False,
+    #'vcs_pageview_mode': '',
+    #'style_nav_header_background': 'white',
+    # Toc options
+    #'collapse_navigation': True,
+    #'sticky_navigation': True,
+    #'navigation_depth': 4,
+    #'includehidden': True,
+    #'titles_only': False
+}
+
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -307,7 +324,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'LoyolaComputerScienceAcademicPrograms.tex', u'LUC CS Loyola University Chicago CS - Academic Programs',
-   u'CS Department', 'manual'),
+   u'Loyola University Chicago - Computer Science Department', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -337,7 +354,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'loyolauniversitychicagocomputerscience-Coursehandbook', u'LUC CS Loyola University Chicago CS - Academic Programs',
-     [u'CS Department'], 1)
+     [u'Loyola University Chicago - Computer Science Department'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -351,7 +368,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'LoyolaComputerScienceAcademicPrograms', u'LUC CS Loyola University Chicago CS - Academic Programs',
-   u'CS Department', 'LoyolaComputerScienceAcademicPrograms', 'One line description of project.',
+   u'Loyola University Chicago - Computer Science Department', 'LoyolaComputerScienceAcademicPrograms', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -369,9 +386,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'LUC CS Loyola University Chicago CS - Academic Programs'
-epub_author = u'CS Department'
-epub_publisher = u'CS Department'
-epub_copyright = u'2018, CS Department'
+epub_author = u'Loyola University Chicago - Computer Science Department'
+epub_publisher = u'Loyola University Chicago - Computer Science Department'
+epub_copyright = u'2018, Loyola University Chicago - Computer Science Department'
 epub_basename = 'LoyolaComputerScienceAcademicPrograms'
 
 # The language of the text. It defaults to the language option
