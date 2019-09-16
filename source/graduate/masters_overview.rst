@@ -1,7 +1,7 @@
 Masters Programs Overview
 ======================================
 
-The `M.S. in Information Technology <http://www.luc.edu/cs/academics/graduateprograms/msit/msininformationtechnology/>`_ is
+The `M.S. in Information Technology <https://academics.cs.luc.edu/graduate/msit.html>`_ is
 management and business process facing.
 It is distinguished from a pure business degree by its requirement and
 frequent use of basic programming and other technical skills.
