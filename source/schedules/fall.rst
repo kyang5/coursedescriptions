@@ -1,4 +1,4 @@
-Fall Schedule
+Fall Schedules
 ---------------
 
-- See :doc:`fall2019/fall`.
+- `Fall 2019 Schedule (PDF) <https://drive.google.com/open?id=1ipltMen-K10OgBQ2gnPVy8ytfEFtWrhj>`__
