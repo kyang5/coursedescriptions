@@ -1,7 +1,7 @@
 .. index:: minor in computer crime and forensics
    computer crime and forensics
 
-Criminal Law
+Minor in Computer Crime and Forensics
 ============
 
 Overview
