@@ -1,7 +1,7 @@
 .. index:: b.s. in computer science old
-   computer science (pre 2020)
+   computer science (pre fall 2020)
 
-B.S. in Computer Science (Pre 2020)
+B.S. in Computer Science (Pre Fall 2020)
 ===================================
 
 Overview

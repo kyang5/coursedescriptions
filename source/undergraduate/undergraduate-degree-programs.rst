@@ -20,3 +20,4 @@ Undergraduate Degree Programs
    minorcs
    minorccf
    bscsold
+   bsseold
