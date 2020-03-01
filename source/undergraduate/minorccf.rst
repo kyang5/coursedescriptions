@@ -2,7 +2,7 @@
    computer crime and forensics
 
 Minor in Computer Crime and Forensics
-============
+=====================================
 
 Overview
 --------

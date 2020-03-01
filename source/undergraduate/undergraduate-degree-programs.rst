@@ -19,3 +19,4 @@ Undergraduate Degree Programs
    minorit
    minorcs
    minorccf
+   bscsold

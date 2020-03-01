@@ -35,7 +35,7 @@ rst_epilog = """
 
 .. |math162| replace:: `MATH 162: Calculus II <http://luc.edu/math/academics/courses/math162/index.shtml>`__
 
-.. |math201| replace:: `MATH 201: Elementary Number Theory <http://luc.edu/math/academics/courses/math201/index.shtml>`__
+.. |math201| replace:: `MATH 201: Introduction to Discrete Mathematics and Number Theory <http://luc.edu/math/academics/courses/math201/index.shtml>`__
 
 .. |math212| replace:: `MATH 212: Linear Algebra <http://luc.edu/math/academics/courses/math212/index.shtml>`__
 
