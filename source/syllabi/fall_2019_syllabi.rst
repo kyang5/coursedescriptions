@@ -43,7 +43,7 @@ Fall 2019 Syllabi
    "COMP 371-001", "Laufer", "Fall 2019", "`COMP 371-001: Laufer <https://drive.google.com/open?id=19O4FmUAjaFdGbWuDiRBQKjgVyU6CTTjz>`_"
    "COMP 379-001", "Dligach", "Fall 2019", "`COMP 379-001: Dligach <https://drive.google.com/open?id=1DatyxdU-w5mRoK0ibG_kDyRgeEbNiAXg>`_"
    "COMP 381-001", "Wheeler", "Fall 2019", "`COMP 381-001: Wheeler <https://drive.google.com/open?id=10Gn1gQOq21D5j27Lid1WnVFu0GGu-Dk6>`_"
-   "COMP 388-001", "Greenberg", "Fall 2019", "`COMP 388-001: Greenberg <https://drive.google.com/open?id=1OBNAPO2YfWMeIw9pe4m5XSHQ3GpmMhIN>`_"
+   "COMP 388-001", "Greenberg", "Fall 2019", "`COMP 388-001: Greenberg <https://drive.google.com/open?id=1KgLL_lBDB8kUmmm3wGJU3n3q-3GqinsG>`_"
    "COMP 388-001", "Zewdie", "Fall 2019", "`COMP 388-001: Zewdie <https://drive.google.com/open?id=1CYM6Ww3rtJF0oWwkF2wY-B72k8a4K-7N>`_"
    "COMP 390", "Greenberg", "Fall 2019", "`COMP 390: Greenberg <https://drive.google.com/open?id=1WMJMNpz9Ma5yKpp_ZMglPgilCtOv-RuE>`_"
    "COMP 410", "Thiruvathukal", "Fall 2019", "`COMP 410: Thiruvathukal <https://drive.google.com/open?id=1uQDmK4sDcsDZAOFfPNGPHO-0uQSikcHg>`_"

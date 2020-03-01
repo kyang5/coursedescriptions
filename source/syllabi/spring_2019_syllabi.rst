@@ -42,6 +42,7 @@ Spring 2019 Syllabi
    "COMP 370", "Weisert", "Spring 2019", "`COMP 370: Weisert <https://drive.google.com/open?id=1RclcnRNKRmg1DeG7Bxh_qkRFC9dbYSqE>`_"
    "COMP 373", "Zewdie", "Spring 2019", "`COMP 373: Zewdie <https://drive.google.com/open?id=1PFT4TiI3skyBNNXM07rCZmN4mlMy79Ts>`_"
    "COMP 383", "Putonti", "Spring 2019", "`COMP 383: Putonti <https://drive.google.com/open?id=107iBydklq3_dqbGqMdcoIjM4yxLNcDZn>`_"
+   "COMP 388-002", "Greenberg", "Fall 2019", "`COMP 388-002: Greenberg <https://drive.google.com/open?id=1ruKVkHUU1SUYoffb2RogsmsuF8LjUZq1>`_"
    "COMP 388", "Chan-Tin", "Spring 2019", "`COMP 388: Chan-Tin <https://drive.google.com/open?id=1aggb5HQHA_KZNCO9tdHaiVnxw5Cq2Ipu>`_"
    "COMP 390", "Greenberg", "Spring 2019", "`COMP 390: Greenberg <https://drive.google.com/open?id=11O4_QVhM-oPiZYBMqzzuXP-BJ-dfHXSN>`_"
    "COMP 397", "Albert", "Spring 2019", "`COMP 397: Albert <https://drive.google.com/open?id=1kxICYhOn2X1UYVIi8uHZKUT41T5H3J8d>`_"
