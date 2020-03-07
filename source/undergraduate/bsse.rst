@@ -20,7 +20,7 @@ If you were enrolled prior to Fall 2013 you may use the curriculum for the old B
 
 If you were enrolled prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsseold`.
 
-Major Requirements (58 Credit Hours)
+Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 One of the following must be taken:

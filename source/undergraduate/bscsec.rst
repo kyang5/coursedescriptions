@@ -14,9 +14,9 @@ The Bureau of Labor Statistics indicates high median pay and estimates an 18% in
 Curriculum
 -----------
 
-If you enrolled prior to Fall 2013 you may use the old Communication Networks and Security B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscns/oldcurriculum/>`_.
+If you enrolled prior to Fall 2020 you may use the old Communication Networks and Security B.S. curriculum located :doc:`bscsecold`.
 
-Major Requirements (48 Credit Hours)
+Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 One of the following must be taken:
@@ -24,74 +24,36 @@ One of the following must be taken:
 -   |math131|
 -   |math161|
 
-One of the following must be taken:
-
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp215`
-
-One of the following must be taken:
-
--   :doc:`../courses/comp264`
--   :doc:`../courses/comp271`
+(By arrangement with the Undergraduate Program Director, the extra credit from MATH 161 may be applied towards the "Computer Science Free Electives" category.)
 
 All of the following must be taken:
 
 -   :doc:`../courses/comp163` or |math201|
+-   :doc:`../courses/comp170`
+-   :doc:`../courses/comp264`
+-   :doc:`../courses/comp271`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp343`
 -   :doc:`../courses/comp347`
 -   :doc:`../courses/comp348`
-
-Two courses taken from:
-
--   :doc:`../courses/comp331`/|math331|
--   :doc:`../courses/comp340`
--   :doc:`../courses/comp345`
 -   :doc:`../courses/comp349`
 -   :doc:`../courses/comp352`
+
 
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, :doc:`../courses/comp392`, and :doc:`../courses/comp398`.  See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, and :doc:`../courses/comp398`.  See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
-Electives
-~~~~~~~~~~
+Computer Science Free Electives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-12 credits comprised of:
+-  3 credits of :doc:`../courses/comp125` or :doc:`../courses/comp150` or COMP 3xx
+-  4 credits of COMP 3xx.
 
--   3 credits of any COMP course except :doc:`../courses/comp391` :doc:`../courses/comp398`
-
--   6 credits from :doc:`../courses/comp250` or |engl210|,
-    :doc:`../courses/comp264` or :doc:`../courses/comp271` (note one of these must be taken as part of the Major requirements, while the other can be used as an elective),
-    Any COMP 3xx courses except :doc:`../courses/comp391` and :doc:`../courses/comp398`
-
--   3 credits of any COMP 3xx courses or :doc:`../courses/isscm349`
-
+(With permission, extra credits of MATH 161 or 300-level MATH, PHYS, or STAT for double majors, can be applied in this category.)
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Year 1
-
--   |math131| or |math161|
--   :doc:`../courses/comp163`
--   :doc:`../courses/comp170`
-
-Year 2
-
--   :doc:`../courses/comp264` or :doc:`../courses/comp271`
--   :doc:`../courses/comp317`
--   Electives
-
-Year 3
-
--   :doc:`../courses/comp343`
--   :doc:`../courses/comp347`
--   :doc:`../courses/comp348`
--   Electives
-
-Year 4
-
--   Electives
--   Practicum
+ `See this CSEC-BS Sample Schedule <https://drive.google.com/file/d/1hjpiqCkd60nZmSFjjrHHQDGhqt5Kzw73/view?usp=sharing>`_.
