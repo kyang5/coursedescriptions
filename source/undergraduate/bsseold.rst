@@ -1,8 +1,8 @@
 .. index:: b.s. in software engineering
-   software engineering
+   software engineering (Pre Fall 2020)
 
-B.S. in Software Engineering
-============================
+B.S. in Software Engineering (Pre Fall 2020) 
+============================================
 
 Overview
 ---------
@@ -18,9 +18,7 @@ This Degree was previously known as Software Development.
 
 If you were enrolled prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
 
-If you were enrolled prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsseold`.
-
-Major Requirements (61 Credit Hours)
+Major Requirements (48 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 One of the following must be taken:
@@ -28,45 +26,64 @@ One of the following must be taken:
 -   |math131|
 -   |math161| (4 credits)
 
+One of the following must be taken:
 
-(By arrangement with the Undergraduate Program Director, the extra credit from MATH 161 may be applied towards the "Computer Science Free Electives" category.)
+-   :doc:`../courses/comp170`
+-   :doc:`../courses/comp215`
 
 One of the following must be taken:
 
--   |stat103|
--   |stat203|
--   |isscm241|
--   |psyc304|
+-   :doc:`../courses/comp335`
+-   :doc:`../courses/comp371`
+-   :doc:`../courses/comp373`
+-   :doc:`../courses/comp376`
+-   :doc:`../courses/comp382`
 
 All of the following must be taken:
-.. Need pages 272 and 141
 
 -   :doc:`../courses/comp163` or |math201|
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp264`
 -   :doc:`../courses/comp271`
 -   :doc:`../courses/comp313`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp330`
 
-SWEN-BS Restricted Electives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Select 9 credits from:
-.. Need to make comp332
-
--   :doc:`../courses/comp335`
--   :doc:`../courses/comp370`
--   :doc:`../courses/comp373`
--   :doc:`../courses/comp382`
-
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, and :doc:`../courses/comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, :doc:`../courses/comp392`, and :doc:`../courses/comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
+Electives
+~~~~~~~~~~
 
-Computer Science Free Electives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+18 credits comprised of:
 
-`See this SWEN-BS Sample Schedule <https://drive.google.com/open?id=1TIbSBQ5jRhZoR2vwH18ntlu_UtVAB0H8>`_.
+-   3 credits of any COMP course except :doc:`../courses/comp391` and :doc:`../courses/comp398`
+-   6 credits from |engl210| or :doc:`../courses/comp250`, :doc:`../courses/comp264`, and any COMP 3xx except :doc:`../courses/comp391` and :doc:`../courses/comp398`
+-   9 credits of any COMP 3xx or :doc:`../courses/isscm349`
+
+Suggested Ordering of Courses
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Year 1
+
+-   |math131| or |math161|
+-   :doc:`../courses/comp163`
+-   :doc:`../courses/comp170` or :doc:`../courses/comp215`
+-   :doc:`../courses/comp271`
+
+Year 2
+
+-   :doc:`../courses/comp313`
+-   :doc:`../courses/comp317`
+-   Electives
+
+Year 3
+
+-   :doc:`../courses/comp330`
+-   :doc:`../courses/comp335` or :doc:`../courses/comp371` or :doc:`../courses/comp373` or :doc:`../courses/comp376` or :doc:`../courses/comp382`
+-   Electives
+
+Year 4
+
+-   Electives
+-   Practicum

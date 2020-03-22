@@ -1,7 +1,7 @@
 .. index:: data structures
 
-COMP 271: Data Structures
-=========================
+COMP 271: Data Structures I
+===========================
 
 This course introduces key data structures such as lists, sets, and maps, as well as their implementations. Performance and analysis of algorithms are covered along with applications in sorting and searching.
 

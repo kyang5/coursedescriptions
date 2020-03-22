@@ -19,3 +19,10 @@ Undergraduate Degree Programs
    minorit
    minorcs
    minorccf
+   bscsold
+   bsseold
+   bscsecold
+   bsitold
+   minorcsold
+   minoritold
+   minorccfold

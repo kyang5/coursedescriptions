@@ -7,8 +7,6 @@ Minor in Computer Crime and Forensics
 Overview
 --------
 
-If you declared the minor before Fall 2020, you may use the old Minor in Computer Crime and Forensics curriculum (:doc:`minorccfold`).
-
 Crimes in general are dealt with using preventive and detective techniques. Computer crime is no different. With the dramatic increase in the use of computers, networks, and the Internet, crimes committed via computers and networks have also risen rather sharply. Computer crime prevention falls in the areas known as computer and network security. Computer crime detection is generally known as computer forensics. Computer forensic investigations deal with white collar crime, telecommunications fraud, network intrusion detection, and criminal procedures. A computer forensic expert can help solve cases in money laundering, intellectual property, child pornography, embezzlement, e-mail harassment, murder, and terrorism.
 
 Computer Crime and Forensics is an interdisciplinary minor of the Computer Science and Criminal Justice Departments that will impart knowledge to students in the areas of criminal justice system, courts, law and procedures, computer software, hardware, networks, and investigative and evidence-gathering protocols.
@@ -20,15 +18,13 @@ Career Opportunities
 
 With the minor, a student can pursue the career path of a computer forensic examiner, or an electronic discovery specialist, or pursue a legal career specializing in criminal and civil law related to computers (IP, internal fraud, misappropriation of trade secrets etc.).A scan of jobs posted in Hotjobs.com and Monster.com reveals that computer forensics specialists are much in demand. Jobs are available across a wide variety of industry segments, pharmaceuticals, accounting firms, financial services, and law firms. Typical titles of jobs advertised in the online jobs websites are: technology litigation support specialist, incident management engineers, computer forensics manager, law enforcement officers, information security specialist, electronic discovery specialist etc.
 
-Curriculum 21 Credit Hours
---------------------------
+Curriculum
+------------
 
 All of the following must be taken:
 
 -   |cjc101|
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp301`
--   :doc:`../courses/comp317`
+-   :doc:`../courses/comp150` or :doc:`../courses/comp170` or :doc:`../courses/comp215` / |math215|
 -   :doc:`../courses/comp340`
 -   :doc:`../courses/comp347`
 
@@ -36,3 +32,9 @@ One course from the following:
 
 -   |cjc322|
 -   |cjc323|
+
+One course from the following:
+
+-   :doc:`../courses/comp264` (requires :doc:`../courses/comp170` prerequisite)
+-   :doc:`../courses/comp317`
+-   :doc:`../courses/comp343` (requires :doc:`../courses/comp170` and :doc:`../courses/comp271` sequence as prerequisites)
