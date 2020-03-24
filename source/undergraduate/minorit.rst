@@ -18,5 +18,5 @@ Eighteen (18) total credits (or 21 if taking ACCT201 and MGMT201):
 
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp301`
--   One of :doc:`../courses/comp300`, :doc:`../courses/comp305`, :doc:`../courses/comp353`, :doc:`../courses/comp343`.
+-   One of :doc:`../courses/comp306`, :doc:`../courses/comp305`, :doc:`../courses/comp353`, :doc:`../courses/comp343`.
 -   Two more courses from the 200-level and 300-level courses listed above. One of these courses can be replaced by ACCT201 and MGMT201.

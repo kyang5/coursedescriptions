@@ -29,17 +29,15 @@ Both of the following must be taken:
 
 (By arrangement with the Undergraduate Program Director, the extra credits from MATH 161/162 may be applied towards the "Computer Science Free Electives" category.)
 
-One of the following must be taken:
-
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp215`
 
 All of the following must be taken:
 
+-   :doc:`../courses/comp141`
 -   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp264`
 -   :doc:`../courses/comp271`
+-   :doc:`../courses/comp272`
 -   :doc:`../courses/comp310`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp363`
@@ -51,8 +49,10 @@ COMP-BS Restricted Electives
 
 Select 9 credits from:
 .. Need page 301 and 332
+-   :doc:`../courses/comp301`
 -   :doc:`../courses/comp313`
 -   :doc:`../courses/comp330`
+-   :doc:`../courses/comp332`
 -   :doc:`../courses/comp339`
 -   :doc:`../courses/comp341`
 -   :doc:`../courses/comp343`

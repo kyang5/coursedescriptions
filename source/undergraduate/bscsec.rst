@@ -28,11 +28,16 @@ One of the following must be taken:
 
 All of the following must be taken:
 
+-   :doc:`../courses/comp140`
 -   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp264`
 -   :doc:`../courses/comp271`
+-   :doc:`../courses/comp272`
+-   :doc:`../courses/comp301`
+-   :doc:`../courses/comp310`
 -   :doc:`../courses/comp317`
+-   :doc:`../courses/comp340`
 -   :doc:`../courses/comp343`
 -   :doc:`../courses/comp347`
 -   :doc:`../courses/comp348`
