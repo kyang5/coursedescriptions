@@ -48,7 +48,7 @@ COMP-BS Restricted Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select 9 credits from:
-.. Need page 301 and 332
+
 -   :doc:`../courses/comp301`
 -   :doc:`../courses/comp313`
 -   :doc:`../courses/comp330`
