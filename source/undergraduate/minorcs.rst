@@ -16,11 +16,11 @@ Curriculum 21 Credit Hours
 --------------------------
 
 -   :doc:`../courses/comp141`
--   :doc:`../courses/comp163`
+-   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp271`
 -   :doc:`../courses/comp125` or :doc:`../courses/comp150` or :doc:`../courses/comp180` or 3 credits of a 300-level COMP course
--   :doc:`../courses/comp251` or :doc:`../courses/comp264` or 3 credits of a 300-level COMP course
+-   :doc:`../courses/comp251` or :doc:`../courses/comp272` or :doc:`../courses/comp264` or 3 credits of a 300-level COMP course
 -   One 300-level computer science elective
 
     -   Note: :doc:`../courses/comp391` is **not** allowed.
