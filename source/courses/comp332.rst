@@ -1,6 +1,6 @@
 .. index:: software systems analysis
 
-COMP 320: Software Systems Analysis
+COMP 332: Software Systems Analysis
 ===================================
 
 Software systems analysis and design document user needs, create system architecture, and guide implementation. This course teaches the
@@ -14,7 +14,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp163` and :doc:`../courses/comp170`
+:doc:`../courses/comp303`
 
 Description
 --------------------

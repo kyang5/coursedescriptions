@@ -82,7 +82,7 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`../courses/comp300` 
+:doc:`../courses/comp306` 
     | Section 002 (6002) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA

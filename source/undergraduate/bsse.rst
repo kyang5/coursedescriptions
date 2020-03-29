@@ -41,13 +41,17 @@ One of the following must be taken:
 All of the following must be taken:
 .. Need pages 272 and 141
 
+-   :doc:`../courses/comp141`
 -   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp264`
 -   :doc:`../courses/comp271`
+-   :doc:`../courses/comp272`
 -   :doc:`../courses/comp313`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp330`
+-   :doc:`../courses/comp332`
+-   :doc:`../courses/comp371`
 
 SWEN-BS Restricted Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,5 +72,9 @@ Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../co
 
 Computer Science Free Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 3 credits of COMP 125 or COMP 150 or COMP 3xx
+- 10 credits of COMP 3xx.
+
 
 `See this SWEN-BS Sample Schedule <https://drive.google.com/open?id=1TIbSBQ5jRhZoR2vwH18ntlu_UtVAB0H8>`_.

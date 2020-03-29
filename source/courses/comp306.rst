@@ -2,7 +2,7 @@
    data warehousing
    data mining
 
-COMP 300: Data Warehousing and Data Mining
+COMP 306: Data Warehousing and Data Mining
 ==========================================
 
 This course covers theory and practice of extremely large information storage (warehousing) and analysis (mining) mechanisms. With data growing at exponential rates knowledge gathering and exploration techniques are essential for gaining useful intelligence.

@@ -36,3 +36,9 @@ One course from the following:
 
 -   |cjc322|
 -   |cjc323|
+
+One course from the following:
+
+-   :doc:`../courses/comp264`
+-   :doc:`../courses/comp317`
+

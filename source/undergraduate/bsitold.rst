@@ -45,7 +45,7 @@ One of the following must be taken:
 All of the following must be taken:
 
 -   :doc:`../courses/comp163` or |math201|
--   :doc:`../courses/comp300`
+-   :doc:`../courses/comp306`
 -   :doc:`../courses/comp305`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp353`
@@ -95,7 +95,7 @@ Year 2
 
 Year 3
 
--   :doc:`../courses/comp300`
+-   :doc:`../courses/comp306`
 -   :doc:`../courses/comp305`
 -   :doc:`../courses/comp353`
 -   Electives
