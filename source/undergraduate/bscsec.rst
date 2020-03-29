@@ -14,7 +14,7 @@ The Bureau of Labor Statistics indicates high median pay and estimates an 18% in
 Curriculum
 -----------
 
-If you enrolled prior to Fall 2020 you may use the old Communication Networks and Security B.S. curriculum located :doc:`bscsecold`.
+If you declared prior to Fall 2020 you may use the old B.S in Cybersecurity curriculum located :doc:`bscsecold`.
 
 Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
