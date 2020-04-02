@@ -28,7 +28,7 @@ One of the following must be taken:
 
 All of the following must be taken:
 
--   :doc:`../courses/comp140`
+-   :doc:`../courses/comp141`
 -   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp264`
