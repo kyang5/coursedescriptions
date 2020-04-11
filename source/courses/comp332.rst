@@ -14,7 +14,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp303`
+:doc:`../courses/comp301`
 
 Description
 --------------------

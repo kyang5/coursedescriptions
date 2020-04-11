@@ -28,7 +28,6 @@ All of the following must be taken:
 -   |cjc101|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp301`
--   :doc:`../courses/comp317`
 -   :doc:`../courses/comp340`
 -   :doc:`../courses/comp347`
 

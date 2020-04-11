@@ -113,6 +113,8 @@ rst_epilog = """
 
 .. |isscm241| replace:: `ISSCM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
 
+.. |isscm349| replace:: `ISSCM 349 <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+
 .. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
 
 .. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
