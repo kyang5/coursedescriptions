@@ -1,3 +1,5 @@
+:orphan:
+
 .. index:: b.s. in cybersecurity
    cybersecurity
 
