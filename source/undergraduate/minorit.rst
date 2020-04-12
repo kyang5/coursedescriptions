@@ -14,11 +14,11 @@ This minor is designed for students seeking understanding of important aspects o
 Curriculum
 ----------
 
-Eighteen (18) total credits (or 21 if taking ACCT201 and MGMT201):
+Eighteen (18) total credits:
 
 -   :doc:`../courses/comp141`
 -   :doc:`../courses/comp251` or :doc:`../courses/comp264` or :doc:`../courses/comp271`
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp301`
--   :doc:`../courses/comp377`
+-   :doc:`../courses/comp377` or |isscm349|
 -   One of :doc:`../courses/comp306`, :doc:`../courses/comp305`, :doc:`../courses/comp353`, :doc:`../courses/comp343`.

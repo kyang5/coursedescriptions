@@ -16,7 +16,7 @@ The Bureau of Labor Statistics indicates high median pay and estimates a 15% inc
 Curriculum
 -----------
 
-If you enrolled prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsitold`.
+If you decided prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsitold`.
 
 Major Requirements (49 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,6 +35,7 @@ All of the following must be taken:
 -   :doc:`../courses/comp163` or |math201|
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp251`
+-   :doc:`../courses/comp264` or :doc:`../courses/comp271`
 -   :doc:`../courses/comp301`
 -   :doc:`../courses/comp317`
 -   :doc:`../courses/comp377` or :doc:`../courses/isscm349`

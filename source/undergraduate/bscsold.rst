@@ -1,3 +1,5 @@
+:orphan:
+
 .. index:: b.s. in computer science old
    computer science (pre fall 2020)
 

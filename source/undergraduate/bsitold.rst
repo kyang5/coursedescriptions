@@ -1,3 +1,5 @@
+:orphan:
+
 .. index:: b.s. in information technology
    information technology
 

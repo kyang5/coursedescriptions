@@ -1,3 +1,4 @@
+:orphan:
 .. index:: minor in information technology
 
 Minor in Information Technology

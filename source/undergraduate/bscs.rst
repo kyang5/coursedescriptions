@@ -15,9 +15,9 @@ Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and I
 Curriculum
 -----------
 
-If you enrolled prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
+If you decided prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
 
-If you enrolled prior to Fall 2020 but after 2013 you may use the old Computer Science B.S. curriculum located at :doc:`bscsold`
+If you decided prior to Fall 2020 but after 2013 you may use the old Computer Science B.S. curriculum located at :doc:`bscsold`
 
 Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
