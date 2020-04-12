@@ -1,6 +1,6 @@
 .. index:: data structures 2
 
-COMP 271: Data Structures II
+COMP 272: Data Structures II
 ============================
 
 This course introduces key data structures such as lists, sets, and maps, as well as their implementations. Performance and analysis of algorithms are covered along with applications in sorting and searching.
@@ -13,7 +13,7 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp170` or :doc:`../courses/comp215` and:doc:`../courses/comp271`
+:doc:`../courses/comp170` or :doc:`../courses/comp215` and :doc:`../courses/comp271`
 
 Co-requisites
 ------------------------
