@@ -39,7 +39,6 @@ One of the following must be taken:
 -   |psyc304|
 
 All of the following must be taken:
-.. Need pages 272 and 141
 
 -   :doc:`../courses/comp141`
 -   :doc:`../courses/comp163` or |math201|
