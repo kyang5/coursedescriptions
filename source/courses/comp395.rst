@@ -9,7 +9,7 @@ This course is designed specifically for students pursuing a degree in computing
 Credit Hours
 -----------------------
 
-3
+1
 
 Prerequisites
 ------------------------------
