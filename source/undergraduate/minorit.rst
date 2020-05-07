@@ -22,3 +22,4 @@ Eighteen (18) total credits:
 -   :doc:`../courses/comp301`
 -   :doc:`../courses/comp377` or |isscm349|
 -   One of :doc:`../courses/comp306`, :doc:`../courses/comp305`, :doc:`../courses/comp353`, :doc:`../courses/comp343`.
+

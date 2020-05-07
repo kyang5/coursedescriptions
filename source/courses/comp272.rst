@@ -17,23 +17,15 @@ Prerequisites
 
 Co-requisites
 ------------------------
-:doc:`../courses/comp163` or |math201| (corequisite or prerequisite) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
-
+:doc:`../courses/comp163` or |math201| and |math131| or |math161|
 
 Description
 --------------------
 
-This continuation of :doc:`../courses/comp271` introduces the concepts of data
-abstraction and data structure, including stacks, queues, lists, sets, and
-trees. The issues of implementing a data structure in a language such as Java
-are examined using classes, arrays, and linked structures. Sorting and
-searching techniques are analyzed. The concepts of correctness and efficiency
-of algorithms are developed. Time/space comparisons of iterative algorithms
-with recursive algorithms are made. The course includes several major
-programming projects. A weekly lab component is required.
+This course studies advanced abstract data types, such as sets, maps, and graphs, and their implementation using arrays and dynamically allocated nodes in an object-oriented language. The course also studies the performance of the data structures’ built-in operations and related algorithms such as sorting, searching, and traversing. 
 
 Outcome
 ----------------------
 
-Students will learn to design new data structures as well as learn to use existing data structures in applications.
+Students learn non-linear data structures and runtime performance of their operations, solve computational problems by choosing suitable data structures, and implement algorithms within the object-oriented paradigm
 
