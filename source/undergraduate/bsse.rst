@@ -56,10 +56,11 @@ SWEN-BS Restricted Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select 9 credits from:
-.. Need to make comp332
 
+-   :doc:`../courses/comp332`
 -   :doc:`../courses/comp335`
 -   :doc:`../courses/comp370`
+-   :doc:`../courses/comp371`
 -   :doc:`../courses/comp373`
 -   :doc:`../courses/comp382`
 
@@ -69,8 +70,8 @@ Practicum Capstone
 Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, and :doc:`../courses/comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
 
-Computer Science Free Electives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Computer Science Electives
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - 3 credits of COMP 125 or COMP 150 or COMP 3xx
 - 10 credits of COMP 3xx.
