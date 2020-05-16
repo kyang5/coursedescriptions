@@ -1,10 +1,7 @@
-.. index:: software systems analysis
+.. index:: requirements engineering
 
-COMP 332: Software Systems Analysis
-===================================
-
-Software systems analysis and design document user needs, create system architecture, and guide implementation. This course teaches the
-Unified Modeling Language (UML), and uses current software tools for analysis and design.
+COMP 332: Requirements Engineering
+==================================
 
 Credit Hours
 -----------------------
@@ -19,17 +16,13 @@ Prerequisites
 Description
 --------------------
 
-This course uses Unified Modeling Language notation to model the early
-software analysis and design phase. Object technology is critical to the
-understanding of the process of capturing business requirements and the
-course uses commercial software tools to perform systems analysis and
-design.
+This course aims to equip students with techniques for successful requirements analysis and requirements engineering (RE) of software-intensive systems. Students will learn a systematic process of developing requirements through co-operative problem analysis, representation, and validation.
 
 Outcome
 ----------------------
 
-Students will be able to use techniques of analysis and design, document results using UML, and understand how to communicate in team
-oriented settings.
+Students will learn and apply the current state of the art in requirements engineering and a systematic method for engineering high-quality requirements on realistic large-scale projects.
+
 
 Syllabi
 ----------------------
