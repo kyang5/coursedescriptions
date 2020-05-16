@@ -13,7 +13,9 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp170` or :doc:`../courses/comp215`
+- :doc:`../courses/comp141`
+- :doc:`../courses/comp163` or |math201| (:doc:`../courses/comp163` preferred)
+- :doc:`../courses/comp170` or :doc:`../courses/comp215`
 
 Co-requisites
 ------------------------
@@ -23,19 +25,13 @@ Co-requisites
 Description
 --------------------
 
-This continuation of :doc:`../courses/comp170` introduces the concepts of data
-abstraction and data structure, including stacks, queues, lists, sets, and
-trees. The issues of implementing a data structure in a language such as Java
-are examined using classes, arrays, and linked structures. Sorting and
-searching techniques are analyzed. The concepts of correctness and efficiency
-of algorithms are developed. Time/space comparisons of iterative algorithms
-with recursive algorithms are made. The course includes several major
-programming projects. A weekly lab component is required.
+This course studies basic data structures including array lists, linked lists, stacks, queues, binary trees, and hash tables.  Efficiency of data structure operations, study of recursion, applications of data structures, and simple analysis of algorithms are covered.
+
 
 Outcome
 ----------------------
 
-Students will learn to design new data structures as well as learn to use existing data structures in applications.
+Students learn linear data structures and the performance of their operations, and they learn to solve simple computational problems by designing suitable algorithms and efficient data structures.
 
 Syllabi
 ----------------------
