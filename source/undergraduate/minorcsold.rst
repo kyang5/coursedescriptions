@@ -2,6 +2,7 @@
 
 .. index:: minor in computer science
 
+
 Minor in Computer Science
 =========================
 
