@@ -73,7 +73,7 @@ Electives
 -   ENTR 390: Entrepreneurship Strategies
 -   ISSCM 393: Requirements Analysis and Communication  
 -   Any COMP 300 level electives NOTE: A special case is :doc:`../courses/comp390`, :doc:`../courses/comp391` and :doc:`../courses/comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
--   MGMT 201 or ACCT 201 may count as 3 credits of major Electives if either ISSCM 349 or ENTR 201 is completed to count toward this major.
+-   MGMT 201 plus ACCT 201 may count in place of 3 credits of major Electives, only if ISSCM 349 is completed to also count toward this major.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

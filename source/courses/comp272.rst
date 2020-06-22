@@ -13,11 +13,9 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp170` or :doc:`../courses/comp215` and :doc:`../courses/comp271`
-
-Co-requisites
-------------------------
-:doc:`../courses/comp163` or |math201| and |math131| or |math161|
+- :doc:`../courses/comp163` or |math201| and |math131| or |math161|
+- :doc:`../courses/comp170` or :doc:`../courses/comp215`
+- :doc:`../courses/comp271`
 
 Description
 --------------------

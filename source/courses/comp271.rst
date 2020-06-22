@@ -14,12 +14,11 @@ Prerequisites
 ------------------------------
 
 - :doc:`../courses/comp141`
-- :doc:`../courses/comp163` or |math201| (:doc:`../courses/comp163` preferred)
 - :doc:`../courses/comp170` or :doc:`../courses/comp215`
 
 Co-requisites
 ------------------------
-:doc:`../courses/comp163` or |math201| (corequisite or prerequisite) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
+:doc:`../courses/comp163` or |math201| (:doc:`../courses/comp163` preferred) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
 
 
 Description

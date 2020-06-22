@@ -1,104 +1,71 @@
 
-Fall 2019 Schedule ( Online )
+Fall 2018 Schedule ( Online Courses )
 ==========================================================================
-Updated 03/21/2019 14:08:57
+Updated 08/24/2018 13:53:05
 
-The following courses will (tentatively) be held during the Fall 2019 semester.
+The following courses will (tentatively) be held during the Fall 2018 semester.
 
 For open/full status and latest changes, see
 `LOCUS <http://www.luc.edu/locus>`_.
 
 **In case of conflict, information on LOCUS should be considered authoritative.**
 
-See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
+See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5uqFiPEO_Ftp0mzesnEF5IFU1685w3I/edit?usp=sharing>`_.
 
 Section titles lines link to the course description page,
-except for special topics courses.  
-Some of those later show a link to a related course description.
+except for some labeled special topics courses related to an existing course.
 
 The 4-digit number in parentheses after the section is the Locus registration code.
 
 Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
-You can skip over undergrad courses to :ref:`onlinefall_graduate_courses_list`.
+
+You can skip down to
+:ref:`fall_graduate_courses_list_Online`. 
 
 **View Campus Specific Courses below :**
 
+:doc:`fall`
 
-* :doc:`fall`
-* :doc:`lakeshorefall`
-* :doc:`watertowerfall`
+:doc:`lakeShorefall`
+
+:doc:`waterTowerFall` 
 
 
 
-.. _onlinefall_undergraduate_courses_list:
+.. _Fall_undergraduate_courses_list:
 
 Undergraduate Courses
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 
 
-:doc:`comp125` 
-    | Section 003 (6124) Credits: 3; Online; Laboratory
-    | Instructor: David Wetzel
-    | Online Times: TBA
-
-    **Notes:**
-    This is an online, completely asynchronous class, with the option of Zoom meetings by appointment.
-
-
-:doc:`comp150` 
-    | Section 001 (2938) Credits: 3; Online; Lecture
-    | Instructor: John Nikolas O'Sullivan
-    | Online Tuesday 07:00PM-09:30
-
-    **Notes:**
-    The course will have a synchronous meeting time every  Tuesday from 7:00 pm � 9:30 pm
-    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
-    graduate advisor.
-
-
-:doc:`comp150` 
-    | Section 002 (2940) Credits: 3; Online; Lecture
-    | Instructor: Andrew N Harrington
-    | Online Monday, Wednesday, Friday 08:15AM-09:05
-
-    **Notes:**
-    Synchronous in Zoom
-
-
-:doc:`comp150` 
-    | Section 003 (5174) Credits: 3; Online; Lecture
-    | Instructor: Andrew N Harrington
-    | Online Tuesday, Thursday 08:30AM-09:45
-
-    **Notes:**
-    Synchronous in Zoom
-
-
-:doc:`comp150` 
-    | Section 004 (6123) Credits: 3; Online; Lecture
-    | Instructor: Andrew N Harrington
-    | Online Tuesday, Thursday 10:00AM-11:15
-
-    **Notes:**
-    Synchronous in Zoom
-
-
-:doc:`comp170` [Term: Eight Week - First]
-    | Section 700N (4980) Credits: 3; Online; Lecture
+:doc:`../courses/comp170` [Term: Eight Week - First]
+    | Section 700N (5883) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
-    | Online Tuesday 06:00PM-09:00
+    | Online Thursday 06:00PM-09:00
 
     **Notes:**
-    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. Non-SCPS students can request permission to enroll. For more
-    information go to http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 170-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST.
+    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST.
 
 
-:doc:`comp251` [Term: Eight Week - Second]
-    | Section 700N (5035) Credits: 3; Online; Lecture
+:doc:`../courses/comp170` [Term: Eight Week - Second]
+    | Section 701N (6919) Credits: 3; Online; Lecture
+    | Instructor: Udayan Das
+    | Online Wednesday 06:00PM-09:00
+    | Online Friday 06:00PM-09:00 - Check week(s)
+
+    **Notes:**
+    COMP 170-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 170-701N is an online section. Required synchronous sessions will be held Wednesdays 6-9PM CST and one session Friday 11/16 for holiday make-up class.
+
+
+:doc:`../courses/comp251` [Term: Eight Week - Second]
+    | Section 700N (5960) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Tuesday 06:00PM-09:00
 
@@ -108,29 +75,34 @@ Undergraduate Courses
     COMP 251-700N is an online section. Required synchronous sessions will be held Tuesdays 6-9PM CST
 
 
-:doc:`comp271` [Term: Eight Week - Second]
-    | Section 700N (5334) Credits: 3; Online; Lecture
+:doc:`../courses/comp271` [Term: Eight Week - Second]
+    | Section 700N (6357) Credits: 3; Online; Lecture
     | Instructor: Udayan Das
     | Online Thursday 06:00PM-09:00
     | Online Friday 06:00PM-09:00 - Check week(s)
 
     **Notes:**
-    COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. Non-SCPS students can request permission to enroll. For more
-    information go to http://www.luc.edu/adult-education/admission/nonscps-enrollment/
-    COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 11/22 for holiday make-up class.
+    COMP 271-700N is reserved for students in the School of Continuing & Professional Studies. For more information go to
+    http://www.luc.edu/adult-education/admission/nonscps-enrollment/
+    COMP 271-700N is an online section. Required synchronous sessions will be held Thursdays 6-9PM CST and one session Friday 11/30 for holiday make-up class.
 
 
-:doc:`comp319` 
-    | Section 001 (6134) Credits: 1; Online; Laboratory
-    | Instructor: William Honig
+:doc:`../courses/comp317` 
+    | Section 001 (3051) Credits: 3; Online; Lecture
+    | Instructor: Matthew Paul Butcher
     | Online Times: TBA
 
     **Notes:**
-    This is an online class.  More details will be forthcoming.
+    This is an online, asynchronous class.  All lectures will be pre-recorded.  Students are asked to attend smaller-group online interactive discussions at
+    regular intervals during the semester, with possible times chosen to fit different groups' schedules.
+    
+    
+    This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
+    graduate advisor.
 
 
-:doc:`comp340` 
-    | Section 001 (6219) Credits: 3; Online; Lecture
+:doc:`../courses/comp340` 
+    | Section 001 (6350) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
 
@@ -141,8 +113,8 @@ Undergraduate Courses
     Combined with COMP 488-340.
 
 
-:doc:`comp343` 
-    | Section 002 (6262) Credits: 3; Online; Lecture
+:doc:`../courses/comp343` 
+    | Section 002 (6291) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
@@ -154,8 +126,8 @@ Undergraduate Courses
     Combined with COMP 443-002.
 
 
-:doc:`comp347` 
-    | Section 002 (6277) Credits: 3; Online; Lecture
+:doc:`../courses/comp347` 
+    | Section 002 (6293) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -168,8 +140,8 @@ Undergraduate Courses
     Combined with COMP 447-002.
 
 
-:doc:`comp364` 
-    | Section 001 (6280) Credits: 3; Online; Lecture
+:doc:`../courses/comp364` 
+    | Section 001 (6294) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
@@ -180,8 +152,8 @@ Undergraduate Courses
     Combined with COMP 464-001.
 
 
-:doc:`comp390` 
-    | Section 01E (3302) Credits: 1 - 3; Online; Lecture
+:doc:`../courses/comp390` 
+    | Section 01E (3466) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
@@ -198,8 +170,8 @@ Undergraduate Courses
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
-:doc:`comp391` 
-    | Section 02E (4329) Credits: 1 - 6; Online; Field Studies
+:doc:`../courses/comp391` 
+    | Section 02E (4918) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
 
@@ -208,24 +180,24 @@ Undergraduate Courses
     Computer Science Department staff member will enroll you.
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
 
-.. _onlinefall_graduate_courses_list:
+.. _Fall_graduate_courses_list_Online:
 
 Graduate Courses
 ~~~~~~~~~~~~~~~~~~~~~
 
 
 
-:doc:`comp443` 
-    | Section 002 (6264) Credits: 3; Online; Lecture
+:doc:`../courses/comp443` 
+    | Section 002 (6349) Credits: 3; Online; Lecture
     | Instructor: Peter L Dordal
     | Online Times: TBA
 
@@ -237,8 +209,8 @@ Graduate Courses
     Combined with COMP 343-002.
 
 
-:doc:`comp447` 
-    | Section 002 (6279) Credits: 3; Online; Lecture
+:doc:`../courses/comp447` 
+    | Section 002 (6359) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
 
@@ -251,8 +223,8 @@ Graduate Courses
     Combined with COMP 347-002.
 
 
-:doc:`comp464` 
-    | Section 001 (6281) Credits: 3; Online; Lecture
+:doc:`../courses/comp464` 
+    | Section 001 (6361) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
 
@@ -264,14 +236,20 @@ Graduate Courses
 
 
 
-COMP 488 Topic : Comp Forensics Investigations 
-    | Section 340 (6188) Credits: 3; Online; Lecture
+COMP 488 Topic: Comp Forensics Investigations 
+    | Section 340 (6351) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Wednesday 07:00PM-09:30
-    | Description similar to: :doc:`comp340`
+    | Description similar to: :doc:`../courses/comp340`
 
     **Notes:**
-    Computer Forensics
+    Computer Forensics.
+    
+    
+    
+    Prerequisites: COMP 170 (or equivalent) and ( COMP 417 or COMP 443 )
+    
+    
     
     
     
@@ -279,26 +257,18 @@ COMP 488 Topic : Comp Forensics Investigations
     
     
     Combined with COMP 340-001.
-    
-    
-    
-    Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
-    
-    
-    
-    The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
     agrees to supervisor the work that you outline and schedule together.  This
-    *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
+    *supervisor arranges to get you registered*.  Possible supervisors are: full-time department faculty
 
 
-:doc:`comp499` 
-    | Section 002 (4330) Credits: 1 - 6; Online; Independent Study
+:doc:`../courses/comp499` 
+    | Section 002 (4919) Credits: 1 - 6; Online; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
 

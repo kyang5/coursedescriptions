@@ -1,4 +1,5 @@
 .. index:: minor in information technology
+    minor in information technology
 
 Minor in Information Technology
 ===============================

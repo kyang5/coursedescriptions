@@ -57,10 +57,8 @@ SWEN-BS Restricted Electives
 
 Select 9 credits from:
 
--   :doc:`../courses/comp332`
 -   :doc:`../courses/comp335`
 -   :doc:`../courses/comp370`
--   :doc:`../courses/comp371`
 -   :doc:`../courses/comp373`
 -   :doc:`../courses/comp382`
 
