@@ -1,7 +1,7 @@
 .. index:: operations management
 
-COMP 480: Operations Management
-=======================================================
+COMP 480: Computer Graphics
+===========================
 
 Credit Hours
 -----------------------------------
