@@ -1,7 +1,7 @@
 .. index:: introduction to natural language processing
    natural language processing 
 
-COMP 329: Introduction to Natural Language Processing
+COMP 329: Natural Language Processing
 =======================================================
 
 This course will act as an introduction to NPL(Natural Language Processing). NPL is the study of how a computer could comprehend human language.
@@ -15,7 +15,7 @@ Credit Hours
 Prerequisites
 ---------------------
 
-:doc:`../courses/comp271` and (|math131| or |math161|) and (|math132| or |math162|)
+Prereq (:doc:`../courses/comp231` or :doc:`../courses/comp271`) and (|math131| or |math161|) and (|stat103| or |stat203| or |isscm241| or |psyc304| or instructor permission)
 
 Description
 --------------------
