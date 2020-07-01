@@ -25,14 +25,3 @@ Curriculum 21 Credit Hours
 
     -   Note: :doc:`../courses/comp391` is **not** allowed.
 
-Curriculum (pre-Fall 2015)
-""""""""""""""""""""""""""
-
-If you declared the Computer Science Minor prior to Fall 2015, you may use the old curriculum below.
-
--   :doc:`../courses/comp150`
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp271`
--   Nine (9) units of Computer Science electives (for instance, three 3-credit courses)
-
-    -   Note: 6 units at the 300 level and 3 units at the 200 or 300 level. :doc:`../courses/comp391` is **not** allowed.

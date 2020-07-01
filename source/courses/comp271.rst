@@ -18,7 +18,7 @@ Prerequisites
 
 Co-requisites
 ------------------------
-:doc:`../courses/comp163` or |math201| (:doc:`../courses/comp163` preferred) or declared Computer Science, Computer Crime & Forensics or Information Technology Minor
+:doc:`../courses/comp163` or |math201| (:doc:`../courses/comp163` preferred)
 
 
 Description
