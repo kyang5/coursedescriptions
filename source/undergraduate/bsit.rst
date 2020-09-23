@@ -75,6 +75,13 @@ Electives
 -   Any COMP 300 level electives NOTE: A special case is :doc:`../courses/comp390`, :doc:`../courses/comp391` and :doc:`../courses/comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
 -   MGMT 201 plus ACCT 201 may count in place of 3 credits of major Electives, only if ISSCM 349 is completed to also count toward this major.
 
+General Notes
+~~~~~~~~~~~~~
+
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+
+- It is usually not meaningful to combine computing a major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
