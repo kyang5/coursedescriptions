@@ -58,6 +58,13 @@ Computer Science Free Electives
 
 (With permission, extra credits of MATH 161 or 300-level MATH, PHYS, or STAT for double majors, can be applied in this category.)
 
+General Notes
+~~~~~~~~~~~~~
+
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+
+- It is usually not meaningful to combine computing a major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
