@@ -74,5 +74,12 @@ Computer Science Electives
 - 3 credits of COMP 125 or COMP 150 or COMP 3xx
 - 10 credits of COMP 3xx.
 
+General Notes
+~~~~~~~~~~~~~
+
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+
+- It is usually not meaningful to combine computing a major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+
 
 `See this SWEN-BS Sample Schedule <https://drive.google.com/open?id=1TIbSBQ5jRhZoR2vwH18ntlu_UtVAB0H8>`_.
