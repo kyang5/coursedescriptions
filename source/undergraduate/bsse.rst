@@ -81,5 +81,7 @@ General Notes
 
 - It is usually not meaningful to combine computing a major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
+Suggested Ordering of Courses
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `See this SWEN-BS Sample Schedule <https://drive.google.com/open?id=1TIbSBQ5jRhZoR2vwH18ntlu_UtVAB0H8>`_.
