@@ -58,3 +58,6 @@ target/
 
 # Other temp files
 *~
+
+# VS Code config folder
+.vscode
