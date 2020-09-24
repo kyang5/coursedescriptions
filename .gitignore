@@ -62,4 +62,8 @@ target/
 # VS Code config folder
 .vscode
 
+# Mac OSX filesystem preferences
 */._.DS_Store
+
+# .idea project folders
+.idea/
