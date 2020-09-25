@@ -12,6 +12,8 @@ Physics is understood in terms of many mathematical relationships that are much 
 Curriculum
 -----------
 
+Please see `https://www.luc.edu/physics/bs_csphysics.shtml <https://www.luc.edu/physics/bs_csphysics.shtml>`_.
+
 Math Requirements
 ~~~~~~~~~~~~~~~~~~
 

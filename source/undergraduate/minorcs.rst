@@ -23,5 +23,4 @@ Curriculum 21 Credit Hours
 -   :doc:`../courses/comp251` or :doc:`../courses/comp272` or :doc:`../courses/comp264` or 3 credits of a 300-level COMP course
 -   One 300-level computer science elective
 
-    -   Note: :doc:`../courses/comp391` is **not** allowed.
-
+-   Note: :doc:`../courses/comp391` is **not** allowed for any of the 300-level electives.

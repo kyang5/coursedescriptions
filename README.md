@@ -12,5 +12,3 @@ About
 ==================
 
 Course Descriptions for the CS Department of Loyola University Chicago.
-
-

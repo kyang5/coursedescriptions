@@ -12,6 +12,8 @@ Many parts of computer science, including scientific computing, analysis of algo
 Curriculum
 -----------
 
+Please see `https://www.luc.edu/math/bsmathcs.shtml <https://www.luc.edu/math/bsmathcs.shtml>`_.
+
 Math Requirements
 ~~~~~~~~~~~~~~~~~~
 
@@ -42,7 +44,7 @@ Two of the following five courses:
 Computer Science Requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--   :doc:`../courses/comp150` (may be replaced by a 300-level classroom elective if :doc:`../courses/comp215` is taken)    
+-   :doc:`../courses/comp150` (may be replaced by a 300-level classroom elective if :doc:`../courses/comp215` is taken)
 -   Introduction to Object-Oriented Programming & Data Structures
 
         -   Either :doc:`../courses/comp170`
@@ -70,6 +72,3 @@ Electives
 ~~~~~~~~~~
 
 -   Any two 300-level, 3-credit courses in Computer Science.
-
-
-
