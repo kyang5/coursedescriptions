@@ -8,4 +8,3 @@ Course Schedules / Information
    :maxdepth: 2
 
 * `Textbook and course schedule information <https://www.luc.edu/cs/schedules/courseschedulesandtextbooks>`_
-   longtermschedule
