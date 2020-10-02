@@ -63,7 +63,7 @@ General Notes
 
 - Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
 
-- It is usually not meaningful to combine computing a major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+- It is usually not meaningful to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
