@@ -1,12 +1,8 @@
 Course Schedules / Information
 -----------------------------------------------------
 
-.. note:: Beginning in Summer 2020, all visitors are expected to visit https://locus.luc.edu to view course offerings for Fall, J Term, Spring, and Summer schedules. See `Performing a Class Search <https://locus.luc.edu/pa91prd/locus_help/Performing_a_Class_Search_in_LOCUS.pdf>`__ for details. The links below, except for the long-term schedule,  will be removed on May 1, 2020.
+.. note::
+    Visitors are expected to use `https://locus.luc.edu <https://locus.luc.edu>`_ to see authoritative course schedule information. The links below also can be used for additional informal information.
 
-.. toctree::
-   :maxdepth: 2
-
-   summer
-   longtermschedule
-
-|see-locus|
+    * `COMP/CSIS Courses Long-Term Schedule <longtermschedule.html>`_
+    * `Textbook and course schedule information <https://www.luc.edu/cs/schedules/courseschedulesandtextbooks>`_
