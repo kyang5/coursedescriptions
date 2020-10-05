@@ -1,21 +1,26 @@
-Syllabi
+Schedules
 =======================
 
-Welcome to the Syllabi *informational* site for the Computer Science Department at Loyola University Chicago.
+Welcome to the Schedules *informational* site for the Computer Science Department at Loyola University Chicago.
 
 This site is aimed at helping *current* students find detailed information
-about the syllabi in the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
+about the schedules in the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 This site is also available in |pdf-version| and |epub-version| formats.
 
-Syllabi List
+Schedules List
 --------------------------
+
+.. note::
+
+   |see-locus|
 
 .. toctree::
    :maxdepth: 1
 
-   /syllabi/syllabi
-   /syllabi/legacy-syllabi
+   /schedules/schedules
+   /schedules/longtermschedule
+   /schedules/summer
 
 Other Helpful Resources for Current Students
 ----------------------------------------------
