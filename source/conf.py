@@ -132,7 +132,7 @@ rst_epilog = (
 
 .. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/coursedescriptions/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
 
-.. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to chnage at any time.
+.. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
 """
     % vars()

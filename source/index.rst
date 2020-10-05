@@ -19,11 +19,6 @@ Schedules and Syllabi
 
    |see-locus|
 
-..   We provide schedules as a convenience to students.
-..   The authoritative source of current course information is `LOCUS <https://locus.luc.edu/>`_.
-..   We collect the syllabi from *all* faculty at the beginning of each academic term. These are the official versions,
-..   especially when it comes to the grading criteria.
-
 .. toctree::
    :maxdepth: 1
 
