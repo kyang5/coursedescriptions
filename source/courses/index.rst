@@ -1,10 +1,10 @@
-Academic Programs and Courses
+Academic Courses
 ================================
 
-Welcome to the Academic Programs *informational* site for the Computer Science Department at Loyola University Chicago.
+Welcome to the Academic Courses *informational* site for the Computer Science Department at Loyola University Chicago.
 
 This site is aimed at helping *current* students find detailed information
-about the academic programs and courses in the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
+about the academic courses offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 .. note::
 
