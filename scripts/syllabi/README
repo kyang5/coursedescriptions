@@ -1,0 +1,22 @@
+These scripts will be used to create the CSV tables for syllabi.
+Data are exported from a Google/Excel spreadsheet.
+
+Assuming you have courses.csv (or any .csv):
+
+```
+sqlite3 courses.db
+sqlite> .mode csv
+sqlite> .load courses.csv
+sqlite> ^d
+```
+
+The Jupyter notebook shows how to take this output and make
+the CSV table we use for the syllabi pages
+
+We let the database do most heavy lifting for aggregating by
+course/section number and creating a proper Sphinx URL.
+
+I'll be working on getting the Jupyter notebook into a proper
+script so we can integrate all of this with our CI workflow (via
+Travis).
+
