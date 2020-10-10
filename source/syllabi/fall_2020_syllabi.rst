@@ -12,6 +12,7 @@ Fall 2020 Syllabi
    "COMP 125-002",Nguyen,"Fall 2020","`COMP 125-002: Nguyen <https://drive.google.com/open?id=1FWQC-aCOWgLxilmD2r55FRTRKt34eg1r>`__"
    "COMP 125-003",Wetzel,"Fall 2020","`COMP 125-003: Wetzel <https://drive.google.com/open?id=12NR713P8wazRNhD_h_Jgrl3OfNOeRst3>`__"
    "COMP 141-001",Thiruvathukal,"Fall 2020","`COMP 141-001: Thiruvathukal <https://drive.google.com/open?id=1el9BfXd5xZG7OHye0xVclc0_iLHnGBaR>`__"
+   "COMP 141-001",Thiruvathukal,"Fall 2020","`COMP 141-002: O'Sullivan <https://drive.google.com/open?id=1el9BfXd5xZG7OHye0xVclc0_iLHnGBaR>`__"
    "COMP 150-002",Abuhamad,"Fall 2020","`COMP 150-002: Abuhamad <https://drive.google.com/open?id=1AqRo_b9FNCztob29spyutrShoWQNaejQ>`__"
    "COMP 150-003",Abuhamad,"Fall 2020","`COMP 150-003: Abuhamad <https://drive.google.com/open?id=1bM0lfaJsfEMIdbgEGBRca3msNyU-y7yK>`__"
    "COMP 150-001","O'Sullivan ","Fall 2020","`COMP 150-001: O'Sullivan  <https://drive.google.com/open?id=1hFWXYhlYrqk6kmvMpccaVvPjeWHSQUQs>`__"
