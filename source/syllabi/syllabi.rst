@@ -6,11 +6,7 @@ Current Course Syllabi
    :maxdepth: 1
 
    fall_2020_syllabi
-   summer_2020_syllabi
-   spring_2020_syllabi
-   fall_2019_syllabi
-   spring_2019_syllabi
 
+See :doc:`legacy-syllabi` for past syllabi.
 
-* :ref:`legacy_syllabi` (deprecated)
 
