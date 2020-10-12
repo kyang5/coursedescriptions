@@ -16,6 +16,5 @@ sqlite3 courses.db << EOF
 .mode csv
 .import courses.csv courses
 .schema
-select "COMP Course Number" || '-' || "COMP Section Number", "Faculty Last Name", Semester, Syllabus from courses where "Final Version" = 'Yes' order by Semester, "COMP Course Number";
 EOF
 
