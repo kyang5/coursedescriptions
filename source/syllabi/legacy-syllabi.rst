@@ -1,8 +1,17 @@
 .. _legacy_syllabi:
 
-Legacy Syllabi
+Past Syllabi
 -----------------
+.. toctree::
+   :maxdepth: 1
 
-If you are looking for syllabi prior to 2019, see 
+   summer_2020_syllabi
+   spring_2020_syllabi
+   fall_2019_syllabi
+   spring_2019_syllabi
+
+
+Looking for syllabi prior to 2019? See 
 `Legacy Syllabi (Google Drive) <https://drive.google.com/open?id=1e_uHV0cSiQP6ZZas6gJYPrLWh0LrGVf0>`_
+
 

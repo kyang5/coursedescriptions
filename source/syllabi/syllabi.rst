@@ -5,8 +5,8 @@ Current Course Syllabi
 .. toctree::
    :maxdepth: 1
 
-   fall_2019_syllabi
-   spring_2019_syllabi
+   fall_2020_syllabi
 
-* :ref:`legacy_syllabi` (deprecated)
+See :doc:`legacy-syllabi` for past syllabi.
+
 
