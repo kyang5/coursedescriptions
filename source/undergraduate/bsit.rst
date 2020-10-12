@@ -9,14 +9,14 @@ Overview
 
 This major prepares students who plan to design, create, and administer large information bases used by organizations.
 
-Enterprises have an ever-growing investment in the exploding quantity of information, especially in web related data, that requires increasingly sophisticated approaches for efficient access and productive use. Students gain the talents and skills to be successful in today’s organizations following current industry practices: planning, designing, implementing and administering data information and knowledge bases that can be effectively mined; assessing the information and data requirements of an organization and implementing these requirements as an information system; and functioning as an effective member of an information services division in an organization.
+Enterprises have an ever-growing investment in the exploding quantity of information, especially in web-related data, that requires increasingly sophisticated approaches for efficient access and productive use. Students gain the talents and skills to be successful in today’s organizations following current industry practices: planning, designing, implementing, and administering data information and knowledge bases that can be effectively mined; assessing the information and data requirements of an organization and implementing these requirements as an information system; functioning as an effective member of an information services division in an organization.
 
 The Bureau of Labor Statistics indicates high median pay and estimates a 15% increase (much higher than average) in the demand for computer and information systems managers for the period 2014 to 2024.
 
 Curriculum
 -----------
 
-If you decided prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsitold`.
+If you decided prior to Fall 2020 you may use the old Information Technology B.S. Curriculum located :doc:`bsitold`.
 
 Major Requirements (49 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ Electives
 -   MGMT 318: Organizational Development and Change
 -   MGMT 320: Leading and Managing Team
 -   MGMT 335: Micro-enterprise Consulting
--   MGMT 360: Values Based Leadership
+-   MGMT 360: Values-Based Leadership
 -   ENTR 201: Introduction to Entrepreneurship
 -   ENTR 311: Social Entrepreneurship (Not for Profit ventures)
 -   ENTR 312: Intellectual Property & Commercialization
@@ -78,9 +78,9 @@ Electives
 General Notes
 ~~~~~~~~~~~~~
 
-- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learning, Writing Intensive).
 
-- It is usually not meaningful to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+- It is usually not meant to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

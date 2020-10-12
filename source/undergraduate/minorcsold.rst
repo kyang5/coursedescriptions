@@ -28,7 +28,7 @@ Curriculum
 Curriculum (pre-Fall 2015)
 """"""""""""""""""""""""""
 
-If you declared the Computer Science Minor prior to Fall 2015, you may use the old curriculum below.
+If you declared the Computer Science Minor before Fall 2015, you may use the old curriculum below.
 
 -   :doc:`../courses/comp150`
 -   :doc:`../courses/comp170`

@@ -7,7 +7,7 @@ B.S. in Computer Science
 Overview
 ---------
 
-The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want pursue a career as an industry practitioners and/or as an academic.
+The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want to pursue a career as an industry practitioner and/or as an academic.
 
 Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and Information Technology is rated second highest in median pay and fourth highest in projected employment growth for the period 2014 to 2024.
 
@@ -15,9 +15,9 @@ Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and I
 Curriculum
 -----------
 
-If you decided prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
+If you decided before Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
 
-If you decided prior to Fall 2020 but after 2013 you may use the old Computer Science B.S. curriculum located at :doc:`bscsold`
+If you decided before Fall 2020 but after 2013 you may use the old Computer Science B.S. curriculum located at :doc:`bscsold`
 
 Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,9 +77,9 @@ Computer Science Free Electives
 General Notes
 ~~~~~~~~~~~~~
 
-- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learning, Writing Intensive).
 
-- It is usually not meaningful to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+- It is usually not meant to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
