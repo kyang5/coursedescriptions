@@ -4,7 +4,7 @@
 COMP 337: Introduction to Concurrency
 =====================================
 
-Many real-world software systems rely on concurrency for performance and modularity.  This programming-intensive course covers analysis, design, implementation, and testing of concurrent software systems. 
+Many real-world software systems rely on concurrency for performance and modularity.  This programming-intensive course covers the analysis, design, implementation, and testing of concurrent software systems.
 
 Credit Hours
 -----------------------
@@ -19,7 +19,7 @@ Prerequisites
 Description
 --------------------
 
-This course studies the architecture, design, and implementation of
+This course studies architecture, design, and implementation of
 concurrent software systems. Process algebras, formal specification, and
 testing are used as tools in the engineering of concurrent systems;
 event-based programming frameworks and thread libraries are employed in

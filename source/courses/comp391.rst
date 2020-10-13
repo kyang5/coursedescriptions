@@ -26,23 +26,17 @@ or related activities in computer science in a professional setting.
 
 Selection for Internships in Computer Science:
 
-#. Students interested in internship must first find an
-   employer/supervisor willing to provide them with a job.  Internships
-   are most advantageous to students if they already have considerable
-   experience in upper level Computer Science courses.  Skills from
-   upper level courses are also going to help students be hired.
-#. The student must make a formal request to the Undergraduate
+#. Students interested in an internship must first find an employer/supervisor willing to provide them with a job.  Internships are most advantageous to students if they already have considerable experience in upper-level Computer Science courses.  Skills from upper-level courses are also going to help students be hired.
+#. The student must make a formal request to the Undergraduate
    Internship Coordinator, supplying a job Description.
-   The Undergraduate Internship Coordinator is looking for positions
-   where the student will use and extend knowledge from upper level
-   courses.
-#. The Undergraduate Internship Coordinator reviews the student's
+   The Undergraduate Internship Coordinator is looking for positions where the student will use and extend knowledge from the upper-level courses.
+#. The Undergraduate Internship Coordinator reviews the student's
    performance in general and in relevant Comp classes, and either
    approves the request or suggests what further steps the student
    should make before securing an internship.
-#. By the start of the internship the student must deliver the
+#. By the start of the internship, the student must deliver the
    Internship Memorandum of Understanding (see below) signed by both the
-   supervisor, student, and Undergraduate Internship Coordinator,
+   supervisor, student, and Undergraduate Internship Coordinator,
    outlining the expectations of all parties.
 
 Presently the standard expectation is 50 hours of work relevant to a
@@ -59,19 +53,19 @@ Note 1: This is a course like any other where you need to be
 registered on time for the term (fall semester, spring semester, or
 summer) in which the internship will end. Many people have been denied
 registration for 391 because they tried to register late, concentrating
-on the job, not the registration. Also you must get the approval of
-the Undergraduate Internship Coordinator first. Plan ahead.
+on the job, not the registration. Also, you must get the approval of
+the Undergraduate Internship Coordinator first. Plan ahead.
 
-Note 2: In order to get a grade recorded, the final reports of the
-student and the employer must be received by the Undergraduate
-Internship Coordinator before the last week of the finals week. Make
+Note 2: To get a grade recorded, the final reports of the
+student and the employer must be received by the Undergraduate
+Internship Coordinator before the last week of the finals week. Make
 sure the end date on the internship is early enough to fit with that.
 You may continue with more hours in your job after the for-credit
 internship part.
 
 Note 3: You do not need to be classified as an "intern" in your job.
 It can be a regular job. The internship only comes from the relationship
-to your academic credit and the supporting documents indicated in the
+to your academic credentials and the supporting documents indicated in the
 MOU. The overhead for the employer is comparable to a letter of
 recommendation.
 

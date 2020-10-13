@@ -16,10 +16,10 @@ Prerequisites
 
 :doc:`../courses/comp264` or Comp 360 or comparable background, including but not limited to the following:
 
-- Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexors, registers, main memory, caches, and buses
+- Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexers, registers, main memory, caches, and buses
 - familiarity with the roles of compilers, assemblers, and operating systems
 - some familiarity with assembly language
-- ability to understand simple C programs and to run programs in a UNIX environment, and
+- the ability to understand simple C programs and to run programs in a UNIX environment, and
 - familiarity with the representation of numbers in digital computers
 
 Description
@@ -31,7 +31,7 @@ design process. It describes CPU performance issues and introduces instruction
 set architectures. The course then uses a hypothetical computer design, with a
 simple RISC architecture, to show how modern digital computers are
 implemented, first using a simple non-pipelined implementation, followed by a
-higher-performace pipelined implementation. The major hazards introduced by
+higher-performance pipelined implementation. The major hazards introduced by
 pipelining, including structural hazards, data hazards, and control hazards
 are discussed and techniques for overcoming them are described. Additional
 topics covered in this course include the design of the memory hierarchy in

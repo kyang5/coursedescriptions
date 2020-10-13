@@ -31,12 +31,8 @@ The Process
    web describing ongoing projects, or just ask professors.
 -  Discuss details of what your work will entail, the number of units of
    credit, and the expectations for grading.
--  Write an email back to the professor, confirming the details of your
-   discussion. Also include the semester you want to register, the
-   number of units, and your student number (to aid the final
-   registration).  All this data is essential.
--  The professor should respond, copying your data, and agreeing with
-   your request, and the email should be copied to upd@cs.luc.edu.
+-  Write an email back to the professor, confirming the details of your discussion. Also include the semester you want to register, the number of units, and your student number (to aid the final registration).  All this data is essential.
+-  The professor should respond, copying your data, and agreeing with your request and the email should be copied to upd@cs.luc.edu.
 -  The department administrator should email all concerned when the
    registration is completed.
 

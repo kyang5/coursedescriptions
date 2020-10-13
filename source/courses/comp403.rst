@@ -1,10 +1,10 @@
-.. index:: operations managment
-   operations managment
+.. index:: operations management
+   operations management
 
 COMP 403: Operations Management
 ==============================================
 
-This course introduces foundations for managing production ans service operations.
+This course introduces foundations for managing production and service operations.
 
 Credit Hours
 -----------------------
@@ -17,12 +17,12 @@ Prerequisites
 
 Description
 --------------------
- 	
+
 Application of concepts and methods for managing production
 and service operation. Topics include demand forecasting,
-appregate and capacity planning, inventory management, facility
+aggregation and capacity planning, inventory management, facility
 layout and location, just-in-time, managing quality,
-project planning, resource allocation, logictics.
+project planning, resource allocation, logistics.
 Emphasis on decision support
 
 Outcome

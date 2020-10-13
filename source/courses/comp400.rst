@@ -4,7 +4,7 @@
 COMP 400: Data Mining
 ==============================================
 
-This course covers theory and practice of data mining.
+This course covers the theory and practice of data mining.
 
 Credit Hours
 -----------------------
@@ -17,7 +17,7 @@ Prerequisites
 
 Description
 --------------------
-This course covers theory and practice of the analysis (mining)
+This course covers the theory and practice of the analysis (mining)
 of extremely large datasets with datasets. With data growing at
 exponential rates knowledge gathering and exploration techniques
 are essential for gaining useful intelligence.
@@ -25,8 +25,8 @@ are essential for gaining useful intelligence.
 
 Outcome
 ----------------------
-Students are able to define and critically analyze data mining
-approaches for fields such as security, health care, science and marketing.
+Students can define and critically analyze data mining
+approaches for fields such as security, health care, science, and marketing.
 
 Syllabi
 ----------------------

@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`../courses/comp271` with grade of C- or better
+:doc:`../courses/comp271` with a grade of C- or better
 
 
 
@@ -23,7 +23,7 @@ This course will teach students how to effect rapid application development usin
 Outcome
 -------
 
-Students will gain enhanced skill in object-oriented programming and development of such applications as database applications, web applications, Microsoft .NET services, Silverlight applications, and WCF Services.
+Students will gain enhanced skills in object-oriented programming and development of such applications as database applications, web applications, Microsoft .NET services, Silverlight applications, and WCF Services.
 
 .. fix
     Syllabi

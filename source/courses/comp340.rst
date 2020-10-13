@@ -3,14 +3,14 @@
 COMP 340: Computer Forensics
 ====================================
 
-The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.  
+The course introduces the fundamentals of computer/network/internet forensics, analysis, and investigations.
 
 Credit Hours
 -----------------
 
 3
 
-Prerequisities
+Prerequisites
 --------------------
 
 :doc:`../courses/comp150` or :doc:`../courses/comp170` or :doc:`../courses/comp215`/|math215|
@@ -20,7 +20,7 @@ Prerequisities
 Description
 ----------------------
 
-The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.  
+The course introduces the fundamentals of computer/network/internet forensics, analysis, and investigations.
 
 Outcome
 -----------

@@ -3,7 +3,7 @@
 COMP 425: Rapid Applications Development
 ==============================================
 
-This course will teach how to develop applications quick using .NET framework.
+This course will teach how to develop applications quickly using the .NET framework.
 
 Credit Hours
 -----------------------
@@ -16,10 +16,10 @@ Prerequisites
 
 Description
 --------------------
-This course will teach students how to design Rapid Application
+This course will teach students how to design a Rapid Application
 Development using an integrated development environment such as
-the .NET framework and methodology. It is designed to support 
-object-oriented programming concepts. 
+the .NET framework and methodology. It is designed to support
+object-oriented programming concepts.
 
 
 Outcome

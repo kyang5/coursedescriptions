@@ -3,7 +3,7 @@
 COMP 386: Computational Neuroscience
 ====================================
 
-Introduces computational methods to understand neural processing in the brain. 
+Introduces computational methods to understand neural processing in the brain.
 
 Credit Hours
 -----------------------
@@ -24,8 +24,8 @@ Introduces computational methods to understand neural processing in the brain. L
 Outcome
 -------------
 
-Appreciation that many aspects of neuroscience cannot be understood without appropriate mathematical or computational frameworks, and ability to adeptly apply these frameworks in the various domains of neuroscience.
- 
+An appreciation that many aspects of neuroscience cannot be understood without appropriate mathematical or computational frameworks, and the ability to adeptly apply these frameworks in the various domains of neuroscience.
+
 Syllabi
 ---------------------
 

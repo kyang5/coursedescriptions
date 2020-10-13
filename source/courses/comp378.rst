@@ -3,7 +3,7 @@
 COMP 378: Artificial Intelligence
 =================================
 
-This course introduces artificial intelligence theory and programming. 
+This course introduces artificial intelligence theory and programming.
 
 Credit Hours
 -----------------------
@@ -27,7 +27,7 @@ neural networks.
 Outcome
 -----------
 
-Student will learn basic theory of artificial intelligence and be able to build small applications based on it.
+The student will learn the basic theory of artificial intelligence and be able to build small applications based on it.
 
 Syllabi
 ----------------------

@@ -4,7 +4,7 @@ COMP 330: Software Engineering
 ==============================
 
 Students learn real-world theory and techniques organizations use to create high-quality software on time.  Students work on a large
-programming team to create plans, review progress, measure quality, and make written and oral analyses of their project. 
+programming team to create plans, review progress, measure quality, and make written and oral analyses of their project.
 
 Credit Hours
 -----------------------
@@ -26,7 +26,7 @@ test a large software project.
 Outcome
 --------------------
 
-Students will experience process based development, understand the dynamics of a professional software organization, and develop skills
+Students will experience process-based development, understand the dynamics of a professional software organization, and develop skills
 for implementing software with others.
 
 Syllabi

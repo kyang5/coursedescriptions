@@ -3,7 +3,7 @@
 COMP 171: Scripting Languages
 =============================
 
-Scripting languages are rapid prototyping languages that are used extensively. This course covers the principles, syntax and semantics of widely used scripting languages.
+Scripting languages are rapid prototyping languages that are used extensively. This course covers the principles, syntax, and semantics of widely used scripting languages.
 
 Credit Hours
 -----------------------

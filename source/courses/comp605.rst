@@ -11,7 +11,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-Must be a Student in the M.S. Computer Science Program and doing the Thesis Option.
+Must be a student in the M.S. Computer Science Program and doing the Thesis Option.
 
 Description
 ----------------------------

@@ -5,7 +5,7 @@
 COMP 373: Objects, Frameworks, and Patterns
 ===========================================
 
-Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective. 
+Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective.
 
 Credit Hours
 -----------------------
@@ -17,7 +17,7 @@ Prerequisites
 
 :doc:`../courses/comp313`
 
-You need to have knowledge of Java, C# or a similar object-oriented language, data
+You need to know Java, C#, or a similar object-oriented language, data
 structures, and fair sophistication with OOP - some experience with
 designing interacting, cooperating classes that would come in an
 intermediate discussion of software patterns. Software engineering is
@@ -38,7 +38,7 @@ Building on this foundation, the course studies three major topics:
 
 First, the course discusses patterns, reusable solutions to recurring
 software design problems. Common design patterns such as Composite,
-Decorator, and Command typically involve several classes related by
+Decorator and Command typically involve several classes related by
 composition and inheritance.
 
 **Implementation**
@@ -53,7 +53,7 @@ for a simplified object-oriented language.
 Finally, the course explores programming with reusable components.
 Specifically, the standard features of component architectures are
 discussed: properties, events, methods, and persistence, and
-introspection. 
+introspection.
 
 Other Information
 ~~~~~~~~~~~~~~~~~~

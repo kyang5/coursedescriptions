@@ -1,4 +1,4 @@
-.. index:: graduate level internship
+.. index:: graduate-level internship
    internship
 
 COMP 499: Internship

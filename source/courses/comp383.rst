@@ -3,7 +3,7 @@
 COMP 383: Computational Biology
 ===============================
 
-This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and rapid sequence analysis.
+This course presents an algorithmic focus on problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignments, gene prediction, trees and sequences, databases, and rapid sequence analysis.
 
 Credit Hours
 --------------------
@@ -20,11 +20,11 @@ Prerequisites
 Description
 --------------------
 
-This course presents an algorithmic focus to problems in computational
+This course presents an algorithmic focus on problems in computational
 biology. As such it is built on earlier courses on algorithms and
 bioinformatics. Problems and solutions covered in this course include
 Gene Hunting, Sequence Comparison, Multiple Alignment, Gene Prediction,
-Trees and Sequences, Databases and Rapid sequence analysis.
+Trees and Sequences, Databases, and Rapid sequence analysis.
 
 Outcome
 ------------

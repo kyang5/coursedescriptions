@@ -26,7 +26,7 @@ verification, and synthesis of software.
 Outcomes
 ----------------------------
 An understanding of the role of formal methods in the
-construction of software systems; proficiency in representative
+construction of software systems; proficiency in the representative
 methods and tools, such as UML and ESC.
 
 Syllabi

@@ -21,7 +21,7 @@ This course is an introduction to the philosophy and practice of project managem
 Outcome
 -----------
 
-Students will learn time management, work-flow management, and team dynamics to design, implement and test large-scale software projects.
+Students will learn time management, work-flow management, and team dynamics to design, implement, and test large-scale software projects.
 
 Syllabi
 --------------------

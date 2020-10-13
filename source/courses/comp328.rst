@@ -22,9 +22,9 @@ Prerequisites
 Description
 --------------------
 
-Codes with algebraic structure for error control are examined. Block codes including Hamming codes
+Codes with an algebraic structure for error control are examined. Block codes including Hamming codes
 and Reed-Muller codes, BCH codes, and other cyclic codes with algebraic structure and their implementation
-are treated. Other topics may include: convolutional codes, efficiency considerations, and Shannon's
+are treated. Other topics may include convolutional codes, efficiency considerations, and Shannon's
 fundamental theorem of information theory.
 
 Outcome

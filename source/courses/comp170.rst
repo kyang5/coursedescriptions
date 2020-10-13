@@ -26,14 +26,13 @@ language.
 The course addresses the following questions:
 
 -  What is an algorithm?
--  How does one write, debug, run (“execute”), and test an effective
-   computer program?
+-  How does one write, debug, run (“execute”), and test an effective computer program?
 -  How does one convert an algorithm into a computer program?
 -  How does one judge a program?
 -  What does “object-oriented” mean?
 
-Topics include: variables, data types,input/output, loops and
-repetition, choice, arrays, subprograms,classes/objects, OO principles,
+Topics include: variables, data types, input/output, loops and
+repetition, choice, arrays, subprograms, classes/objects, OO principles,
 and recursion.
 
 Course Goals
@@ -44,10 +43,8 @@ Upon successful completion of the course, the student will be able to:
 #. Write good programs of small to medium size – programs that are
    correct, high quality, and use correct and appropriate Object
    Oriented Programming techniques.
-#. Reuse classes and Application Programming Interfaces (APIs) developed
-   by others, especially the standard library APIs.
-#. Understand and recognize proper programming style and demonstrate
-   making design decisions consistent with Object Oriented
+#. Reuse classes and Application Programming Interfaces (APIs) developed by others, especially the standard library APIs.
+#. Understand and recognize proper programming style and demonstrate making design decisions consistent with Object-Oriented
    methodologies.
 #. Be able to read, understand, and interpret programs written by others
    in the same language.

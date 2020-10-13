@@ -1,4 +1,4 @@
-.. index:: free/open source computing
+.. index:: free/open-source computing
    open source
 
 COMP 412: Free/Open Source Computing
@@ -21,7 +21,7 @@ This course will cover the fundamentals of Free and Open Source software
 development. Topics to be addressed include licensing, Linux, typical software
 development tools (e.g. compilers, scripting languages, build tools, and
 version control software), applications, and techniques for managing remote
-servers. Students will work on a significant developmentproject involving free
+servers. Students will work on a significant development project involving free
 and open-source software and learn how to participate in open-source projects
 effectively.
 

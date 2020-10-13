@@ -4,7 +4,7 @@ COMP 331: Mathematical Foundations of Cryptography
 ======================================================
 
 This course introduces the formal foundations of cryptography and also investigates some well-known standards and protocols, including
-private and public key cryptosystems, hashing, digital signatures, RSA, DSS, PGP, and related topics.
+private and public-key cryptosystems, hashing, digital signatures, RSA, DSS, PGP, and related topics.
 
 Aliases
 ---------------------
@@ -30,7 +30,7 @@ investigates some well-known standards and protocols. The intended audience is
 senior undergraduate and beginning graduate students. The course will include
 topics selected from the following: information-theoretic security, private
 key encryption, DES, public key encryption, background on modular arithmetic,
-RSA, hashing and message authentication codes (MACs), digital signatures, DSS,
+RSA, hashing, and message authentication codes (MACs), digital signatures, DSS,
 key distribution and management, PGP, network security, and Fiat-Shamir
 protocol.
 

@@ -22,7 +22,7 @@ Description
 ----------------------------
 
 The tool of simulation is probably the most useful tool for analyzing problems
-which arise in real applications which are much too complicated to be analyzed
+that arise in real applications which are much too complicated to be analyzed
 mathematically. One example is the study of inventory control policies. When
 should the inventory be checked? How many units should be ordered? What are
 the anticipated consequences of these decisions? We simulate the random

@@ -4,7 +4,7 @@
 COMP 380: Introduction to Computer Graphics
 ===========================================
 
-This course introduces modern theory and practices in 3-D computer graphics, stressing real-time interactive applications using libraries like OpenGL. 
+This course introduces modern theory and practices in 3-D computer graphics, stressing real-time interactive applications using libraries like OpenGL.
 
 Credit Hours
 -----------------------
@@ -26,12 +26,12 @@ Description
 Computer graphics is the art and science of producing images using a
 computer. We will study the theory of computer graphics, in particular
 3D rendering, while gaining a working knowledge of the OpenGL graphics
-library. Much of the computer graphics we see in the media was created
+library. Much of the computer graphics we see in the media were created
 using software based on the Open GL graphics library, which has quickly
 become an industry standard.
 
 A word of warning-computer graphics makes considerable use of
-mathematics-elementary linear algebra, vector analysis and differential
+mathematics-elementary linear algebra, vector analysis, and differential
 calculus.
 
 Other Information
@@ -43,7 +43,7 @@ will probably do your assignments using Visual C++ under either Windows
 Outcome
 ----------------
 
-Student will learn how to program real-time interactive applications using libraries like OpenGL.
+The student will learn how to program real-time interactive applications using libraries like OpenGL.
 
 Syllabi
 ----------------------

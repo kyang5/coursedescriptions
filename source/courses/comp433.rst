@@ -13,7 +13,7 @@ Prerequisites
 
 - :doc:`../courses/comp413`
 - :doc:`../courses/comp442` (highly recommended)
-- instructor permission if prerequisite is missing
+- instructor permission if the prerequisite is missing
 
 .. include:: ../graduate/fcs.txt
 

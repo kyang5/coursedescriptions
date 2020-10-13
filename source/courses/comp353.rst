@@ -3,7 +3,7 @@
 COMP 353: Database Programming
 ==============================
 
-This course introduces relational and object databases  to support database creation and application development. Use of commercial database products will give a practical orientation.
+This course introduces relational and objects databases to support database creation and application development. The use of commercial database products will give a practical orientation.
 
 Credit Hours
 -----------------------
@@ -21,13 +21,13 @@ Description
 This course covers the fundamentals of database application development
 using C++, C, or Java by accessing a transaction-oriented database
 server. A commercial database environment such as Oracle is used.
-Apitional topics may include enabling access to database via the web,
+Additional topics may include enabling access to the database via the web,
 and administering large databases.
 
 Outcome
 ------------
 
-Students will learn SQL, database design and application development using the latest software tools.  Students will also learn techniques for web based data retrieval and manipulation.
+Students will learn SQL, database design, and application development using the latest software tools.  Students will also learn techniques for web-based data retrieval and manipulation.
 
 Syllabi
 --------------------

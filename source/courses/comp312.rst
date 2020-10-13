@@ -1,4 +1,4 @@
-.. index:: open source software practicum
+.. index:: open-source software practicum
    open source
 
 COMP 312: Open Source Software Practicum

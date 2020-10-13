@@ -20,10 +20,9 @@ Prerequisites
 Description
 --------------------
 
-This course studies advanced abstract data types, such as sets, maps, and graphs, and their implementation using arrays and dynamically allocated nodes in an object-oriented language. The course also studies the performance of the data structures’ built-in operations and related algorithms such as sorting, searching, and traversing. 
+This course studies advanced abstract data types, such as sets, maps, and graphs, and their implementation using arrays and dynamically allocated nodes in an object-oriented language. The course also studies the performance of the data structures’ built-in operations and related algorithms such as sorting, searching, and traversing.
 
 Outcome
 ----------------------
 
-Students learn non-linear data structures and runtime performance of their operations, solve computational problems by choosing suitable data structures, and implement algorithms within the object-oriented paradigm
-
+Students learn non-linear data structures and runtime performance of their operations, solve computational problems by choosing suitable data structures and implement algorithms within the object-oriented paradigm

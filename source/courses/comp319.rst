@@ -1,5 +1,5 @@
-.. index:: introduction to unix
-   unix
+.. index:: introduction to Unix
+   Unix
 
 COMP 319: Introduction to Unix
 ==============================
@@ -31,7 +31,7 @@ script language.
 Outcome
 ----------------------
 
-After taking this course, students will develop working knowledge of Unix and be able to use modern Unix operating systems such as
+After taking this course, students will develop a working knowledge of Unix and be able to use modern Unix operating systems such as
 Linux, OS X, or Solaris.
 
 Syllabi
