@@ -14,7 +14,7 @@ so the student gets to choose the degree programs in those cases:
 
 .. linksetup
    Each line should be a link to its new T4 page
-   not the temp sphinx page shown at the end of each line here for reference
+   not the temp sphinx page is shown at the end of each line here for reference
 
 * :doc:`cyberanalyst`
 * :doc:`securityauditor`
@@ -33,7 +33,7 @@ so the student gets to choose the degree programs in those cases:
    testing
 
 .. linksfromprograms
-   Each individual MS degree program page should have at the end:
+   Each MS degree program page should have at the end:
 
    Here are a few of the possible career paths:
    ... Then the proper subset of the bulleted lines above

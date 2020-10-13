@@ -1,17 +1,17 @@
 :orphan:
 
-PhD preparation
+Ph.D. preparation
 ======================================================
 
 (MS in Computer Science with the thesis track)
 
-Core computer science areas are important, and research involving them is even more important.  The prime question for PhD references is “Does this person have high potential for independent research?” and this must be demonstrated in engagement with the academic community through papers, presentations, and conference posters. Engagement with research faculty is strongly encouraged on entering the program.
+Core computer science areas are important, and research involving them is even more important.  The prime question for Ph.D. references is “Does this person have a high potential for independent research?” and this must be demonstrated in engagement with the academic community through papers, presentations, and conference posters. Engagement with research faculty is strongly encouraged in entering the program.
 
 Consider these courses:
 
 
 .. tosphinx
-   all courses should link to the sphinx pages with text being course name and number.
+   all courses should link to the sphinx pages with the text being course name and number.
 
     * Faculty directed research: 6 credits of Comp 490
     * Algorithms: Comp 460
@@ -41,6 +41,6 @@ Recent Thesis titles:
 * Pinky Sindhu. Toddler Activity Recognition using Machine Learning. Aug 2018.
 * Anne Zhao. A mobile app demonstrating sensory neural codes through an efficient coding of collected images and sounds. May 2017.
 * Ilona Shparii. Real-time fall detection and response on mobile phones using machine learning. May 2017.
-* Pichleap Sok. Activity Recognition for Incomplete Spinal Cord Injury Subjects using a Hidden Markov Model. May 2016.
+* Pichleap Sok. Activity Recognition for Incomplete Spinal Cord Injury Subjects Using a Hidden Markov Model. May 2016.
 
 Back to :doc:`careerpaths`

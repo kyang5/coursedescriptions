@@ -11,17 +11,17 @@ the general program and the special opportunities for a totally *online* version
 
 The :doc:`msse`
 is focused on knowledge and abilities to produce
-high quality software for many different domains.
+high-quality software for many different domains.
 
 The :doc:`mscs` is more foundational,
 requiring you to get experience with a broad range of core
 computer science concepts.  It is our only program with a :ref:`thesis_option`.
-Students from this program are the ones most likely to go on to a PhD program.
+Students from this program are the ones most likely to go on to a Ph.D. program.
 
 
 :doc:`masters_prereqs` are required for all programs.
 
-Undergraduates presently in our department with strong background are urged to
+Undergraduates presently in our department with a strong background are urged to
 consider overlapping one of these programs with their undergraduate work
 via the
 :doc:`../undergraduate/bsmsprograms`.
@@ -49,7 +49,7 @@ administrative and admissions information for the graduate program
 (also available in a
 `pdf version <https://github.com/LoyolaChicagoCS/gradhandbook/releases/latest>`_).
 
-*Applicants* should particular;ly note the Graduate Handbook sections for
+*Applicants* should particularly note the Graduate Handbook sections for
 
 * `Prospective students <https://graduatehandbook.cs.luc.edu/prospective_students.html>`_
 * `Teaching assistantships and financial aid <https://graduatehandbook.cs.luc.edu/assistantships.html>`_
@@ -59,7 +59,7 @@ and the topics are
 all listed in the table of contents at the beginning of the
 `Graduate Handbook <https://graduatehandbook.cs.luc.edu>`_.
 
-.. index:: time for program
+.. index:: time for the program
 
 Time Requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,9 +68,9 @@ Normally it takes 16 months for full-time students to earn a
 M.S. in Computer Science, Software Engineering, or Information Technology from Loyola.
 The M.S. in Computer Science
 may need extra time **if** the :ref:`thesis_option` is chosen.
-Students who attend part time normally take 2-3 years. Though rarely an issue,
+Students who attend part-time normally take 2-3 years. Though rarely an issue,
 there is
-a five year overall time limit,
+a five-year overall time limit,
 and
 this period may be extended only by special action of the Dean of the Graduate School.
 
@@ -81,9 +81,9 @@ Pursuing Multiple M.S. Degrees
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We are often asked about whether it is possible to complete more than one M.S. degree
-(e.g. and M.S. in Computer Science and an M.S. in Software Engineering).
-The answer is no, unless you complete 54 hours of study (30 hours of courses for
-the each degree, except for 6 credits transferred into the second degree).
+(e.g. an M.S. in Computer Science and an M.S. in Software Engineering).
+The answer is no unless you complete 54 hours of study (30 hours of courses for
+each degree, except for 6 credits transferred into the second degree).
 It is impractical and expensive, and we don't think it serves students well.
 Our goal is to prepare you
 for a serious career (professional and/or academic)

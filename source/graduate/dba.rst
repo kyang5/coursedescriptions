@@ -5,13 +5,13 @@ Database Administration
 
 (MS Information Technology)
 
-A database administrator (DBA) is in charge of the database installation, development, storage, security and backup.  DBAs generally become experts in the specific Database Management Systems used to implement the databases in the enterprise.  For this reason, professional certifications are often desirable, beyond course preparation.  DBAs often work in tandem with network systems professionals and with information systems users; therefore some coursework in these areas is also preferred, in order to understand the system architecture and the users’ information requirements.
+A database administrator (DBA) is in charge of the database installation, development, storage, security, and backup.  DBAs generally become experts in the specific Database Management Systems used to implement the databases in the enterprise.  For this reason, professional certifications are often desirable, beyond course preparation.  DBAs often work in tandem with network systems professionals and with information systems users; therefore some coursework in these areas is also preferred, to understand the system architecture and the users’ information requirements.
 
 Consider these courses:
 
 
 .. tosphinx
-   all courses should link to the sphinx pages with text being course name and number.
+   all courses should link to the sphinx pages with the text being course name and number.
 
     * COMP 453  Database Programming
     * COMP 488-305  Database Administration

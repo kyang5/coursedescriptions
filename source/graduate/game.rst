@@ -22,7 +22,7 @@ Consider these courses:
 
 
 .. tosphinx
-   all courses should link to the sphinx pages with text being course name and number.
+   all courses should link to the sphinx pages with the text being course name and number.
 
     * COMP 422: Wireless/Mobile Software Development
     * COMP 441: Human-computer Interface Design

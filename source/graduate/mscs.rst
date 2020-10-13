@@ -7,7 +7,7 @@ M.S. in Computer Science
 Overview
 --------
 
-The M.S. in Computer Science provides foundations of Computer Science, while
+The M.S. in Computer Science provides foundations of Computer Science while
 acknowledging that Computer Science is key to algorithms in the sciences.
 Other programs in the Computer Science Department with different foci are
 :doc:`msit` and the :doc:`msse`.
@@ -16,12 +16,12 @@ Curriculum
 ----------
 
 This program is for students entering the program in Spring 2014 or later.
-If you were enrolled in the program prior to Spring 2014 you may use the older
+If you were enrolled in the program before Spring 2014 you may use the older
 degree requirements located `here <http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum/>`_.
 
 .. include:: common_program_features.inc
 
-Note that Computer Science has more prerequisites than the other programs.
+Note that Computer Science has more prerequisites than other programs.
 
 Overall, to achieve depth and breadth, Computer Science students must
 complete the following:
@@ -60,7 +60,7 @@ MS-CS students must also take three courses from the following list:
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp474`
 
-Note that several of these courses require :doc:`../courses/comp413` as prerequisite.
+Note that several of these courses require :doc:`../courses/comp413` as a prerequisite.
 
 General Electives (12 Credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,18 +81,18 @@ may elect the MS thesis option.
 Course work is strongly recommended over the thesis option,
 especially for those not planning on a research-oriented career. Many students
 pursuing the thesis option, therefore,
-would be considering a PhD program at another institution.
+would be considering a Ph.D. program at another institution.
 
 Students wishing to do a thesis should discuss this option as early as
 possible with the GPD.
 
-Theses may involve research in purely theoretical computer science
+These may involve research in purely theoretical computer science
 (for example, development or analysis of algorithms),
-or may involve development of a software package,
-or may involve instrumentation, measurement and analysis of existing systems
+or may involve the development of a software package,
+or may involve instrumentation, measurement, and analysis of existing systems
 (for example, studying network performance).
 Because of this wide range, there is no one
-formal course in research methods.
+a formal course in research methods.
 Courses in the restricted-electives list above contain a significant
 component of area-specific integrated research-methods material.
 Students interested in writing a thesis are strongly urged to seek
@@ -101,15 +101,13 @@ electives in this group will be the most appropriate for the student's
 proposed area of research.
 
 Here is an outline of the steps toward your thesis.  The ones in boldface
-are formal steps with documentation required by the Graduate School:
+are formal steps with the documentation required by the Graduate School:
 
-#.  If you wish to write a thesis, first identify a faculty advisor and
-    select a tentative topic or area of research.
+#.  If you wish to write a thesis, first identify a faculty advisor and select a tentative topic or area of research.
     The existing program allows you to take up to 6.0 hours of
     :doc:`../courses/comp490`.
     You will typically begin their research program in such a course,
-    though you may also identify an advisor and select a tentative topic
-    as part of a conventional classroom course.
+    though you may also identify an advisor and select a tentative topic as part of a conventional classroom course.
 
 #.  Responsible Conduct in Research and Scholarship (RCRS) Training does not have to be done next, but it is required before graduation with a thesis.  See
     http://www.luc.edu/ors/RCRHome.shtml
@@ -125,9 +123,8 @@ are formal steps with documentation required by the Graduate School:
        normally the committee director will be the advisor.
     -  **For the formal Graduate School process**
        **you create the committee at the gsps link**
-       https://gsps.luc.edu/. An email will then
-       be sent to the director for approval and then the GPD.
-    -  You will receives an email if your committee is formally approved by
+       https://gsps.luc.edu/. An email will then be sent to the director for approval and then the GPD.
+    -  You will receive an email if your committee is formally approved by
        the Graduate School.
 
     At least 50% of the committee must be comprised of Loyola graduate
@@ -140,7 +137,7 @@ are formal steps with documentation required by the Graduate School:
     courses.  Alternately you may still be
     continuing with your
     research in subsequent semesters, after finishing
-    all your required for-credit  courses.  Then, assuming your
+    all your required for-credit courses.  Then, assuming your
     *committee is approved*, you maintain full-time
     status by getting the GPD to register you for the
     zero-credit-hour Comp 595: Thesis Supervision, if available, or
@@ -151,14 +148,14 @@ are formal steps with documentation required by the Graduate School:
 #.  Once you have your thesis committee approved,
     the thesis becomes a degree requirement.
     (This is important for international students.)
-    You may, however, petition to revert back to non-thesis status;
-    this requires permission of the Graduate Program Director.
+    You may, however, petition to revert to non-thesis status;
+    this requires the permission of the Graduate Program Director.
     At that point, you would be able to graduate without writing a thesis,
     if the coursework requirements were met.
     No reimbursement or credit will be received for any Comp 595, Comp 605,
     or other thesis-specific courses taken.
 
-#.  Ballot for the Approval of a Thesis/Dissertation Proposal
+#.  A ballot for the Approval of a Thesis/Dissertation Proposal
 
     -  You will then prepare a formal research proposal,
        in consultation with your advisor.
@@ -176,11 +173,10 @@ are formal steps with documentation required by the Graduate School:
        and the Graduate School approve the proposal through gsps.
     -  You are now ready to "conduct research" for the project.
 
-#.  Ballot for Text and Oral Defense Form
+#.  A ballot for Text and Oral Defense Form
 
-    -  Upon completion of your thesis, you will be required to formally
-       defend your research. Schedule this with your committee.
-       You thesis should be in nearly final form.
+    -  Upon completion of your thesis, you will be required to formally defend your research. Schedule this with your committee.
+       Your thesis should be in nearly final form.
     -  Typically you should give the committee three weeks to read the final
        draft of the thesis before the defense date.
     -  **For this requirement, you must download the defense ballot**
@@ -190,10 +186,8 @@ are formal steps with documentation required by the Graduate School:
        go to the GPD for final approval.
     -  The committee may require modifications before approving the thesis,
        or possibly reject it.
-    -  Once approved, the GPD will upload
-       the ballot in gsps for Graduate School approval.
-    -  You will be notified
-       once the process is complete.
+    -  Once approved, the GPD will upload the ballot in gsps for Graduate School approval.
+    -  You will be notified once the process is complete.
 
 
 #.  Formatting the Thesis/Dissertation

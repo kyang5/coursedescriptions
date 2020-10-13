@@ -23,7 +23,7 @@ Consider these courses:
 
 
 .. tosphinx
-   all courses should link to the sphinx pages with text being course name and number.
+   all courses should link to the sphinx pages with the text being course name and number.
 
     * COMP 424: Client-side Web Design
     * COMP 436: Markup Languages
