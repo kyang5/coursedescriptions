@@ -18,16 +18,7 @@ Prerequisites
 Description
 --------------------
 
-In this programming intensive course, students will learn effective
-automation, testing, and use of software metrics through the practices
-of Test Driven Development and Continuous Deployment. The first half of
-the course will focus on the fundamentals of Test Driven Development and
-test automation. The second half of the course will build upon those
-skills and allow the students to create acceptance tests and deployment
-automation tools. Finally, students will learn how to measure user
-feedback effectively, thereby allowing them to safely deploy changes to
-running production software multiple times per day, rather than once
-every few weeks or months.
+In this programming intensive course, students will learn effective automation, testing, and use of software metrics through the practices of Test Driven Development and Continuous Deployment. The first half of the course will focus on the fundamentals of Test Driven Development and test automation. The second half of the course will build upon those skills and allow the students to create acceptance tests and deployment automation tools. Finally, students will learn how to measure user feedback effectively, thereby allowing them to safely deploy changes to running production software multiple times per day, rather than once every few weeks or months.
 
 After taking this course, students should be able to:
 

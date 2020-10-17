@@ -28,8 +28,7 @@ As such, this course will offer a combination of technical concepts and developm
 
 Outcome
 ----------------------------
-Students will acquire an awareness of different game design and development methods, technologies,
-and techniques suitable for the development of a variety of game-based environments.
+Students will acquire an awareness of different game design and development methods, technologies, and techniques suitable for the development of a variety of game-based environments.
 
 
 Syllabi

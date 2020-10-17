@@ -17,16 +17,12 @@ Prerequisites
 
 Description
 --------------------
-This course covers the theory and practice of the analysis (mining)
-of extremely large datasets with datasets. With data growing at
-exponential rates knowledge gathering and exploration techniques
-are essential for gaining useful intelligence.
+This course covers the theory and practice of the analysis (mining) of extremely large datasets with datasets. With data growing at exponential rates knowledge gathering and exploration techniques are essential for gaining useful intelligence.
 
 
 Outcome
 ----------------------
-Students can define and critically analyze data mining
-approaches for fields such as security, health care, science, and marketing.
+Students can define and critically analyze data mining approaches for fields such as security, health care, science, and marketing.
 
 Syllabi
 ----------------------

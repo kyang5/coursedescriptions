@@ -9,7 +9,6 @@ Graduate Courses
 
    Looking for old syllabi? See :ref:`legacy_syllabi`
 
-
 .. toctree::
    :maxdepth: 1
 

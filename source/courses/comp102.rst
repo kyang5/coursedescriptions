@@ -20,12 +20,7 @@ None
 Description
 --------------------
 
-An introduction to the basic components and tools used in developing
-pages for the World Wide Web. Topics will include HTML, HTML Standards
-and validation, Cascading Style Sheets (CSS), and scripting. Tools
-appropriate for each of these will be discussed. Other topics may
-include CGI programming and graphics editors. The course is taught in a
-laboratory environment with hands-on instruction.
+An introduction to the basic components and tools used in developing pages for the World Wide Web. Topics will include HTML, HTML Standards and validation, Cascading Style Sheets (CSS), and scripting. Tools appropriate for each of these will be discussed. Other topics may include CGI programming and graphics editors. The course is taught in a laboratory environment with hands-on instruction.
 
 Outcome
 ----------------------

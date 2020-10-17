@@ -16,11 +16,7 @@ Prerequisites
 
 Description
 --------------------
-This course will teach students how to design a Rapid Application
-Development using an integrated development environment such as
-the .NET framework and methodology. It is designed to support
-object-oriented programming concepts.
-
+This course will teach students how to design a Rapid Application Development using an integrated development environment such as the .NET framework and methodology. It is designed to support object-oriented programming concepts.
 
 Outcome
 ----------------------

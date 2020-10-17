@@ -17,9 +17,7 @@ Prerequisites
 Description
 ----------------------------
 
-Using an object-oriented language such as C++ or Java, the student (working in
-a small team) will learn to plan, design, implement and test a large software
-project.
+Using an object-oriented language such as C++ or Java, the student (working in a small team) will learn to plan, design, implement and test a large software project.
 
 Syllabi
 ----------------------

@@ -18,11 +18,7 @@ Prerequisites
 Description
 --------------------
 
-This course covers the fundamentals of database application development
-using C++, C, or Java by accessing a transaction-oriented database
-server. A commercial database environment such as Oracle is used.
-Additional topics may include enabling access to the database via the web,
-and administering large databases.
+This course covers the fundamentals of database application development using C++, C, or Java by accessing a transaction-oriented database server. A commercial database environment such as Oracle is used. Additional topics may include enabling access to the database via the web, and administering large databases.
 
 Outcome
 ------------

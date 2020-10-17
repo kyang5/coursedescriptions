@@ -24,8 +24,7 @@ Prerequisites
 Description
 --------------------
 
-In this course, major types of error-correcting codes, encoding and decoding, and their main properties will be studied. The codes examined will include the Hamming,
-Golay, BCH, cyclic, quadratic residue, Reed-Solomon, and Reed-Muller codes.
+In this course, major types of error-correcting codes, encoding and decoding, and their main properties will be studied. The codes examined will include the Hamming, Golay, BCH, cyclic, quadratic residue, Reed-Solomon, and Reed-Muller codes.
 
 Outcome
 -------------

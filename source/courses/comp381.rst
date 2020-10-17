@@ -3,7 +3,7 @@
 COMP 381: Bioinformatics
 ========================
 
-Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution. 
+Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution.
 
 Credit Hours
 -----------------------
@@ -18,9 +18,7 @@ BIOL 101 (or equivalent) or NTSC 104, BIOL 102
 Description
 --------------------
 
-This course is cross-listed with Biology. Students will engage in the
-applications of computer-based tools and database searching to better
-understand DNA and protein structure, function, and evolution.
+This course is cross-listed with Biology. Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution.
 
 Outcome
 -------------

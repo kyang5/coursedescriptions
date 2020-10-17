@@ -13,7 +13,6 @@ Prerequisites
 
 Vary by section:  most commonly :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 

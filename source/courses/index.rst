@@ -26,7 +26,6 @@ Schedules and Syllabi
    /syllabi/syllabi
    /syllabi/legacy-syllabi
 
-
 Course List
 -----------------------------------
 
@@ -166,7 +165,6 @@ Course List
    /courses/comp499
    /courses/comp605
    /courses/isscm349
-
 
 Other Helpful Resources for Current Students
 ----------------------------------------------

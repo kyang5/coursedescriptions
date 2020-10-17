@@ -16,14 +16,11 @@ Prerequisites
 
 Description
 --------------------
-Topics include a wide variety of supervised learning methods,
-both regression and classification, with an emphasis on those
-that perform well on large feature sets.
+Topics include a wide variety of supervised learning methods, both regression and classification, with an emphasis on those that perform well on large feature sets.
 
 Outcome
 ----------------------
-Students in this course will learn how to apply sophisticated algorithms
-to large data sets to make inferences for prediction or decision making.
+Students in this course will learn how to apply sophisticated algorithms to large data sets to make inferences for prediction or decision making.
 
 Syllabi
 ----------------------

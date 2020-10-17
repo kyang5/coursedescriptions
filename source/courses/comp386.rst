@@ -20,7 +20,6 @@ Description
 
 Introduces computational methods to understand neural processing in the brain. Levels of representation from low-level, temporally precise neural circuits to systems-level rate-encoded models, to information-theoretic approaches. Emphasis on sensory systems, primarily vision and audition, most readily demonstrating the need for such computational techniques.
 
-
 Outcome
 -------------
 

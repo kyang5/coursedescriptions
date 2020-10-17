@@ -18,17 +18,7 @@ Prerequisites
 Description
 --------------------
 
-Businesses and scientific institutions have started using commercial-grade
-database servers increasingly. Hence it has become important to install,
-configure, and manage the servers in an efficient manner to increase
-productivity. Several tasks involved in maintaining a database server is
-quite different from say administering a computer system or a network. A deeper
-knowledge of the storage aspects of the server and how different server
-processes work are needed for the successful administration of the server.
-Typically, the database administrator cares for the security of data, backup and
-recovery, and space management. This course takes a user through the stages of
-setting up a database server environment, designing a database, and finally
-tuning.
+Businesses and scientific institutions have started using commercial-grade database servers increasingly. Hence it has become important to install, configure, and manage the servers in an efficient manner to increase productivity. Several tasks involved in maintaining a database server is quite different from say administering a computer system or a network. A deeper knowledge of the storage aspects of the server and how different server processes work are needed for the successful administration of the server. Typically, the database administrator cares for the security of data, backup and recovery, and space management. This course takes a user through the stages of setting up a database server environment, designing a database, and finally tuning.
 
 Outcome
 ----------------------

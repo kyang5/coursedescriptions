@@ -16,5 +16,4 @@ Must be a student in the M.S. Computer Science Program and doing the Thesis Opti
 Description
 ----------------------------
 
-This course is only for students who are actively working on their thesis, but not taking enough regular courses to be full-time.
-Enrolling in this course will give you full-time student status.
+This course is only for students who are actively working on their thesis, but not taking enough regular courses to be full-time. Enrolling in this course will give you full-time student status.

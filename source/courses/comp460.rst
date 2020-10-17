@@ -18,12 +18,7 @@ Prerequisites
 Description
 ----------------------------
 
-The design and analysis of algorithms are central to computer science. This
-the course will focus both on presenting general techniques for designing correct
-and efficient algorithms, as well as on formal methods for proving the
-correctness and analyzing the complexity of such algorithms. Also included
-will be an introduction to the theory of NP-completeness, whereby certain
-computation problems can be classified as being difficult in a formal sense.
+The design and analysis of algorithms are central to computer science. This the course will focus both on presenting general techniques for designing correct and efficient algorithms, as well as on formal methods for proving the correctness and analyzing the complexity of such algorithms. Also included will be an introduction to the theory of NP-completeness, whereby certain computation problems can be classified as being difficult in a formal sense.
 
 Syllabi
 --------------------

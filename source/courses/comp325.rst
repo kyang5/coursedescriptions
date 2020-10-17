@@ -13,8 +13,6 @@ Prerequisites
 
 :doc:`../courses/comp271` with a grade of C- or better
 
-
-
 Description
 ----------------------------
 

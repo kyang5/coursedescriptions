@@ -18,11 +18,7 @@ Prerequisites
 Description
 --------------------
 
-Concepts of problem representation and search, knowledge representation
-and reasoning. Selected topics may include game playing, theorem
-proving, natural language processing, machine learning, connectionist
-models, expert systems, robotics, pattern recognition, machine vision,
-neural networks.
+Concepts of problem representation and search, knowledge representation and reasoning. Selected topics may include game playing, theorem proving, natural language processing, machine learning, connectionist models, expert systems, robotics, pattern recognition, machine vision, neural networks.
 
 Outcome
 -----------
