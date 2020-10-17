@@ -21,7 +21,6 @@ Description
 
 Students who take this course will learn about ways to develop themselves professionally, communicate their strengths, expand their contacts, and advance their careers.
 
-
 Outcome
 -------
 

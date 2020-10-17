@@ -14,7 +14,6 @@ Prerequisites
 
 :doc:`../courses/comp264` or :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 

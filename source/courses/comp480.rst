@@ -20,7 +20,6 @@ Introduction to concepts and methods for managing production and service operati
 
 Outcome:  Understanding of the role of operations management in organizations, and the ability to use the modeling tools and techniques for problem-solving in operations management.
 
-
 Syllabi
 --------------------
 

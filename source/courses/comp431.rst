@@ -10,7 +10,6 @@ Mathematics (one of :doc:`../courses/comp163`, |math313| or |math201|)
 
 Programming :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 

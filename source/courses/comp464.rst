@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`../courses/comp313`
 
-
 Description
 ----------------------------
 

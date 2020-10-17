@@ -15,7 +15,6 @@ Description
 
 Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects. Progress in outside projects tracked through milestones such as abstracts, small fellowship-style proposals, informal updates, and outcome-oriented goal setting. Emphasizes creating lasting impacts through establishing project continuity and presenting posters, papers, and slide shows.
 
-
 Outcome
 ---------------
 

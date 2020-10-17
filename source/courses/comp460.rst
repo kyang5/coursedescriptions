@@ -14,7 +14,6 @@ Prerequisites
 
 :doc:`../courses/comp363`
 
-
 Description
 ----------------------------
 

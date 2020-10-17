@@ -32,7 +32,6 @@ Outcome
 
 A basic understanding of how computers work at many levels and how to use various analytical tools and techniques to design computer components.
 
-
 Syllabi
 ----------------------
 

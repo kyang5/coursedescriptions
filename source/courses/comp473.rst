@@ -15,7 +15,6 @@ Prerequisites
 
 You need to know Java, C#, or a similar object-oriented language, data structures, and fair sophistication with OOP - some experience with designing interacting, cooperating classes that would come in an intermediate discussion of software patterns. Software engineering is recommended but not required like the background listed above.
 
-
 Description
 ----------------------------
 

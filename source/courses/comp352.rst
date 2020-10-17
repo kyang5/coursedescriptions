@@ -13,7 +13,6 @@ Prerequisites
 
 - :doc:`../courses/comp264` and :doc:`../courses/comp347`
 
-
 Description
 ----------------------------
 

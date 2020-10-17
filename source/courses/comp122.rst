@@ -17,7 +17,6 @@ Required  – MATH 118: Precalculus (or equivalent)
 
 Preferred – :doc:`../courses/comp150`
 
-
 Description
 -------------------------------
 

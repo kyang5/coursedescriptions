@@ -13,7 +13,6 @@ Prerequisites
 
 :doc:`../courses/comp163` or |math201| or |math212|
 
-
 Description
 ----------------------------
 

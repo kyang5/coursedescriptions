@@ -5,7 +5,6 @@ COMP 141: Introduction to Computing Tools and Techniques
 
 This course introduces students to the Unix shell environment and essential tools for succeeding in computer science degrees.
 
-
 Credit Hours
 -----------------------
 
@@ -19,9 +18,7 @@ None
 Description
 --------------------
 
-	
 This course introduces students to the Unix shell environment and essential tools for succeeding in computer science degrees.
-
 
 Outcome
 ----------------------

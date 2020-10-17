@@ -12,7 +12,6 @@ Credit Hours
 
  3
 
-
 Prerequisites
 ---------------------
 

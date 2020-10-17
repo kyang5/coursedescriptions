@@ -23,7 +23,6 @@ This course is cross-listed with Biology.
 
 Exploration of next-generation sequencing technologies for assessing microbial diversity in ecological niches.
 
-
 Outcome
 -------------
 

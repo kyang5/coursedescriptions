@@ -13,7 +13,6 @@ Prerequisites
 
 |math162|
 
-
 Description
 ----------------------------
 

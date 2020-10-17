@@ -13,7 +13,6 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-
 Description
 --------------------
 Topics include a wide variety of supervised learning methods, both regression and classification, with an emphasis on those that perform well on large feature sets.

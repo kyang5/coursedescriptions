@@ -17,7 +17,6 @@ Prerequisites
 
 |stat203|
 
-
 Description
 ----------------------------
 

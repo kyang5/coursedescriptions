@@ -25,7 +25,6 @@ Outcome
 
 Students gain first-hand experience with broadening STEM participation and see how they can make a difference in the lives of other students and contribute to national needs.
 
-
 Syllabi
 -------------
 

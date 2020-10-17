@@ -26,7 +26,6 @@ Description
 
 This course studies basic data structures including array lists, linked lists, stacks, queues, binary trees, and hash tables.  Efficiency of data structure operations, study of recursion, applications of data structures, and simple analysis of algorithms are covered.
 
-
 Outcome
 ----------------------
 

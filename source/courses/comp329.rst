@@ -7,10 +7,9 @@ COMP 329: Natural Language Processing
 This course will act as an introduction to NPL(Natural Language Processing). NPL is the study of how a computer could comprehend human language.
 
 Credit Hours
------------------------ 
+--------------------
 
  3
-
 
 Prerequisites
 ---------------------
@@ -21,7 +20,6 @@ Description
 --------------------
 
 This course provides an introduction to the field of natural language processing (NLP). NLP is concerned with computational approaches to analyzing, generating, and understanding human language.  This course will introduce the students to the problems, methods, and applications of NLP.
- 
 
 Outcome
 --------------
