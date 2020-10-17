@@ -19,8 +19,6 @@ Schedules List
    :maxdepth: 1
 
    /schedules/schedules
-   /schedules/longtermschedule
-   /schedules/summer
 
 Other Helpful Resources for Current Students
 ----------------------------------------------
