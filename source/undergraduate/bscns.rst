@@ -6,8 +6,7 @@ B.S. in Communication Networks and Security
 
 Note
 -----
-The B.S. in Communication Networks and Security can no longer be declared. It
-is being replaced with a B.S. in Cybersecurity.
+The B.S. in Communication Networks and Security can no longer be declared. It is being replaced with a B.S. in Cybersecurity.
 
 Overview
 ---------
