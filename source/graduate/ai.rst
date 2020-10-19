@@ -9,7 +9,6 @@ Students interested in AI require a broad range of skills including elements of 
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

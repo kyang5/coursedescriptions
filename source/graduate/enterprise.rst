@@ -7,7 +7,6 @@ Enterprise Architect
 
 Organizations no longer have to create distributed computing systems from the ground up as they did in the past, rather they can build on others’ work and (open source) infrastructures - there’s lots of technology, including cloud infrastructure, available to use with little investment required. Organizations can now start small and scale up to larger and larger capability using technologies like Microsoft Azure and  Amazon Web Services with the limited investment required. Such technologies also support widespread team distribution and interaction.
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

@@ -9,7 +9,6 @@ A database administrator (DBA) is in charge of the database installation, develo
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

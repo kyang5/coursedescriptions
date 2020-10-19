@@ -3,8 +3,7 @@ Graduate Programs
 
 Welcome to the Graduate Programs *informational* site for the Computer Science Department at Loyola University Chicago.
 
-This site is aimed at helping *current* students find detailed information
-about the graduate programs and courses offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
+This site is aimed at helping *current* students find detailed information about the graduate programs and courses offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 .. note::
 
@@ -54,7 +53,6 @@ Graduate Student Resources
    /graduate/projectmanager
    /graduate/securityauditor
    /graduate/web
-
 
 
 Other Helpful Resources for Current Students

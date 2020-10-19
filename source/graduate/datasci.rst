@@ -9,7 +9,6 @@ This path is for students who want to extract meaningful, actionable information
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

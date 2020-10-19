@@ -9,7 +9,6 @@ Organizations are overwhelmed with data, including conventional, tabular, transa
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

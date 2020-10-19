@@ -9,7 +9,6 @@ This is a common operational security role. Individuals would provide security r
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

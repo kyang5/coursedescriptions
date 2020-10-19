@@ -12,7 +12,6 @@ Data Analysts' work provides insights on structured information collected by com
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 

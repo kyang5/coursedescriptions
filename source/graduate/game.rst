@@ -5,21 +5,11 @@ Video Game Developer
 
 (MS in Software Engineering)
 
-Game design and development continues to evolve and grow, now encompassing media,
-engineering, design, and many related facets of hardware and software development.
-Designing, developing, and publishing a competitive game requires a broad
-understanding and clear appreciation of software engineering. Performance,
-optimization, and clear design are critical features of a successful game,
-in particular for mobile platforms. Gaming continues to explore new options
-for design and development, including
-mobile, cloud, machine learning, AI, VR, and recent options for AR.
+Game design and development continues to evolve and grow, now encompassing media, engineering, design, and many related facets of hardware and software development. Designing, developing, and publishing a competitive game requires a broad understanding and clear appreciation of software engineering. Performance, optimization, and clear design are critical features of a successful game, in particular for mobile platforms. Gaming continues to explore new options for design and development, including mobile, cloud, machine learning, AI, VR, and recent options for AR.
 
-As a video game designer and developer,
-there are many opportunities to directly apply abstract concepts in a fun, entertaining environment.
-It’s a lot of work, but also a lot of fun!
+As a video game designer and developer, there are many opportunities to directly apply abstract concepts in a fun, entertaining environment. It’s a lot of work, but also a lot of fun!
 
 Consider these courses:
-
 
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.

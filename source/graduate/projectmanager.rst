@@ -9,7 +9,6 @@ Most software development, as well as the development of marketing campaigns, ne
 
 Consider these courses:
 
-
 .. tosphinx
    all courses should link to the sphinx pages with the text being course name and number.
 
