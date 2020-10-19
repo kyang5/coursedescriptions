@@ -3,8 +3,7 @@ Syllabi
 
 Welcome to the Syllabi *informational* site for the Computer Science Department at Loyola University Chicago.
 
-This site is aimed at helping *current* students find detailed information
-about the syllabi offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
+This site is aimed at helping *current* students find detailed information about the syllabi offered by the `Computer Science Department`_ at `Loyola University Chicago <https://luc.edu>`_.
 
 This site is also available in |pdf-version| and |epub-version| formats.
 
