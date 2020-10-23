@@ -1,5 +1,7 @@
-﻿.. index:: data mining
-   data mining
+﻿.. index::
+    Data Mining
+    Mining
+    COMP 306
 
 COMP 306: Data Mining (formerly numbered 300)
 =============================================

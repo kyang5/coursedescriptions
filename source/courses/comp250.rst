@@ -1,5 +1,11 @@
-.. index:: introduction to scientific and technical communication
-   scientific and technical communication
+.. index::
+    Introduction to Scientific and Technical Communication
+    Introduction
+    Scientific and Technical Communication
+    Scientific
+    Technical
+    Communication
+    COMP 250
 
 COMP 250: Introduction to Scientific and Technical Communication
 ================================================================

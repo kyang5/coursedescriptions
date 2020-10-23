@@ -1,4 +1,8 @@
-.. index:: game design and development
+.. index::
+    Game Design and Development
+    Game Design
+    Development
+    COMP 323
 
 COMP 323: Game Design and Development
 =========================================================

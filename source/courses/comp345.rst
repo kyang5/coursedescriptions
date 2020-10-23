@@ -1,4 +1,14 @@
-.. index:: internet of things
+.. index::
+    Internet of Things Device and Application Security
+    Internet of Things Device
+    Application Security
+    Internet of Things
+    Device
+    Application
+    Security
+    Device Security
+    Internet of Things Device Security
+    COMP 345
 
 COMP 345: Internet of Things Device and Application Security
 =============================================================

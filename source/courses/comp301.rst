@@ -1,4 +1,9 @@
-.. index:: introduction to computer security
+.. index::
+    Introduction to Computer Security
+    Introduction
+    Computer Security
+    Security
+    COMP 301
 
 COMP  301: Introduction to Computer Security
 ============================================

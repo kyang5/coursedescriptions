@@ -1,5 +1,12 @@
-.. index:: comp342
-    web development
+.. index::
+    Introduction to Web Application Development
+    Introduction
+    Web Application Development
+    Web Application
+    Web
+    Application
+    Development
+    COMP 342
 
 COMP 342: Introduction to Web Application Development
 ======================================================

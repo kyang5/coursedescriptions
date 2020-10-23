@@ -1,4 +1,9 @@
-.. index:: introduction to digital music
+.. index::
+    Introduction to Digital Music
+    Introduction
+    Digital Music
+    Music
+    COMP 122
 
 COMP 122: Introduction to Digital Music
 =======================================

@@ -1,4 +1,8 @@
-.. index:: computer forensics
+.. index::
+    Computer Forensics
+    Computer
+    Forensics
+    COMP 340
 
 COMP 340: Computer Forensics
 ====================================

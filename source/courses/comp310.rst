@@ -1,5 +1,8 @@
-.. index:: introduction to operating systems
-   operating systems
+.. index::
+    Introduction to Operating Systems
+    Introduction
+    Operating Systems
+    COMP 310
 
 COMP 310 (formerly 374): Introduction to Operating Systems
 ==========================================================

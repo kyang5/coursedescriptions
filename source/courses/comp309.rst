@@ -1,4 +1,8 @@
-.. index:: numerical methods
+.. index::
+    Numerical Methods
+    Numerical
+    Methods
+    COMP 309
 
 COMP 309: Numerical Methods
 ===========================

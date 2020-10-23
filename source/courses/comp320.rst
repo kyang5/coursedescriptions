@@ -1,6 +1,10 @@
-:orphan:
-
-.. index:: software systems analysis
+.. index::
+    Software Systems Analysis
+    Software Systems
+    Analysis
+    Systems
+    Software
+    COMP 320
 
 COMP 320: Software Systems Analysis
 ===================================

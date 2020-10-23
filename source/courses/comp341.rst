@@ -1,4 +1,10 @@
-.. index:: human-computer interface design
+.. index::
+    Human-Computer Interaction
+    Human-Computer
+    Human
+    Computer
+    Interaction
+    COMP 341
 
 COMP 341: Human-Computer Interaction
 ====================================

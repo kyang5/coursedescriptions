@@ -1,4 +1,8 @@
-﻿.. index:: introduction to computing
+﻿.. index::
+    Introduction to Computing
+    Introduction
+    Computing
+    COMP 150
 
 COMP 150: Introduction to Computing
 ===================================

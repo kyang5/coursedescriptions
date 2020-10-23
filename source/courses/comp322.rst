@@ -1,5 +1,15 @@
-.. index:: software development for wireless/mobile devices
-   mobile devices
+.. index::
+    Software Development for Wireless/ Mobile Devices
+    Software Development
+    Wireless/ Mobile Devices
+    Wireless Devices
+    Mobile Devices
+    Devices
+    Software
+    Development
+    Wireless
+    Mobile
+    COMP 322
 
 COMP 322: Software Development for Wireless/Mobile Devices
 =============================================================
@@ -13,7 +23,6 @@ Prerequisites
 ----------------------------
 
 :doc:`../courses/comp313`
-
 
 Description
 ----------------------------

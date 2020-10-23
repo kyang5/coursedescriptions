@@ -1,4 +1,8 @@
-.. index:: visual information processing
+.. index::
+    Visual Information Processing
+    Information Processing
+    Processing
+    COMP 125
 
 COMP 125: Visual Information Processing
 =======================================

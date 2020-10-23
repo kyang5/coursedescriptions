@@ -1,5 +1,10 @@
-﻿.. index:: introduction to object-oriented programming
-   object-oriented programming
+﻿.. index::
+    Introduction to Object-Oriented Programming
+    Introduction
+    Object-Oriented Programming
+    Object-Oriented
+    Programming
+    COMP 170
 
 COMP 170: Introduction to Object-Oriented Programming
 =====================================================

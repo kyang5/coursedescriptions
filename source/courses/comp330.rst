@@ -1,4 +1,8 @@
-.. index:: software engineering
+.. index::
+    Software Engineering
+    Software
+    Engineering
+    COMP 330
 
 COMP 330: Software Engineering
 ==============================

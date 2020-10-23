@@ -1,4 +1,8 @@
-.. index:: data structures 2
+.. index::
+    Data Structures II
+    Data
+    Structures
+    COMP 272
 
 COMP 272: Data Structures II
 ============================

@@ -1,4 +1,10 @@
-.. index:: cryptography
+.. index::
+    Mathematical Foundations of Cryptography
+    Mathematical Foundations
+    Cryptography
+    Mathematical
+    Foundations
+    COMP 331
 
 COMP 331: Mathematical Foundations of Cryptography
 ======================================================

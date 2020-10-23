@@ -1,4 +1,7 @@
-.. index:: discrete structures
+.. index::
+    Discrete Structures
+    Structures
+    COMP 163
 
 COMP 163: Discrete Structures
 =============================
@@ -17,7 +20,7 @@ None
 Description
 --------------------
 
-Mathematical foundations of computer science. Topics include: complexity of algorithms; modular arithmetic; induction and proof techniques; graph theory; combinatorics; Boolean algebra and switching systems symbolic logic and logic circuits; and an introduction to automata and formal languages.  
+Mathematical foundations of computer science. Topics include: complexity of algorithms; modular arithmetic; induction and proof techniques; graph theory; combinatorics; Boolean algebra and switching systems symbolic logic and logic circuits; and an introduction to automata and formal languages.
 
 Outcome
 ----------------------

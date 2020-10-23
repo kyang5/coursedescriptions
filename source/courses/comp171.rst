@@ -1,4 +1,8 @@
-.. index:: scripting languages
+.. index::
+    Scripting Languages
+    Scripting
+    Languages
+    COMP 171
 
 COMP 171: Scripting Languages
 =============================

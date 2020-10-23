@@ -1,5 +1,10 @@
-.. index:: introduction to natural language processing
-   natural language processing
+.. index::
+    Introduction to Natural Language Processing
+    Introduction
+    Natural Language Processing
+    Natural Language
+    Processing
+    COMP 329
 
 COMP 329: Natural Language Processing
 =======================================================

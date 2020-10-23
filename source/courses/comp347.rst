@@ -1,6 +1,8 @@
-﻿.. index:: intrusion detection and security
-   intrusion detection
-   security
+﻿.. index::
+    Intrusion Detection and Security
+    Intrusion Detection
+    Security
+    COMP 347
 
 COMP 347: Intrusion Detection and Security
 ===================================================

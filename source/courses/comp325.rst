@@ -1,4 +1,11 @@
-.. index:: rapid application development
+.. index::
+    Rapid Application Development
+    Rapid Development
+    Application Development
+    Development
+    Rapid
+    Application
+    COMP 325
 
 COMP 325: Rapid Application Development Methodology
 ======================================================

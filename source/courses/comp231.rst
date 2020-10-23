@@ -1,4 +1,10 @@
-.. index:: data structures and algorithms for informatics
+.. index::
+    Data Structures and Algorithms for Informatics
+    Data Structures
+    Algorithms
+    Informatics
+    Structures
+    COMP 231
 
 COMP  231: Data Structures & Algorithms for Informatics
 ========================================================

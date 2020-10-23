@@ -1,4 +1,10 @@
-.. index:: computing and data analysis
+.. index::
+    Computing and Data Analysis for the Sciences
+    Computing
+    Data Analysis
+    Sciences
+    Analysis
+    COMP 180
 
 COMP 180: Computing and Data Analysis for the Sciences
 ==========================================================

@@ -1,4 +1,8 @@
-.. index:: data structures
+.. index::
+    Data Structures
+    Data
+    Structures
+    COMP 271
 
 COMP 271: Data Structures I
 ===========================

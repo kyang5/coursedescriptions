@@ -1,6 +1,13 @@
-.. index:: problem-solving strategies
-   ACM programming team
-   programming team
+.. index::
+    Problem-Solving Strategies
+    Problem-Solving
+    Strategies
+    ACM Programming Team
+    ACM
+    Programming Team
+    COMP 314/ 315
+    COMP 314
+    COMP 315
 
 COMP 314/315: Problem Solving Strategies
 ========================================

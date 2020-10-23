@@ -1,5 +1,9 @@
-﻿.. index:: intermediate object-oriented development
-   object-oriented development
+﻿.. index::
+    Intermediate Object-Oriented Development
+    Intermediate
+    Object-Oriented
+    Development
+    COMP 313
 
 COMP 313: Intermediate Object-Oriented Development
 ==================================================

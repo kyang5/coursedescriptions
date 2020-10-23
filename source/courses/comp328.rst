@@ -1,5 +1,10 @@
-.. index:: algebraic coding
-   algebraic coding theory
+.. index::
+    Algebraic Coding Theory
+    Algebraic Coding
+    Theory
+    Algebraic
+    Coding
+    COMP 328
 
 COMP 328: Algebraic Coding Theory
 =====================================

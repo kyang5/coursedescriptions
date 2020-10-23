@@ -1,5 +1,10 @@
-.. index:: client-side web design
-   web design
+.. index::
+    Client-Side Web Design
+    Client-Side
+    Web Design
+    Web
+    Design
+    COMP 324
 
 COMP 324: Client-Side Web Development
 =====================================

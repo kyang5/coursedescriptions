@@ -1,4 +1,8 @@
-.. index:: requirements engineering
+.. index::
+    Requirements Engineering
+    Requirements
+    Engineering
+    COMP 332
 
 COMP 332: Requirements Engineering
 ==================================

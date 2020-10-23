@@ -1,4 +1,8 @@
-.. index:: network security
+.. index::
+    Network Security
+    Network
+    Security
+    COMP 348
 
 COMP 348: Network Security
 ==========================

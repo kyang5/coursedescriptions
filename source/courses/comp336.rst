@@ -1,4 +1,8 @@
-.. index:: markup languages
+.. index::
+    Markup Languages
+    Markup
+    Language
+    COMP 336
 
 COMP 336: Markup Languages
 ==========================

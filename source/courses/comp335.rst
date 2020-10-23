@@ -1,4 +1,12 @@
-.. index:: formal methods
+.. index::
+    Formal Methods in Software Engineering
+    Formal Methods
+    Software Engineering
+    Formal
+    Methods
+    Software
+    Engineering
+    COMP 335
 
 COMP 335: Formal Methods in Software Engineering
 =======================================================

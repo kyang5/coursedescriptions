@@ -1,4 +1,8 @@
-.. index:: digital electronics laboratory
+.. index::
+    Digital Electronics Laboratory
+    Electronics
+    Laboratory
+    COMP 266
 
 COMP 266: Digital Electronics Laboratory
 ========================================

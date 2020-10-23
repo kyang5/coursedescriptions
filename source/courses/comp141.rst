@@ -1,4 +1,10 @@
-.. index:: introduction to computing tools and techniques
+.. index::
+    Introduction to Computing Tools and Techniques
+    Introduction
+    Computing Tools and Techniques
+    Computing Tools
+    Techniques
+    COMP 141
 
 COMP 141: Introduction to Computing Tools and Techniques
 ========================================================

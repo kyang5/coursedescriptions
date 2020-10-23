@@ -1,4 +1,10 @@
-.. index:: web services programming
+.. index::
+    Web Services Programming
+    Web Services
+    Programming
+    Web
+    Services
+    COMP 333
 
 COMP 333: Web Services Programming
 =======================================================
