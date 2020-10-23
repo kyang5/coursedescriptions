@@ -1,4 +1,5 @@
-:orphan:
+.. index::
+    Graduate Degree
 
 Project Manager
 =================

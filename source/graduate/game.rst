@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 Video Game Developer
 ======================
 

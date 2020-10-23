@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 M.A. in Digital Humanities
 ===========================
 

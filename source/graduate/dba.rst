@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 Database Administration
 ================================
 

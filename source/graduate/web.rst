@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 Web Developer / User Experience Designer
 ==========================================
 

@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 M.S. in Information Technology
 ==============================
 

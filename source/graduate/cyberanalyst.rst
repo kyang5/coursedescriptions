@@ -1,3 +1,6 @@
+.. index::
+    Graduate Degree
+
 Cyber Security Analyst/Network Security Administrator
 ======================================================
 
