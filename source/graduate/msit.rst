@@ -32,7 +32,8 @@ Overall, to achieve depth and breadth, Information Technology students must comp
 
 The courses listed below can be counted toward the different tracks. Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits. Special permission is required to count any other course as a track requirement or as an elective. **CSIS courses are no longer being offered. The corresponding INFS courses may be taken for MSIT credit with permission only. We will not withdraw the acceptance of courses allowed before that you already took.**
 
-Note that you only need three courses in *some* track. There is no need to satisfy more than one track.
+.. note::
+     You only need three courses in *some* track. There is no need to satisfy more than one track.
 
 Major Requirements (3 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

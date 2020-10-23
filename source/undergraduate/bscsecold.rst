@@ -63,9 +63,13 @@ Electives
 
 -   3 credits of any COMP course except :doc:`../courses/comp391` :doc:`../courses/comp398`
 
--   6 credits from :doc:`../courses/comp250` or |engl210|,
-    :doc:`../courses/comp264` or :doc:`../courses/comp271` (note one of these must be taken as part of the Major requirements, while the other can be used as an elective),
-    Any COMP 3xx courses except :doc:`../courses/comp391` and :doc:`../courses/comp398`
+-   6 credits from;
+    * :doc:`../courses/comp250` or |engl210|, :doc:`../courses/comp264` or :doc:`../courses/comp271`
+
+    .. note::
+        One of these must be taken as part of the Major requirements, while the other can be used as an elective.
+
+    * Any COMP 3xx courses except :doc:`../courses/comp391` and :doc:`../courses/comp398`
 
 -   3 credits of any COMP 3xx courses or :doc:`../courses/isscm349`
 

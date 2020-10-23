@@ -23,10 +23,11 @@ Graduate Handbook
 The `Graduate Handbook <https://graduatehandbook.cs.luc.edu>`_ is a separate document which has administrative and admissions information for the graduate program (also available in a
 `pdf version <https://github.com/LoyolaChicagoCS/gradhandbook/releases/latest>`_).
 
-*Applicants* should particularly note the Graduate Handbook sections for
+.. note::
+    *Applicants* should particularly note the Graduate Handbook sections for
 
-* `Prospective students <https://graduatehandbook.cs.luc.edu/prospective_students.html>`_
-* `Teaching assistantships and financial aid <https://graduatehandbook.cs.luc.edu/assistantships.html>`_
+    * `Prospective students <https://graduatehandbook.cs.luc.edu/prospective_students.html>`_
+    * `Teaching assistantships and financial aid <https://graduatehandbook.cs.luc.edu/assistantships.html>`_
 
 Once you are enrolled, the section for ongoing reference will be **Regulations and Procedures**, and the topics are all listed in the table of contents at the beginning of the
 `Graduate Handbook <https://graduatehandbook.cs.luc.edu>`_.

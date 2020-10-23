@@ -42,7 +42,11 @@ Group 1
     *   :doc:`../courses/comp437`
     *   :doc:`../courses/comp439`
     *   :doc:`../courses/comp442`
-    *   :doc:`../courses/comp460` (note special prereq, :doc:`../courses/comp363` )
+    *   :doc:`../courses/comp460`
+
+        .. note::
+            Special prereq, :doc:`../courses/comp363`.
+
     *   :doc:`../courses/comp471`
     *   :doc:`../courses/comp473`
     *   :doc:`../courses/comp474`

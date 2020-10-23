@@ -40,7 +40,9 @@ The academic prerequisites to be considered for admission to the BS/MS programs 
 -   A GPA of 3.5 or higher in all the major courses.
 -   A cumulative GPA of 3.3 or higher for all course work at Loyola;
 -   Satisfactory progress towards completion of Loyola’s core.
-Further notes on BS completion:  Before the undergraduate deadlines do apply to graduate with your B.S in the semester you will actually finish! Otherwise, you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in Locus can be fixed.
+
+.. important::
+    Before the undergraduate deadlines do apply to graduate with your B.S in the semester you will actually finish! Otherwise, you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in Locus can be fixed.
 
 .. _application_information:
 
@@ -53,7 +55,8 @@ Current Loyola students who have met the above academic prerequisites are encour
 -   A one-page personal statement of purpose.
 -   Three letters of recommendation, at least two coming from faculty in the Department of Computer Science at Loyola University.
 
-Note that the GRE is not required for applicants to the BS/MS program, even if they are applying for an assistantship. There is no application fee for applicants who apply on-line. At the time of consideration for admission, the student’s most recent Loyola transcript will be examined. If the applicant has transfer credits from another college or university, the student may be required to submit those as well.
+.. note::
+    The GRE is not required for applicants to the BS/MS program, even if they are applying for an assistantship. There is no application fee for applicants who apply on-line. At the time of consideration for admission, the student’s most recent Loyola transcript will be examined. If the applicant has transfer credits from another college or university, the student may be required to submit those as well.
 
 Requirements for Completion of the BS/MS Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

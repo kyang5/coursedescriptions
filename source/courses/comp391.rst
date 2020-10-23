@@ -37,11 +37,17 @@ Selection for Internships in Computer Science:
 Presently the standard expectation is 50 hours of work relevant to a computer science education for each unit of credit. Hence 150 hours are expected for 3 credits. Work may overlap terms, and then credit is offered for the term in which the internship is completed. For more formal details, please see the Computer Science Internship Memorandum of Understanding (MOU), in `PDF format <https://drive.google.com/file/d/0Bz_4VraMwHUoVjFWYU1sVW9NdTA/edit?usp=sharing>`__
 or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5WFU/edit?usp=sharing>`__.
 
-Note 1: This is a course like any other where you need to be registered on time for the term (fall semester, spring semester, or summer) in which the internship will end. Many people have been denied registration for 391 because they tried to register late, concentrating on the job, not the registration. Also, you must get the approval of the Undergraduate Internship Coordinator first. Plan ahead.
+..note::
 
-Note 2: To get a grade recorded, the final reports of the student and the employer must be received by the Undergraduate Internship Coordinator before the last week of the finals week. Make sure the end date on the internship is early enough to fit with that. You may continue with more hours in your job after the for-credit internship part.
+    This is a course like any other where you need to be registered on time for the term (fall semester, spring semester, or summer) in which the internship will end. Many people have been denied registration for 391 because they tried to register late, concentrating on the job, not the registration. Also, you must get the approval of the Undergraduate Internship Coordinator first. Plan ahead.
 
-Note 3: You do not need to be classified as an "intern" in your job. It can be a regular job. The internship only comes from the relationship to your academic credentials and the supporting documents indicated in the MOU. The overhead for the employer is comparable to a letter of recommendation.
+.. note::
+
+     You do not need to be classified as an "intern" in your job. It can be a regular job. The internship only comes from the relationship to your academic credentials and the supporting documents indicated in the MOU. The overhead for the employer is comparable to a letter of recommendation.
+
+.. important::
+
+    To get a grade recorded, the final reports of the student and the employer must be received by the Undergraduate Internship Coordinator before the last week of the finals week. Make sure the end date on the internship is early enough to fit with that. You may continue with more hours in your job after the for-credit internship part.
 
 Internship opportunities that the Computer Science Department has received are posted here and in the department on the fourth floor of Lewis Towers. Another resource is the `university career and internship center <http://www.luc.edu/career/>`__. Students may also find a position through their own contacts.
 

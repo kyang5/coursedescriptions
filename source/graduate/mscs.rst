@@ -18,7 +18,8 @@ This program is for students entering the program in Spring 2014 or later. If yo
 
 .. include:: common_program_features.inc
 
-Note that Computer Science has more prerequisites than other programs. Overall, to achieve depth and breadth, Computer Science students must complete the following:
+.. note::
+    The Computer Science has more prerequisites than other programs. Overall, to achieve depth and breadth, Computer Science students must complete the following:
 
 *   Three (3) required courses.
 *   Three (3) restricted electives.
@@ -31,12 +32,19 @@ The following three courses are required by the program:
 
 * :doc:`../courses/comp417`
 * :doc:`../courses/comp413`
-* :doc:`../courses/comp460` (note important prereq :doc:`../courses/comp363`)
+* :doc:`../courses/comp460`
+
+    ..important::
+
+        :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
 The Graduate Program Director may approve the replacement of :doc:`../courses/comp413` by an additional course on the Restricted Electives list in cases where the student's primary program focus is not on software development.
 
 Restricted Electives (9 credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. note::
+    Several of these courses require :doc:`../courses/comp413` as a prerequisite.
 
 MS-CS students must also take three courses from the following list:
 
@@ -51,8 +59,6 @@ MS-CS students must also take three courses from the following list:
 * :doc:`../courses/comp471`
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp474`
-
-Note that several of these courses require :doc:`../courses/comp413` as a prerequisite.
 
 General Electives (12 Credits)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

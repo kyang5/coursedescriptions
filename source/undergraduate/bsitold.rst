@@ -30,7 +30,9 @@ One of the following must be taken:
 -   |psyc304|
 
 One of the following must be taken:
-(note that later options are more limited without COMP 170 or 215)
+
+.. note::
+    Later options are more limited without COMP 170 or 215.
 
 -   :doc:`../courses/comp125`
 -   :doc:`../courses/comp150`
@@ -60,10 +62,17 @@ Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../co
 Electives
 ~~~~~~~~~~
 
-15 credits taken from (note that some COMP 3xx electives have a prereq of COMP 271 or higher, and MGMT and ENTR courses also have prereqs):
+.. note::
+    Some COMP 3xx electives have a prereq of COMP 271 or higher, and MGMT and ENTR courses also have prereqs.
+
+15 credits taken from:
 
 -   :doc:`../courses/comp250` or |engl210|
--   :doc:`../courses/comp251` or :doc:`../courses/comp271` NOTE: You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
+-   :doc:`../courses/comp251` or :doc:`../courses/comp271`
+
+    .. note::
+        You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
+
 -   :doc:`../courses/comp264`
 -   MGMT 315: International Management
 -   MGMT 318: Organizational Development and Change
@@ -76,7 +85,11 @@ Electives
 -   ENTR 313: Entrepreneurship-Global Opportunity Scan
 -   ENTR 345: Entrepreneurial Marketing
 -   ENTR 390: Entrepreneurship Strategies
--   Any COMP 300 level electives NOTE: A special case is :doc:`../courses/comp390`, :doc:`../courses/comp391` and :doc:`../courses/comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
+-   Any COMP 300 level electives
+
+    .. note::
+        A special case is :doc:`../courses/comp390`, :doc:`../courses/comp391` and :doc:`../courses/comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
+
 -   MGMT 201 plus ACCT 201 may count in place of 3 credits of major Electives, only if ISSCM 349 is completed to also count toward this major.
 
 Suggested Ordering of Courses
