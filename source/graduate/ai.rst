@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    MS in Computer Science
+    Artificial Intelligence
 
 Artificial Intelligence
 ======================================================

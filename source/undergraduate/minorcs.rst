@@ -1,4 +1,6 @@
-.. index:: minor in computer science
+.. index::
+    Undergraduate Degree
+    Minor in Computer Science
 
 Minor in Computer Science
 =========================

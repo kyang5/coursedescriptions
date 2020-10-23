@@ -1,7 +1,9 @@
 .. index::
     Graduate Degree
+    Ph.D. preparation
+    MS in Computer Science
 
-Ph.D. preparation
+Ph.D. Preparation
 ======================================================
 
 (MS in Computer Science with the thesis track)

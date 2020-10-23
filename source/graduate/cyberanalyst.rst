@@ -1,4 +1,6 @@
 .. index::
+    Cyber Security Analyst/Network Security Administrator
+    MS in Information Technology
     Graduate Degree
 
 Cyber Security Analyst/Network Security Administrator

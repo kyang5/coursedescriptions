@@ -1,10 +1,9 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    Minor in Computer Science (Old)
 
-.. index:: minor in computer science
-
-
-Minor in Computer Science
-=========================
+Minor in Computer Science (Old)
+===============================
 
 Overview
 --------

@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    MS in Software Engineering
+    Web Developer / User Experience Designer
 
 Web Developer / User Experience Designer
 ==========================================

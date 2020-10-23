@@ -1,3 +1,6 @@
+.. index::
+    Schedules
+
 Schedules
 =======================
 

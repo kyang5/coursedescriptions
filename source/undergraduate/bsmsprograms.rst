@@ -1,5 +1,6 @@
-.. index:: BS / MS dual degree programs
-   dual degree programs
+.. index::
+    Undergraduate Degree
+    BS/MS Dual Degree Programs
 
 BS/MS Dual Degree Programs
 ==============================

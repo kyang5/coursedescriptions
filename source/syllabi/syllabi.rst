@@ -1,3 +1,6 @@
+.. index::
+    Syllabi
+
 .. _syllabi:
 
 Current Course Syllabi

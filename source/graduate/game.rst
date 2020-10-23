@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    MS in Software Engineering
+    Video Game Developer
 
 Video Game Developer
 ======================

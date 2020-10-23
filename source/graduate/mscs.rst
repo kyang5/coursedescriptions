@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    M.S. in Computer Science
+
 
 M.S. in Computer Science
 ========================

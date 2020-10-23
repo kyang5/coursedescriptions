@@ -1,3 +1,6 @@
+.. index::
+    Syllabi
+
 .. _legacy_syllabi:
 
 Past Syllabi

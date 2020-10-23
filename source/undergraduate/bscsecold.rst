@@ -1,9 +1,8 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    B.S. in Cybersecurity (Old)
 
-.. index:: b.s. in cybersecurity
-   cybersecurity
-
-B.S. in Cybersecurity
+B.S. in Cybersecurity (Old)
 ============================================
 
 Overview

@@ -1,5 +1,6 @@
-.. index:: b.s. in software engineering
-   software engineering
+.. index::
+    Undergraduate Degree
+    B.S. in Software Engineering
 
 B.S. in Software Engineering
 ============================

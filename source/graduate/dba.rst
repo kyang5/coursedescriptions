@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    Database Administration
+    MS Information Technology
 
 Database Administration
 ================================

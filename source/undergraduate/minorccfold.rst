@@ -1,7 +1,6 @@
-:orphan:
-
-.. index:: minor in computer crime and forensics
-   computer crime and forensics
+.. index::
+    Undergraduate Degree
+    Minor in Computer Crime and Forensics
 
 Minor in Computer Crime and Forensics
 =====================================

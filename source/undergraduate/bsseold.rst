@@ -1,7 +1,6 @@
-:orphan:
-
-.. index:: b.s. in software engineering
-   software engineering (Pre Fall 2020)
+.. index::
+    Undergraduate Degree
+    B.S. in Software Engineering (Pre Fall 2020)
 
 B.S. in Software Engineering (Pre Fall 2020)
 ============================================

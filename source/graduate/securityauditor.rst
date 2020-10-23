@@ -1,5 +1,8 @@
 .. index::
     Graduate Degree
+    Cyber Security Engineer or Auditor
+    MS in Information Technology
+    MS in Software Engineering
 
 Cyber Security Engineer or Auditor
 ======================================================

@@ -1,5 +1,6 @@
-.. index:: b.s. in computer science
-   computer science
+.. index::
+    Undergraduate Degree
+    B.S. in Computer Science
 
 B.S. in Computer Science
 =========================

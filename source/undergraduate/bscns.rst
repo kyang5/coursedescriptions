@@ -1,5 +1,6 @@
-.. index:: b.s. in communication networks and security
-   communication networks and security
+.. index::
+    Undergraduate Degree
+    B.S. in Communication Networks and Security
 
 B.S. in Communication Networks and Security
 ============================================

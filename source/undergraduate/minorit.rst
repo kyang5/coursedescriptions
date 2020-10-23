@@ -1,5 +1,6 @@
-.. index:: minor in information technology
-    minor in information technology
+.. index::
+    Undergraduate Degree
+    Minor in Information Technology
 
 Minor in Information Technology
 ===============================

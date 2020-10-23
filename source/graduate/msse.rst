@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    M.S. in Software Engineering
+
 
 M.S. in Software Engineering
 ============================

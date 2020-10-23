@@ -1,10 +1,9 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    B.S. in Information Technology (Old)
 
-.. index:: b.s. in information technology
-   information technology
-
-B.S. in Information Technology
-==============================
+B.S. in Information Technology (Old)
+====================================
 
 Overview
 ---------

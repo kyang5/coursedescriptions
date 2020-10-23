@@ -1,5 +1,6 @@
-.. index:: b.s. in physics with computer science
-   physics with computer science
+.. index::
+    Undergraduate Degree
+    B.S. in Physics with Computer Science
 
 B.S. in Physics with Computer Science
 =====================================

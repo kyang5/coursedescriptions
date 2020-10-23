@@ -1,5 +1,6 @@
-.. index:: b.s. in data science
-   data science
+.. index::
+    Undergraduate Degree
+    B.S. in Data Science
 
 B.S. in Data Science
 ============================================
@@ -13,5 +14,3 @@ Curriculum
 -----------
 
 Please see https://www.luc.edu/math/bsmathds.shtml.
-
-

@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    MS Information Technology
+    Project Manager
 
 Project Manager
 =================

@@ -1,3 +1,5 @@
+.. index::
+    Syllabi
 
 ********************************
 Spring 2019 Syllabi

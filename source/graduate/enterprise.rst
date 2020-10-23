@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    Enterprise Architect
+    MS in Software Engineering
 
 Enterprise Architect
 ======================================================

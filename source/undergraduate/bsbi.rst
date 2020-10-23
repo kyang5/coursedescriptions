@@ -1,5 +1,6 @@
-.. index:: b.s. in bioinformatics
-   bioinformatics
+.. index::
+    Undergraduate Degree
+    B.S. in Bioinformatics
 
 B.S. in Bioinformatics
 ============================================

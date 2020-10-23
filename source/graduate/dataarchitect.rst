@@ -1,5 +1,7 @@
 .. index::
     Graduate Degree
+    Data Architect
+    MS Information Technology
 
 Data Architect
 =================

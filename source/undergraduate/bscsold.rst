@@ -1,7 +1,6 @@
-:orphan:
-
-.. index:: b.s. in computer science old
-   computer science (pre-fall 2020)
+.. index::
+    Undergraduate Degree
+    B.S. in Computer Science (Pre Fall 2020)
 
 B.S. in Computer Science (Pre Fall 2020)
 ========================================

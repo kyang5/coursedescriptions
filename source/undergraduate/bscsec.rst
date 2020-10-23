@@ -1,5 +1,6 @@
-.. index:: b.s. in cybersecurity
-   cybersecurity
+.. index::
+    Undergraduate Degree
+    B.S. in Cybersecurity
 
 B.S. in Cybersecurity
 ============================================

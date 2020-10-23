@@ -1,10 +1,13 @@
 .. index::
+    MS in Computer Science
+    MS in Information Technology
     Graduate Degree
+    Data Analyst
 
 Data Analyst
 ======================================================
 
-(MS in Computer Science  or Information Technology)
+(MS in Computer Science or Information Technology)
 
 .. dosplit:
    Hope to split into separate IT and CS variants

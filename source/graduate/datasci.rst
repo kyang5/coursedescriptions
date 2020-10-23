@@ -1,5 +1,9 @@
 .. index::
     Graduate Degree
+    Data Scientist
+    MS in Computer Science
+    MS in Software Engineering
+
 
 Data Scientist
 ===========================
