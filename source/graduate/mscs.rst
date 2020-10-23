@@ -34,8 +34,7 @@ The following three courses are required by the program:
 * :doc:`../courses/comp413`
 * :doc:`../courses/comp460`
 
-    ..important::
-
+    .. important::
         :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
 The Graduate Program Director may approve the replacement of :doc:`../courses/comp413` by an additional course on the Restricted Electives list in cases where the student's primary program focus is not on software development.
