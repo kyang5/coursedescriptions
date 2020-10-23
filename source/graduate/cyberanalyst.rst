@@ -1,5 +1,3 @@
-:orphan:
-
 Cyber Security Analyst/Network Security Administrator
 ======================================================
 

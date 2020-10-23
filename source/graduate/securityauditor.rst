@@ -1,5 +1,3 @@
-:orphan:
-
 Cyber Security Engineer or Auditor
 ======================================================
 

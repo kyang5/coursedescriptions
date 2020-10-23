@@ -1,5 +1,3 @@
-:orphan:
-
 Data Architect
 =================
 

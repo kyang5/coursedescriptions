@@ -1,5 +1,3 @@
-:orphan:
-
 Video Game Developer
 ======================
 

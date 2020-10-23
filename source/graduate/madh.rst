@@ -1,6 +1,3 @@
-.. index:: m.a. in digital humanities
-   digital humanities
-
 M.A. in Digital Humanities
 ===========================
 

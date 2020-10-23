@@ -1,5 +1,3 @@
-:orphan:
-
 Database Administration
 ================================
 

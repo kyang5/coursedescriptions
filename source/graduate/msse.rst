@@ -1,6 +1,3 @@
-.. index:: m.s. in software engineering
-   software engineering
-
 M.S. in Software Engineering
 ============================
 

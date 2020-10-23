@@ -1,6 +1,3 @@
-.. index:: m.s. in information technology
-   information technology
-
 M.S. in Information Technology
 ==============================
 

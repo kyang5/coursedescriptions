@@ -1,6 +1,3 @@
-.. index:: m.s. in computer science
-   computer science
-
 M.S. in Computer Science
 ========================
 

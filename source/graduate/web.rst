@@ -1,5 +1,3 @@
-:orphan:
-
 Web Developer / User Experience Designer
 ==========================================
 
