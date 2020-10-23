@@ -1,5 +1,8 @@
-.. index:: computer networks
-   networks
+.. index::
+    Computer Networks
+    Networks
+    Graduate
+    COMP 443
 
 COMP 443: Computer Networks
 =======================================================

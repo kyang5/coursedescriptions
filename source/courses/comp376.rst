@@ -1,4 +1,8 @@
-.. index:: formal languages and automata
+.. index::
+    Formal Languages and Automata
+    Languages
+    Automata
+    COMP 376
 
 COMP 376: Formal Languages and Automata
 =======================================

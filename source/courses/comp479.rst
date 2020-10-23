@@ -1,4 +1,7 @@
-.. index:: machine learning
+.. index::
+    Machine Learning
+    Graduate
+    COMP 479
 
 COMP 479: Machine Learning
 ==============================================

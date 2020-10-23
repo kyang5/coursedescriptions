@@ -1,4 +1,6 @@
-.. index:: metagenomics
+.. index::
+    Metagenomics
+    COMP 392
 
 COMP 392: Metagenomics
 ======================

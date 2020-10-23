@@ -1,4 +1,9 @@
-.. index:: network management
+.. index::
+    Network Management
+    Network
+    Management
+    COMP 351
+
 
 COMP 351: Network Management
 ============================

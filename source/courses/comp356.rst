@@ -1,4 +1,10 @@
-.. index:: computer principles of modeling & simulation
+.. index::
+    Computer Principles of Modeling & Simulation
+    Computer Principles
+    Modeling & Simulation
+    Modeling
+    Simulation
+    COMP 356
 
 COMP 356: Computer Principles of Modeling & Simulation
 =========================================================

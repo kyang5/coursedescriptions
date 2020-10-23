@@ -1,4 +1,9 @@
-.. index:: mathematical modeling and simulation
+.. index::
+    Mathematical Modeling and Simulation
+    Modeling
+    Simulation
+    Graduate
+    COMP 421
 
 COMP 421: Mathematical Modeling and Simulation
 =======================================================

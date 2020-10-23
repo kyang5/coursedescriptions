@@ -1,4 +1,9 @@
-.. index:: introduction to computer vulnerabilities
+.. index::
+    Introduction to Computer Vulnerabilities
+    Introduction
+    Computer Vulnerabilities
+    Vulnerabilities
+    COMP 352
 
 COMP 352: Introduction to Computer Vulnerabilities
 =======================================================

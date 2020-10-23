@@ -1,5 +1,9 @@
-.. index:: algebraic coding
-   algebraic coding theory
+.. index::
+    Algebraic Coding Theory
+    Theory
+    Graduate
+    COMP 428
+
 
 COMP 428: Algebraic Coding Theory
 =====================================

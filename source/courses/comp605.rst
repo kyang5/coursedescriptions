@@ -1,4 +1,7 @@
-.. index:: master of science study
+.. index::
+    Master of Science Study
+    Graduate
+    COMP 605
 
 COMP 605: Master of Science Study
 =======================================================

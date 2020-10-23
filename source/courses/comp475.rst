@@ -1,4 +1,10 @@
-.. index:: system standards and requirements
+.. index::
+    System Standards and Requirements
+    System
+    Standards
+    Requirements
+    Graduate
+    COMP 475
 
 COMP 475: System Standards and Requirements
 =======================================================

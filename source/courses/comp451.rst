@@ -1,4 +1,9 @@
-.. index:: network management
+.. index::
+    Network Management
+    Network
+    Management
+    Graduate
+    COMP 451
 
 COMP 451: Network Management
 =======================================================

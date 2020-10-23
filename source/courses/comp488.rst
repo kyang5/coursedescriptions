@@ -1,4 +1,9 @@
-.. index:: topics in computer science
+.. index::
+    Topics in Computer Science
+    Topics
+    Computer Science
+    Graduate
+    COMP 488
 
 COMP 488: Topics in Computer Science
 =======================================================

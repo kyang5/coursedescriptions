@@ -1,4 +1,8 @@
-.. index:: high-performance computing
+.. index::
+    High-Performance Computing
+    High-Performance
+    Graduate
+    COMP 464
 
 COMP 464: High-Performance Computing
 =======================================================

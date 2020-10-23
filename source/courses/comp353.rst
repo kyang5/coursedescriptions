@@ -1,4 +1,8 @@
-.. index:: database programming
+.. index::
+    Database Programming
+    Database
+    Programming
+    COMP 353
 
 COMP 353: Database Programming
 ==============================

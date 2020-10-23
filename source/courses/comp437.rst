@@ -1,5 +1,9 @@
-.. index:: concurrent programming
-   concurrency
+.. index::
+    Concurrent Programming
+    Concurrent
+    Programming
+    Graduate
+    COMP 437
 
 COMP 437: Concurrent Programming
 =======================================================

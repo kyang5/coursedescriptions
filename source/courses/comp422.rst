@@ -1,5 +1,10 @@
-.. index:: software development for wireless/mobile devices
-   mobile devices
+.. index::
+    Software Development for Wireless/Mobile Devices
+    Software Development
+    Wireless Devices
+    Mobile Devices
+    Graduate
+    COMP 422
 
 COMP 422: Software Development for Wireless/Mobile Devices
 =============================================================

@@ -1,5 +1,7 @@
-.. index:: undergraduate level independent study
-   independent study
+.. index::
+    Independent Study
+    Undergraduate
+    COMP 398
 
 COMP 398: Independent Study
 ===========================

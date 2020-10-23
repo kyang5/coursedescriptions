@@ -1,5 +1,9 @@
-.. index:: client-side web design
-   web design
+.. index::
+    Client-Side Web Design
+    Client-Side
+    Web Design
+    Graduate
+    COMP 424
 
 COMP 424: Client-Side Web Design
 =======================================================

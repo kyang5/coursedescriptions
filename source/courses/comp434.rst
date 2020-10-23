@@ -1,4 +1,9 @@
-.. index:: enterprise software development
+.. index::
+    Enterprise Software Development
+    Enterprise
+    Software Development
+    Graduate
+    COMP 434
 
 COMP 434: Enterprise Software Development
 =======================================================

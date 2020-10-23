@@ -1,4 +1,7 @@
-.. index:: software systems analysis
+.. index::
+    Software Systems Analysis
+    Graduate
+    COMP 420
 
 COMP 420: Software Systems Analysis
 =======================================================

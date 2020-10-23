@@ -1,4 +1,9 @@
-.. index:: programming languages
+.. index::
+    Programming Languages
+    Programming
+    Languages
+    Graduate
+    COMP 471
 
 COMP 471: Programming Languages
 =======================================================

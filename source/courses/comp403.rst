@@ -1,5 +1,6 @@
-.. index:: operations management
-   operations management
+.. index::
+    Operations Management
+    Graduate
 
 COMP 403: Operations Management
 ==============================================

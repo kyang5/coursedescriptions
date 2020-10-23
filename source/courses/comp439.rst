@@ -1,4 +1,8 @@
-.. index:: distributed systems
+.. index::
+    Distributed Systems
+    Systems
+    Graduate
+    COMP 439
 
 COMP 439: Distributed Systems
 =======================================================

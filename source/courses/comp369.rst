@@ -1,4 +1,9 @@
-.. index:: physical design and fabrication
+.. index::
+    Physical Design and Fabrication
+    Physical
+    Design
+    Fabrication
+    COMP 369
 
 COMP 369: Physical Design and Fabrication
 =======================================================

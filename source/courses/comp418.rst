@@ -1,4 +1,7 @@
-.. index:: combinatorial mathematics
+.. index::
+    Combinatorial Mathematics
+    Graduate
+    COMP 418
 
 COMP 418: Combinatorial Mathematics
 =======================================================

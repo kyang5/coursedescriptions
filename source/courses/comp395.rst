@@ -1,5 +1,8 @@
-.. index:: professional development and career growth in CS or IT
-
+.. index::
+    Professional Development & Career Growth in CS/IT
+    Development
+    Career Growth
+    COMP 395
 
 COMP  395: Professional Development & Career Growth in CS/IT
 =============================================================

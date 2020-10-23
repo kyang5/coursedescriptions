@@ -1,4 +1,7 @@
-.. index:: computer architecture
+.. index::
+    Computer Architecture
+    Architecture
+    CIOMP 362
 
 COMP 362: Computer Architecture
 =======================================================

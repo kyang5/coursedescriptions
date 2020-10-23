@@ -1,5 +1,9 @@
-.. index:: compiler construction
-   compilers
+.. index::
+    Compiler Construction
+    Compiler
+    Construction
+    Graduate
+    COMP 472
 
 COMP 472: Compiler Construction
 =====================================

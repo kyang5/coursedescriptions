@@ -1,4 +1,8 @@
-.. index:: operations management
+.. index::
+    Computer Graphics
+    Graphics
+    Graduate
+    COMP 480
 
 COMP 480: Computer Graphics
 ===========================

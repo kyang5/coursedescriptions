@@ -1,4 +1,6 @@
-.. index:: computer science seminar
+.. index::
+    Computer Science Seminar
+    COMP 399
 
 COMP 399: Computer Science Seminar
 ==================================

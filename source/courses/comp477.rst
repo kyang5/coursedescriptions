@@ -1,4 +1,8 @@
-﻿.. index:: it project management
+﻿.. index::
+    IT Project Management
+    Project Management
+    Graduate
+    COMP 477
 
 COMP 477: IT Project Management
 =======================================================

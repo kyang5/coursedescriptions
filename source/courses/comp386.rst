@@ -1,4 +1,7 @@
-.. index:: computational neuroscience
+.. index::
+    Computational Neuroscience
+    Neuroscience
+    COMP 386
 
 COMP 386: Computational Neuroscience
 ====================================

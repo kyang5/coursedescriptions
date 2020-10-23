@@ -1,4 +1,9 @@
-.. index:: web services programming
+.. index::
+    Web Services Programming
+    Web Services
+    Programming
+    Graduate
+    COMP 433
 
 COMP 433: Web Services Programming
 =======================================================

@@ -1,4 +1,8 @@
-.. index:: markup languages
+.. index::
+    Markup Languages
+    Languages
+    Graduate
+    COMP 436
 
 COMP 436: Markup Languages
 =======================================================

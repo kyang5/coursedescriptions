@@ -1,6 +1,9 @@
-﻿.. index:: objects frameworks and patterns
-   frameworks
-   patterns
+﻿.. index::
+    Objects, Frameworks, and Patterns
+    Objects
+    Frameworks
+    Patterns
+    COMP 373
 
 COMP 373: Objects, Frameworks, and Patterns
 ===========================================

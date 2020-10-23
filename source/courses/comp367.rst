@@ -1,4 +1,8 @@
-.. index:: robotics software development
+.. index::
+    Robotics Software Development
+    Robotics
+    Software Development
+    COMP 367
 
 COMP 367: Robotics Software Development
 =======================================================

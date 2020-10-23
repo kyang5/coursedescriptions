@@ -1,4 +1,7 @@
-.. index:: operating systems
+.. index::
+    Operating Systems
+    Graduate
+    COMP 410
 
 COMP 410: Operating Systems
 =======================================================

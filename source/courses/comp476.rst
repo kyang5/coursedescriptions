@@ -1,4 +1,9 @@
-.. index:: formal languages and automata
+.. index::
+    Formal Languages and Automata
+    Languages
+    Automata
+    Graduate
+    COMP 476
 
 COMP 476: Formal Languages and Automata
 =======================================================

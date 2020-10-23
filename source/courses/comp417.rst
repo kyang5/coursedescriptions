@@ -1,4 +1,7 @@
-.. index:: social legal and ethical issues in computing
+.. index::
+    Social, Legal, and Ethical Issues in Computing
+    Graduate
+    COMP 417
 
 COMP 417: Social, Legal, and Ethical Issues in Computing
 ===========================================================

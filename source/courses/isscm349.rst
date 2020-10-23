@@ -1,4 +1,6 @@
-.. index:: project management
+.. index::
+    Project Management
+    ISSCM 349
 
 ISSCM 349: Project Management
 ==================================

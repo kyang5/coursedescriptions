@@ -1,4 +1,9 @@
-.. index:: network security
+.. index::
+    Network Security
+    Network
+    Security
+    Graduate
+    COMP 448
 
 COMP 448: Network Security
 =======================================================

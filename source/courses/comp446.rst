@@ -1,4 +1,7 @@
-.. index:: telecommunications
+.. index::
+    Telecommunications
+    Graduate
+    COMP 446
 
 COMP 446: Telecommunications
 =======================================================

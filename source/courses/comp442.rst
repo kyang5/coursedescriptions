@@ -1,4 +1,9 @@
-.. index:: server-side software development
+.. index::
+    Server-Side Software Development
+    Server-Side
+    Software Development
+    Graduate
+    COMP 442
 
 COMP 442: Server-Side Software Development
 =======================================================

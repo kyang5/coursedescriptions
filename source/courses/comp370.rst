@@ -1,4 +1,9 @@
-.. index:: software quality metrics and testing
+.. index::
+    Software Quality, Metrics, and Testing
+    Software Quality
+    Metrics
+    Testing
+    COMP 370
 
 COMP 370: Software Quality, Metrics, and Testing
 ================================================

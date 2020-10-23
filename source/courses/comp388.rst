@@ -1,4 +1,8 @@
-.. index:: topics in computer science
+.. index::
+    Topics in Computer Science
+    Topics
+    Computer Science
+    COMP 388
 
 COMP 388: Topics in Computer Science
 ====================================

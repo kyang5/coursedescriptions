@@ -1,5 +1,9 @@
-.. index:: introduction to computer graphics
-   computer graphics
+.. index::
+    Introduction to Computer Graphics
+    Introduction
+    Computer Graphics
+    Graphics
+    COMP 380
 
 COMP 380: Introduction to Computer Graphics
 ===========================================

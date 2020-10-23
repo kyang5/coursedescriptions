@@ -1,5 +1,9 @@
-.. index:: undergraduate level internship
-   internship
+.. index::
+    Internship in Computer Science
+    Internship
+    Computer Science
+    Undergraduate
+    COMP 391
 
 COMP 391: Internship in Computer Science
 ========================================

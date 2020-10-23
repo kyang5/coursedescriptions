@@ -1,5 +1,8 @@
-.. index:: introduction to compilers
-   compilers
+.. index::
+    Introduction to Compilers
+    Introduction
+    Compilers
+    COMP 382
 
 COMP 382: Introduction to Compilers
 ===================================

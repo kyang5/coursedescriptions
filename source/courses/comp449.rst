@@ -1,4 +1,9 @@
-.. index:: wireless networks and security
+.. index::
+    Wireless Networks and Security
+    Wireless Networks
+    Security
+    Graduate
+    COMP 449
 
 COMP 449: Wireless Networks and Security
 =======================================================

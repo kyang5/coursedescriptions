@@ -1,4 +1,7 @@
-.. index:: cryptography
+.. index::
+    Cryptography
+    Graduate
+    COMP 431
 
 COMP 431: Cryptography
 ============================

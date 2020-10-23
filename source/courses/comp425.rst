@@ -1,4 +1,8 @@
-.. index:: rapid applications development
+.. index::
+    Rapid Applications Development
+    Applications Development
+    Graduate
+    COMP 425
 
 COMP 425: Rapid Applications Development
 ==============================================

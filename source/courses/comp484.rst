@@ -1,4 +1,7 @@
-.. index:: artificial intelligence
+.. index::
+    Artificial Intelligence
+    Graduate
+    COMP 484
 
 COMP 484: Artificial Intelligence
 ===================================

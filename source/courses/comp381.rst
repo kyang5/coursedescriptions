@@ -1,4 +1,6 @@
-.. index:: bioinformatics
+.. index::
+    Bioinformatics
+    COMP 381
 
 COMP 381: Bioinformatics
 ========================

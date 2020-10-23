@@ -1,6 +1,7 @@
-.. index:: intrusion detection
-   intrusion detection
-   computer security
+.. index::
+    Intrusion Detection
+    Graduate
+    COMP 447
 
 COMP 447: Intrusion Detection
 =============================

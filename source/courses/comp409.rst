@@ -1,4 +1,9 @@
-.. index:: advanced numerical analysis
+.. index::
+    Advanced Numerical Analysis
+    Advanced
+    Numerical Analysis
+    Graduate
+    COMP 409
 
 COMP 409: Advanced Numerical Analysis
 =======================================

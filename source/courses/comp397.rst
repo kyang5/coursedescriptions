@@ -1,4 +1,7 @@
-.. index:: research methods in computer science
+.. index::
+    Research Methods in Computer Science
+    Research Methods
+    COMP 397
 
 COMP 397: Research Methods in Computer Science
 ====================================================

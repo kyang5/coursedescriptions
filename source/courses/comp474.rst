@@ -1,4 +1,9 @@
-.. index:: software engineering
+.. index::
+    Software Engineering
+    Software
+    Engineering
+    Graduate
+    COMP 474
 
 COMP 474: Software Engineering
 =======================================================

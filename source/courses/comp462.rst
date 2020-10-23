@@ -1,4 +1,8 @@
-.. index:: computer architecture
+.. index::
+    Computer Architecture
+    Architecture
+    Graduate
+    COMP 462
 
 COMP 462: Computer Architecture
 =======================================================

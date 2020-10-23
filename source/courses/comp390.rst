@@ -1,4 +1,10 @@
-.. index:: broadening participation in STEM (computing math and science)
+.. index::
+    Broadening Participation in STEM (Computing, Math & Science)
+    STEM
+    Computing
+    Math
+    Science
+    COMP 390
 
 COMP 390: Broadening Participation in STEM (Computing, Math & Science)
 ======================================================================

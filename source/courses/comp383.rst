@@ -1,4 +1,7 @@
-.. index:: computational biology
+.. index::
+    Computational Biology
+    Biology
+    COMP 383
 
 COMP 383: Computational Biology
 ===============================

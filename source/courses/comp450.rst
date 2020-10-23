@@ -1,4 +1,10 @@
-.. index:: microcomputer design and interfacing
+.. index::
+    Microcomputer Design and Interfacing
+    Microcomputer
+    Design
+    Interfacing
+    Graduate
+    COMP 450
 
 COMP 450: Microcomputer Design and Interfacing
 ==============================================

@@ -1,4 +1,9 @@
-.. index:: object-oriented programming
+.. index::
+    Object-Oriented Programming
+    Object-Oriented
+    Programming
+    Graduate
+    COMP 473
 
 COMP 473: Object-Oriented Programming
 =======================================================

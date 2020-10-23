@@ -1,5 +1,9 @@
-.. index:: algorithms and complexity
-   algorithms
+.. index::
+    Algorithms and Complexity
+    Algorithms
+    Complexity
+    Graduate
+    COMP 460
 
 COMP 460: Algorithms and Complexity
 =======================================================

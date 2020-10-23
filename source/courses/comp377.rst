@@ -1,4 +1,8 @@
-.. index:: it project management
+.. index::
+    IT Project Management
+    IT
+    Project Management
+    COMP 377
 
 COMP 377: IT Project Management
 ===============================

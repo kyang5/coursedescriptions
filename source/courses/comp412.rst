@@ -1,5 +1,7 @@
-.. index:: free/open-source computing
-   open source
+.. index::
+    Free/Open Source Computing
+    Graduate
+    COMP 412
 
 COMP 412: Free/Open Source Computing
 =======================================================
