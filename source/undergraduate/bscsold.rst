@@ -1,7 +1,6 @@
-:orphan:
-
-.. index:: b.s. in computer science old
-   computer science (pre fall 2020)
+.. index::
+    Undergraduate Degree
+    B.S. in Computer Science (Pre Fall 2020)
 
 B.S. in Computer Science (Pre Fall 2020)
 ========================================
@@ -9,7 +8,7 @@ B.S. in Computer Science (Pre Fall 2020)
 Overview
 ---------
 
-The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want pursue a career as an industry practitioners and/or as an academic.
+The B.S. degree program in computer science provides a balance between theoretical foundations and applied computer science with the ultimate goal of presenting knowledge likely to be of ongoing value throughout one's career. The preparation of the B.S. is aimed at students who want to pursue a career as an industry practitioner and/or as an academic.
 
 Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and Information Technology is rated second highest in median pay and fourth highest in projected employment growth for the period 2014 to 2024.
 
@@ -17,7 +16,7 @@ Among the 25 occupation groups of The Bureau of Labor Statistics, Computer and I
 Curriculum
 -----------
 
-If you enrolled prior to Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
+If you enrolled before Fall 2013 you may use the old Computer Science B.S. curriculum located `here <http://www.luc.edu/cs/academics/undergraduateprograms/bscs/oldcurriculum/>`_.
 
 Major Requirements (51 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,7 +59,7 @@ Electives
 
 -   3 credits of any COMP 3xx except :doc:`../courses/comp391` and :doc:`../courses/comp398`
 
--   Advanced/Interdisciplinary studies: 7 credits of any COMP 3xx, ISSCM 349:Project Management, MATH 3xx,PHYS 3xx, or STAT 3xx.
+-   Advanced/Interdisciplinary studies: 7 credits of any COMP 3xx, ISSCM 349:Project Management, MATH 3xx, PHYS 3xx, or STAT 3xx.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

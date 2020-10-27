@@ -1,15 +1,14 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    B.S. in Cybersecurity (Old)
 
-.. index:: b.s. in cybersecurity
-   cybersecurity
-
-B.S. in Cybersecurity
+B.S. in Cybersecurity (Old)
 ============================================
 
 Overview
 ---------
 
-This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; and functioning as an effective member of a network and security services division in an organization.
+This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management, and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; functioning as an effective member of a network and security services division in an organization.
 
 The Bureau of Labor Statistics indicates high median pay and estimates an 18% increase (much higher than average) in the demand for information security analysts for the period 2014 to 2024.
 
@@ -64,9 +63,13 @@ Electives
 
 -   3 credits of any COMP course except :doc:`../courses/comp391` :doc:`../courses/comp398`
 
--   6 credits from :doc:`../courses/comp250` or |engl210|,
-    :doc:`../courses/comp264` or :doc:`../courses/comp271` (note one of these must be taken as part of the Major requirements, while the other can be used as an elective),
-    Any COMP 3xx courses except :doc:`../courses/comp391` and :doc:`../courses/comp398`
+-   6 credits from;
+    * :doc:`../courses/comp250` or |engl210|, :doc:`../courses/comp264` or :doc:`../courses/comp271`
+
+    .. note::
+        One of these must be taken as part of the Major requirements, while the other can be used as an elective.
+
+    * Any COMP 3xx courses except :doc:`../courses/comp391` and :doc:`../courses/comp398`
 
 -   3 credits of any COMP 3xx courses or :doc:`../courses/isscm349`
 

@@ -1,9 +1,9 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    Minor in Information Technology (Old)
 
-.. index:: minor in information technology
-
-Minor in Information Technology
-===============================
+Minor in Information Technology (Old)
+=====================================
 
 Overview
 --------

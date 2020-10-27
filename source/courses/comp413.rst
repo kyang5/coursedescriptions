@@ -1,5 +1,9 @@
-﻿.. index:: intermediate object-oriented development
-   object-oriented development
+﻿.. index::
+    Intermediate Object-Oriented Development
+    Intermediate
+    Object-Oriented Development
+    Graduate
+    COMP 413
 
 COMP 413: Intermediate Object-Oriented Development
 =======================================================
@@ -20,7 +24,7 @@ Description
 Object-orientation continues to be a dominant approach to software development. This intermediate programming-intensive course studies the use of classes and objects with an emphasis on collaboration among objects.
 
 **Overall Series of Object-Oriented Courses**
-  
+
 - :doc:`../courses/comp170` (CS1) - simple objects representing scalars
 - :doc:`../courses/comp271` (CS2) - collections of simple objects
 - :doc:`../courses/comp313` / :doc:`../courses/comp413` - complex, interacting objects; basic design patterns
@@ -30,20 +34,13 @@ Object-orientation continues to be a dominant approach to software development. 
 
 **Course Topics**
 
--  Data Structures of various types – linear vs. nonlinear, indexing vs.
-   non-indexing, position vs. value-oriented
--  Advanced Java, e.g. interfaces, annotations, exceptions, generics,
-   collections, boxing/unboxing, array objects
--  Object Modeling – UML, use cases and activity diagrams, class
-   diagrams, archetypes, interaction diagrams
--  Design by contract, interfaces, refactoring & generalization, design
-   patterns (Adapter, Decorator, Composite, Strategy, Iterator, Abstract
-   Factory, Visitor, …)
--  Agile Development Process – evolutionary design, test-driven
-   development, refactoring, …
+-  Data Structures of various types – linear vs. nonlinear, indexing vs. non-indexing, position vs. value-oriented
+-  Advanced Java, e.g. interfaces, annotations, exceptions, generics, collections, boxing/unboxing, array objects
+-  Object Modeling – UML, use cases and activity diagrams, class diagrams, archetypes, interaction diagrams
+-  Design by contract, interfaces, refactoring & generalization, design patterns (Adapter, Decorator, Composite, Strategy, Iterator, Abstract Factory, Visitor, …)
+-  Agile Development Process – evolutionary design, test-driven development, refactoring, …
 -  Tools – Eclipse, Subversion, JUnit, JMock, Ant, …
--  Techniques – object pooling, garbage collection, performance
-   profiling (NetBeans)
+-  Techniques – object pooling, garbage collection, performance profiling (NetBeans)
 
 Outcome
 ---------

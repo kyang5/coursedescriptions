@@ -1,4 +1,8 @@
-.. index:: visual information processing
+.. index::
+    Visual Information Processing
+    Information Processing
+    Processing
+    COMP 125
 
 COMP 125: Visual Information Processing
 =======================================
@@ -18,10 +22,7 @@ None
 Description
 --------------------
 
-An elementary introduction to programming using a language such as
-Processing. Topics include variables, formatted input/output, arrays,
-looping, conditional execution, subroutines, functions, computer
-graphics, animation. Applications to other disciplines are stressed.
+An elementary introduction to programming using a language such as Processing. Topics include variables, formatted input/output, arrays, looping, conditional execution, subroutines, functions, computer graphics, animation. Applications to other disciplines are stressed.
 
 Outcome
 ----------------------

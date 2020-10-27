@@ -1,4 +1,9 @@
-.. index:: programming languages
+.. index::
+    Programming Languages
+    Programming
+    Languages
+    Graduate
+    COMP 471
 
 COMP 471: Programming Languages
 =======================================================
@@ -16,17 +21,12 @@ Prerequisites
 Description
 ----------------------------
 
-There are over two thousand programming languages. This course studies several
-languages that represent the much smaller number of underlying principles and
-paradigms.
+There are over two thousand programming languages. This course studies several languages that represent the much smaller number of underlying principles and paradigms.
 
 Outcome
 ----------
 
-An understanding of key principles and paradigms underlying the design and
-implementation of commonly used programming languages; exposure to formal
-mechanisms for describing language syntax and semantics; programming
-experience in several representative languages.
+An understanding of key principles and paradigms underlying the design and implementation of commonly used programming languages; exposure to formal mechanisms for describing language syntax and semantics; programming experience in several representative languages.
 
 Syllabi
 --------------------

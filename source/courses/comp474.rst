@@ -1,4 +1,9 @@
-.. index:: software engineering
+.. index::
+    Software Engineering
+    Software
+    Engineering
+    Graduate
+    COMP 474
 
 COMP 474: Software Engineering
 =======================================================
@@ -17,9 +22,7 @@ Prerequisites
 Description
 ----------------------------
 
-Using an object-oriented language such as C++ or Java, the student (working in
-a small team) will learn to plan, design, implement, and test a large software
-project.
+Using an object-oriented language such as C++ or Java, the student (working in a small team) will learn to plan, design, implement and test a large software project.
 
 Syllabi
 ----------------------

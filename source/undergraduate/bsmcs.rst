@@ -1,5 +1,6 @@
-.. index:: b.s. in mathematics and computer science
-   mathematics and computer science
+.. index::
+    Undergraduate Degree
+    B.S. in Mathematics and Computer Science
 
 B.S. in Mathematics and Computer Science
 ==========================================

@@ -1,4 +1,12 @@
-.. index:: formal methods
+.. index::
+    Formal Methods in Software Engineering
+    Formal Methods
+    Software Engineering
+    Formal
+    Methods
+    Software
+    Engineering
+    COMP 335
 
 COMP 335: Formal Methods in Software Engineering
 =======================================================
@@ -18,16 +26,11 @@ Prerequisites
 Description
 ----------------------------
 
-As embedded and networked systems are becoming ever more ubiquitous,
-we depend increasingly on the correctness of the software that
-controls such systems. This course studies the formal specification,
-verification, and synthesis of software.
+As embedded and networked systems are becoming ever more ubiquitous, we depend increasingly on the correctness of the software that controls such systems. This course studies the formal specification, verification, and synthesis of software.
 
 Outcomes
 ----------------------------
-An understanding of the role of formal methods in the
-construction of software systems; proficiency in representative
-methods and tools, such as UML and ESC.
+An understanding of the role of formal methods in the construction of software systems; proficiency in the representative methods and tools, such as UML and ESC.
 
 Syllabi
 ------------------

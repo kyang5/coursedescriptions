@@ -1,4 +1,9 @@
-.. index:: advanced numerical analysis
+.. index::
+    Advanced Numerical Analysis
+    Advanced
+    Numerical Analysis
+    Graduate
+    COMP 409
 
 COMP 409: Advanced Numerical Analysis
 =======================================
@@ -25,11 +30,7 @@ Prerequisites
 Course Description
 --------------------
 
-Introduction to error analysis, numerical solution of equations,
-interpolation and approximation, numerical differentiation and
-integration, matrices and solution of systems of equations, numerical
-solution of ordinary and partial differential equations.
-
+Introduction to error analysis, numerical solution of equations, interpolation and approximation, numerical differentiation and integration, matrices, and solution of systems of equations, numerical solution of ordinary and partial differential equations.
 
 Syllabi
 ----------------------

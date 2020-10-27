@@ -1,4 +1,9 @@
-.. index:: topics in computer science
+.. index::
+    Topics in Computer Science
+    Topics
+    Computer Science
+    Graduate
+    COMP 488
 
 COMP 488: Topics in Computer Science
 =======================================================
@@ -13,11 +18,10 @@ Prerequisites
 
 Vary by section:  most commonly :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 
-This course is used to introduce emerging topics in computer science that do not yet have a regular course number. Content of the course varies. Recent topics have included
+This course is used to introduce emerging topics in computer science that do not yet have a regular course number. The content of the course varies. Recent topics have included
 
 -  Bioinformatics
 -  Computational Biology
@@ -26,7 +30,7 @@ This course is used to introduce emerging topics in computer science that do not
 -  Introduction to Digital Humanities Design and Programming
 -  Machine Learning
 -  Metagenomics
--  Rapid Application Development Metholodgy (.NET)
+-  Rapid Application Development Methodology (.NET)
 -  Robotics Software Development
 -  Data Visualization
 -  Database Administration

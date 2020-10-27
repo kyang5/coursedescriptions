@@ -1,4 +1,7 @@
-.. index:: research methods in computer science
+.. index::
+    Research Methods in Computer Science
+    Research Methods
+    COMP 397
 
 COMP 397: Research Methods in Computer Science
 ====================================================
@@ -13,13 +16,12 @@ Credit Hours
 Description
 --------------------
 
-Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects. Progress in outside projects tracked through milestones such as abstracts, small fellowship-style proposals, informal updates, and outcome-oriented goal setting. Emphasizes creating lasting impacts through establishing project continuity and presenting  posters, papers, and slide shows.
-
+Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects. Progress in outside projects tracked through milestones such as abstracts, small fellowship-style proposals, informal updates, and outcome-oriented goal setting. Emphasizes creating lasting impacts through establishing project continuity and presenting posters, papers, and slide shows.
 
 Outcome
 ---------------
 
-Regular progress on research projects and final presentations of results for demonstration to department faculty and students, and potential use at professional conferences.
+Regular progress on research projects and final presentations of results for a demonstration to department faculty and students, and potential use at professional conferences.
 
 Syllabi
 ---------------------

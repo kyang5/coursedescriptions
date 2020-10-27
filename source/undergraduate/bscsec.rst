@@ -1,5 +1,6 @@
-.. index:: b.s. in cybersecurity
-   cybersecurity
+.. index::
+    Undergraduate Degree
+    B.S. in Cybersecurity
 
 B.S. in Cybersecurity
 ============================================
@@ -7,7 +8,7 @@ B.S. in Cybersecurity
 Overview
 ---------
 
-This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; and functioning as an effective member of a network and security services division in an organization.
+This new major grows out of the enormous importance of network computing and the major challenges to security that these networks pose. Students examine the architecture, properties, management, and performance of both wired and wireless networks, including how to keep them reliable and secure. Students gain the talents and skills necessary for success in today’s organizations according to current industry practices: planning, designing, implementing and administering voice and data communication networks; assessing and implementing the communication and security requirements of an organization in the form of a secure communication infrastructure; functioning as an effective member of a network and security services division in an organization.
 
 The Bureau of Labor Statistics indicates high median pay and estimates an 18% increase (much higher than average) in the demand for information security analysts for the period 2014 to 2024.
 
@@ -61,9 +62,9 @@ Computer Science Free Electives
 General Notes
 ~~~~~~~~~~~~~
 
-- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learning, Writing Intensive).
 
-- It is usually not meaningful to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+- It is usually not meant to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

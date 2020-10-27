@@ -1,11 +1,15 @@
-.. index:: data structures and algorithms for informatics
+.. index::
+    Data Structures and Algorithms for Informatics
+    Data Structures
+    Algorithms
+    Informatics
+    Structures
+    COMP 231
 
 COMP  231: Data Structures & Algorithms for Informatics
 ========================================================
 
-	
-This course introduces data structures and algorithms that are essential for data science and informatics. 
-
+This course introduces data structures and algorithms that are essential for data science and informatics.
 
 Credit Hours
 -----------------------
@@ -17,14 +21,13 @@ Prerequisites
 
 :doc:`../courses/comp215` OR :doc:`../courses/comp170`, :doc:`../courses/comp141`
 
-Note: :doc:`../courses/comp215` is preferred
+.. note::
+     :doc:`../courses/comp215` is preferred
 
 Description
 --------------------
 
-	
 In this course we will focus on identifying the right method for storing data and using the most efficient algorithm for analysis. A subset of data structures and algorithms fundamental to computer science will be covered.
-
 
 Outcome
 ----------------------

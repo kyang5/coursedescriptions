@@ -1,5 +1,9 @@
-﻿.. index:: intermediate object-oriented development
-   object-oriented development
+﻿.. index::
+    Intermediate Object-Oriented Development
+    Intermediate
+    Object-Oriented
+    Development
+    COMP 313
 
 COMP 313: Intermediate Object-Oriented Development
 ==================================================
@@ -19,13 +23,10 @@ Prerequisites
 Description
 --------------------
 
-Object-orientation continues to be a dominant approach to software
-development. This intermediate programming-intensive course studies the
-use of classes and objects with an emphasis on collaboration among
-objects.
+Object-orientation continues to be a dominant approach to software development. This intermediate programming-intensive course studies the use of classes and objects with an emphasis on collaboration among objects.
 
 **Overall Series of Object-Oriented Courses**
-  
+
 - :doc:`../courses/comp170` (CS1) - simple objects representing scalars
 - :doc:`../courses/comp271` (CS2) - collections of simple objects
 - :doc:`../courses/comp313` / :doc:`../courses/comp413` - complex, interacting objects; basic design patterns
@@ -54,15 +55,11 @@ Outcome
 ----------------------
 
 A thorough understanding of the principles of object-orientation:
-abstraction, delegation, inheritance, and polymorphism; exposure to
-basic design patterns; programming experience in mainstream
-object-oriented languages such as C++ and Java.
+abstraction, delegation, inheritance, and polymorphism; exposure to basic design patterns; programming experience in mainstream object-oriented languages such as C++ and Java.
 
-You will take your software development abilities to the next level by
-building on your knowledge of data structures.
+You will take your software development abilities to the next level by building on your knowledge of data structures.
 
-You will learn to design and implement more complex programs using good
-software engineering practices, including:
+You will learn to design and implement more complex programs using good software engineering practices, including:
 
 -  Designing with interfaces and composition
 -  Design patterns

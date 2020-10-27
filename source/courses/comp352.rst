@@ -1,4 +1,9 @@
-.. index:: introduction to computer vulnerabilities
+.. index::
+    Introduction to Computer Vulnerabilities
+    Introduction
+    Computer Vulnerabilities
+    Vulnerabilities
+    COMP 352
 
 COMP 352: Introduction to Computer Vulnerabilities
 =======================================================
@@ -13,11 +18,10 @@ Prerequisites
 
 - :doc:`../courses/comp264` and :doc:`../courses/comp347`
 
-
 Description
 ----------------------------
 
-This course will introduce students to computer vulnerabilities at the machine-code level, including viruses, browser vulnerabilities, buffer and heap overflows, return-to-libc attacks and others.
+This course will introduce students to computer vulnerabilities at the machine-code level, including viruses, browser vulnerabilities, buffer and heap overflows, return-to-libc attacks, and others.
 
 Outcomes
 ----------------------------

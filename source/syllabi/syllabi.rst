@@ -1,3 +1,6 @@
+.. index::
+    Syllabi
+
 .. _syllabi:
 
 Current Course Syllabi
@@ -8,5 +11,3 @@ Current Course Syllabi
    fall_2020_syllabi
 
 See :doc:`legacy-syllabi` for past syllabi.
-
-

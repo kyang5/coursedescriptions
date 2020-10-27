@@ -1,4 +1,8 @@
-﻿.. index:: it project management
+﻿.. index::
+    IT Project Management
+    Project Management
+    Graduate
+    COMP 477
 
 COMP 477: IT Project Management
 =======================================================
@@ -13,18 +17,10 @@ Prerequisites
 
 :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 
-This course is an introduction to the philosophy and practice of project
-management. The course involves a student group project to investigate and
-plan a “real world” project. The investigation requires application of
-project-management tools covered in the class, including a project proposal
-that specifies project objectives, schedules, work breakdown structure, and
-responsibilities, an written interim report, and a final oral and written
-report. The course will likely include both business and computer science
-students working together on a student team.
+This course is an introduction to the philosophy and practice of project management. The course involves a student group project to investigate and plan a “real world” project. The investigation requires the application of project-management tools covered in the class, including a project proposal that specifies project objectives, schedules, work breakdown structure, and responsibilities, and written interim report, and a final oral and written report. The course will likely include both business and computer science students working together on a student team.
 
 Syllabi
 --------------------

@@ -1,5 +1,6 @@
-.. index:: b.s. in software engineering
-   software engineering
+.. index::
+    Undergraduate Degree
+    B.S. in Software Engineering
 
 B.S. in Software Engineering
 ============================
@@ -7,7 +8,7 @@ B.S. in Software Engineering
 Overview
 ---------
 
-With software applications of enormous size, complexity, and expense now prevalent in diverse domains, software engineering has never been as important a field as it is now. Students gain necessary talents to be successful in today’s organizations, following current industry practices: designing and developing software; understanding and applying software development processes and methodologies in their work; leveraging software development tools used in the various phases of the development life cycle; and functioning as an effective member of a software development team or organization. Students develop their knowledge and skill though high-level electives where they write major projects in diverse areas such as client/server programming for the web, distributed programming for large clusters of processors, database programming, and markup language transformation. While working on modern applications with current software engineering practices such as Extreme Programming, students learn to analyze and apply good algorithms and other relevant tools.
+With software applications of enormous size, complexity, and expense now prevalent in diverse domains, software engineering has never been as important a field as it is now. Students gain necessary talents to be successful in today’s organizations, following current industry practices: designing and developing software; understanding and applying software development processes and methodologies in their work; leveraging software development tools used in the various phases of the development life cycle, and functioning as an effective member of a software development team or organization. Students develop their knowledge and skill through high-level electives where they write major projects in diverse areas such as client/server programming for the web, distributed programming for large clusters of processors, database programming, and markup language transformation. While working on modern applications with current software engineering practices such as Extreme Programming, students learn to analyze and apply good algorithms and other relevant tools.
 
 The Bureau of Labor Statistics indicates high median pay and estimates a 17% increase (much higher than average) in the demand for software developers for the period 2014 to 2024.
 
@@ -16,9 +17,9 @@ Curriculum
 
 This Degree was previously known as Software Development.
 
-If you decided prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
+If you decided before Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
 
-If you decided prior to Fall 2020 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsseold`.
+If you decided before Fall 2020 you may use the curriculum for the old B.S. Software Development Degree, which can be found :doc:`bsseold`.
 
 Major Requirements (61 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,9 +78,9 @@ Computer Science Electives
 General Notes
 ~~~~~~~~~~~~~
 
-- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learned, Writing Intensive).
+- Credits never can be double-counted for different categories of the requirements for the major. But a course may satisfy a major requirement and also satisfy a University and/or College requirement (e.g., Core, residency, Engaged Learning, Writing Intensive).
 
-- It is usually not meaningful to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
+- It is usually not meant to combine a computing major or minor with another, the principal exception being CCFR-MINR; see more detail in the `double-dipping rules <https://www.luc.edu/cs/academics/undergraduateprograms/double-dippingrules>`_.
 
 Suggested Ordering of Courses
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

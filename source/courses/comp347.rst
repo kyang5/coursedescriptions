@@ -1,17 +1,18 @@
-﻿.. index:: intrusion detection and security
-   intrusion detection
-   security
+﻿.. index::
+    Intrusion Detection and Security
+    Intrusion Detection
+    Security
+    COMP 347
 
 COMP 347: Intrusion Detection and Security
 ===================================================
 
-This course covers techniques and algorithms for detecting unusual usage patterns that typically signal a break-in, including techniques for detecting evasive or stealthy attacks. Also covered are differences in detecting local versus network intruders. Additional topics: computer viruses, computer security management, computer forensics. 
+This course covers techniques and algorithms for detecting unusual usage patterns that typically signal a break-in, including techniques for detecting evasive or stealthy attacks. Also covered are differences in detecting local versus network intruders. Additional topics: computer viruses, computer security management, computer forensics.
 
 Credit Hours
------------------------ 
+-----------------------
 
- 3
-
+ 3
 
 Prerequisites
 ---------------------
@@ -21,11 +22,7 @@ Prerequisites
 Description
 --------------------
 
-This course will cover techniques for detecting the unusual usage
-patterns that typically signal a break-in.  The course will also
-consider differences in detection of local intruders versus intrusion
-over networks.  Finally  issues in the prosecution of those breaking in
-to computers, particularly evidentiary issues are explored. 
+This course will cover techniques for detecting the unusual usage patterns that typically signal a break-in.  The course will also consider differences in the detection of local intruders versus intrusion over networks.  Finally, issues in the prosecution of those breaking into computers, particularly evidentiary issues are explored.
 
 Outcome
 --------------

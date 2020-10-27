@@ -1,4 +1,10 @@
-.. index:: microcomputer design and interfacing
+.. index::
+    Microcomputer Design and Interfacing
+    Microcomputer
+    Design
+    Interfacing
+    Graduate
+    COMP 450
 
 COMP 450: Microcomputer Design and Interfacing
 ==============================================
@@ -22,11 +28,7 @@ Prerequisites
 Description
 --------------------
 
-This course includes lecture and laboratory work. Topics that the course
-will hit on are; Microprocessor logic, instruction, and clocked
-sequential circuits; memory devices; data acquisition, manipulation and
-transfer circuitry; machine and assembly languages; microprocessor
-support devices.
+This course includes lecture and laboratory work. Topics that the course will hit on are; Microprocessor logic, instruction, and clocked sequential circuits; memory devices; data acquisition, manipulation and transfer circuitry; machine and assembly languages; microprocessor support devices.
 
 Syllabi
 --------------------

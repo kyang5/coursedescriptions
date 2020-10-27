@@ -1,4 +1,8 @@
-.. index:: robotics software development
+.. index::
+    Robotics Software Development
+    Robotics
+    Software Development
+    COMP 367
 
 COMP 367: Robotics Software Development
 =======================================================
@@ -17,14 +21,12 @@ Prerequisites
 Description
 ----------------------------
 
-This course is an introduction to robotics and robotic software development using humanoid robots.
-The course will use modern robot platforms and provide hands on experience with robotic sensor systems, motion and navigation, robot behavior planning and implementation.
+This course is an introduction to robotics and robotic software development using humanoid robots. The course will use modern robot platforms and provide hands-on experience with robotic sensor systems, motion and navigation, robot behavior planning, and implementation.
 
 Outcomes
 ----------------------------
 
 Students will explore the history of robotics, overview the theory of autonomous robotic systems, and develop complete robot projects.
-
 
 Syllabi
 --------------------

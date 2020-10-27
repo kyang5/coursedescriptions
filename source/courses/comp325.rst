@@ -1,4 +1,11 @@
-.. index:: rapid application development
+.. index::
+    Rapid Application Development
+    Rapid Development
+    Application Development
+    Development
+    Rapid
+    Application
+    COMP 325
 
 COMP 325: Rapid Application Development Methodology
 ======================================================
@@ -11,9 +18,7 @@ Credit Hours
 Prerequisites
 ----------------------------
 
-:doc:`../courses/comp271` with grade of C- or better
-
-
+:doc:`../courses/comp271` with a grade of C- or better
 
 Description
 ----------------------------
@@ -23,7 +28,7 @@ This course will teach students how to effect rapid application development usin
 Outcome
 -------
 
-Students will gain enhanced skill in object-oriented programming and development of such applications as database applications, web applications, Microsoft .NET services, Silverlight applications, and WCF Services.
+Students will gain enhanced skills in object-oriented programming and development of such applications as database applications, web applications, Microsoft .NET services, Silverlight applications, and WCF Services.
 
 .. fix
     Syllabi

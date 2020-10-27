@@ -1,11 +1,14 @@
-.. index:: introduction to computer security
+.. index::
+    Introduction to Computer Security
+    Introduction
+    Computer Security
+    Security
+    COMP 301
 
 COMP  301: Introduction to Computer Security
 ============================================
 
-	
 This is an introductory course on computer security covering a broad range of topics.
-
 
 Credit Hours
 -----------------------
@@ -15,13 +18,12 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-:doc:`../courses/comp170` 
+:doc:`../courses/comp170`
 
 Description
 --------------------
-	
- Topics include basic security goals, encryption, penetration testing, software exploitation, reverse engineering, packet sniffing, and secure coding. The course teaches both the principles and concepts of computer security as well as some of the tools and technologies.
 
+ Topics include basic security goals, encryption, penetration testing, software exploitation, reverse engineering, packet sniffing, and secure coding. The course teaches both the principles and concepts of computer security as well as some of the tools and technologies.
 
 Outcome
 ----------------------

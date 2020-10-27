@@ -12,7 +12,6 @@ Undergraduate Courses
 .. note::
     Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in `Locus`_ to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
 
-
 .. toctree::
    :maxdepth: 1
 

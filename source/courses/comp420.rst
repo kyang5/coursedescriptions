@@ -1,4 +1,7 @@
-.. index:: software systems analyis
+.. index::
+    Software Systems Analysis
+    Graduate
+    COMP 420
 
 COMP 420: Software Systems Analysis
 =======================================================
@@ -12,7 +15,6 @@ Prerequisites
 ----------------------------
 
 :doc:`../courses/comp271`
-
 
 Description
 ----------------------------

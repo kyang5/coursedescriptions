@@ -1,6 +1,7 @@
-.. index:: intrusion detection
-   intrusion detection
-   computer security
+.. index::
+    Intrusion Detection
+    Graduate
+    COMP 447
 
 COMP 447: Intrusion Detection
 =============================
@@ -15,11 +16,10 @@ Prerequisites
 
 :doc:`../courses/comp271`
 
-
 Description
 ----------------------------
 
-This course will cover techniques for detecting the unusual usage patterns that typically signal a break-in. The course will also consider differences in detection of local intruders versus intrusion over networks. Finally issues in the prosecution of those breaking in to computers, particularly evidentiary issues are explored.
+This course will cover techniques for detecting the unusual usage patterns that typically signal a break-in. The course will also consider differences in the detection of local intruders versus intrusion over networks. Finally, issues in the prosecution of those breaking into computers, particularly evidentiary issues are explored.
 
 Outcome
 ------------

@@ -1,4 +1,6 @@
-.. index:: machine learning
+.. index::
+    Machine Learning
+    COMP 379
 
 COMP 379: Machine Learning
 ==========================

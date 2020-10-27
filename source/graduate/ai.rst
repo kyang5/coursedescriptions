@@ -1,4 +1,7 @@
-:orphan:
+.. index::
+    Graduate Degree
+    MS in Computer Science
+    Artificial Intelligence
 
 Artificial Intelligence
 ======================================================
@@ -9,9 +12,8 @@ Students interested in AI require a broad range of skills including elements of 
 
 Consider these courses:
 
-
 .. tosphinx
-   all courses should link to the sphinx pages with text being course name and number.
+   all courses should link to the sphinx pages with the text being course name and number.
 
     * COMP 479: Machine Learning
     * COMP 484: Artificial Intelligence

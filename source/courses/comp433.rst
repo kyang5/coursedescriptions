@@ -1,4 +1,9 @@
-.. index:: web services programming
+.. index::
+    Web Services Programming
+    Web Services
+    Programming
+    Graduate
+    COMP 433
 
 COMP 433: Web Services Programming
 =======================================================
@@ -13,7 +18,7 @@ Prerequisites
 
 - :doc:`../courses/comp413`
 - :doc:`../courses/comp442` (highly recommended)
-- instructor permission if prerequisite is missing
+- instructor permission if the prerequisite is missing
 
 .. include:: ../graduate/fcs.txt
 

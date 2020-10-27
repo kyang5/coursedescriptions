@@ -1,4 +1,9 @@
-.. index:: human-computer interface design
+.. index::
+    Human-Computer Interface Design
+    Interface
+    Design
+    Graduate
+    COMP 441
 
 COMP 441: Human-Computer Interface Design
 =======================================================

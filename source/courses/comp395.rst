@@ -1,10 +1,12 @@
-.. index:: professional development and career growth in CS or IT
+.. index::
+    Professional Development & Career Growth in CS/IT
+    Development
+    Career Growth
+    COMP 395
 
-	
 COMP  395: Professional Development & Career Growth in CS/IT
 =============================================================
-	
-	
+
 This course is designed specifically for students pursuing a degree in computing-related fields, for example, Computer Science, Information Technology, Software Engineering, and Cybersecurity.
 
 Credit Hours
@@ -21,7 +23,6 @@ Description
 -----------
 
 Students who take this course will learn about ways to develop themselves professionally, communicate their strengths, expand their contacts, and advance their careers.
-
 
 Outcome
 -------

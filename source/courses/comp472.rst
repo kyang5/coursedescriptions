@@ -1,10 +1,14 @@
-.. index:: compiler construction
-   compilers
+.. index::
+    Compiler Construction
+    Compiler
+    Construction
+    Graduate
+    COMP 472
 
 COMP 472: Compiler Construction
 =====================================
 
-This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler. 
+This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler.
 
 Credit Hours
 -----------------------
@@ -14,18 +18,14 @@ Credit Hours
 Prerequisites
 ------------------------------
 
-.. LOCUS says COMP 260 and 272  
+.. LOCUS says COMP 260 and 272
 
 :doc:`../courses/comp264` and :doc:`../courses/comp313`
-
 
 Description
 --------------------
 
-This course covers the basics of writing a compiler to translate from a
-simple high-level language to machine code. Topics include lexical
-analysis, top-down and LR parsing, syntax-directed translation, and code
-generation and optimization. Students will write a small compiler.
+This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler.
 
 Outcome
 -------------

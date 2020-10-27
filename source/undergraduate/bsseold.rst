@@ -1,15 +1,14 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    B.S. in Software Engineering (Pre Fall 2020)
 
-.. index:: b.s. in software engineering
-   software engineering (Pre Fall 2020)
-
-B.S. in Software Engineering (Pre Fall 2020) 
+B.S. in Software Engineering (Pre Fall 2020)
 ============================================
 
 Overview
 ---------
 
-With software applications of enormous size, complexity, and expense now prevalent in diverse domains, software engineering has never been as important a field as it is now. Students gain necessary talents to be successful in today’s organizations, following current industry practices: designing and developing software; understanding and applying software development processes and methodologies in their work; leveraging software development tools used in the various phases of the development life cycle; and functioning as an effective member of a software development team or organization. Students develop their knowledge and skill though high-level electives where they write major projects in diverse areas such as client/server programming for the web, distributed programming for large clusters of processors, database programming, and markup language transformation. While working on modern applications with current software engineering practices such as Extreme Programming, students learn to analyze and apply good algorithms and other relevant tools.
+With software applications of enormous size, complexity, and expense now prevalent in diverse domains, software engineering has never been as important a field as it is now. Students gain necessary talents to be successful in today’s organizations, following current industry practices: designing and developing software; understanding and applying software development processes and methodologies in their work; leveraging software development tools used in the various phases of the development life cycle, and functioning as an effective member of a software development team or organization. Students develop their knowledge and skill through high-level electives where they write major projects in diverse areas such as client/server programming for the web, distributed programming for large clusters of processors, database programming, and markup language transformation. While working on modern applications with current software engineering practices such as Extreme Programming, students learn to analyze and apply good algorithms and other relevant tools.
 
 The Bureau of Labor Statistics indicates high median pay and estimates a 17% increase (much higher than average) in the demand for software developers for the period 2014 to 2024.
 
@@ -18,7 +17,7 @@ Curriculum
 
 This Degree was previously known as Software Development.
 
-If you were enrolled prior to Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
+If you were enrolled before Fall 2013 you may use the curriculum for the old B.S. Software Development Degree, which can be found `here <http://www.luc.edu/cs/academics/undergraduateprograms/bsse/oldcurriculum/>`_.
 
 Major Requirements (48 Credit Hours)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

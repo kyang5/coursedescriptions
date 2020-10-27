@@ -1,5 +1,9 @@
-.. index:: algebraic coding
-   algebraic coding theory
+.. index::
+    Algebraic Coding Theory
+    Theory
+    Graduate
+    COMP 428
+
 
 COMP 428: Algebraic Coding Theory
 =====================================
@@ -24,9 +28,7 @@ Prerequisites
 Description
 --------------------
 
-In this course, major types of error-correcting codes, encoding and decoding, and 
-their main properties will be studied. The codes examined will include the Hamming,
-Golay, BCH, cyclic, quadratic residue, Reed-Solomon, and Reed-Muller codes.
+In this course, major types of error-correcting codes, encoding and decoding, and their main properties will be studied. The codes examined will include the Hamming, Golay, BCH, cyclic, quadratic residue, Reed-Solomon, and Reed-Muller codes.
 
 Outcome
 -------------

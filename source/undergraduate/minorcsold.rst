@@ -1,10 +1,9 @@
-:orphan:
+.. index::
+    Undergraduate Degree
+    Minor in Computer Science (Old)
 
-.. index:: minor in computer science
-
-
-Minor in Computer Science
-=========================
+Minor in Computer Science (Old)
+===============================
 
 Overview
 --------
@@ -23,17 +22,19 @@ Curriculum
 -   :doc:`../courses/comp251` or :doc:`../courses/comp264` or 3 credits of a 300-level COMP course
 -   Six (6) units of 300-level Computer Science electives (for instance, two 3-credit courses)
 
--   Note: :doc:`../courses/comp391` is **not** allowed for any of the 300-level electives.
+    .. note::
+        :doc:`../courses/comp391` is **not** allowed for any of the 300-level electives.
 
 Curriculum (pre-Fall 2015)
 """"""""""""""""""""""""""
 
-If you declared the Computer Science Minor prior to Fall 2015, you may use the old curriculum below.
+If you declared the Computer Science Minor before Fall 2015, you may use the old curriculum below.
 
 -   :doc:`../courses/comp150`
 -   :doc:`../courses/comp170`
 -   :doc:`../courses/comp271`
 -   Nine (9) units of Computer Science electives (for instance, three 3-credit courses)
+    * 6 units at the 300 level and 3 units at the 200 or 300 level.
 
--   Note: 6 units at the 300 level and 3 units at the 200 or 300 level.
--   Note: :doc:`../courses/comp391` is **not** allowed for any of the 300-level electives.
+    .. note::
+        :doc:`../courses/comp391` is **not** allowed for any of the 300-level electives.

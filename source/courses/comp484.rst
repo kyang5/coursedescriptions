@@ -1,4 +1,7 @@
-.. index:: artificial intelligence
+.. index::
+    Artificial Intelligence
+    Graduate
+    COMP 484
 
 COMP 484: Artificial Intelligence
 ===================================
@@ -11,7 +14,7 @@ Prerequisites
 Description
 ----------------------------
 
-This course provides an introduction into the field of artificial intelligence (AI). Topics include search, game-playing, logic, planning, uncertainty, learning, and perception, as time permits.
+This course provides an introduction to the field of artificial intelligence (AI). Topics include search, game-playing, logic, planning, uncertainty, learning, and perception, as time permits.
 
 Other Information
 -------------------

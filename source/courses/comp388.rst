@@ -1,4 +1,8 @@
-.. index:: topics in computer science
+.. index::
+    Topics in Computer Science
+    Topics
+    Computer Science
+    COMP 388
 
 COMP 388: Topics in Computer Science
 ====================================
@@ -16,14 +20,12 @@ Department and instructor consent
 Description
 --------------------
 
-This course is used to introduce emerging topics in computer science
-that do not yet have a regular course number. Content of the course
-varies. Recent topics have included
+This course is used to introduce emerging topics in computer science that do not yet have a regular course number. The content of the course varies. Recent topics have included
 
 -  Foundations of Computer Science I (mostly an accelerated :doc:`../courses/comp170`)
 -  Foundations of Computer Science II (mostly an accelerated :doc:`../courses/comp271`)
 -  Enterprise Software Development
--  Rapid Application Development Metholodgy (.NET)
+-  Rapid Application Development Methodology (.NET)
 -  Robotics Software Development
 -  System Standards and Requirements
 -  Topics in Algorithms
