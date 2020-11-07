@@ -1,12 +1,12 @@
-.. index::
-    .. insert relevant index tags
-
 .. header:: Potential M.S. Field: M.S. Field
 .. footer:: Potential M.S. Field: M.S. Field
 
-##########
-M.S. Field
-##########
+.. index::
+    .. insert relevant index tags
+
+##############
+Graduate Field
+##############
 
 .. contents:: Table of Contents
 

@@ -1,8 +1,8 @@
-.. index::
-    .. insert relevant index tags
-
 .. header:: COMP ###: Course Full Title
 .. footer:: COMP ###: Course Full Title
+
+.. index::
+    .. insert relevant index tags
 
 ###########################
 COMP ###: Course Full Title
