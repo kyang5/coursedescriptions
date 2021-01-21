@@ -32,7 +32,7 @@ The academic prerequisites for BA-IT students to be considered for admission to 
 Further notes on BA completion: Before the undergraduate deadlines do apply to graduate with your B.A. in the semester you will actually finish! Otherwise you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in Locus can be fixed.
 Application Information
 
-Current Loyola BA-IT students who have met the above academic prerequisites are encouraged to apply . Students who have an interest in the program are encouraged to consult with the Graduate Program Director (GPD) for Information Technology, Dr. Channah Naiman, in the semester prior to their application. The application will be evaluated upon completion of the following:
+Current Loyola BA-IT students who have met the above academic prerequisites are encouraged to apply . Students who have an interest in the program are encouraged to consult with the Graduate Program Director (GPD) for Information Technology, Dr. Peter Lars Dordal, in the semester prior to their application. The application will be evaluated upon completion of the following:
 
     The `Graduate Application Form <https://gpem.luc.edu/apply/>`__.; applicants are to select the BA/MS option. Be careful of the misleading entry named “starting semester”: The starting semester for the program should be the first semester when the student will be in pure graduate status (after expected completion of the BA). This is not generally the semester coming right after the student has filled out the application. This is after all double-counted courses are completed.
     A one page personal statement of purpose.
