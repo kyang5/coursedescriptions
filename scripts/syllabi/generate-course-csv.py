@@ -46,7 +46,7 @@ def process():
     results = cursor.execute(QUERY_TEMPLATE % vars())
     print("Writing %s" % csv_filename)
     course_section_map = {}
-    with open(csv_filename, 'w', newline='') as csvfile:
+    with open(csv_filename, 'w') as csvfile:
         spamwriter = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
         for result in results:
             result2 = list(result)
@@ -59,11 +59,11 @@ def process():
 
             course_sec_key = "%s-%s" % (course_no, sec_no)
             if course_sec_key in course_section_map:
-                print("Duplicate: ", course_key, course_info)
+                print("Duplicate: ", course_sec_key, course_info)
                 continue
             course_section_map[course_sec_key] = course_info
             annotated_url = SYLLABUS_URL_TEMPLATE % course_info
-            spamwriter.writerow([course_info, faculty_name, semester, annotated_url])
+            spamwriter.writerow([course_sec_key, faculty_name, semester, annotated_url])
 
 if __name__ == '__main__':
     process()
