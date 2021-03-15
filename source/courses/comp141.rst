@@ -1,3 +1,6 @@
+.. header:: COMP 141: Introduction to Computing Tools and Techniques
+.. footer:: COMP 141: Introduction to Computing Tools and Techniques
+
 .. index::
     Introduction to Computing Tools and Techniques
     Introduction
@@ -6,27 +9,41 @@
     Techniques
     COMP 141
 
+########################################################
 COMP 141: Introduction to Computing Tools and Techniques
-========================================================
+########################################################
+
+About
+=====
 
 This course introduces students to the Unix shell environment and essential tools for succeeding in computer science degrees.
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-None
+    * 3
+
+    **Prerequisites**
+
+    * None
 
 Description
---------------------
+===========
 
 This course introduces students to the Unix shell environment and essential tools for succeeding in computer science degrees.
 
 Outcome
-----------------------
+=======
 
 Students who complete this course will develop fluency in the Unix (Linux) environment, which is essential for solving problems in academic, research, and professional computing disciplines.
+
+*******
+Syllabi
+*******
+
+See :doc:`../syllabi/syllabi`.
