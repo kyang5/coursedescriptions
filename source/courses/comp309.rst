@@ -1,35 +1,54 @@
+.. header:: COMP 309: Numerical Methods
+.. footer:: COMP 309: Numerical Methods
+
 .. index::
     Numerical Methods
     Numerical
     Methods
     COMP 309
 
+###########################
 COMP 309: Numerical Methods
-===========================
+###########################
 
-Aliases
-------------------------
+******************
+Course Information
+******************
 
-|math309|
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * |math309|
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-|math215| or :doc:`../courses/comp215` or :doc:`../courses/comp170`
+    * 3
 
-|math212|
+    **Prerequisites**
 
-|math264|
+    * |math212|
+    * |math264|
+    * One or more of the following:
+      * |math215|
+      * :doc:`../courses/comp215`
+      * :doc:`../courses/comp170`
 
-Course Description
---------------------
+
+About
+=====
+
+An introduction to numerical methods and their applications.
+
+Description
+===========
 
 Introduction to error analysis, numerical solution of equations, interpolation and approximation, numerical differentiation and integration, matrices, and solution of systems of equations, numerical solution of ordinary and partial differential equations.
+
+Outcome
+=======
+
+Students will have an understanding of numerical methods and their application.
 
 Syllabi
 ----------------------
