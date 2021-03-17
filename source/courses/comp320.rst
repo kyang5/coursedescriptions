@@ -1,3 +1,6 @@
+.. header:: COMP 320: Software Systems Analysis
+.. footer:: COMP 320: Software Systems Analysis
+
 .. index::
     Software Systems Analysis
     Software Systems
@@ -6,8 +9,12 @@
     Software
     COMP 320
 
+###################################
 COMP 320: Software Systems Analysis
-===================================
+###################################
+
+About
+=====
 
 Software systems analysis and design document user needs, create system architecture and guide implementation. This course teaches the Unified Modeling Language (UML), and uses current software tools for analysis and design.
 
