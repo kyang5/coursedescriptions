@@ -1,3 +1,6 @@
+.. header:: COMP 333: Web Services Programming
+.. footer:: COMP 333: Web Services Programming
+
 .. index::
     Web Services Programming
     Web Services
@@ -6,27 +9,41 @@
     Services
     COMP 333
 
+##################################
 COMP 333: Web Services Programming
-=======================================================
+##################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp313`
-- instructor permission if prerequisite is missing
+    * 3
 
+    **Prerequisites**
+
+    * :doc:`../courses/comp313`
+
+About
+=====
+
+This course studies the architectures, frameworks, and tools required to develop and compose web services and clients
 
 Description
-----------------------------
+===========
 
 Web services are building blocks for enterprise applications that use open data exchange standards and transport protocols to exchange data with calling clients. This course studies the architectures, frameworks, and tools required to develop and compose web services and clients, as well as integrate service-oriented systems with legacy systems.
 
+Outcome
+=======
+
+This course studies the architectures, frameworks, and tools required to develop and compose web services and clients, as well as integrate service-oriented systems with legacy systems.
+
+********
 Syllabus
----------------------
+********
 
 See :doc:`../syllabi/syllabi`.
