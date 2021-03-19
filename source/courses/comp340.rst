@@ -1,37 +1,53 @@
+.. header:: COMP 340: Computer Forensics
+.. footer:: COMP 340: Computer Forensics
+
 .. index::
     Computer Forensics
     Computer
     Forensics
     COMP 340
 
+############################
 COMP 340: Computer Forensics
-====================================
+############################
 
-The course introduces the fundamentals of computer/network/internet forensics, analysis, and investigations.
+******************
+Course Information
+******************
 
-Credit Hours
------------------
+.. sidebar:: General Information
 
-3
+    **Credit Hours**
 
-Prerequisites
---------------------
+    * 3
 
-:doc:`../courses/comp150` or :doc:`../courses/comp170` or :doc:`../courses/comp215`/|math215|
+    **Prerequisites**
+
+    * One or more of the following:
+      * :doc:`../courses/comp150`
+      * :doc:`../courses/comp170`
+      * :doc:`../courses/comp215`
+      * |math215|
 
 :doc:`../courses/comp264` or :doc:`../courses/comp317` or :doc:`../courses/comp343`
 
+About
+=====
+
+The course introduces the fundamentals of computer/network/internet forensics, analysis, and investigations.
+
 Description
-----------------------
+===========
 
 The course introduces the fundamentals of computer/network/internet forensics, analysis, and investigations.
 
 Outcome
------------
+=======
 
 The student will learn Computer Software and hardware relevant for analysis and investigative and evidence-gathering protocols.
 
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.
