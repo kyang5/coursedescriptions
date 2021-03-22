@@ -6,8 +6,9 @@
     Biology
     COMP 383
 
+###############################
 COMP 383: Computational Biology
-===============================
+###############################
 
 This course presents an algorithmic focus on problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignments, gene prediction, trees and sequences, databases, and rapid sequence analysis.
 

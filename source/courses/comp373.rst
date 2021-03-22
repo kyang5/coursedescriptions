@@ -8,8 +8,9 @@
     Patterns
     COMP 373
 
+###########################################
 COMP 373: Objects, Frameworks, and Patterns
-===========================================
+###########################################
 
 Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective.
 

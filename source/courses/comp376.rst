@@ -7,8 +7,9 @@
     Automata
     COMP 376
 
+#######################################
 COMP 376: Formal Languages and Automata
-=======================================
+#######################################
 
 This course introduces formal language theory, including such topics as finite automata and regular expressions, pushdown automata and context-free grammars, Turing machines, undecidability, and the halting problem.
 

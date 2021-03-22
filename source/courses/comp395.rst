@@ -7,8 +7,9 @@
     Career Growth
     COMP 395
 
+###########################################################
 COMP 395: Professional Development & Career Growth in CS/IT
-=============================================================
+###########################################################
 
 This course is designed specifically for students pursuing a degree in computing-related fields, for example, Computer Science, Information Technology, Software Engineering, and Cybersecurity.
 

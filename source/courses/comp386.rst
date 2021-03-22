@@ -6,8 +6,9 @@
     Neuroscience
     COMP 386
 
+####################################
 COMP 386: Computational Neuroscience
-====================================
+####################################
 
 Introduces computational methods to understand neural processing in the brain.
 

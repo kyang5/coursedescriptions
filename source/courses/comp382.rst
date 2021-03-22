@@ -7,8 +7,9 @@
     Compilers
     COMP 382
 
+###################################
 COMP 382: Introduction to Compilers
-===================================
+###################################
 
 This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler.
 

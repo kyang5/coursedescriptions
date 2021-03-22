@@ -5,8 +5,9 @@
     Metagenomics
     COMP 392
 
+######################
 COMP 392: Metagenomics
-======================
+######################
 
 (Used to be Comp 384)
 

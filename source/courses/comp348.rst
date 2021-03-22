@@ -7,8 +7,9 @@
     Security
     COMP 348
 
+##########################
 COMP 348: Network Security
-==========================
+##########################
 
 This course continues some of the topics introduced in COMP 347.  The course covers methods and tactics to keep network attackers at bay and teaches mechanisms to identify and potentially stop potential intruders.  Analyses of specific attack mechanisms may be considered.
 

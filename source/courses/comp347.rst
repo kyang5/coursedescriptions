@@ -7,8 +7,9 @@
     Security
     COMP 347
 
+##########################################
 COMP 347: Intrusion Detection and Security
-===================================================
+##########################################
 
 This course covers techniques and algorithms for detecting unusual usage patterns that typically signal a break-in, including techniques for detecting evasive or stealthy attacks. Also covered are differences in detecting local versus network intruders. Additional topics: computer viruses, computer security management, computer forensics.
 

@@ -5,8 +5,9 @@
     Bioinformatics
     COMP 381
 
+########################
 COMP 381: Bioinformatics
-========================
+########################
 
 Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution.
 

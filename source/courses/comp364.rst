@@ -7,8 +7,9 @@
     Computing
     COMP 364
 
+####################################
 COMP 364: High-Performance Computing
-====================================
+####################################
 
 This course covers parallel architectures and parallel models of computation.  Algorithms for achieving high performance in various computational contexts are discussed.  Models such as shared memory, message passing, and hybrid modes of computing are introduced.
 

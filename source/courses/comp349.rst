@@ -9,8 +9,9 @@
     Security
     COMP 349
 
+########################################
 COMP 349: Wireless Networks and Security
-========================================
+########################################
 
 This course will explore the wireless standards, authentication issues, and common configuration models for commercial versus institutional installations and analyze the security concerns associated with this ad-hoc method of networking.
 

@@ -7,8 +7,9 @@
     Programming
     COMP 353
 
+##############################
 COMP 353: Database Programming
-==============================
+##############################
 
 This course introduces relational and objects databases to support database creation and application development. The use of commercial database products will give a practical orientation.
 

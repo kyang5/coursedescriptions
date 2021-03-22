@@ -8,8 +8,9 @@
     Undergraduate
     COMP 391
 
+########################################
 COMP 391: Internship in Computer Science
-========================================
+########################################
 
 Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer.
 

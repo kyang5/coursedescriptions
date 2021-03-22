@@ -8,8 +8,9 @@
     Graphics
     COMP 380
 
+###########################################
 COMP 380: Introduction to Computer Graphics
-===========================================
+###########################################
 
 This course introduces modern theory and practices in 3-D computer graphics, stressing real-time interactive applications using libraries like OpenGL.
 

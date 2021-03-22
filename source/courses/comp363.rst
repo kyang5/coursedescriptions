@@ -8,8 +8,9 @@
     Algorithms
     COMP 363
 
+####################################################
 COMP 363: Design and Analysis of Computer Algorithms
-====================================================
+####################################################
 
 Theoretical design and analysis of computer algorithms may be supplemented by small amounts of programming.
 

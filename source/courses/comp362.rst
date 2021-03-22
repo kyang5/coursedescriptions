@@ -6,8 +6,9 @@
     Architecture
     CIOMP 362
 
+###############################
 COMP 362: Computer Architecture
-=======================================================
+###############################
 
 This course covers computer design from the level of digital logic and circuit design to high-level
 computer organization.

@@ -8,8 +8,9 @@
     COMP 351
 
 
+############################
 COMP 351: Network Management
-============================
+############################
 
 This course introduces the current state of the art in automated management of computer networks, including protocols such as SNMP and its attendant naming conventions, network management systems, and important issues in administrative network configuration.
 

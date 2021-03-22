@@ -5,8 +5,9 @@
     Artificial Intelligence
     COMP 378
 
+#################################
 COMP 378: Artificial Intelligence
-=================================
+#################################
 
 This course introduces artificial intelligence theory and programming.
 

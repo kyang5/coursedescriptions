@@ -6,8 +6,9 @@
     Research Methods
     COMP 397
 
+##############################################
 COMP 397: Research Methods in Computer Science
-====================================================
+##############################################
 
 Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects.
 

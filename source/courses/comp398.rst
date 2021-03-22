@@ -6,8 +6,9 @@
     Undergraduate
     COMP 398
 
+###########################
 COMP 398: Independent Study
-===========================
+###########################
 
 The student and a sponsoring faculty member will determine an advanced topic for the student to work on.
 

@@ -7,8 +7,9 @@
     Telecommunications
     COMP 346
 
+############################################
 COMP 346: Introduction to Telecommunications
-============================================
+############################################
 
 This course introduces the fundamental concepts of telecommunication networks, including requirements of voice networks, analog versus digital transmission, data link protocols, SONET, ATM, cellular phone systems, and the architecture of the current telephone system.
 
