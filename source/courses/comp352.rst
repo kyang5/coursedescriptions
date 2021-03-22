@@ -29,6 +29,8 @@ Course Information
 About
 =====
 
+This course will introduce students to computer vulnerabilities.
+
 Description
 ===========
 

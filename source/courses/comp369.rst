@@ -29,6 +29,8 @@ Course Information
 About
 =====
 
+This course explores the role of products in the economy and how things are made.
+
 Description
 ===========
 

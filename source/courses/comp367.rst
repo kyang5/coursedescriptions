@@ -29,10 +29,12 @@ Course Information
 About
 =====
 
+This course is an introduction to robotics and robotic software development using humanoid robots.
+
 Description
 ===========
 
-This course is an introduction to robotics and robotic software development using humanoid robots. The course will use modern robot platforms and provide hands-on experience with robotic sensor systems, motion and navigation, robot behavior planning, and implementation.
+The course will use modern robot platforms and provide hands-on experience with robotic sensor systems, motion and navigation, robot behavior planning, and implementation.
 
 Outcome
 =======

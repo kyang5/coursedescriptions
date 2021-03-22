@@ -44,10 +44,10 @@ An opportunity to obtain experience in software development, design, or related 
 
 Selection for Internships in Computer Science:
 
-- Students interested in an internship must first find an employer/supervisor willing to provide them with a job.  Internships are most advantageous to students if they already have considerable experience in upper-level Computer Science courses.  Skills from upper-level courses are also going to help students be hired.
-- The student must make a formal request to the Undergraduate Internship Coordinator, supplying a job Description. The Undergraduate Internship Coordinator is looking for positions where the student will use and extend knowledge from the upper-level courses.
-- The Undergraduate Internship Coordinator reviews the student's performance in general and in relevant Comp classes, and either approves the request or suggests what further steps the student should make before securing an internship.
-- By the start of the internship, the student must deliver the Internship Memorandum of Understanding (see below) signed by both the supervisor, student, and Undergraduate Internship Coordinator, outlining the expectations of all parties.
+* Students interested in an internship must first find an employer/supervisor willing to provide them with a job.  Internships are most advantageous to students if they already have considerable experience in upper-level Computer Science courses.  Skills from upper-level courses are also going to help students be hired.
+* The student must make a formal request to the Undergraduate Internship Coordinator, supplying a job Description. The Undergraduate Internship Coordinator is looking for positions where the student will use and extend knowledge from the upper-level courses.
+* The Undergraduate Internship Coordinator reviews the student's performance in general and in relevant Comp classes, and either approves the request or suggests what further steps the student should make before securing an internship.
+* By the start of the internship, the student must deliver the Internship Memorandum of Understanding (see below) signed by both the supervisor, student, and Undergraduate Internship Coordinator, outlining the expectations of all parties.
 
 Presently the standard expectation is 50 hours of work relevant to a computer science education for each unit of credit. Hence 150 hours are expected for 3 credits. Work may overlap terms, and then credit is offered for the term in which the internship is completed. For more formal details, please see the Computer Science Internship Memorandum of Understanding (MOU), in `PDF format <https://drive.google.com/file/d/0Bz_4VraMwHUoVjFWYU1sVW9NdTA/edit?usp=sharing>`__
 or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5WFU/edit?usp=sharing>`__.

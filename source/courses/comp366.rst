@@ -33,6 +33,8 @@ Course Information
 About
 =====
 
+An exposure to microcomputer design and interfacing.
+
 Description
 ===========
 
@@ -40,6 +42,8 @@ This course includes lecture and laboratory work. Topics that the course will hi
 
 Outcome
 =======
+
+An exposure to microcomputer design and interfacing.
 
 *******
 Syllabi
