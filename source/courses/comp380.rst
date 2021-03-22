@@ -12,20 +12,24 @@
 COMP 380: Introduction to Computer Graphics
 ###########################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+
 About
 =====
 
 This course introduces modern theory and practices in 3-D computer graphics, stressing real-time interactive applications using libraries like OpenGL.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp271`
 
 The requirements for the course are some familiarity with C or C++, basic linear algebra (matrices and vector geometry), and differential calculus.
 

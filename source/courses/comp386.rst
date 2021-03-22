@@ -10,20 +10,27 @@
 COMP 386: Computational Neuroscience
 ####################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * One or more of the following:
+      * :doc:`../courses/comp150`
+      * :doc:`../courses/comp170`
+      * Instructor permission
+
 About
 =====
 
 Introduces computational methods to understand neural processing in the brain.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-COMP 150 or COMP 170 or Instructor Consent
 
 Description
 ===========

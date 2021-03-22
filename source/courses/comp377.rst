@@ -11,15 +11,19 @@
 COMP 377: IT Project Management
 ###############################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp251` or :doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp251` or :doc:`../courses/comp271`
 
 About
 =====

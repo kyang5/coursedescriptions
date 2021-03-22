@@ -10,22 +10,25 @@
 COMP 383: Computational Biology
 ###############################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 4
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp381` or |biol388|
+    * :doc:`../courses/comp271`
+
 About
 =====
 
 This course presents an algorithmic focus on problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignments, gene prediction, trees and sequences, databases, and rapid sequence analysis.
-
-Credit Hours
---------------------
-
-4
-
-Prerequisites
---------------------
-
-:doc:`../courses/comp381` or |biol388|
-
-:doc:`../courses/comp271`
 
 Description
 ===========

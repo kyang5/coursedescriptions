@@ -9,17 +9,26 @@
 COMP 379: Machine Learning
 ##########################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp271`
-- |math131| or |math161|
-- |stat103| or |stat203| or |isscm241| or |psyc304| or instructor permission
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+    * |math131| or |math161|
+    * One or more of the following:
+      * |stat103|
+      * |stat203|
+      * |isscm241|
+      * |psyc304|
+      * Instructor permission
 
 About
 =====

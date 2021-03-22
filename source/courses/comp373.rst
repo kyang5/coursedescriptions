@@ -12,20 +12,24 @@
 COMP 373: Objects, Frameworks, and Patterns
 ###########################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp313`
+
 About
 =====
 
 Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp313`
 
 You need to know Java, C#, or a similar object-oriented language, data structures, and fair sophistication with OOP - some experience with designing interacting, cooperating classes that would come in an intermediate discussion of software patterns. Software engineering is recommended but not required like the background listed above.
 

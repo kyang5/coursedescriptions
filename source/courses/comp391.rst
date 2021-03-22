@@ -12,22 +12,30 @@
 COMP 391: Internship in Computer Science
 ########################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * Variable: 1 - 6
+
+    **Prerequisites**
+
+    * Undergraduate Internship Coordinator approval
+
+    **Note**
+
+    * There is typically a limit of 6 total credits that a student can get from this course.
+
 About
 =====
 
 Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer.
 
 .. Editors Note: REWRITE THIS
-
-Credits
---------------------
-
-Variable, 1-6
-
-Prerequisites
------------------------
-
-Undergraduate Internship Coordinator approval (usually limited to 6 total credits).
 
 Description
 ===========

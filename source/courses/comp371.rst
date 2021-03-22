@@ -11,20 +11,24 @@
 COMP 371: Programming Languages
 ###############################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp313`
+
 About
 =====
 
 There are over two thousand programming languages.  This course studies several languages that represent the much smaller number of underlying principles and paradigms.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp313`
 
 Description
 ===========

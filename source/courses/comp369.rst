@@ -12,15 +12,19 @@
 COMP 369: Physical Design and Fabrication
 #########################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- No formal prerequisites.
+    * 3
+
+    **Prerequisites**
+
+    * None
 
 About
 =====

@@ -12,15 +12,20 @@
 COMP 388: Topics in Computer Science
 ####################################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-Department and instructor consent
+    * 3
+
+    **Prerequisites**
+
+    * Department permission
+    * Instructor permission
 
 About
 =====

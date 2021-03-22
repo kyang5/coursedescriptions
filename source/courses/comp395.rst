@@ -11,20 +11,25 @@
 COMP 395: Professional Development & Career Growth in CS/IT
 ###########################################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 1
+
+    **Prerequisites**
+
+    * Standing Sophmore
+    * Any COMP course
+
 About
 =====
 
 This course is designed specifically for students pursuing a degree in computing-related fields, for example, Computer Science, Information Technology, Software Engineering, and Cybersecurity.
-
-Credit Hours
-------------
-
-1
-
-Prerequisites
--------------
-
-Sophomore standing and any COMP course.
 
 Description
 ===========

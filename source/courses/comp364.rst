@@ -11,20 +11,26 @@
 COMP 364: High-Performance Computing
 ####################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264`
+    * :doc:`../courses/comp271`
+    * :doc:`../courses/comp313`
+
 About
 =====
 
 This course covers parallel architectures and parallel models of computation.  Algorithms for achieving high performance in various computational contexts are discussed.  Models such as shared memory, message passing, and hybrid modes of computing are introduced.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp264`, :doc:`../courses/comp271`, and :doc:`../courses/comp313`
 
 Description
 ===========

@@ -12,20 +12,24 @@
 COMP 370: Software Quality, Metrics, and Testing
 ################################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+
 About
 =====
 
 The course teaches software testing and quality control concepts, principles, and techniques including black box and white box testing, coverage testing, test case development, and regression testing.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp271`
 
 Description
 ===========

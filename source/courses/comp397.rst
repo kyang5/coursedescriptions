@@ -10,15 +10,28 @@
 COMP 397: Research Methods in Computer Science
 ##############################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 1
+
+    **Prerequisites**
+
+    * None
+
+    **Note**
+
+    * This course can be taken up to three times for a maximum of 3 credits.
+
 About
 =====
 
 Supplements CS Seminar by targeting students directly engaging in research and facilitating contributions in ongoing projects.
-
-Credit Hours
------------------------
-
-1 (may be taken up to three times)
 
 Description
 ===========

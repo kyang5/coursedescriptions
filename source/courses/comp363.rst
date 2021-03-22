@@ -12,25 +12,26 @@
 COMP 363: Design and Analysis of Computer Algorithms
 ####################################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp163` or |math201|
+    * :doc:`../courses/comp271`
+    * |math131| or |math161|
+
 About
 =====
 
 Theoretical design and analysis of computer algorithms may be supplemented by small amounts of programming.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-- :doc:`../courses/comp163` or |math201|
-
-- :doc:`../courses/comp271`
-
-- |math131| or |math161|
-
 
 Description
 ===========

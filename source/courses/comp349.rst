@@ -13,20 +13,24 @@
 COMP 349: Wireless Networks and Security
 ########################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+
 About
 =====
 
 This course will explore the wireless standards, authentication issues, and common configuration models for commercial versus institutional installations and analyze the security concerns associated with this ad-hoc method of networking.
-
-Credit Hours
------------------------ 
-
-3
-
-Prerequisites
--------------------------
-
-:doc:`../courses/comp264` or :doc:`../courses/comp271`
 
 Description
 ===========

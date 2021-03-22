@@ -11,20 +11,27 @@
 COMP 348: Network Security
 ##########################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * One or more of the following:
+      * :doc:`../courses/comp264`
+      * :doc:`../courses/comp271`
+      * :doc:`../courses/comp347`
+
 About
 =====
 
 This course continues some of the topics introduced in COMP 347.  The course covers methods and tactics to keep network attackers at bay and teaches mechanisms to identify and potentially stop potential intruders.  Analyses of specific attack mechanisms may be considered.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp264` or :doc:`../courses/comp271` or :doc:`../courses/comp347`
 
 Description
 ===========

@@ -10,27 +10,29 @@
 COMP 362: Computer Architecture
 ###############################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or comparable background, including **but not limited to** the following:
+      * Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexers, registers, main memory, caches, and buses.
+      * Familiarity with the roles of compilers, assemblers, and operating systems
+      * Some familiarity with assembly language
+      * The ability to understand simple C programs and to run programs in a UNIX environment, and familiarity with the representation of numbers in digital computers
+
 About
 =====
 
 This course covers computer design from the level of digital logic and circuit design to high-level
 computer organization.
-
-Credit Hours
------------------------------------
-
-3
-
-Prerequisites
-----------------------------
-
-:doc:`../courses/comp264` or Comp 360 or comparable background, including but not limited to the following:
-
-- Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexers, registers, main memory, caches, and buses
-- familiarity with the roles of compilers, assemblers, and operating systems
-- some familiarity with assembly language
-- the ability to understand simple C programs and to run programs in a UNIX environment, and
-- familiarity with the representation of numbers in digital computers
 
 Description
 ===========

@@ -11,15 +11,20 @@
 COMP 367: Robotics Software Development
 #######################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp271`. In addition, :doc:`../courses/comp313` is recommended.
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`.
+    * :doc:`../courses/comp313` is recommended.
 
 About
 =====

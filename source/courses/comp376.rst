@@ -11,20 +11,27 @@
 COMP 376: Formal Languages and Automata
 #######################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * One or more of the following:
+      * :doc:`../courses/comp163`
+      * |math201|
+      * |math212|
+
 About
 =====
 
 This course introduces formal language theory, including such topics as finite automata and regular expressions, pushdown automata and context-free grammars, Turing machines, undecidability, and the halting problem.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp163` or |math201| or |math212|
 
 Description
 ===========

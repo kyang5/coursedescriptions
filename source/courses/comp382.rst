@@ -11,22 +11,25 @@
 COMP 382: Introduction to Compilers
 ###################################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` and :doc:`../courses/comp313`
+.. LOCUS says COMP 260 and 272
+
 About
 =====
 
 This course covers the basics of writing a compiler to translate from a simple high-level language to machine code. Topics include lexical analysis, top-down and LR parsing, syntax-directed translation, and code generation and optimization. Students will write a small compiler.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-.. LOCUS says COMP 260 and 272
-
-:doc:`../courses/comp264` and :doc:`../courses/comp313`
 
 Description
 ===========

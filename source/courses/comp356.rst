@@ -13,19 +13,24 @@
 COMP 356: Computer Principles of Modeling & Simulation
 ######################################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-|math215| or :doc:`../courses/comp215` or :doc:`../courses/comp170`
+    * 3
 
-|math132| or |math162|
+    **Prerequisites**
 
-|stat203|
+    * |math132| or |math162|
+    * |stat203|
+    * One or more of the following:
+      * |math215|
+      * :doc:`../courses/comp215`
+      * :doc:`../courses/comp170`
 
 About
 =====

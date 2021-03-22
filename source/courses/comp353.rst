@@ -11,20 +11,24 @@
 COMP 353: Database Programming
 ##############################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp251` or :doc:`../courses/comp271`
+
 About
 =====
 
 This course introduces relational and objects databases to support database creation and application development. The use of commercial database products will give a practical orientation.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp251` or :doc:`../courses/comp271`
 
 Description
 ===========

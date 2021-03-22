@@ -9,20 +9,25 @@
 COMP 381: Bioinformatics
 ########################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * BIOL 101 (or equivalent) or NTSC 104
+    * BIOL 102
+
 About
 =====
 
 Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-BIOL 101 (or equivalent) or NTSC 104, BIOL 102
 
 Description
 ===========

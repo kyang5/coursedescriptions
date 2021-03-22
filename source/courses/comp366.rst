@@ -12,20 +12,23 @@
 COMP 366: Microcomputer Design and Interfacing
 ##############################################
 
-Cross-Listing
--------------------------
+******************
+Course Information
+******************
 
-Also Offered PHYS 366
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * PHYS 366
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` or PHYS 266
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or PHYS 266
 
 About
 =====

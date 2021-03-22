@@ -10,20 +10,29 @@
 COMP 398: Independent Study
 ###########################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * Variable: 1 - 3
+
+    **Prerequisites**
+
+    * Undergraduate Program Director approval
+
+    **Note**
+
+    * This course can be taken up to a maximum of 6 times **or** until 6 credits have been accumulated.
+
+
 About
 =====
 
 The student and a sponsoring faculty member will determine an advanced topic for the student to work on.
-
-Credit Hours
------------------------
-
-Variable (presently 1-3)
-
-Prerequisites
------------------------
-
-Undergraduate Program Director approval (usually limited to 6 total credits).
 
 Description
 ===========

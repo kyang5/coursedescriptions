@@ -12,15 +12,19 @@
 COMP 352: Introduction to Computer Vulnerabilities
 ##################################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp264` and :doc:`../courses/comp347`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` and :doc:`../courses/comp347`
 
 About
 =====

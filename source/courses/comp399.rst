@@ -9,10 +9,24 @@
 COMP 399: Computer Science Seminar
 ##################################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-1 (may be taken up to three times)
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 1
+
+    **Prerequisites**
+
+    * Department permission
+    * Instrcutor permission
+
+    **Note**
+
+    * This course can be taken up to 3 times.
 
 About
 =====

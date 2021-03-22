@@ -9,17 +9,19 @@
 COMP 392: Metagenomics
 ######################
 
-(Used to be Comp 384)
+******************
+Course Information
+******************
 
-Credit Hours
------------------------
+.. sidebar:: General Information
 
-3
+    **Credit Hours**
 
-Prerequisites
-------------------------------
+    * 3
 
-BIOL 282 and Instructor Consent
+    **Prerequisites**
+
+    * BIOL 282 and Instructor Permission
 
 About
 =====

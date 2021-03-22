@@ -12,20 +12,24 @@
 COMP 351: Network Management
 ############################
 
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+
 About
 =====
 
 This course introduces the current state of the art in automated management of computer networks, including protocols such as SNMP and its attendant naming conventions, network management systems, and important issues in administrative network configuration.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp264` or :doc:`../courses/comp271`
 
 Description
 ===========

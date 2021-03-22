@@ -11,15 +11,19 @@
 COMP 347: Intrusion Detection and Security
 ##########################################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
- 3
+.. sidebar:: General Information
 
-Prerequisites
----------------------
+    **Credit Hours**
 
-:doc:`../courses/comp150` or :doc:`../courses/comp170`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp150` or :doc:`../courses/comp170`
 
 About
 =====

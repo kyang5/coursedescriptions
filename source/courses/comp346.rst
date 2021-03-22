@@ -11,15 +11,19 @@
 COMP 346: Introduction to Telecommunications
 ############################################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` or :doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
 
 About
 =====

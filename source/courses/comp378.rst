@@ -8,21 +8,24 @@
 #################################
 COMP 378: Artificial Intelligence
 #################################
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
 
 About
 =====
 
 This course introduces artificial intelligence theory and programming.
-
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp271`
 
 Description
 ===========
