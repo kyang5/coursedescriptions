@@ -12,6 +12,9 @@
 COMP 373: Objects, Frameworks, and Patterns
 ###########################################
 
+About
+=====
+
 Object-orientation continues to be a dominant approach to software development.  This advanced programming-intensive course studies object-oriented analysis, design, and implementation from a design patterns perspective.
 
 Credit Hours
@@ -27,7 +30,7 @@ Prerequisites
 You need to know Java, C#, or a similar object-oriented language, data structures, and fair sophistication with OOP - some experience with designing interacting, cooperating classes that would come in an intermediate discussion of software patterns. Software engineering is recommended but not required like the background listed above.
 
 Description
---------------------
+===========
 
 Object-oriented programming has become the dominant software development paradigm of the 1990s. This course assumes familiarity with the main constituents of the object-oriented methodology:
 
@@ -55,11 +58,12 @@ This course is heavily project-oriented. Students study each major topic in the 
 Grading will be based upon the following components: programming projects, quizzes, in-class exams, and the final exam.
 
 Outcome
-------------
+=======
 
 Proficiency in the use of object-oriented languages, frameworks, and patterns; advanced understanding of key language mechanisms such as delegation, inheritance, polymorphism, and reflection; familiarity with object-oriented modeling and development tools and test-driven development.
 
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

@@ -21,20 +21,23 @@ Prerequisites
 
 BIOL 282 and Instructor Consent
 
+About
+=====
 
 Description
---------------------
+===========
 
 This course is cross-listed with Biology.
 
 Exploration of next-generation sequencing technologies for assessing microbial diversity in ecological niches.
 
 Outcome
--------------
+=======
 
 Students will gain hands-on experience with metagenomic methodologies while working in an interdisciplinary, collaborative setting.
 
+*******
 Syllabi
----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

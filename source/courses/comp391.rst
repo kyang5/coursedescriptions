@@ -12,6 +12,9 @@
 COMP 391: Internship in Computer Science
 ########################################
 
+About
+=====
+
 Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer.
 
 .. Editors Note: REWRITE THIS
@@ -27,7 +30,7 @@ Prerequisites
 Undergraduate Internship Coordinator approval (usually limited to 6 total credits).
 
 Description
---------------------
+===========
 
 An opportunity to obtain experience in software development, design, or related activities in computer science in a professional setting.
 
@@ -53,11 +56,12 @@ or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5
 Internship opportunities that the Computer Science Department has received are posted here and in the department on the fourth floor of Lewis Towers. Another resource is the `university career and internship center <http://www.luc.edu/career/>`__. Students may also find a position through their own contacts.
 
 Outcome
------------
+=======
 
 Application of classroom skills to real-world situations.
 
+*******
 Syllabi
--------------
+*******
 
 See :doc:`../syllabi/syllabi`.

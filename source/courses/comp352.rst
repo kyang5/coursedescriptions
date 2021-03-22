@@ -22,17 +22,22 @@ Prerequisites
 
 - :doc:`../courses/comp264` and :doc:`../courses/comp347`
 
+About
+=====
+
 Description
-----------------------------
+===========
 
 This course will introduce students to computer vulnerabilities at the machine-code level, including viruses, browser vulnerabilities, buffer and heap overflows, return-to-libc attacks, and others.
 
-Outcomes
-----------------------------
+Outcome
+=======
+
 Describe some recent computer software vulnerabilities at the machine-code level and how they can be leveraged into an attack.
 Run a virus in a virtual-machine sandbox with appropriate monitoring.
 
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

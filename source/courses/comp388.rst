@@ -22,8 +22,11 @@ Prerequisites
 
 Department and instructor consent
 
+About
+=====
+
 Description
---------------------
+===========
 
 This course is used to introduce emerging topics in computer science that do not yet have a regular course number. The content of the course varies. Recent topics have included
 
@@ -37,11 +40,12 @@ This course is used to introduce emerging topics in computer science that do not
 -  Data Visualization and Exploration
 
 Outcome
--------------
+=======
 
 Understand an emerging area of Computer Science.
 
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.
