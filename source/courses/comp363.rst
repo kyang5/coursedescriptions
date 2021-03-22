@@ -1,3 +1,6 @@
+.. header:: COMP 363: Design and Analysis of Computer Algorithms
+.. footer:: COMP 363: Design and Analysis of Computer Algorithms
+
 .. index::
     Design and Analysis of Computer Algorithms
     Design

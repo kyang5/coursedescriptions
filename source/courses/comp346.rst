@@ -1,3 +1,6 @@
+.. header:: COMP 346: Introduction to Telecommunications
+.. footer:: COMP 346: Introduction to Telecommunications
+
 .. index::
     Introduction to Telecommunications
     Introduction

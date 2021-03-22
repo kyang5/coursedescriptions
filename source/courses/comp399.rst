@@ -1,3 +1,6 @@
+.. header:: COMP 399: Computer Science Seminar
+.. footer:: COMP 399: Computer Science Seminar
+
 .. index::
     Computer Science Seminar
     COMP 399

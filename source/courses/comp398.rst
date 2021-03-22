@@ -1,3 +1,6 @@
+.. header:: COMP 398: Independent Study
+.. footer:: COMP 398: Independent Study
+
 .. index::
     Independent Study
     Undergraduate

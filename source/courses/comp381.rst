@@ -1,3 +1,6 @@
+.. header:: COMP 381: Bioinformatics
+.. footer:: COMP 381: Bioinformatics
+
 .. index::
     Bioinformatics
     COMP 381

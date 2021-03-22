@@ -1,3 +1,6 @@
+.. header:: COMP 348: Network Security
+.. footer:: COMP 348: Network Security
+
 .. index::
     Network Security
     Network

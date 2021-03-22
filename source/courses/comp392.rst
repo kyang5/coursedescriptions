@@ -1,3 +1,6 @@
+.. header:: COMP 392: Metagenomics
+.. footer:: COMP 392: Metagenomics
+
 .. index::
     Metagenomics
     COMP 392

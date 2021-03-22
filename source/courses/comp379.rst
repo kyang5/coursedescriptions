@@ -1,3 +1,6 @@
+.. header:: COMP 379: Machine Learning
+.. footer:: COMP 379: Machine Learning
+
 .. index::
     Machine Learning
     COMP 379

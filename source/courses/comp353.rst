@@ -1,3 +1,6 @@
+.. header:: COMP 353: Database Programming
+.. footer:: COMP 353: Database Programming
+
 .. index::
     Database Programming
     Database

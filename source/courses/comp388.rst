@@ -1,3 +1,7 @@
+.. header:: COMP 388: Topics in Computer Science
+.. footer:: COMP 388: Topics in Computer Science
+
+
 .. index::
     Topics in Computer Science
     Topics

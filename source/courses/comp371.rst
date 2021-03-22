@@ -1,4 +1,7 @@
-﻿.. index::
+﻿.. header:: COMP 371: Programming Languages
+.. footer:: COMP 371: Programming Languages
+
+.. index::
     Programming Languages
     Programming
     Languages

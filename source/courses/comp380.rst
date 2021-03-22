@@ -1,3 +1,6 @@
+.. header:: COMP 380: Introduction to Computer Graphics
+.. footer:: COMP 380: Introduction to Computer Graphics
+
 .. index::
     Introduction to Computer Graphics
     Introduction

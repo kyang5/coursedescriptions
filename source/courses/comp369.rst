@@ -1,3 +1,6 @@
+.. header:: COMP 369: Physical Design and Fabrication
+.. footer:: COMP 369: Physical Design and Fabrication
+
 .. index::
     Physical Design and Fabrication
     Physical

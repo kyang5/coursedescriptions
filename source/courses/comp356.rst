@@ -1,3 +1,6 @@
+.. header:: COMP 356: Computer Principles of Modeling & Simulation
+.. footer:: COMP 356: Computer Principles of Modeling & Simulation
+
 .. index::
     Computer Principles of Modeling & Simulation
     Computer Principles

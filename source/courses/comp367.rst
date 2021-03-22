@@ -1,3 +1,6 @@
+.. header:: COMP 367: Robotics Software Development
+.. footer:: COMP 367: Robotics Software Development
+
 .. index::
     Robotics Software Development
     Robotics

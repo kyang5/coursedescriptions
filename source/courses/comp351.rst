@@ -1,3 +1,6 @@
+.. header:: COMP 351: Network Management
+.. footer:: COMP 351: Network Management
+
 .. index::
     Network Management
     Network

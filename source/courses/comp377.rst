@@ -1,3 +1,6 @@
+.. header:: COMP 377: IT Project Management
+.. footer:: COMP 377: IT Project Management
+
 .. index::
     IT Project Management
     IT

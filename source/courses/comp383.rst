@@ -1,3 +1,6 @@
+.. header:: COMP 383: Computational Biology
+.. footer:: COMP 383: Computational Biology
+
 .. index::
     Computational Biology
     Biology

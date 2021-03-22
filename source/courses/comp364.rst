@@ -1,3 +1,6 @@
+.. header:: COMP 364: High-Performance Computing
+.. footer:: COMP 364: High-Performance Computing
+
 .. index::
     High-Performance Computing
     High-Performance

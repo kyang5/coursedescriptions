@@ -1,3 +1,6 @@
+.. header:: COMP 352: Introduction to Computer Vulnerabilities
+.. footer:: COMP 352: Introduction to Computer Vulnerabilities
+
 .. index::
     Introduction to Computer Vulnerabilities
     Introduction

@@ -1,3 +1,6 @@
+.. header:: COMP 376: Formal Languages and Automata
+.. footer:: COMP 376: Formal Languages and Automata
+
 .. index::
     Formal Languages and Automata
     Languages

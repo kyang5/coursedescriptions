@@ -1,3 +1,6 @@
+.. header:: COMP 366: Microcomputer Design and Interfacing
+.. footer:: COMP 366: Microcomputer Design and Interfacing
+
 .. index::
     Microcomputer Design and Interfacing
     Microcomputer

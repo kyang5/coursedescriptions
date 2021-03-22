@@ -1,3 +1,6 @@
+.. header:: COMP 391: Internship in Computer Science
+.. footer:: COMP 391: Internship in Computer Science
+
 .. index::
     Internship in Computer Science
     Internship

@@ -1,3 +1,6 @@
+.. header:: COMP 345: Internet of Things Device and Application Security
+.. footer:: COMP 345: Internet of Things Device and Application Security
+
 .. index::
     Internet of Things Device and Application Security
     Internet of Things Device

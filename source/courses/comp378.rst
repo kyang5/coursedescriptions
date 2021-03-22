@@ -1,3 +1,6 @@
+.. header:: COMP 378: Artificial Intelligence
+.. footer:: COMP 378: Artificial Intelligence
+
 .. index::
     Artificial Intelligence
     COMP 378

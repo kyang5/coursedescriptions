@@ -1,3 +1,6 @@
+.. footer:: COMP 386: Computational Neuroscience
+.. header:: COMP 386: Computational Neuroscience
+
 .. index::
     Computational Neuroscience
     Neuroscience

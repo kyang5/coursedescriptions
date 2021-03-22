@@ -1,3 +1,6 @@
+.. header:: COMP 362: Computer Architecture
+.. footer:: COMP 362: Computer Architecture
+
 .. index::
     Computer Architecture
     Architecture

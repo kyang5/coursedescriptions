@@ -1,3 +1,6 @@
+.. header:: COMP 370: Software Quality, Metrics, and Testing
+.. footer:: COMP 370: Software Quality, Metrics, and Testing
+
 .. index::
     Software Quality, Metrics, and Testing
     Software Quality

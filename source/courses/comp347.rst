@@ -1,4 +1,7 @@
-﻿.. index::
+﻿.. header:: COMP 347: Intrusion Detection and Security
+.. footer:: COMP 347: Intrusion Detection and Security
+
+.. index::
     Intrusion Detection and Security
     Intrusion Detection
     Security

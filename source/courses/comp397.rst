@@ -1,3 +1,6 @@
+.. header:: COMP 397: Research Methods in Computer Science
+.. footer:: COMP 397: Research Methods in Computer Science
+
 .. index::
     Research Methods in Computer Science
     Research Methods

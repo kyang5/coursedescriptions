@@ -1,3 +1,6 @@
+.. header:: COMP 382: Introduction to Compilers
+.. footer:: COMP 382: Introduction to Compilers
+
 .. index::
     Introduction to Compilers
     Introduction
