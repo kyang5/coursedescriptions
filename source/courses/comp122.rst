@@ -42,10 +42,10 @@ Outcome
 
 Students who complete this course will have:
 
-- An understanding of the physics of musical sound and digital audio,
-- Experience with hands-on applications of algorithmic music composition and musicology,
-- The ability to design and render digital instruments,
-- And a student-chosen final digital composition or musicology project.
+* An understanding of the physics of musical sound and digital audio,
+* Experience with hands-on applications of algorithmic music composition and musicology,
+* The ability to design and render digital instruments,
+* And a student-chosen final digital composition or musicology project.
 
 *******
 Syllabi

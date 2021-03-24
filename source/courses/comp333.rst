@@ -30,7 +30,7 @@ Course Information
 About
 =====
 
-This course studies the architectures, frameworks, and tools required to develop and compose web services and clients
+This course studies the architectures, frameworks, and tools required to develop and compose web services and clients.
 
 Description
 ===========

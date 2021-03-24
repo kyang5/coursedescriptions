@@ -23,9 +23,10 @@ Course Information
     **Prerequisites**
 
     * One of more of the following:
-      * :doc:`../courses/comp251`
-      * :doc:`../courses/comp271` **and either** |stat103| *or* |stat203| *or* |isscm241| *or* |psyc304|
-      * Instructor permission.
+
+        * :doc:`../courses/comp251`
+        * :doc:`../courses/comp271` **and either** |stat103| *or* |stat203| *or* |isscm241| *or* |psyc304|
+        * Instructor permission.
 
 About
 =====

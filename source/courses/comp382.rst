@@ -23,8 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` and :doc:`../courses/comp313`
-.. LOCUS says COMP 260 and 272
+    * :doc:`../courses/comp264` **and** :doc:`../courses/comp313`
 
 About
 =====

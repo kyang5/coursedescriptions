@@ -24,12 +24,17 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-      * :doc:`../courses/comp150`
-      * :doc:`../courses/comp170`
-      * :doc:`../courses/comp215`
-      * |math215|
 
-:doc:`../courses/comp264` or :doc:`../courses/comp317` or :doc:`../courses/comp343`
+        * :doc:`../courses/comp150`
+        * :doc:`../courses/comp170`
+        * :doc:`../courses/comp215`
+        * |math215|
+
+    * One or more of the following:
+
+        * :doc:`../courses/comp264`
+        * :doc:`../courses/comp317`
+        * :doc:`../courses/comp343`
 
 About
 =====

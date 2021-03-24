@@ -24,7 +24,7 @@ Course Information
     **Prerequisites**
 
     * :doc:`../courses/comp271`.
-    * :doc:`../courses/comp313` is recommended.
+    * :doc:`../courses/comp313`
 
 About
 =====

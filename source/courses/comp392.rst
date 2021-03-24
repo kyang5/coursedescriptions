@@ -21,7 +21,7 @@ Course Information
 
     **Prerequisites**
 
-    * BIOL 282 and Instructor Permission
+    * BIOL 282 **and** Instructor Permission
 
 About
 =====

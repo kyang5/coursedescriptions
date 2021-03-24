@@ -28,11 +28,12 @@ Course Information
     * :doc:`../courses/comp231` or :doc:`../courses/comp271`
     * **And** |math131| or |math161|
     * **And** one or more of the following:
-      * |stat103|
-      * |stat203|
-      * |isscm241|
-      * |psyc304|
-      * Permission from the Instructor)
+
+        * |stat103|
+        * |stat203|
+        * |isscm241|
+        * |psyc304|
+        * Permission from the Instructor
 
 About
 =====

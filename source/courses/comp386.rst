@@ -23,9 +23,10 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-      * :doc:`../courses/comp150`
-      * :doc:`../courses/comp170`
-      * Instructor permission
+
+        * :doc:`../courses/comp150`
+        * :doc:`../courses/comp170`
+        * Instructor permission
 
 About
 =====

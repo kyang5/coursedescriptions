@@ -30,9 +30,9 @@ Course Information
 
     * One of the following:
 
-      * :doc:`../courses/comp163`
-      * |math201|
-      * Declared Computer Science, Computer Crime & Forensics or Information Technology Major or Minor
+        * :doc:`../courses/comp163`
+        * |math201|
+        * Declared Computer Science, Computer Crime & Forensics or Information Technology Major or Minor
 
 About
 =====

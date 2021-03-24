@@ -25,16 +25,21 @@ Course Information
     **Credit Hours**
 
     * For COMP 314:
-      * 1
+        * 1
+
     * For COMP 315
-      * 2
+
+        * 2
 
     **Prerequisites**
 
     * For COMP 314:
-      * :doc:`../courses/comp271`
+
+        * :doc:`../courses/comp271`
+
     * For COMP 315:
-      * COMP 314: Problem Solving Strategies
+
+        * :doc:`../course/comp314-315`
 
 About
 =====

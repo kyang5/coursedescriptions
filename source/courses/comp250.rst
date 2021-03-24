@@ -28,10 +28,10 @@ Course Information
 
     * One of the following:
 
-      * :doc:`../courses/comp125`
-      * :doc:`../courses/comp150`
-      * :doc:`../courses/comp170`
-      * :doc:`../courses/comp215`
+        * :doc:`../courses/comp125`
+        * :doc:`../courses/comp150`
+        * :doc:`../courses/comp170`
+        * :doc:`../courses/comp215`
 
 
 About
