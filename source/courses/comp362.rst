@@ -23,7 +23,6 @@ Course Information
     **Prerequisites**
 
     * :doc:`../courses/comp264` or comparable background, including **but not limited to** the following:
-
         * Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexers, registers, main memory, caches, and buses.
         * Familiarity with the roles of compilers, assemblers, and operating systems
         * Some familiarity with assembly language

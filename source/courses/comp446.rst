@@ -1,27 +1,48 @@
+.. header:: COMP 446: Telecommunications
+.. footer:: COMP 446: Telecommunications
+
+
 .. index::
     Telecommunications
     Graduate
     COMP 446
 
+############################
 COMP 446: Telecommunications
-=======================================================
+############################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` and :doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264`
+    * :doc:`../courses/comp271`
+
+About
+=====
+
+This course introduces the fundamental concepts of telecommunication networks.
 
 Description
-----------------------------
+===========
 
-This course introduces the fundamental concepts of telecommunication networks. Underlying engineering principles of telephone networks, computer networks and integrated digital networks are discussed. Topics in the course include: telephone and data networks overview; OSI layers; data link protocol; flow control, congestion control, routing; local area networks (Ethernet, Token Ring and FDDI); transport.
+Topics in the course include: telephone and data networks overview; OSI layers; data link protocol; flow control, congestion control, routing; local area networks (Ethernet, Token Ring and FDDI); transport.
 
+Outcome
+=======
+
+Underlying engineering principles of telephone networks, computer networks and integrated digital networks are discussed.
+
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

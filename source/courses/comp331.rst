@@ -31,7 +31,6 @@ Course Information
 
     * |math201| or :doc:`../courses/comp363`
     * One or more of the following:
-
         * :doc:`../courses/comp125`
         * :doc:`../courses/comp150`
         * :doc:`../courses/comp170`

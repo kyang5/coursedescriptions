@@ -1,3 +1,6 @@
+.. header:: COMP 437: Concurrent Programming
+.. footer:: COMP 437: Concurrent Programming
+
 .. index::
     Concurrent Programming
     Concurrent
@@ -5,25 +8,41 @@
     Graduate
     COMP 437
 
+################################
 COMP 437: Concurrent Programming
-=======================================================
+################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp313`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp313`
+
+About
+=====
+
+This course studies the architecture, design, and implementation of concurrent software systems.
 
 Description
-----------------------------
+===========
 
-This course studies the architecture, design, and implementation of concurrent software systems. Process algebras, formal specification, and testing are used as tools in the engineering of concurrent systems; event-based programming frameworks and thread libraries are employed in the implementation of such systems. Coursework includes several substantial programming projects (in a language such as Java) involving applications of concurrency and event-driven programming such as graphical user interfaces and distributed services using Remote Method Invocation (RMI).
+Process algebras, formal specification, and testing are used as tools in the engineering of concurrent systems; event-based programming frameworks and thread libraries are employed in the implementation of such systems. Coursework includes several substantial programming projects (in a language such as Java) involving applications of concurrency and event-driven programming such as graphical user interfaces and distributed services using Remote Method Invocation (RMI).
 
+Outcome
+=======
+
+Students will have an uderstanding of process algebras, formal specification,, testing, event-based programming frameworks and thread libraries.
+
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

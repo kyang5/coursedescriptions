@@ -30,7 +30,6 @@ Course Information
     * |math212|
     * |math264|
     * One or more of the following:
-
         * |math215|
         * :doc:`../courses/comp215`
         * :doc:`../courses/comp170`

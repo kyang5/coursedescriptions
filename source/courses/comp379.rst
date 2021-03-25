@@ -24,7 +24,6 @@ Course Information
     * :doc:`../courses/comp271`
     * |math131| or |math161|
     * One or more of the following:
-
         * |stat103|
         * |stat203|
         * |isscm241|

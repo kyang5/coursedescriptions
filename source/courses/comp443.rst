@@ -1,28 +1,47 @@
+.. header:: COMP 443: Computer Networks
+.. footer:: COMP 443: Computer Networks
+
 .. index::
     Computer Networks
     Networks
     Graduate
     COMP 443
 
+###########################
 COMP 443: Computer Networks
-=======================================================
+###########################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` or :doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+
+About
+=====
+
+This course surveys the construction of modern packet-switched networks, focusing on TCP/IP.
 
 Description
-----------------------------
+===========
 
-This course surveys the construction of modern packet-switched networks, focusing on TCP/IP. At the LAN layer, protocols such as Ethernet and Wi-Fi are described. At the IP layer, a variety of routing-update protocols are studied. At the Transport layer, the course addresses the creation of end-to-end reliability and the management of network-wide congestion. The course also introduces basic issues in network security and real-time communications. Some programming, generally in a language like Java or C#, may be required.
+At the LAN layer, protocols such as Ethernet and Wi-Fi are described. At the IP layer, a variety of routing-update protocols are studied. At the Transport layer, the course addresses the creation of end-to-end reliability and the management of network-wide congestion. The course also introduces basic issues in network security and real-time communications. Some programming, generally in a language like Java or C#, may be required.
 
+Outcome
+=======
+
+The course introduces basic issues in network security and real-time communications.
+
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

@@ -26,9 +26,7 @@ Course Information
 
     * :doc:`../courses/comp413`
     * :doc:`../courses/comp442`
-    * instructor permission if the prerequisite is missing
-
-.. include:: ../graduate/fcs.txt
+    * Instructor permission if the prerequisite is missing
 
 About
 =====
