@@ -38,6 +38,10 @@ Object-oriented programming has become the dominant software development paradig
 
 * OOP = abstraction + inheritance + polymorphism
 
+.. warning::
+
+    You need to know Java, C#, or a similar object-oriented language, data structures, and fair sophistication with OOP - some experience with designing interacting, cooperating classes that would come in an intermediate discussion of software patterns. Software engineering is recommended but not required like the background listed above.
+
 Building on this foundation, the course studies three major topics:
 
 Design Patterns
@@ -54,10 +58,6 @@ Components
 ----------
 
 Finally, the course explores programming with reusable components. Specifically, the standard features of component architectures are discussed: properties, events, methods, and persistence, and introspection.
-
-.. warning::
-
-    You need to know Java, C#, or a similar object-oriented language, data structures, and fair sophistication with OOP - some experience with designing interacting, cooperating classes that would come in an intermediate discussion of software patterns. Software engineering is recommended but not required like the background listed above.
 
 Outcome
 =======
