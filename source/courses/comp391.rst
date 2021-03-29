@@ -1,3 +1,6 @@
+.. header:: COMP 391: Internship in Computer Science
+.. footer:: COMP 391: Internship in Computer Science
+
 .. index::
     Internship in Computer Science
     Internship
@@ -5,34 +8,46 @@
     Undergraduate
     COMP 391
 
+########################################
 COMP 391: Internship in Computer Science
-========================================
+########################################
+
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * Variable: 1 - 6
+
+    **Prerequisites**
+
+    * Undergraduate Internship Coordinator approval
+
+    **Note**
+
+    * There is typically a limit of 6 total credits that a student can get from this course.
+
+About
+=====
 
 Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer.
 
 .. Editors Note: REWRITE THIS
 
-Credits
---------------------
-
-Variable, 1-6
-
-Prerequisites
------------------------
-
-Undergraduate Internship Coordinator approval (usually limited to 6 total credits).
-
 Description
---------------------
+===========
 
 An opportunity to obtain experience in software development, design, or related activities in computer science in a professional setting.
 
 Selection for Internships in Computer Science:
 
-- Students interested in an internship must first find an employer/supervisor willing to provide them with a job.  Internships are most advantageous to students if they already have considerable experience in upper-level Computer Science courses.  Skills from upper-level courses are also going to help students be hired.
-- The student must make a formal request to the Undergraduate Internship Coordinator, supplying a job Description. The Undergraduate Internship Coordinator is looking for positions where the student will use and extend knowledge from the upper-level courses.
-- The Undergraduate Internship Coordinator reviews the student's performance in general and in relevant Comp classes, and either approves the request or suggests what further steps the student should make before securing an internship.
-- By the start of the internship, the student must deliver the Internship Memorandum of Understanding (see below) signed by both the supervisor, student, and Undergraduate Internship Coordinator, outlining the expectations of all parties.
+* Students interested in an internship must first find an employer/supervisor willing to provide them with a job.  Internships are most advantageous to students if they already have considerable experience in upper-level Computer Science courses.  Skills from upper-level courses are also going to help students be hired.
+* The student must make a formal request to the Undergraduate Internship Coordinator, supplying a job Description. The Undergraduate Internship Coordinator is looking for positions where the student will use and extend knowledge from the upper-level courses.
+* The Undergraduate Internship Coordinator reviews the student's performance in general and in relevant Comp classes, and either approves the request or suggests what further steps the student should make before securing an internship.
+* By the start of the internship, the student must deliver the Internship Memorandum of Understanding (see below) signed by both the supervisor, student, and Undergraduate Internship Coordinator, outlining the expectations of all parties.
 
 Presently the standard expectation is 50 hours of work relevant to a computer science education for each unit of credit. Hence 150 hours are expected for 3 credits. Work may overlap terms, and then credit is offered for the term in which the internship is completed. For more formal details, please see the Computer Science Internship Memorandum of Understanding (MOU), in `PDF format <https://drive.google.com/file/d/0Bz_4VraMwHUoVjFWYU1sVW9NdTA/edit?usp=sharing>`__
 or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5WFU/edit?usp=sharing>`__.
@@ -49,11 +64,12 @@ or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5
 Internship opportunities that the Computer Science Department has received are posted here and in the department on the fourth floor of Lewis Towers. Another resource is the `university career and internship center <http://www.luc.edu/career/>`__. Students may also find a position through their own contacts.
 
 Outcome
------------
+=======
 
 Application of classroom skills to real-world situations.
 
+*******
 Syllabi
--------------
+*******
 
 See :doc:`../syllabi/syllabi`.

@@ -13,8 +13,6 @@
 COMP 102: Web Design and Multimedia Publishing
 ##############################################
 
-.. contents:: Table of Contents
-
 ******************
 Course Information
 ******************

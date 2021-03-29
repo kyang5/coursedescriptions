@@ -19,7 +19,7 @@ Description
 
 *Insert in a description about the directory and its contents.*
 
-Sub Fields
+Sub-Fields
 ==========
 
 *This is intentionally left vague as it is up to you to determine what content is applicable to the directory in question.*

@@ -1,3 +1,5 @@
+.. See https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html for information about RST formatting.
+
 .. header:: COMP ###: Course Full Title
 .. footer:: COMP ###: Course Full Title
 
@@ -21,7 +23,6 @@ Course Information
     **Prerequisites**
 
     * Insert list of prerequisites here. These prerequisites need to be linked to their own course pages.
-
 
 About
 =====

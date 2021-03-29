@@ -1,27 +1,46 @@
+.. header:: COMP 499: Internship
+.. footer:: COMP 499: Internship
+
 .. index::
     Internship
     Graduate
     COMP 499
 
+####################
 COMP 499: Internship
-=======================================================
+####################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-Variable (1-6)
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-Agreement of the Graduate Program Director (GPD)
+    * Variable: 1 - 6
+
+    **Prerequisites**
+
+    * Graduate Program Director approval
+
+About
+=====
+
+An opportunity to obtain experience in software development, design, networks, or related activities in computer science in a professional setting.
 
 Description
-----------------------------
+===========
 
-An opportunity to obtain experience in software development, design, networks, or related activities in computer science in a professional setting. The student must obtain the approval of the Graduate Program Director and the student's work supervisor. A final report from the student and the supervisor are required. More information can be found in the `Graduate Program Handbook <https://graduatehandbook.cs.luc.edu//regulations.html#internships>`_.
+The student must obtain the approval of the Graduate Program Director and the student's work supervisor. A final report from the student and the supervisor are required. More information can be found in the `Graduate Program Handbook <https://graduatehandbook.cs.luc.edu//regulations.html#internships>`_.
 
+Outcome
+=======
+
+The student will have real world experience of working within the industry of their choosing.
+
+*******
 Syllabi
---------------------------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

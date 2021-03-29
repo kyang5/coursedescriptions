@@ -1,3 +1,6 @@
+.. header:: COMP 366: Microcomputer Design and Interfacing
+.. footer:: COMP 366: Microcomputer Design and Interfacing
+
 .. index::
     Microcomputer Design and Interfacing
     Microcomputer
@@ -5,30 +8,45 @@
     Interfacing
     COMP 366
 
+##############################################
 COMP 366: Microcomputer Design and Interfacing
-==============================================
+##############################################
 
-Cross-Listing
--------------------------
+******************
+Course Information
+******************
 
-Also Offered PHYS 366
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * PHYS 366
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` or PHYS 266
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or PHYS 266
+
+About
+=====
+
+An exposure to microcomputer design and interfacing.
 
 Description
---------------------
+===========
 
 This course includes lecture and laboratory work. Topics that the course will hit on are; Microprocessor logic, instruction, and clocked sequential circuits; memory devices; data acquisition, manipulation and transfer circuitry; machine and assembly languages; microprocessor support devices.
 
+Outcome
+=======
+
+An exposure to microcomputer design and interfacing.
+
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

@@ -1,3 +1,6 @@
+.. header:: COMP 428: Algebraic Coding Theory
+.. footer:: COMP 428: Algebraic Coding Theory
+
 .. index::
     Algebraic Coding Theory
     Theory
@@ -5,33 +8,42 @@
     COMP 428
 
 
+#################################
 COMP 428: Algebraic Coding Theory
-=====================================
+#################################
 
-Aliases
------------
+******************
+Course Information
+******************
 
-|math428|
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * |math428|
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-|math212|
+    * 3
 
-:doc:`../courses/comp163` or |math313|
+    **Prerequisites**
+
+    * |math212|
+    * :doc:`../courses/comp163` or |math313|
+
+
+About
+=====
+
+An introduction to the application and theory of algebraic coding theory.
 
 Description
---------------------
+===========
 
 In this course, major types of error-correcting codes, encoding and decoding, and their main properties will be studied. The codes examined will include the Hamming, Golay, BCH, cyclic, quadratic residue, Reed-Solomon, and Reed-Muller codes.
 
 Outcome
--------------
+=======
 
 Students will learn both the theory and application of error-correcting codes.
 

@@ -1,3 +1,6 @@
+.. header:: COMP ###: COMP 474: Software Engineering
+.. footer:: COMP ###: COMP 474: Software Engineering
+
 .. index::
     Software Engineering
     Software
@@ -5,26 +8,41 @@
     Graduate
     COMP 474
 
+##############################
 COMP 474: Software Engineering
-=======================================================
+##############################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp271`
+    * 3
 
+    **Prerequisites**
 
-Description
-----------------------------
+    * :doc:`../courses/comp271`
+
+About
+=====
 
 Using an object-oriented language such as C++ or Java, the student (working in a small team) will learn to plan, design, implement and test a large software project.
 
+Description
+===========
+
+Using an object-oriented language such as C++ or Java, the student (working in a small team) will learn to plan, design, implement and test a large software project.
+
+Outcome
+=======
+
+Students will have a project that they created using Software Enginering practices.
+
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

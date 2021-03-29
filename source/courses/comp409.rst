@@ -1,3 +1,6 @@
+.. header:: COMP 409: Advanced Numerical Analysis
+.. footer:: COMP 409: Advanced Numerical Analysis
+
 .. index::
     Advanced Numerical Analysis
     Advanced
@@ -5,34 +8,47 @@
     Graduate
     COMP 409
 
+#####################################
 COMP 409: Advanced Numerical Analysis
-=======================================
+#####################################
 
-Aliases
-------------------------
+******************
+Course Information
+******************
 
-|math409|
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * |math409|
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-|math212|
+    * 3
 
-|math264|
+    **Prerequisites**
 
-:doc:`../courses/comp271`
+    * |math212|
+    * |math264|
+    * :doc:`../courses/comp271`
 
-Course Description
---------------------
+About
+=====
+
+An introduction to advanced numerical analysis.
+
+Description
+===========
 
 Introduction to error analysis, numerical solution of equations, interpolation and approximation, numerical differentiation and integration, matrices, and solution of systems of equations, numerical solution of ordinary and partial differential equations.
 
+Outcome
+=======
+
+Students will have an understanding of advanced numerical analysis and its applications.
+
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

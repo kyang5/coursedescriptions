@@ -1,3 +1,6 @@
+.. header:: COMP 352: Introduction to Computer Vulnerabilities
+.. footer:: COMP 352: Introduction to Computer Vulnerabilities
+
 .. index::
     Introduction to Computer Vulnerabilities
     Introduction
@@ -5,30 +8,42 @@
     Vulnerabilities
     COMP 352
 
+##################################################
 COMP 352: Introduction to Computer Vulnerabilities
-=======================================================
+##################################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp264` and :doc:`../courses/comp347`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` and :doc:`../courses/comp347`
+
+About
+=====
+
+This course will introduce students to computer vulnerabilities.
 
 Description
-----------------------------
+===========
 
 This course will introduce students to computer vulnerabilities at the machine-code level, including viruses, browser vulnerabilities, buffer and heap overflows, return-to-libc attacks, and others.
 
-Outcomes
-----------------------------
+Outcome
+=======
+
 Describe some recent computer software vulnerabilities at the machine-code level and how they can be leveraged into an attack.
 Run a virus in a virtual-machine sandbox with appropriate monitoring.
 
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

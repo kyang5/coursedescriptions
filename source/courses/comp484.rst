@@ -1,27 +1,46 @@
+.. header:: COMP 484: Artificial Intelligence
+.. footer:: COMP 484: Artificial Intelligence
+
 .. index::
     Artificial Intelligence
     Graduate
     COMP 484
 
+#################################
 COMP 484: Artificial Intelligence
-===================================
+#################################
 
-Prerequisites
-----------------------------
+******************
+Course Information
+******************
 
-:doc:`../courses/comp271`
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+
+About
+=====
+
+This course introduces artificial intelligence theory and programming.
 
 Description
-----------------------------
+===========
 
-This course provides an introduction to the field of artificial intelligence (AI). Topics include search, game-playing, logic, planning, uncertainty, learning, and perception, as time permits.
+Concepts of problem representation and search, knowledge representation and reasoning. Selected topics may include game playing, theorem proving, natural language processing, machine learning, connectionist models, expert systems, robotics, pattern recognition, machine vision, neural networks.
 
-Other Information
--------------------
+Outcome
+=======
 
-There will be a midterm and final exam and some programming assignments.
+The student will learn the theory of artificial intelligence and be able to build applications based on it.
 
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

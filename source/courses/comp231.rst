@@ -1,3 +1,6 @@
+.. header:: COMP ###: Course Full Title
+.. footer:: COMP ###: Course Full Title
+
 .. index::
     Data Structures and Algorithms for Informatics
     Data Structures
@@ -6,30 +9,42 @@
     Structures
     COMP 231
 
+#######################################################
 COMP  231: Data Structures & Algorithms for Informatics
-========================================================
+#######################################################
+
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp141`
+    * :doc:`../courses/comp215` is preferred or :doc:`../courses/comp170`
+
+About
+=====
 
 This course introduces data structures and algorithms that are essential for data science and informatics.
 
-Credit Hours
------------------------
-
-3
-
-Prerequisites
-------------------------------
-
-:doc:`../courses/comp215` OR :doc:`../courses/comp170`, :doc:`../courses/comp141`
-
-.. note::
-     :doc:`../courses/comp215` is preferred
-
 Description
---------------------
+===========
 
 In this course we will focus on identifying the right method for storing data and using the most efficient algorithm for analysis. A subset of data structures and algorithms fundamental to computer science will be covered.
 
 Outcome
-----------------------
+=======
 
 Students will learn fundamental data structures and algorithms frequently used in informatics and data science. Students will be able to apply this knowledge for data analysis.
+
+*******
+Syllabi
+*******
+
+See :doc:`../syllabi/syllabi`.

@@ -1,36 +1,45 @@
+.. header:: COMP 392: Metagenomics
+.. footer:: COMP 392: Metagenomics
+
 .. index::
     Metagenomics
     COMP 392
 
+######################
 COMP 392: Metagenomics
-======================
+######################
 
-(Used to be Comp 384)
+******************
+Course Information
+******************
 
-Credit Hours
------------------------
+.. sidebar:: General Information
 
-3
+    **Credit Hours**
 
-Prerequisites
-------------------------------
+    * 3
 
-BIOL 282 and Instructor Consent
+    **Prerequisites**
 
+    * BIOL 282 **and** Instructor Permission
+
+About
+=====
 
 Description
---------------------
+===========
 
 This course is cross-listed with Biology.
 
 Exploration of next-generation sequencing technologies for assessing microbial diversity in ecological niches.
 
 Outcome
--------------
+=======
 
 Students will gain hands-on experience with metagenomic methodologies while working in an interdisciplinary, collaborative setting.
 
+*******
 Syllabi
----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.
