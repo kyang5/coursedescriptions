@@ -31,7 +31,7 @@ Course Information
 
     * :doc:`../courses/comp264` or :doc:`../courses/comp271`
     * :doc:`../courses/comp348`
-    * *Instructor permission if one of the prerequisite is missing*
+    * Instructor permission if one of the prerequisite is missing
 
 About
 =====

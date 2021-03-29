@@ -39,7 +39,7 @@ Course Information
 
     * For COMP 315:
 
-        * :doc:`../course/comp314-315`
+        * :doc:`../courses/comp314-315`
 
 About
 =====
