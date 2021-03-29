@@ -1,28 +1,47 @@
+.. header:: COMP 453: Database Programming
+.. footer:: COMP 453: Database Programming
+
 .. index::
     Database Programming
     Database
     Programming
     COMP 453
 
+##############################
 COMP 453: Database Programming
-=======================================================
+##############################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+
+About
+=====
+
+This course covers the fundamentals of database application development using C++, C, or Java by accessing a transaction-oriented database server. A commercial database environment such as Oracle is used.
 
 Description
-----------------------------
+===========
 
-This course covers the fundamentals of database application development using C++, C, or Java by accessing a transaction-oriented database server. A commercial database environment such as Oracle is used. Additional topics may include enabling access to a database via the web and administering large databases.
+Additional topics may include enabling access to a database via the web and administering large databases.
 
+Outcome
+=======
+
+Students will have an understanding of database programming and administration.
+
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

@@ -1,3 +1,6 @@
+.. header:: COMP 369: Physical Design and Fabrication
+.. footer:: COMP 369: Physical Design and Fabrication
+
 .. index::
     Physical Design and Fabrication
     Physical
@@ -5,31 +8,41 @@
     Fabrication
     COMP 369
 
+#########################################
 COMP 369: Physical Design and Fabrication
-=======================================================
+#########################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- No formal prerequisites.
+    * 3
 
+    **Prerequisites**
+
+    * None
+
+About
+=====
+
+This course explores the role of products in the economy and how things are made.
 
 Description
-----------------------------
+===========
 
 This course explores the role of products in the economy and how things are made, including product conceptualization and design, physical design vs. design of things that are not physical, rapid prototyping, 3D printing, 2D conceptualization and sketching, 3D modeling, and design reviews.
 
-Outcomes
-----------------------------
+Outcome
+=======
 
 Students will be able to visualize ideas via sketching basic shapes, create 3D models using 3D modeling software, use a 3D Printer and give constructive feedback in peer review sessions.
 
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

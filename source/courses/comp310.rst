@@ -1,26 +1,37 @@
+.. header:: COMP 310: Introduction to Operating Systems
+.. footer:: COMP 310: Introduction to Operating Systems
+
 .. index::
     Introduction to Operating Systems
     Introduction
     Operating Systems
     COMP 310
 
-COMP 310 (formerly 374): Introduction to Operating Systems
-==========================================================
+###########################################
+COMP 310: Introduction to Operating Systems
+###########################################
+
+******************
+Course Information
+******************
+
+.. sidebar:: General Information
+
+    **Credit Hours**
+
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` **and** :doc:`../courses/comp271`
+
+About
+=====
 
 This course introduces principles of operating systems and how they are designed.  Various important parts of operating systems such as memory addressing, file structures, processes, and threads are covered.
 
-Credit Hours
--------------------
-
-3
-
-Prerequisites
---------------------
-
-:doc:`../courses/comp264` and :doc:`../courses/comp271`
-
 Description
---------------------
+===========
 
 This is an introductory course in Operating Systems discussing both standalone and distributed environments. The focus of the course is to understand the underlying technologies that make contemporary operating systems work efficiently. We will discuss processes, threads, synchronization, I/O, file systems, memory management, transactions, and system coordination techniques.
 
@@ -29,11 +40,12 @@ Through this course we will discover how these technologies are integrated into 
 Everyone currently in, or planning to enter the IT field should have a grasp on these components as they affect every area of the day to day operation of IT technology. Reference systems will include both Linux and Windows.
 
 Outcome
-----------
+=======
 
 Students will learn the different parts of an operating system at a functional level and how they interact with each other.
 
+*******
 Syllabi
----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

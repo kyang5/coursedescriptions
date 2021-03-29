@@ -1,3 +1,6 @@
+.. header:: COMP 450: Microcomputer Design and Interfacing
+.. footer:: COMP 450: Microcomputer Design and Interfacing
+
 .. index::
     Microcomputer Design and Interfacing
     Microcomputer
@@ -6,31 +9,48 @@
     Graduate
     COMP 450
 
+##############################################
 COMP 450: Microcomputer Design and Interfacing
-==============================================
+##############################################
 
-Cross-Listing
--------------------------
+******************
+Course Information
+******************
 
-Also Offered PHYS 366
+.. sidebar:: General Information
 
-Credit Hours
------------------------
+    **Alias**
 
-3
+    * PHYS 366
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp264` or :doc:`../courses/comp271` or PHYS 266
+    * 3
 
+    **Prerequisites**
+
+    * One or more of the following:
+        * :doc:`../courses/comp264`
+        * :doc:`../courses/comp271`
+        * PHYS 266
+
+About
+=====
+
+This course includes lecture and laboratory work.
 
 Description
---------------------
+===========
 
-This course includes lecture and laboratory work. Topics that the course will hit on are; Microprocessor logic, instruction, and clocked sequential circuits; memory devices; data acquisition, manipulation and transfer circuitry; machine and assembly languages; microprocessor support devices.
+Topics that the course will hit on are; Microprocessor logic, instruction, and clocked sequential circuits; memory devices; data acquisition, manipulation and transfer circuitry; machine and assembly languages; microprocessor support devices.
 
+Outcome
+=======
+
+Students will have an understanding of microprocessor design and interfacing.
+
+*******
 Syllabi
---------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

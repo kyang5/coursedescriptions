@@ -1,3 +1,6 @@
+.. header:: COMP 345: Internet of Things Device and Application Security
+.. footer:: COMP 345: Internet of Things Device and Application Security
+
 .. index::
     Internet of Things Device and Application Security
     Internet of Things Device
@@ -10,32 +13,41 @@
     Internet of Things Device Security
     COMP 345
 
+############################################################
 COMP 345: Internet of Things Device and Application Security
-=============================================================
+############################################################
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-- :doc:`../courses/comp264` or :doc:`../courses/comp271`
-- :doc:`../courses/comp348`
-- instructor permission if prerequisite is missing
+    * 3
 
+    **Prerequisites**
+
+    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+    * :doc:`../courses/comp348`
+    * Instructor permission if one of the prerequisite is missing
+
+About
+=====
 
 Description
-----------------------------
+===========
 
 It introduces the Internet of Things (IoT) comprising embedded devices and cloud-based resources. The course studies concepts and techniques used in designing and implementing IoT systems providing valuable functionality to consumers and valuable data to organizations. The course discusses methods for addressing related safety, security, reliability, and privacy concerns.
 
-Outcomes
-----------------------------
+Outcome
+=======
+
 It introduces the Internet of Things (IoT) comprising embedded devices and cloud-based resources. The course studies concepts and techniques used in designing and implementing IoT systems providing valuable functionality to consumers and valuable data to organizations. The course discusses methods for addressing related safety, security, reliability, and privacy concerns.
 
+*******
 Syllabi
---------------
+*******
 
 See :doc:`../syllabi/syllabi`.

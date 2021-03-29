@@ -69,4 +69,4 @@ After admission to the BS/MS program, a student may request to be registered in 
 Further Information
 ~~~~~~~~~~~~~~~~~~~
 
-If you have additional questions about the program, please contact Dr. Andrew Harrington, Graduate Program Director for Computer Science. He can be reached at gpd@cs.luc.edu.
+If you have additional questions about the program, please contact Dr. Eric Chan-Tin, Graduate Program Director for Computer Science. He can be reached at gpd@cs.luc.edu.

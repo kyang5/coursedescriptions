@@ -1,3 +1,6 @@
+.. header:: COMP 342: Introduction to Web Application Development
+.. footer:: COMP 342: Introduction to Web Application Development
+
 .. index::
     Introduction to Web Application Development
     Introduction
@@ -8,30 +11,41 @@
     Development
     COMP 342
 
+#####################################################
 COMP 342: Introduction to Web Application Development
-======================================================
+#####################################################
 
-Credit Hours
------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-------------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp170`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp170`
+
+About
+=====
+
+An introduction to webpage development using JavaScript, jQuery, and associated client-side tools.
 
 Description
---------------------
+===========
 
 An introduction to webpage development using JavaScript, jQuery, and associated client-side tools.
 
 Outcome
--------------
+=======
 
 Students will be able to create webpages using JavaScript and related tools and protocols and interface a webpage with a database.
 
+*******
 Syllabi
-----------------------
+*******
 
 See :doc:`../syllabi/syllabi`.

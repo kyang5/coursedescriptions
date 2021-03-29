@@ -6,20 +6,34 @@
 COMP 420: Software Systems Analysis
 =======================================================
 
-Credit Hours
------------------------------------
+******************
+Course Information
+******************
 
-3
+.. sidebar:: General Information
 
-Prerequisites
-----------------------------
+    **Credit Hours**
 
-:doc:`../courses/comp271`
+    * 3
+
+    **Prerequisites**
+
+    * :doc:`../courses/comp271`
+
+About
+=====
+
+This course uses Unified Modeling Language (UML) notation to model the early software analysis and design phase.
 
 Description
-----------------------------
+===========
 
-This course uses Unified Modeling Language notation to model the early software analysis and design phase. Object technology is critical to the understanding of the process of capturing business requirements and the course uses commercial software tools to perform systems analysis and design.
+Object technology is critical to the understanding of the process of capturing business requirements and the course uses commercial software tools to perform systems analysis and design.
+
+Outcome
+=======
+
+Students will have an udnerstanding of UML and its applications.
 
 Syllabi
 ----------------------
