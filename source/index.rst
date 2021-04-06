@@ -46,7 +46,7 @@ Graduate Student Resources
 .. toctree::
    :maxdepth: 1
 
-   graduate/graduate-degree-programs
+   graduate/index
    courses/graduate-courses
 
 To Report Issues
