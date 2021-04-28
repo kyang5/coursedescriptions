@@ -50,7 +50,6 @@ Other Helpful Resources for Current Students
 
 * `Tutoring Hours <http://luc.edu/cs/schedules/tutoringhours/>`_
 
-
 To Report Issues
 ----------------
 
