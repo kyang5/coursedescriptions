@@ -1,20 +1,19 @@
 Masters Programs Prerequisites
 =================================
 
-All students need the equivalent knowledge of :doc:`../courses/comp170` and :doc:`../courses/comp271`. The topics for these courses are outlined in ref:`programming_prerequisites`. This knowledge is a prerequisite to essentially all the graduate courses in the Computer Science Department, except for :doc:`../courses/comp417`.
+* All students need the equivalent knowledge of :doc:`../courses/comp170` and :doc:`../courses/comp271`. The topics for these courses are outlined in ref:`programming_prerequisites`. This knowledge is a prerequisite to essentially all the graduate courses in the Computer Science Department, except for :doc:`../courses/comp417`.
 
-Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp163` and :doc:`../courses/comp264` and :doc:`../courses/comp363`
+* Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp163` and :doc:`../courses/comp264` and :doc:`../courses/comp363`
 to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, Comp 460, Algorithms.
 
-Software Engineering students are in the middle. The background for the Computer Science student is helpful but adept transitioning students may manage with the two basic courses that the IT students need if they perform very well in them.
+* Software Engineering students are in the middle. The background for the Computer Science student is helpful but adept transitioning students may manage with the two basic courses that the IT students need if they perform very well in them.
 
-Many of our best students in Information Technology and Software Engineering have transitioned from other fields.
+* Many of our best students in Information Technology and Software Engineering have transitioned from other fields.
 
 **You can handle missing prerequisite knowledge in several ways**:
 
-#. Take them somewhere else (possibly cheaper and more convenient to your location, but possibly not as good or not covering mostly what we want)
-#. Take them at Loyola:  Take just the courses we want, with the support of our faculty,
-   allowing you to get into our community and build relationships with faculty and students.
+* Take them somewhere else (possibly cheaper and more convenient to your location, but possibly not as good or not covering mostly what we want)
+* Take them at Loyola:  Take just the courses we want, with the support of our faculty, allowing you to get into our community and build relationships with faculty and students.
    * This can be done before entering the Graduate program as a non-degree undergrad (cheaper undergraduate tuition).
    * You can get both prerequisites in one semester with our special compressed sections (section number 400) of :doc:`../courses/comp170` and :doc:`../courses/comp271`. See a fuller discussion below.
    * The compressed prerequisites can be taken after admission to the graduate program.  Then you become a full-time graduate student if you add a third course - a graduate course not requiring the prerequisites. (faster full-time finish!)
