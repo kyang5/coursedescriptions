@@ -5,9 +5,9 @@ Undergraduate Courses
 
 .. note::
 
-   Looking for current syllabi? See :ref:`syllabi`.
+   Looking for the current syllabi? See :ref:`syllabi`.
 
-   Looking for old syllabi? See :ref:`legacy_syllabi`
+   Looking for an old syllabi? See :ref:`legacy_syllabi`
 
 .. note::
     Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in `Locus`_ to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
@@ -45,6 +45,7 @@ Undergraduate Courses
    comp314-315
    comp317
    comp319
+   comp320
    comp322
    comp323
    comp324

@@ -13,9 +13,9 @@
 
 import sys, os
 
-version = os.environ.get("BOOK_VERSION", "beta")
+# version = os.environ.get("BOOK_VERSION", "beta")
 # The full version, including alpha/beta/rc tags.
-release = version
+# release = version
 
 # Additional definitions
 
@@ -128,10 +128,6 @@ rst_epilog = (
 
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
 
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/coursedescriptions/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.pdf>`__
-
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/coursedescriptions/releases/download/%(version)s/LoyolaComputerScienceAcademicPrograms.epub>`__
-
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
 """
@@ -152,7 +148,7 @@ rst_epilog = (
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax", "sphinx.ext.autosectionlabel"]
 autosectionlabel_prefix_document = True
-#extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax"]
+# extensions = ["sphinx.ext.todo", "sphinx.ext.mathjax"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -167,7 +163,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = u"Loyola University Chicago CS - Academic Programs"
+project = u"Loyola University Chicago CS Academic Programs"
 copyright = u"2018-Present, Loyola Universtiy Chicago - Computer Science Department"
 
 # The version info for the project you're documenting, acts as replacement for
