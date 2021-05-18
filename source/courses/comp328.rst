@@ -1,5 +1,5 @@
-.. header:: COMP ###: Course Full Title
-.. footer:: COMP ###: Course Full Title
+.. header:: COMP 328: Algebraic Coding Theory
+.. footer:: COMP 328: Algebraic Coding Theory
 
 .. index::
     Algebraic Coding Theory

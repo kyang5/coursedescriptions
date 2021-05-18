@@ -1,5 +1,5 @@
-.. header:: COMP ###: COMP 272: Data Structures II
-.. footer:: COMP ###: COMP 272: Data Structures II
+.. header:: COMP 272: Data Structures II
+.. footer:: COMP 272: Data Structures II
 
 .. index::
     Data Structures II
