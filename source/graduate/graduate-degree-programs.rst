@@ -7,7 +7,7 @@ The :doc:`msse` is focused on knowledge and abilities to produce high-quality so
 
 The :doc:`mscs` is more foundational, requiring you to get experience with a broad range of core computer science concepts.  It is our only program with a :ref:`thesis_option`. Students from this program are the ones most likely to go on to a Ph.D. program.
 
-:doc:`masters_prereqs` are required for all programs.
+.. :doc:`masters_prereqs` are required for all programs.
 
 Undergraduates presently in our department with a strong background are urged to consider overlapping one of these programs with their undergraduate work via the :doc:`../undergraduate/bsmsprograms`.
 
@@ -191,7 +191,6 @@ Graduate Degree Programs
    dba
    enterprise
    game
-   index
    madh
    mscs
    msit

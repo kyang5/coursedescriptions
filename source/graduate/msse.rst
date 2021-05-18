@@ -16,7 +16,8 @@ Curriculum
 
 This program is for students entering the program in Spring 2014 or later. If you were enrolled in the program before Spring 2014 you may use the older degree requirements located at `here <http://luc.edu/cs/academics/graduateprograms/msse/oldcurriculum/>`_.
 
-* See the :doc:`masters_prereqs`.
+.. * See the :doc:`masters_prereqs`.
+
 * Each program requires a total of 30 credit hours, generally 10 three-credit courses.
 * Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere: See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
 * **Students who have taken undergraduate Loyola classes**: Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
