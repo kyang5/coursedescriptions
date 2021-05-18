@@ -5,9 +5,9 @@ Graduate Courses
 
 .. note::
 
-   Looking for current syllabi? See :ref:`syllabi`.
+   Looking for the current syllabi? See :ref:`syllabi`.
 
-   Looking for old syllabi? See :ref:`legacy_syllabi`
+   Looking for an old syllabi? See :ref:`legacy_syllabi`
 
 .. toctree::
    :maxdepth: 1
