@@ -13,7 +13,7 @@ The Master of Science in Information Technology is designed for current and aspi
 Courses may be taken in person or online.
 
 Entirely Online Option
------------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 *The program can now be completed entirely online* with some decrease in available electives. Networking and security tracks may be completed online and full-time. The management tracks can be completed online at least part-time over two years. Students taking mostly regular face-to-face courses are also welcomed into online courses when they find that convenient, but students signed up explicitly for the entirely online option *get the advantage of being able to be registered before other students* who might happen to choose to take some of their courses online. Student in the entire online program should *contact the GPD with course choices* three days before the usual start of registration.
 
@@ -38,62 +38,18 @@ The courses listed below can be counted toward the different tracks. Any other C
 .. note::
      You only need three courses in *some* track. There is no need to satisfy more than one track.
 
+Program Prerequisites
+^^^^^^^^^^^^^^^^^^^^^
+
+* A four-year undergraduate degree in any field
+
 Major Requirements (3 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *   :doc:`../courses/comp417`
 
-Tracks (9 credits)
-~~~~~~~~~~~~~~~~~~
-
-Students starting before Spring 2017 may also include courses from the old EIM or TM tracks.  Anyone may follow the tracks listed below:
-
-*   Three (3) courses from any *one* of the following Tracks must be taken.
-
-Enterprise Information Management (EIM) Track
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-*   :doc:`../courses/comp453`
-*   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
-*   `COMP 488-305: Database Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
-*   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
-*   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
-
-.. old :doc:`csis496`
-
-Technology Management (TM) Track
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-*   :doc:`../courses/comp420`
-*   :doc:`../courses/comp477`
-*   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
-*   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
-
-.. old :doc:`csis478`
-
-Information Assurance (IA) Track
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-*   :doc:`../courses/comp431`
-*   :doc:`../courses/comp443`
-*   :doc:`../courses/comp447`
-*   :doc:`../courses/comp448`
-*   :doc:`../courses/comp449`
-
-Enterprise Networking (EN) Track
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-*   :doc:`../courses/comp443`
-*   :doc:`../courses/comp446`
-*   :doc:`../courses/comp448`
-*   :doc:`../courses/comp449`
-*   :doc:`../courses/comp451`
-
-.. old :doc:`csis591`
-   :doc:`csis793`
-
 General Electives (18 Credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The elective course options are common for all programs,
 differing only in the total number of credits required.
@@ -105,3 +61,52 @@ Students may take up to a maximum of 6 credit hours of
 
 There are numerous options for independent study,
 including a programming project, research, or a service-oriented project.
+
+Tracks (9 Credits)
+------------------
+
+Students starting before Spring 2017 may also include courses from the old EIM or TM tracks.  Anyone may follow the tracks listed below:
+
+*   Three (3) courses from any *one* of the following Tracks must be taken.
+
+Enterprise Information Management (EIM) Track
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   :doc:`../courses/comp453`
+*   `COMP 488-301/302: Data Mining <https://luc.box.com/s/xtphmy7saa7et9gogdm03yn1ujeas39r>`_
+*   `COMP 488-305: Database Administration <https://luc.box.com/s/xtuvk5iqlqrchhe2y8u3rtu8z89xui0u>`_
+*   `COMP 488-325: Rapid Application Development(.Net) <https://luc.box.com/s/z0eg47ng1uu0n7ijhgqr9ogppbgd7gve>`_
+*   `COMP 488-379: Machine Learning <https://luc.box.com/s/k1y7k1a9j2g5wzjty82z89w6rvhju7ab>`_
+
+.. old :doc:`csis496`
+
+Technology Management (TM) Track
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   :doc:`../courses/comp420`
+*   :doc:`../courses/comp477`
+*   `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
+*   `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
+
+.. old :doc:`csis478`
+
+Information Assurance (IA) Track
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   :doc:`../courses/comp431`
+*   :doc:`../courses/comp443`
+*   :doc:`../courses/comp447`
+*   :doc:`../courses/comp448`
+*   :doc:`../courses/comp449`
+
+Enterprise Networking (EN) Track
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   :doc:`../courses/comp443`
+*   :doc:`../courses/comp446`
+*   :doc:`../courses/comp448`
+*   :doc:`../courses/comp449`
+*   :doc:`../courses/comp451`
+
+.. old :doc:`csis591`
+   :doc:`csis793`
