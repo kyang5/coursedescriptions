@@ -45,6 +45,7 @@ Undergraduate Courses
    comp314-315
    comp317
    comp319
+   comp320
    comp322
    comp323
    comp324

@@ -13,20 +13,19 @@
 COMP 141: Introduction to Computing Tools and Techniques
 ########################################################
 
-
 ******************
 Course Information
 ******************
 
 .. sidebar:: General Information
 
-**Credit Hours**
+    **Credit Hours**
 
-* 3
+    * 3
 
-**Prerequisites**
+    **Prerequisites**
 
-* None
+    * None
 
 About
 =====

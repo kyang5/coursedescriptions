@@ -1,7 +1,5 @@
-.. _graduate-degree-programs:
-
 Graduate Degree Programs
---------------------------------
+========================
 
 .. toctree::
    :maxdepth: 1
@@ -14,7 +12,6 @@ Graduate Degree Programs
    dba
    enterprise
    game
-   graduate-degree-programs
    index
    madh
    mscs

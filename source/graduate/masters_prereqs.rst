@@ -3,8 +3,7 @@ Masters Programs Prerequisites
 
 * All students need the equivalent knowledge of :doc:`../courses/comp170` and :doc:`../courses/comp271`. The topics for these courses are outlined in ref:`programming_prerequisites`. This knowledge is a prerequisite to essentially all the graduate courses in the Computer Science Department, except for :doc:`../courses/comp417`.
 
-* Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp163` and :doc:`../courses/comp264` and :doc:`../courses/comp363`
-to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, Comp 460, Algorithms.
+* Students in the Computer Science Graduate Program need the strongest preparation. Most will have an undergraduate degree or at least the first two years of foundational undergraduate courses.  This would include the addition of equivalents of our :doc:`../courses/comp163` and :doc:`../courses/comp264` and :doc:`../courses/comp363` to the two courses already listed above. In particular advanced undergraduate algorithm background is required before taking the required spring grad course, Comp 460, Algorithms.
 
 * Software Engineering students are in the middle. The background for the Computer Science student is helpful but adept transitioning students may manage with the two basic courses that the IT students need if they perform very well in them.
 
