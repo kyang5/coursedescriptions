@@ -22,6 +22,7 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
     :maxdepth: 1
     :hidden:
 
+    madh
     mscs
     msit
     msse
