@@ -33,9 +33,9 @@ Curriculum
 Most students complete the program full-time, taking mostly face-to-face courses.
 
 * Each program requires a total of 30 credit hours
-  * Generally 10 three-credit courses
+    * Generally 10 three-credit courses
 * Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere
-  * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
+    * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
 
 .. important::
 
@@ -45,13 +45,14 @@ Most students complete the program full-time, taking mostly face-to-face courses
 
 Overall, to achieve depth and breadth, Information Technology students must complete the following:
 
-* One (1) required course addressing ethical and social issues in the computing field.
-* Three (3) courses within *one* of the following tracks:
-  * Enterprise Information Management
-  * Technology Management
-  * Information Assurance
-  * Enterprise Networking.
-* Six (6) courses or 18 credits that do not need to be on any track (electives). These electives can be any 400-level course offered by the department, with approval by your advisor.
+* One (1) required course addressing ethical and social issues in the computing field
+* Three (3) courses within one of the following tracks:
+    * Enterprise Information Management
+    * Technology Management
+    * Information Assurance
+    * Enterprise Networking
+* Six (6) courses or 18 credits that do not need to be on any track (electives)
+    * These electives can be any 400-level course offered by the department, with approval by your advisor
 
 The courses listed below can be counted toward the different tracks. Any other COMP course (400 level or higher) can count as an elective towards the required 30 credits. Special permission is required to count any other course as a track requirement or as an elective.
 
@@ -63,26 +64,22 @@ Major Prerequisites
 
 * A four-year undergraduate degree in **any field**
 
-Preperation Courses
-===================
-
 Major Requirements (3 credits)
 ==============================
 
 * :doc:`../courses/comp417`
 
-The class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
+
+.. note::
+
+  The class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
 General Electives (18 Credits)
 ==============================
 
-The elective course options are common for all programs,
-differing only in the total number of credits required.
+Six additional 400-level COMP three-credit electives are required. Students may not substitute any of the introductory or foundation courses listed above as electives (except as stated above). Students may count 400-level courses from other departments as electives with graduate program director approval.
 
-Electives can be any COMP 400 level class.
-
-There are numerous options for independent study,
-including a programming project, research, or a service-oriented project.
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
 .. note::
 
@@ -91,6 +88,10 @@ including a programming project, research, or a service-oriented project.
 ******************
 Tracks (9 Credits)
 ******************
+
+As Information Technology is a fast-evolving field, other courses can be substituted under the discretion of the GPD. Substitutions will usually be limited to special-topics courses (Comp 488) which have learning outcomes closely related to other courses in the track in question. The GPD will make this determination by the beginning of the semester, in consultation with the instructor, and will notify the Graduate School.
+
+Some courses (eg 317/417 and 343/443) are offered as both undergraduate and graduate registrations, meeting together. Students who took the undergraduate instance of such a course as a Loyola undergraduate may not receive graduate credit for retaking the graduate instance of the same course. Exceptions may be granted in advance by the GPD, if the two course instances differ substantially in content. Similarly, if a required graduate course has been taken as an undergraduate registration, the GPD may (and must) allow an appropriate graduate substitute.
 
 .. important::
   Three (3) courses from any one of the following Tracks must before completing your major.
@@ -107,25 +108,25 @@ Data Management (DM) Track
 Technology Management (TM) Track
 ================================
 
+* :doc:`../courses/comp404`
+* :doc:`../courses/comp403`
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp477`
-* `COMP 488-472: Organizational Change and Development <http://courses.cs.luc.edu/html/comp488.html>`_
-* `COMP 488-480: Operations Management <https://luc.box.com/s/cx9fdr923695iw9yxm1mg51a9i98krwf>`_
 
-Information Assurance (IA) Track
-================================
-
-* :doc:`../courses/comp431`
-* :doc:`../courses/comp443`
+IT Security (IS) Track
+======================
+* :doc:`../courses/comp401`
+* :doc:`../courses/comp440`
 * :doc:`../courses/comp447`
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
+* :doc:`../courses/comp452`
+
 
 Enterprise Networking (EN) Track
 ================================
 
 * :doc:`../courses/comp443`
-* :doc:`../courses/comp446`
 * :doc:`../courses/comp448`
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp451`
