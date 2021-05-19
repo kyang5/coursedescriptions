@@ -17,6 +17,15 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 * The :doc:`msse` is focused on knowledge and abilities to produce high-quality software for many different domains.
 * The :doc:`madh` is a separate interdisciplinary program, partnered with Computer Science.
 
+
+.. toctree::
+    :maxdepth: 1
+    :hidden:
+
+    mscs
+    msit
+    msse
+
 *********************
 Program Prerequisites
 *********************
