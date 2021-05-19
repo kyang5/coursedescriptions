@@ -9,7 +9,7 @@ M.S. in Information Technology (Prior to Fall 2021)
 
 .. note::
 
-  If you declared your major during or after to Fall 2021, please follow the :doc:`msit.rst` page.
+  If you declared your major during or after to Fall 2021, please follow the :doc:`msit` page.
 
 ********
 Overview
