@@ -2,21 +2,23 @@
     Graduate Track
     M.S. in Computer Science
 
-
+########################
 M.S. in Computer Science
-========================
+########################
 
 .. note::
 
-  If you declared your major prior to Fall 2021, please follow the :doc:`mscs_old` page.
+  If you declared your major during or after to Fall 2021, please follow the :doc:`mscs` page.
 
+********
 Overview
---------
+********
 
 The M.S. in Computer Science provides foundations of Computer Science while acknowledging that Computer Science is key to algorithms in the sciences. Other programs in the Computer Science Department with different foci are :doc:`msit` and the :doc:`msse`.
 
+**********
 Curriculum
-----------
+**********
 
 This program is for students entering the program in Spring 2014 or later. If you were enrolled in the program before Spring 2014 you may use the older degree requirements located `here <http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum/>`_.
 
@@ -34,7 +36,7 @@ This program is for students entering the program in Spring 2014 or later. If yo
 *   Four (4) courses or 12 credits that are general electives.
 
 Major Requirements (9 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 The following three courses are required by the program:
 
@@ -48,7 +50,7 @@ The following three courses are required by the program:
 The Graduate Program Director may approve the replacement of :doc:`../courses/comp413` by an additional course on the Restricted Electives list in cases where the student's primary program focus is not on software development.
 
 Restricted Electives (9 credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================
 
 .. note::
     Several of these courses require :doc:`../courses/comp413` as a prerequisite.
@@ -68,7 +70,7 @@ MS-CS students must also take three courses from the following list:
 * :doc:`../courses/comp474`
 
 General Electives (12 Credits)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==============================
 
 The elective course options are common for all programs,
 differing only in the total number of credits required.
@@ -85,8 +87,9 @@ including a programming project, research, or a service-oriented project.
 
 .. _thesis_option:
 
+*************
 Thesis Option
-~~~~~~~~~~~~~~~~
+*************
 
 MS students in the Computer Science degree program (only) may elect the MS thesis option.
 
