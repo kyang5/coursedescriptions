@@ -6,6 +6,15 @@ Graduate Degree Programs
 Program Offerings
 *****************
 
+.. toctree::
+    :maxdepth: 1
+    :hidden:
+
+    madh
+    mscs
+    msit
+    msse
+
 The following graduate programs are offered by the Loyola CS Department. Each program has tracks for students to specialize in. These can be viewed in each programs respective webpage.
 
 .. important::
@@ -17,19 +26,12 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 * The :doc:`msse` is focused on knowledge and abilities to produce high-quality software for many different domains.
 * The :doc:`madh` is a separate interdisciplinary program, partnered with Computer Science.
 
-
-.. toctree::
-    :maxdepth: 1
-    :hidden:
-
-    madh
-    mscs
-    msit
-    msse
-
 *********************
 Program Prerequisites
 *********************
+
+.. toctree::
+  :hidden:
 
 .. important::
 

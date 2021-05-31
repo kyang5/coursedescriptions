@@ -57,3 +57,8 @@ Topical Index
 -------------
 
 * :ref:`genindex`
+
+.. toctree::
+  :maxdepth: 1
+
+  CS Dept. Homepage <https://www.luc.edu/cs/>
