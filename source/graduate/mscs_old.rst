@@ -1,10 +1,11 @@
 .. index::
     Graduate Track
     M.S. in Computer Science
+    Prior to Fall 2021
 
-########################
-M.S. in Computer Science
-########################
+#############################################
+M.S. in Computer Science (Prior to Fall 2021)
+#############################################
 
 .. note::
 

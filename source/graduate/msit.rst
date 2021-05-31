@@ -1,7 +1,6 @@
 .. index::
     Graduate Track
     M.S. in Information Technology
-    Prior to Fall 2021
 
 ##############################
 M.S. in Information Technology
