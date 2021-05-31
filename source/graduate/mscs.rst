@@ -44,6 +44,39 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 * Four (4) electives restricted to a concentration
 * Four (4) general electives
 
+Major Prerequisites
+===================
+
+A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
+
+Preparation Courses
+-------------------
+
+All of these courses must be taken if you do not have a four-year undergraduate degree in a related field.
+
+* :doc:`../courses/comp400a`
+* :doc:`../courses/comp400b`
+* :doc:`../courses/comp400c`
+* :doc:`../courses/comp400d`
+* :doc:`../courses/comp400e`
+
+.. warning::
+
+  Students may not use an introductory course to satisfy a foundation or elective requirement.
+
+  Preparatory courses do not count towards the 30 required credit hours of non-preparatory courses.
+
+A student taking any necessary preparation course is considered to be a full-fledged student of the Graduate School. Preparation courses may be taken in the same semester as other graduate courses, provided the prerequisites for the other graduate courses are met. Students are expected, however, to take all necessary preparation courses early in their career.
+
+A student may place out of an introductory course under any of the following conditions:
+
+* The student has appropriate coursework equivalent to the introductory course.
+* The student has appropriate and verified professional experience equivalent to the introductory course.
+* The student passes a Graduate Competency Assessment (GCA) in the introductory course area.
+* This can be waived under the discretion of the GPD.
+
+If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
+
 Major Requirements
 ==================
 
