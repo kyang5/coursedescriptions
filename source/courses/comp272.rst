@@ -23,13 +23,10 @@ Course Information
 
     **Prerequisites**
 
+    * :doc:`../courses/comp163` or |math201|
     * :doc:`../courses/comp170` or :doc:`../courses/comp215`
     * :doc:`../courses/comp271`
-    * One or more of the following:
-
-      * :doc:`../courses/comp163`
-      * |math161|
-      * |math131| **and** |math201|
+    * |math131| or |math161|
 
 About
 =====
