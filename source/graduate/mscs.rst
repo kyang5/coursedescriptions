@@ -20,43 +20,73 @@ The M.S. in Computer Science provides foundations of Computer Science while ackn
 Curriculum
 **********
 
-This program is for students entering the program in Spring 2014 or later. If you were enrolled in the program before Spring 2014 you may use the older degree requirements located `here <http://luc.edu/cs/academics/graduateprograms/mscs/oldcurriculum/>`_.
+* Each program requires a total of 30 credit hours
 
-.. * See the :doc:`masters_prereqs`.
+  * Generally 10 three-credit courses
 
-* Each program requires a total of 30 credit hours, generally 10 three-credit courses.
-* Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere: See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
-* **Students who have taken undergraduate Loyola classes**: Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
+* Students can receive up to 6 credit hours (replacing two of our courses) for graduate work taken elsewhere
 
-.. note::
-    The Computer Science has more prerequisites than other programs. Overall, to achieve depth and breadth, Computer Science students must complete the following:
+  * See the `transfer credit section of the Graduate Student Handbook <https://graduatehandbook.cs.luc.edu/regulations.html#transfer-credit>`_ for details.
 
-*   Three (3) required courses.
-*   Three (3) restricted electives.
-*   Four (4) courses or 12 credits that are general electives.
+.. important::
+
+  Students who have taken undergraduate Loyola classes:
+
+  Many 400-level courses in the department have closely related 300-level analogues, e.g. :doc:`../courses/comp443` and :doc:`../courses/comp343`. Students who enter the MS program after taking a Loyola course in this category must choose to take 400-level courses that are not closely related to any 300-level courses taken earlier, unless they have GPD permission.
+
+.. warning::
+
+    The Computer Science has more prerequisites than other programs.
+
+Overall, to achieve depth and breadth, Computer Science students must complete the following to obtain the required 30 credits to graduate:
+
+* Two (2) required courses
+* Four (4) electives restricted to a concentration
+* Four (4) general electives
 
 Major Requirements
 ==================
 
-The following three courses are required by the program:
+The following two (2) courses are required by the program:
 
 * :doc:`../courses/comp417`
-* :doc:`../courses/comp413`
 * :doc:`../courses/comp460`
 
-    .. important::
-        :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
+.. important::
 
-The Graduate Program Director may approve the replacement of :doc:`../courses/comp413` by an additional course on the Restricted Electives list in cases where the student's primary program focus is not on software development.
+    :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
-Restricted Electives
-====================
+Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
 
-.. note::
+Major Electives
+===============
+
+MSCS students must take four (4) courses from their concentration, and four (4) courses of general electives.
+
+General electives include any COMP 400 level course. The elective course options are common for all programs, differing only in the total number of credits required.
+
+.. important::
+
+  If a student does not puruse a specific concentration, the student must take four (4) courses from list the *Default Concentration* list of electives.
+
+.. important::
+
     Several of these courses require :doc:`../courses/comp413` as a prerequisite.
 
-MS-CS students must also take three courses from the following list:
+There are numerous options for independent study, including a programming project, research, or a service-oriented project.
 
+.. note::
+
+  Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
+
+Default Concentration Electives (12 Credits)
+--------------------------------------------
+
+.. note::
+
+  :doc:`../courses/comp413` is a required course for the Default Concentration
+
+* :doc:`../courses/comp413`
 * :doc:`../courses/comp410`
 * :doc:`../courses/comp433`
 * :doc:`../courses/comp436`
@@ -66,26 +96,34 @@ MS-CS students must also take three courses from the following list:
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp471`
-* :doc:`../courses/comp473`
 * :doc:`../courses/comp474`
+* :doc:`../courses/comp473`
+* :doc:`../courses/comp473`
 
-General Electives
-=================
+Artificial Intelligence Concentration (12 Credits)
+--------------------------------------------------
 
-The elective course options are common for all programs,
-differing only in the total number of credits required.
+.. note::
 
-Electives can be any COMP 400 level class.
+  :doc:`../courses/comp479` is a required course for the Artificial Intelligence Concentration
 
-Students may take up to a maximum of 6 credit hours of
-:doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
+* :doc:`../courses/comp479`
 
-There are numerous options for independent study,
-including a programming project, research, or a service-oriented project.
+One (1) of the following courses from the three choices below:
 
-.. index:: thesis option
+.. note::
 
-.. _thesis_option:
+  Topics in Machine Learning is the specific section of :doc:`../courses/comp488` to be taken.
+
+* :doc:`../courses/comp429`
+* :doc:`../courses/comp487`
+* :doc:`../courses/comp488`
+
+Two (2) of the following courses from the three (3) choices below and the three (3) choices above must be taken:
+
+* :doc:`../courses/comp406`
+* :doc:`../courses/comp458`
+* :doc:`../courses/comp488`
 
 *************
 Thesis Option
