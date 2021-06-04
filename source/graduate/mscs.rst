@@ -264,7 +264,7 @@ If you are submitting your proposal to the Institutional Review Board (IRB), you
 
 .. important::
 
-  A simple one to two paragraph abstract must be included** **in the proposal form on https://gsps.luc.edu/.
+  A simple one to two paragraph abstract **must be included** in the proposal form on https://gsps.luc.edu/.
 
   You will get notified once all members of the committee, the GPD, and the Graduate School approve the proposal through https://gsps.luc.edu/.
 
