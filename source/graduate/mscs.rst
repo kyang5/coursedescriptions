@@ -18,10 +18,10 @@ The M.S. in Computer Science provides foundations of Computer Science while ackn
 
 The M.S. in Computer Science offers the following concentrations of specialization:
 
-* No Concentration
-* :ref:`Artificial Intelligence<Artificial Intelligence Concentration (12 Credits)>`
-* Cybersecurity
-* Computer Systems
+* :ref:`No Concentration<default>`
+* :ref:`Artificial Intelligence<ai>`
+* :ref:`Cybersecurity<cybersecurity>`
+* :ref:`Computer Systems<computerSystems>`
 
 **********
 Curriculum
@@ -119,6 +119,8 @@ There are numerous options for independent study, including a programming projec
 
   Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
 
+.. _default:
+
 Default Concentration Electives (12 Credits)
 --------------------------------------------
 
@@ -139,6 +141,8 @@ Default Concentration Electives (12 Credits)
 * :doc:`../courses/comp474`
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp473`
+
+.. _ai:
 
 Artificial Intelligence Concentration (12 Credits)
 --------------------------------------------------
@@ -165,6 +169,8 @@ Two (2) of the following courses from the three (3) choices below and the three 
 * :doc:`../courses/comp458`
 * :doc:`../courses/comp488`
 
+.. _cybersecurity:
+
 Cybersecurity Concentration (12 Credits)
 ----------------------------------------
 
@@ -185,6 +191,8 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488`
+
+.. _computerSystems:
 
 Computer Systems Concentration (12 Credits)
 -------------------------------------------
