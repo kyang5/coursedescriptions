@@ -222,7 +222,7 @@ Here is an outline of the steps toward your thesis.  The ones in boldface are fo
 
 See http://www.luc.edu/ors/RCRHome.shtml to find when this 2-day, non-credit course is offered.
 
-4. Thesis/Dissertation Committee Recommendation
+3. Thesis/Dissertation Committee Recommendation
 
 The next step is for you to secure permission to pursue the thesis option from the Graduate Program Director.
 
