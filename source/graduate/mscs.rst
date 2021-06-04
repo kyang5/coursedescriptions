@@ -16,6 +16,13 @@ Overview
 
 The M.S. in Computer Science provides foundations of Computer Science while acknowledging that Computer Science is key to algorithms in the sciences. Other programs in the Computer Science Department with different foci are :doc:`msit` and the :doc:`msse`.
 
+The M.S. in Computer Science offers the following concentrations of specialization:
+
+* No Concentration
+* :ref:`Artificial Intelligence<Artificial Intelligence Concentration (12 Credits)>`
+* Cybersecurity
+* Computer Systems
+
 **********
 Curriculum
 **********
