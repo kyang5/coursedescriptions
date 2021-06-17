@@ -1,13 +1,13 @@
-.. header:: COMP 400: Data Mining
-.. footer:: COMP 400: Data Mining
+.. header:: COMP 406: Data Mining
+.. footer:: COMP 406: Data Mining
 
 .. index::
     Data Mining
-    COMP 400
+    COMP 406
     Graduate
 
 #####################
-COMP 400: Data Mining
+COMP 406: Data Mining
 #####################
 
 ******************

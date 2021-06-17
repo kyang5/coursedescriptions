@@ -1,5 +1,5 @@
-.. header:: COMP ###: COMP 474: Software Engineering
-.. footer:: COMP ###: COMP 474: Software Engineering
+.. header:: COMP 474: Software Engineering
+.. footer:: COMP 474: Software Engineering
 
 .. index::
     Software Engineering
