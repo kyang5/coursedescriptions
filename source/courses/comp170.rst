@@ -36,7 +36,7 @@ This programming intensive course with its weekly lab component introduces basic
 Description
 ===========
 
-This course is an introduction to the computer science major, covering basic concepts using the C# (C-Sharp) object-oriented(OO) programming language.
+This course is an introduction to the computer science major, covering basic concepts using an object-oriented(OO) programming language.
 
 The course addresses the following questions:
 
