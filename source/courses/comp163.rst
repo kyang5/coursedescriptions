@@ -18,8 +18,7 @@ COMP 163: Discrete Structures
 
     **Prerequisites**
 
-    * None
-
+    * |math118| or academic placement
 
 About
 =====

@@ -24,8 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math118|
-    * :doc:`../courses/comp150` is preferred
+    * None
 
 About
 =====
