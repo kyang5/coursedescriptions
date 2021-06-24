@@ -7,9 +7,9 @@
     Operating Systems
     COMP 310
 
-###########################################
-COMP 310: Introduction to Operating Systems
-###########################################
+###########################
+COMP 310: Operating Systems
+###########################
 
 ******************
 Course Information
@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` **and** :doc:`../courses/comp271`
+    * :doc:`../courses/comp264` and :doc:`../courses/comp272`
 
 About
 =====

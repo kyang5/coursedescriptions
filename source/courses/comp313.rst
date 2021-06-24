@@ -8,9 +8,9 @@
     Development
     COMP 313
 
-##################################################
-COMP 313: Intermediate Object-Oriented Development
-##################################################
+################################
+COMP 313: Object-Oriented Design
+################################
 
 ******************
 Course Information
@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`../courses/comp272`
 
 About
 =====

@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math131| or |math161| or :doc:`../courses/comp125` or :doc:`../courses/comp141` or :doc:`../courses/comp150` or :doc:`../courses/comp180` or permission from the instructor.
+    * |math131| or |math161| or :doc:`../courses/comp125` or :doc:`../courses/comp180` or permission from the instructor.
     * Recommended - Experience programming in a procedural or object-oriented language.
 
 About
