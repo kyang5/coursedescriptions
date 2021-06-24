@@ -18,10 +18,10 @@ The M.S. in Computer Science provides foundations of Computer Science while ackn
 
 The M.S. in Computer Science offers the following concentrations of specialization:
 
-* No Concentration
-* :ref:`Artificial Intelligence<Artificial Intelligence Concentration (12 Credits)>`
-* Cybersecurity
-* Computer Systems
+* :ref:`No Concentration<default>`
+* :ref:`Artificial Intelligence<ai>`
+* :ref:`Cybersecurity<cybersecurity>`
+* :ref:`Computer Systems<computerSystems>`
 
 **********
 Curriculum
@@ -119,6 +119,8 @@ There are numerous options for independent study, including a programming projec
 
   Students may take up to a maximum of 6 credit hours of :doc:`../courses/comp490` and/or :doc:`../courses/comp499`.
 
+.. _default:
+
 Default Concentration Electives (12 Credits)
 --------------------------------------------
 
@@ -139,6 +141,8 @@ Default Concentration Electives (12 Credits)
 * :doc:`../courses/comp474`
 * :doc:`../courses/comp473`
 * :doc:`../courses/comp473`
+
+.. _ai:
 
 Artificial Intelligence Concentration (12 Credits)
 --------------------------------------------------
@@ -165,6 +169,8 @@ Two (2) of the following courses from the three (3) choices below and the three 
 * :doc:`../courses/comp458`
 * :doc:`../courses/comp488`
 
+.. _cybersecurity:
+
 Cybersecurity Concentration (12 Credits)
 ----------------------------------------
 
@@ -185,6 +191,8 @@ Cybersecurity Concentration (12 Credits)
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 * :doc:`../courses/comp488`
+
+.. _computerSystems:
 
 Computer Systems Concentration (12 Credits)
 -------------------------------------------
@@ -222,7 +230,7 @@ Here is an outline of the steps toward your thesis.  The ones in boldface are fo
 
 See http://www.luc.edu/ors/RCRHome.shtml to find when this 2-day, non-credit course is offered.
 
-4. Thesis/Dissertation Committee Recommendation
+3. Thesis/Dissertation Committee Recommendation
 
 The next step is for you to secure permission to pursue the thesis option from the Graduate Program Director.
 
@@ -256,7 +264,7 @@ If you are submitting your proposal to the Institutional Review Board (IRB), you
 
 .. important::
 
-  A simple one to two paragraph abstract must be included** **in the proposal form on https://gsps.luc.edu/.
+  A simple one to two paragraph abstract **must be included** in the proposal form on https://gsps.luc.edu/.
 
   You will get notified once all members of the committee, the GPD, and the Graduate School approve the proposal through https://gsps.luc.edu/.
 

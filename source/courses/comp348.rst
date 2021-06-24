@@ -22,11 +22,7 @@ Course Information
     * 3
 
     **Prerequisites**
-
-    * One or more of the following:
-        * :doc:`../courses/comp264`
-        * :doc:`../courses/comp271`
-        * :doc:`../courses/comp347`
+    * :doc:`../courses/comp301`
 
 About
 =====

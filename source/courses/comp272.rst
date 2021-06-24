@@ -23,9 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp163` or |math201|
-    * :doc:`../courses/comp170` or :doc:`../courses/comp215`
     * :doc:`../courses/comp271`
+    * :doc:`../courses/comp163` or |math201|
     * |math131| or |math161|
 
 About

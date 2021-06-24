@@ -14,9 +14,9 @@
     Mobile
     COMP 322
 
-##########################################################
-COMP 322: Software Development for Wireless/Mobile Devices
-##########################################################
+##############################################################
+COMP 322: Software Development for Wireless and Mobile Devices
+##############################################################
 
 ******************
 Course Information
@@ -30,7 +30,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
 
 About
 =====

@@ -25,8 +25,8 @@ Course Information
 
     **Prerequisites**
 
+    * :doc:`../courses/comp215` or :doc:`../courses/comp170`
     * :doc:`../courses/comp141`
-    * :doc:`../courses/comp215` is preferred or :doc:`../courses/comp170`
 
 About
 =====

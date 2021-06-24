@@ -20,6 +20,13 @@ Students in this program will gain a broad technical understanding of current an
 
 Courses may be taken in person or online.
 
+The M.S. in Information Systems offers the following tracks of specialization:
+
+* :ref:`Data Management<dm>`
+* :ref:`Technology Management<tm>`
+* :ref:`IT Security<is>`
+* :ref:`Enterprise Networking<en>`
+
 Entirely Online Option
 ======================
 
@@ -120,6 +127,8 @@ Some courses (eg 317/417 and 343/443) are offered as both undergraduate and grad
 .. important::
   Three (3) courses from any one of the following Tracks must before completing your major.
 
+.. _dm:
+
 Data Management (DM) Track
 ==========================
 
@@ -129,6 +138,8 @@ Data Management (DM) Track
 * :doc:`../courses/comp453`
 * :doc:`../courses/comp488` Data Visualization Topic
 
+.. _tm:
+
 Technology Management (TM) Track
 ================================
 
@@ -136,6 +147,8 @@ Technology Management (TM) Track
 * :doc:`../courses/comp403`
 * :doc:`../courses/comp420`
 * :doc:`../courses/comp477`
+
+.. _is:
 
 IT Security (IS) Track
 ======================
@@ -146,6 +159,7 @@ IT Security (IS) Track
 * :doc:`../courses/comp449`
 * :doc:`../courses/comp452`
 
+.. _en:
 
 Enterprise Networking (EN) Track
 ================================

@@ -24,15 +24,14 @@ Course Information
 
     **Prerequisites**
 
+    * :doc:`../courses/comp141`
+    * :doc:`../courses/comp163`
     * :doc:`../courses/comp170` or :doc:`../courses/comp215`
 
     **Co-Requisites**
 
-    * One of the following:
+    * :doc:`../courses/comp163`
 
-        * :doc:`../courses/comp163`
-        * |math201|
-        * Declared Computer Science, Computer Crime & Forensics or Information Technology Major or Minor
 
 About
 =====

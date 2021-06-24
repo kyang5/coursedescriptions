@@ -1,15 +1,14 @@
-.. TODO: Create course description
-
-.. header:: COMP 404: Organizational Change and Development
-.. footer:: COMP 404: Organizational Change and Development
+.. header:: COMP 404: Organizational Development
+.. footer:: COMP 404: Organizational Development
 
 .. index::
-    Organizational Change and Development
+    Organizational Development
+    COMP 404
     Graduate
 
-###############################################
-COMP 404: Organizational Change and Development
-###############################################
+######################################################
+COMP 404: Organizational Development
+######################################################
 
 ******************
 Course Information
@@ -23,22 +22,23 @@ Course Information
 
     **Prerequisites**
 
-    * foo
+    * :doc:`../courses/comp251` or :doc:`../courses/comp271`
 
 About
 =====
 
-bar
+This course will cover organization development with a focus in Information Technology.
 
 Description
 ===========
 
-foo
+ 	
+This course focuses on the manager's role in leading Organization Development and Change to maximize organization and individual effectiveness with a focus on Information Technology.  The class explores Organization Development and Change theory, change practices, and discusses considerations a manager will face as a change agent in today's computing ecosystem.  
 
 Outcome
 =======
 
-bar
+To understand the dynamics of change in organizations; learn techniques and strategies in managing change; develop skills that will enable a change agent mentality within the context of IT leadership.
 
 *******
 Syllabi

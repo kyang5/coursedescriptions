@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math118| or :doc:`../courses/comp125` or :doc:`../courses/comp150` or :doc:`../courses/comp163` or permission from the instructor.
+    * |math131| or |math161| or :doc:`../courses/comp125` or :doc:`../courses/comp180` or permission from the instructor.
     * Recommended - Experience programming in a procedural or object-oriented language.
 
 About
@@ -36,7 +36,7 @@ This programming intensive course with its weekly lab component introduces basic
 Description
 ===========
 
-This course is an introduction to the computer science major, covering basic concepts using the C# (C-Sharp) object-oriented(OO) programming language.
+This course is an introduction to the computer science major, covering basic concepts using an object-oriented(OO) programming language.
 
 The course addresses the following questions:
 
