@@ -61,7 +61,7 @@ or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5
 .. important::
     To get a grade recorded, the final reports of the student and the employer must be received by the Undergraduate Internship Coordinator before the last week of the finals week. Make sure the end date on the internship is early enough to fit with that. You may continue with more hours in your job after the for-credit internship part.
 
-Internship opportunities that the Computer Science Department has received are posted here and in the department on the fourth floor of Lewis Towers. Another resource is the `university career and internship center <http://www.luc.edu/career/>`__. Students may also find a position through their own contacts.
+Internship opportunities that the Computer Science Department has received are distributed to email lists of Department majors/minors and posted in the "Jobs" portal of the Department `web site<https://jobs.cs.luc.edu/>`__. Students may also find a position through their own contacts.
 
 Outcome
 =======
