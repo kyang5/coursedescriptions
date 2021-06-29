@@ -1,3 +1,9 @@
+.. toctree::
+  :maxdepth: 1
+  :hidden:
+
+  CS Dept. Homepage <https://www.luc.edu/cs/>
+
 #############################
 Academic Programs and Courses
 #############################
@@ -8,7 +14,7 @@ This site is aimed at helping *current* students find detailed information about
 
 .. note::
 
-   See the main `Computer Science Department <https://luc.edu/cs/>`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
+   See the main `Computer Science Department`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
 
 Schedules and Syllabi
 ---------------------
@@ -58,7 +64,4 @@ Topical Index
 
 * :ref:`genindex`
 
-.. toctree::
-  :maxdepth: 1
-
-  CS Dept. Homepage <https://www.luc.edu/cs/>
+.. _Computer Science Department: https://luc.edu/cs/
