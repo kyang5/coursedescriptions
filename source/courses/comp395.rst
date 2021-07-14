@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * Standing Sophmore
+    * Standing Sophmore or higher
     * Any COMP course
 
 About

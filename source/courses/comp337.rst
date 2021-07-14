@@ -1,15 +1,15 @@
-.. header:: COMP 337: Introduction to Concurrency
-.. footer:: COMP 337: Introduction to Concurrency
+.. header:: COMP 337: Conccurent Programming
+.. footer:: COMP 337: Conccurent Programming
 
 .. index::
-    Introduction to Concurrency
-    Introduction
-    Concurrency
+    Conccurent Programming
+    Conccurent
+    Programming
     COMP 337
 
-#####################################
-COMP 337: Introduction to Concurrency
-#####################################
+################################
+COMP 337: Conccurent Programming
+################################
 
 ******************
 Course Information

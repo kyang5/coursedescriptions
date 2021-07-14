@@ -24,11 +24,13 @@ Course Information
     **Prerequisites**
 
     * :doc:`../courses/comp141`
-    * :doc:`../courses/comp170` or :doc:`../courses/comp215`
+    * :doc:`../courses/comp163` or |math201| or declared Bioinfomatics or SCPS student
+    * :doc:`../courses/comp170`
+    * or :doc:`../courses/comp215`
 
     **Co-Requisites**
 
-    * :doc:`../courses/comp163` is preferred or |math201|
+    * :doc:`../courses/comp163`
 
 About
 =====

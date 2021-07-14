@@ -25,7 +25,8 @@ Course Information
 
     **Prerequisites**
 
-    * None
+    * Any COMP course
+    * Any Ethics course
 
 About
 =====

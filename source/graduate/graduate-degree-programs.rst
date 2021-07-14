@@ -6,15 +6,6 @@ Graduate Degree Programs
 Program Offerings
 *****************
 
-.. toctree::
-    :maxdepth: 1
-    :hidden:
-
-    madh
-    mscs
-    msit
-    msse
-
 The following graduate programs are offered by the Loyola CS Department. Each program has tracks for students to specialize in. These can be viewed in each programs respective webpage.
 
 .. important::

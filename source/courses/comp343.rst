@@ -1,17 +1,15 @@
-.. header:: COMP 343: Introduction to Computer Networks
-.. footer:: COMP 343: Introduction to Computer Networks
+.. header:: COMP 343: Computer Networks
+.. footer:: COMP 343: Computer Networks
 
 .. index::
-    Introduction to Computer Networks
-    Introduction
     Computer Networks
     Computer
     Networks
     COMP 343
 
-###########################################
-COMP 343: Introduction to Computer Networks
-###########################################
+###########################
+COMP 343: Computer Networks
+###########################
 
 ******************
 Course Information

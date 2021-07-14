@@ -23,7 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`../courses/comp264`
+    * :doc:`../courses/comp272`
 
 About
 =====
