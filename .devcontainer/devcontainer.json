@@ -1,0 +1,8 @@
+{
+    "name": "LUC CS Academics Sphinx Site",
+    "extensions": [
+        "ms-python.python",
+        "lextudio.restructuredtext"
+    ],
+    "image": "python:3.9.6-buster"
+}
