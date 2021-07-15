@@ -30,9 +30,6 @@ The following graduate programs are offered by the Loyola CS Department. Each pr
 Program Prerequisites
 *********************
 
-.. toctree::
-  :hidden:
-
 .. important::
 
   If you were a Loyola Undergraduate who declared a CS, IT, SE, etc. major prior to Fall 2019, you do not have to worry about taking :doc:`../courses/comp272` as the content was covered in :doc:`../courses/comp271`.
@@ -66,7 +63,7 @@ In the Fall or Spring semesters, you have the opportunity to take a compressed i
 
 To be a full-time graduate student at the same time, the most common additional course is  the required :doc:`../courses/comp417`, which has no prerequisite.
 
-:doc:`../courses/comp170` does not require any background in programming, but if you have no background in programming, then it is important to have a math background in which you are comfortable with the material in a precalculus course like our |math118|, which includes significant manipulation of functions and logical symbolic progressions.
+:doc:`../courses/comp170` does not require any background in programming, but if you have no backgound in programming, then it is important to have a math background in which you are comfortable with the material in a precalculus course like our |math118|, which includes significant manipulation of functions and logical symbolic progressions.
 
 If you have a previous modest introduction to programming, including defining and using functions, then the formal math background is not so important.
 
