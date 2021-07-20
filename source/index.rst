@@ -48,10 +48,6 @@ Graduate Student Resources
 
     courses/graduate-courses
     graduate/graduate-degree-programs
-    graduate/madh
-    graduate/mscs
-    graduate/msit
-    graduate/msse
 
 Other Helpful Resources for Current Students
 --------------------------------------------
