@@ -2,7 +2,8 @@
     "name": "LUC CS Academics Sphinx Site",
     "extensions": [
         "ms-python.python",
-        "lextudio.restructuredtext"
+        "lextudio.restructuredtext",
+        "mechatroner.rainbow-csv"
     ],
     "image": "python:3.9.6-buster"
 }
