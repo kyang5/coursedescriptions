@@ -2,56 +2,38 @@
 
 > The official Loyola University Chicago Computer Science academic offerings website
 
-[![Build Status](https://img.shields.io/travis/LoyolaChicagoCS/coursedescriptions?label=TravisCI%20Build)](https://img.shields.io/travis/LoyolaChicagoCS/coursedescriptions?label=TravisCI%20Build)
+![GH Pages Deployment](https://github.com/LoyolaChicagoCS/coursedescriptions/actions/workflows/main.yml/badge.svg)
 
-## Table of Contents
+## Where is This Site Located?
 
-<details>
-  <summary>Click to expand</summary>
-
-- [LUC CS Academics Website](#luc-cs-academics-website)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [How to Contribute](#how-to-contribute)
-  - [How to Add Content](#how-to-add-content)
-    - [Premade Template](#premade-template)
-    - [Custom Template](#custom-template)
-
-</details>
-
-## About
-
-This is the repository for [https://academics.cs.luc.edu](https://academics.cs.luc.edu).
-
-This website holds all of the Loyola University Chicago Computer Science academic offerings including but not limited to:
-
-- Graduate courses
-- Graduate programs
-- Undergraduate courses
-- Undergraduate programs
-
-This website is built using TravisCI using the Sphinx static site generator. The content of the website is written in ReStructuredText.
+This site can be found at https://academics.cs.luc.edu
 
 ## How to Contribute
 
-If you would like to contribute to the site, you can file an issue.
+### Filing Issues
 
-Please use the provided issue templates as those allow us to clearly see and understand the issue, and make it easier for you to file one.
+If you spot any issues with the site, feel free to open an issue at https://github.com/LoyolaChicagoCS/coursedescriptions/issues
 
-At this time, unless you are working on this website under the supervision of the Computer Science Department of Loyola University Chicago, we are not accepting 3rd party pull requests.
+### Developing Using Sphinx
 
-## How to Add Content
+If you want to develop this site further follow the steps below:
 
-If you would like to add content, please use one of the premade templates **or** create your own template and implement it across all related content.
+#### Developing with VS Code Dev Container (Reccomended)
 
-### Premade Template
+1. Install `Docker`
+2. Install the [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) VS Code extension
+3. Open the project in the provided `dev container`
+4. Run `pip install -r requirements.txt`
 
-You can find the premade templates in the `templates` folder of this project.
+#### Developing without VS Code Dev Container
 
-Their names are formatted as such: `content type-template.rst`.
+1. Install `Python 3.9+`
+2. Run `pip install -r requirements.txt`
 
-### Custom Template
+## Deploying Site to GitHub Pages
 
-Create your template in the `templates` folder of this project.
+If you wish to deploy the site to GitHub Pages, a GitHub Action workflow has already been made to simplify this process.
 
-Have the name formatted as such: `content type-template.rst`.
+1. Enable `Actions` on your fork of this project
+2. Enable `GitHub Pages` on your fork of this project
+3. If you use a different production branch name other than `main`, change the [workflow](.github/workflow/main.yml) to point to that branch
