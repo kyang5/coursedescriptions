@@ -39,6 +39,7 @@ jobs:
 
       - name: Generate HTML
         run: |
+          make clean
           make html
           echo academics.cs.luc.edu > build/html/CNAME
 

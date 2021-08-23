@@ -1,7 +1,10 @@
-.. _undergraduate-courses:
+.. index::
 
+    Undergraduate Courses
+
+#####################
 Undergraduate Courses
---------------------------
+#####################
 
 .. note::
 
@@ -9,8 +12,13 @@ Undergraduate Courses
 
    Looking for an old syllabi? See :ref:`legacy_syllabi`
 
-.. note::
-    Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in `Locus`_ to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
+.. important::
+
+    Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in `Locus <https://locus.luc.edu>`_ to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
+
+*****************
+100 Level Courses
+*****************
 
 .. toctree::
    :maxdepth: 1
@@ -27,6 +35,14 @@ Undergraduate Courses
    comp170
    comp171
    comp180
+
+*****************
+200 Level Courses
+*****************
+
+.. toctree::
+   :maxdepth: 1
+
    comp215
    comp231
    comp250
@@ -35,6 +51,14 @@ Undergraduate Courses
    comp266
    comp271
    comp272
+
+*****************
+300 Level Courses
+*****************
+
+.. toctree::
+   :maxdepth: 1
+
    comp301
    comp305
    comp306
@@ -100,6 +124,12 @@ Undergraduate Courses
    comp397
    comp398
    comp399
-   isscm349
 
-.. _Locus: https://locus.luc.edu/
+*************
+ISSCM Courses
+*************
+
+.. toctree::
+   :maxdepth: 1
+
+   isscm349
