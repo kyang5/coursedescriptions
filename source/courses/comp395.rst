@@ -24,7 +24,7 @@ Course Information
     **Prerequisites**
 
     * Standing Sophmore or higher
-    * Any COMP course
+    * Any :doc:`COMP<undergraduate-courses>` course
 
 About
 =====

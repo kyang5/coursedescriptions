@@ -35,8 +35,6 @@ About
 
 Students work outside the classroom applying and extending their computer science skills, typically for at least 150 hours for 3 credits.  A memorandum of understanding is required between a student, his or her employer, and the Undergraduate Program Director, followed by final reports from the student and the employer.
 
-.. Editors Note: REWRITE THIS
-
 Description
 ===========
 
@@ -61,7 +59,7 @@ or in `MS-Word format <https://drive.google.com/file/d/0Bz_4VraMwHUod3dsWFA0bWc5
 .. important::
     To get a grade recorded, the final reports of the student and the employer must be received by the Undergraduate Internship Coordinator before the last week of the finals week. Make sure the end date on the internship is early enough to fit with that. You may continue with more hours in your job after the for-credit internship part.
 
-Internship opportunities that the Computer Science Department has received are distributed to email lists of Department majors/minors and posted in the "Jobs" portal of the Department `web site<https://jobs.cs.luc.edu/>`__. Students may also find a position through their own contacts.
+Internship opportunities that the Computer Science Department has received are distributed to email lists of Department majors/minors and posted in the "Jobs" portal of the Department `web site <https://jobs.cs.luc.edu/>`_. Students may also find a position through their own contacts.
 
 Outcome
 =======

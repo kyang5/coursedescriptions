@@ -21,7 +21,7 @@ Course Information
 
     **Prerequisites**
 
-    * BIOL 282 **and** Instructor Permission
+    * `BIOL 282 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_ **and** Instructor Permission
 
 About
 =====

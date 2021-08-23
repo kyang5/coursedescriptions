@@ -20,7 +20,7 @@ Course Information
 
     **Alias**
 
-    * PHYS 366
+    * `PHYS 366 <https://www.luc.edu/physics/courses.shtml#366>`_
 
     **Credit Hours**
 
@@ -28,7 +28,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` or PHYS 266
+    * :doc:`comp264`
 
 About
 =====

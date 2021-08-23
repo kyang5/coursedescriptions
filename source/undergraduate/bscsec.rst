@@ -57,7 +57,9 @@ Computer Science Free Electives
 -  3 credits of :doc:`../courses/comp125` or :doc:`../courses/comp150` or COMP 3xx
 -  4 credits of COMP 3xx.
 
-(With permission, extra credits of MATH 161 or 300-level MATH, PHYS, or STAT for double majors, can be applied in this category.)
+.. note::
+
+    With permission, extra credits of |math161|, or 300 level `MATH <https://www.luc.edu/math/course-catalog.shtml#146751>`_, `PHYS <https://www.luc.edu/physics/courses.shtml#95720>`_, or `STAT <https://www.luc.edu/math/course-catalog.shtml#146752>`_ **for double majors** can be applied in this category.)
 
 General Notes
 ~~~~~~~~~~~~~
