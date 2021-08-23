@@ -22,8 +22,8 @@ Course Information
     **Prerequisites**
 
     * Junior Standing
-    * ACCT 201
-    * MGMT 201
+    * `ACCT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccounting/#692265>`_
+    * `MGMT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/#675009>`_
 
 About
 =====
