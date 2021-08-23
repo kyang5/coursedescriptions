@@ -59,7 +59,7 @@ Computer Science Free Electives
 
 .. note::
 
-    With permission, extra credits of |math161|, |math162|, or 300 level `MATH <https://www.luc.edu/math/course-catalog.shtml#146751>`_, `PHYS <https://www.luc.edu/physics/courses.shtml#95720>`_, or `STAT <https://www.luc.edu/math/course-catalog.shtml#146752>`_ **for double majors** can be applied in this category.)
+    With permission, extra credits of |math161|, or 300 level `MATH <https://www.luc.edu/math/course-catalog.shtml#146751>`_, `PHYS <https://www.luc.edu/physics/courses.shtml#95720>`_, or `STAT <https://www.luc.edu/math/course-catalog.shtml#146752>`_ **for double majors** can be applied in this category.)
 
 General Notes
 ~~~~~~~~~~~~~
