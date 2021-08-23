@@ -25,8 +25,8 @@ Course Information
 
     **Prerequisites**
 
-    * Any COMP course
-    * Any Ethics course
+    * Any :doc:`COMP<undergraduate-courses>` course
+    * Any `Ethics <https://www.luc.edu/core/ethicscoursesub-first.shtml>`_ course
 
 About
 =====
