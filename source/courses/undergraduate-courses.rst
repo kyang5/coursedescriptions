@@ -124,4 +124,12 @@ Undergraduate Courses
    comp397
    comp398
    comp399
+
+*************
+ISSCM Courses
+*************
+
+.. toctree::
+   :maxdepth: 1
+
    isscm349
