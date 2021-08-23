@@ -9,7 +9,7 @@
     COMP 401
 
 ############################################
-COMP  401: Introduction to Computer Security
+COMP 401: Introduction to Computer Security
 ############################################
 
 ******************
