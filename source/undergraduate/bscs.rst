@@ -33,16 +33,16 @@ Both of the following must be taken:
 
 All of the following must be taken:
 
--   :doc:`../courses/comp141`
--   :doc:`../courses/comp163` or |math201|
--   :doc:`../courses/comp170`
--   :doc:`../courses/comp264`
--   :doc:`../courses/comp271`
--   :doc:`../courses/comp272`
--   :doc:`../courses/comp310`
--   :doc:`../courses/comp317`
--   :doc:`../courses/comp363`
--   :doc:`../courses/comp371`
+-   :doc:`comp141`
+-   :doc:`comp163` or |math201|
+-   :doc:`comp170`
+-   :doc:`comp264`
+-   :doc:`comp271`
+-   :doc:`comp272`
+-   :doc:`comp310`
+-   :doc:`comp317`
+-   :doc:`comp363`
+-   :doc:`comp371`
 -   |stat203|
 
 COMP-BS Restricted Electives
@@ -50,30 +50,32 @@ COMP-BS Restricted Electives
 
 Select 9 credits from:
 
--   :doc:`../courses/comp301`
--   :doc:`../courses/comp313`
--   :doc:`../courses/comp330`
--   :doc:`../courses/comp332`
--   :doc:`../courses/comp339`
--   :doc:`../courses/comp341`
--   :doc:`../courses/comp343`
--   :doc:`../courses/comp353`
--   :doc:`../courses/comp364`
--   :doc:`../courses/comp370`
--   :doc:`../courses/comp379`
+-   :doc:`comp301`
+-   :doc:`comp313`
+-   :doc:`comp330`
+-   :doc:`comp332`
+-   :doc:`comp339`
+-   :doc:`comp341`
+-   :doc:`comp343`
+-   :doc:`comp353`
+-   :doc:`comp364`
+-   :doc:`comp370`
+-   :doc:`comp379`
 
 Practicum Capstone
 ~~~~~~~~~~~~~~~~~~~
 
-Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../courses/comp390`, :doc:`../courses/comp391`, and :doc:`../courses/comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
+Six (6) credits taken from one or more of :doc:`comp312`, :doc:`comp390`, :doc:`comp391`, and :doc:`comp398`. See the details of registering in the links for each course. Students are encouraged to complete these credits during junior and senior years to draw on prior experience.
 
 Computer Science Free Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- 3 credits of :doc:`../courses/comp125` or :doc:`../courses/comp150` or COMP 3xx
+- 3 credits of :doc:`comp125` or :doc:`comp150` or any :doc:`COMP 300 level <../courses/undergraduate-courses>` course
 - 4 credits of COMP 3xx
 
-( With permission, extra credits of MATH 161/162 or 300-level MATH, PHYS, or STAT for double majors, can be applied in this category.)
+.. note::
+
+    With permission, extra credits of |math161|, |math162|, or 300 level `MATH <https://www.luc.edu/math/course-catalog.shtml#146751>`_, `PHYS <https://www.luc.edu/physics/courses.shtml#95720>`_, or `STAT <https://www.luc.edu/math/course-catalog.shtml#146752>`_ **for double majors** can be applied in this category.)
 
 General Notes
 ~~~~~~~~~~~~~
