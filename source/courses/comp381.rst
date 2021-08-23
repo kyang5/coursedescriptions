@@ -21,8 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * BIOL 101 (or equivalent) or NTSC 104
-    * BIOL 102
+    * `BIOL 101 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_ (or equivalent)
+    * `BIOL 102 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_
 
 About
 =====
