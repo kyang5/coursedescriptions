@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * Any :doc:`COMP<undergraduate-courses>` course
+    * Any :doc:`COMP 300 level <undergraduate-courses>` course
     * Any `Ethics <https://www.luc.edu/core/ethicscoursesub-first.shtml>`_ course
 
 About

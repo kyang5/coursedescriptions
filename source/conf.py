@@ -18,113 +18,113 @@ from datetime import date
 rst_epilog = (
     """
 
-.. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`__
+.. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`_
 
-.. |math117| replace:: `MATH 117: College Algebra <http://luc.edu/math/academics/courses/math117/index.shtml>`__
+.. |math117| replace:: `MATH 117: College Algebra <http://luc.edu/math/academics/courses/math117/index.shtml>`_
 
-.. |math118| replace:: `MATH 118: Precalculus <http://luc.edu/math/academics/courses/math118/index.shtml>`__
+.. |math118| replace:: `MATH 118: Precalculus <http://luc.edu/math/academics/courses/math118/index.shtml>`_
 
-.. |math131| replace:: `MATH 131: Applied Calculus I <http://luc.edu/math/academics/courses/math131/index.shtml>`__
+.. |math131| replace:: `MATH 131: Applied Calculus I <http://luc.edu/math/academics/courses/math131/index.shtml>`_
 
-.. |math132| replace:: `MATH 132: Applied Calculus II <http://luc.edu/math/academics/courses/math132/index.shtml>`__
+.. |math132| replace:: `MATH 132: Applied Calculus II <http://luc.edu/math/academics/courses/math132/index.shtml>`_
 
-.. |math161| replace:: `MATH 161: Calculus I <http://luc.edu/math/academics/courses/math161/index.shtml>`__
+.. |math161| replace:: `MATH 161: Calculus I <http://luc.edu/math/academics/courses/math161/index.shtml>`_
 
-.. |math162| replace:: `MATH 162: Calculus II <http://luc.edu/math/academics/courses/math162/index.shtml>`__
+.. |math162| replace:: `MATH 162: Calculus II <http://luc.edu/math/academics/courses/math162/index.shtml>`_
 
-.. |math201| replace:: `MATH 201: Introduction to Discrete Mathematics and Number Theory <http://luc.edu/math/academics/courses/math201/index.shtml>`__
+.. |math201| replace:: `MATH 201: Introduction to Discrete Mathematics and Number Theory <http://luc.edu/math/academics/courses/math201/index.shtml>`_
 
-.. |math212| replace:: `MATH 212: Linear Algebra <http://luc.edu/math/academics/courses/math212/index.shtml>`__
+.. |math212| replace:: `MATH 212: Linear Algebra <http://luc.edu/math/academics/courses/math212/index.shtml>`_
 
-.. |math215| replace:: `MATH 215: Object Oriented Math Programming <http://luc.edu/math/academics/courses/math215/index.shtml>`__
+.. |math215| replace:: `MATH 215: Object Oriented Math Programming <http://luc.edu/math/academics/courses/math215/index.shtml>`_
 
-.. |math263| replace:: `MATH 263: Multivariable Calculus <http://luc.edu/math/academics/courses/math263/index.shtml>`__
+.. |math263| replace:: `MATH 263: Multivariable Calculus <http://luc.edu/math/academics/courses/math263/index.shtml>`_
 
-.. |math264| replace:: `MATH 264: Ordinary Differential Equations <http://luc.edu/math/academics/courses/math264/index.shtml>`__
+.. |math264| replace:: `MATH 264: Ordinary Differential Equations <http://luc.edu/math/academics/courses/math264/index.shtml>`_
 
-.. |math304| replace:: `MATH 304: Probability and Statistics I <http://luc.edu/math/academics/courses/math304/index.shtml>`__
+.. |math304| replace:: `MATH 304: Probability and Statistics I <http://luc.edu/math/academics/courses/math304/index.shtml>`_
 
-.. |math309| replace:: `MATH 309: Numerical Methods <http://luc.edu/math/academics/courses/math309/index.shtml>`__
+.. |math309| replace:: `MATH 309: Numerical Methods <http://luc.edu/math/academics/courses/math309/index.shtml>`_
 
-.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math313/index.shtml>`__
+.. |math313| replace:: `MATH 313: Abstract Algebra <http://luc.edu/math/academics/courses/math313/index.shtml>`_
 
-.. |math314| replace:: `MATH 314: Advanced Topics in Abstract Algebra <http://luc.edu/math/academics/courses/math314/index.shtml>`__
+.. |math314| replace:: `MATH 314: Advanced Topics in Abstract Algebra <http://luc.edu/math/academics/courses/math314/index.shtml>`_
 
-.. |math315| replace:: `MATH 315: Advanced Topics in Linear Algebra <http://luc.edu/math/academics/courses/math315/index.shtml>`__
+.. |math315| replace:: `MATH 315: Advanced Topics in Linear Algebra <http://luc.edu/math/academics/courses/math315/index.shtml>`_
 
-.. |math328| replace:: `MATH 328: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math328/index.shtml>`__
+.. |math328| replace:: `MATH 328: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math328/index.shtml>`_
 
-.. |math331| replace:: `MATH 331: Cryptography <http://luc.edu/math/academics/courses/math331/index.shtml>`__
+.. |math331| replace:: `MATH 331: Cryptography <http://luc.edu/math/academics/courses/math331/index.shtml>`_
 
-.. |math351| replace:: `MATH 351: Introduction to Real Analysis I <http://luc.edu/math/academics/courses/math351/index.shtml>`__
+.. |math351| replace:: `MATH 351: Introduction to Real Analysis I <http://luc.edu/math/academics/courses/math351/index.shtml>`_
 
-.. |math352| replace:: `MATH 352: Introduction to Real Analysis II <http://luc.edu/math/academics/courses/math352/index.shtml>`__
+.. |math352| replace:: `MATH 352: Introduction to Real Analysis II <http://luc.edu/math/academics/courses/math352/index.shtml>`_
 
-.. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`__
+.. |math353| replace:: `MATH 353: Introductory Complex Analysis <http://luc.edu/math/academics/courses/math353/index.shtml>`_
 
-.. |math409| replace:: `MATH 409: Advanced Numerical Anaylsis <http://luc.edu/math/academics/courses/math409/index.shtml>`__
+.. |math409| replace:: `MATH 409: Advanced Numerical Anaylsis <http://luc.edu/math/academics/courses/math409/index.shtml>`_
 
-.. |math428| replace:: `MATH 428: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math428/index.shtml>`__
+.. |math428| replace:: `MATH 428: Algebraic Coding Theory <http://luc.edu/math/academics/courses/math428/index.shtml>`_
 
-.. |stat103| replace:: `STAT 103: Fundamentals of Statistics <http://www.luc.edu/math/academics/courses/stat103/>`__
+.. |stat103| replace:: `STAT 103: Fundamentals of Statistics <http://www.luc.edu/math/academics/courses/stat103/>`_
 
-.. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`__
+.. |stat203| replace:: `STAT 203: Statistics <http://luc.edu/math/academics/courses/stat203/index.shtml>`_
 
-.. |stat304| replace:: `STAT 304: Probability and Statistics I <http://luc.edu/math/academics/courses/stat304/index.shtml>`__
+.. |stat304| replace:: `STAT 304: Probability and Statistics I <http://luc.edu/math/academics/courses/stat304/index.shtml>`_
 
-.. |phil120| replace:: `PHIL 120 <http://luc.edu/philosophy/coursedescriptions.shtml>`__
+.. |phil120| replace:: `PHIL 120 <http://luc.edu/philosophy/coursedescriptions.shtml>`_
 
-.. |phys112| replace:: `PHYS 112: College Physics II <http://www.luc.edu/physics/courses.shtml#112>`__
+.. |phys112| replace:: `PHYS 112: College Physics II <http://www.luc.edu/physics/courses.shtml#112>`_
 
-.. |phys125| replace:: `PHYS 125: General Physics I <http://www.luc.edu/physics/courses.shtml#125>`__
+.. |phys125| replace:: `PHYS 125: General Physics I <http://www.luc.edu/physics/courses.shtml#125>`_
 
-.. |phys126| replace:: `PHYS 126: General Physics II <http://www.luc.edu/physics/courses.shtml#126>`__
+.. |phys126| replace:: `PHYS 126: General Physics II <http://www.luc.edu/physics/courses.shtml#126>`_
 
-.. |phys135| replace:: `PHYS 135: General Physics Lab I <http://www.luc.edu/physics/courses.shtml#135>`__
+.. |phys135| replace:: `PHYS 135: General Physics Lab I <http://www.luc.edu/physics/courses.shtml#135>`_
 
-.. |phys136| replace:: `PHYS 136: General Physics Lab II <http://www.luc.edu/physics/courses.shtml#136>`__
+.. |phys136| replace:: `PHYS 136: General Physics Lab II <http://www.luc.edu/physics/courses.shtml#136>`_
 
-.. |phys235| replace:: `PHYS 235: Modern Physics <http://www.luc.edu/physics/courses.shtml#235>`__
+.. |phys235| replace:: `PHYS 235: Modern Physics <http://www.luc.edu/physics/courses.shtml#235>`_
 
-.. |phys237| replace:: `PHYS 237: Modern Physics Lab <http://www.luc.edu/physics/courses.shtml#237>`__
+.. |phys237| replace:: `PHYS 237: Modern Physics Lab <http://www.luc.edu/physics/courses.shtml#237>`_
 
-.. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`__
+.. |phys266| replace:: `PHYS 266: Digital Electronics Laboratory <http://www.luc.edu/physics/courses.shtml#266>`_
 
-.. |phys303| replace:: `PHYS 303: Electronics I <http://www.luc.edu/physics/courses.shtml#303>`__
+.. |phys303| replace:: `PHYS 303: Electronics I <http://www.luc.edu/physics/courses.shtml#303>`_
 
-.. |phys310| replace:: `PHYS 310: Optics <http://www.luc.edu/physics/courses.shtml#310>`__
+.. |phys310| replace:: `PHYS 310: Optics <http://www.luc.edu/physics/courses.shtml#310>`_
 
-.. |phys314| replace:: `PHYS 314: Theoretical Mechanics I <http://www.luc.edu/physics/courses.shtml#314>`__
+.. |phys314| replace:: `PHYS 314: Theoretical Mechanics I <http://www.luc.edu/physics/courses.shtml#314>`_
 
-.. |phys328| replace:: `PHYS 328: Thermal Physics & Statistical Mechanics <http://www.luc.edu/physics/courses.shtml#328>`__
+.. |phys328| replace:: `PHYS 328: Thermal Physics & Statistical Mechanics <http://www.luc.edu/physics/courses.shtml#328>`_
 
-.. |phys351| replace:: `PHYS 351: Electricity & Magnetism I <http://www.luc.edu/physics/courses.shtml#351>`__
+.. |phys351| replace:: `PHYS 351: Electricity & Magnetism I <http://www.luc.edu/physics/courses.shtml#351>`_
 
-.. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+.. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`_
 
-.. |biol282| replace:: `BIOL 282: Genetics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+.. |biol282| replace:: `BIOL 282: Genetics <http://luc.edu/biology/bsinbiology/courseofferings/>`_
 
-.. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`__
+.. |biol388| replace:: `BIOL 388: Bioinformatics <http://luc.edu/biology/bsinbiology/courseofferings/>`_
 
-.. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`__
+.. |engl210| replace:: `ENGL 210: Business Writing <http://luc.edu/english/courses.shtml/>`_
 
-.. |isscm241| replace:: `ISSCM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+.. |isscm241| replace:: `ISSCM 241: Business Statistics <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`_
 
-.. |isscm349| replace:: `ISSCM 349 <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`__
+.. |isscm349| replace:: `ISSCM 349 <http://www.luc.edu/quinlan/undergraduate/informationsystems/information_systems_courses.shtml>`_
 
-.. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
+.. |psyc101| replace:: `PSYC 101: General Psychology <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`_
 
-.. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`__
+.. |psyc304| replace:: `PSYC 304: Statistics <http://www.luc.edu/psychology/course_offerings.shtml#d.en.76692>`_
 
-.. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc101| replace:: `CJC 101: Criminal Justice in a Global Context <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`_
 
-.. |cjc102| replace:: `CJC 102: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc102| replace:: `CJC 102: The Criminal Justice System <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`_
 
-.. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc322| replace:: `CJC 322: Criminal Courts and Law <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`_
 
-.. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`__
+.. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`_
 
-.. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
+.. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`_. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
 .. |see-syllabi| replace:: See the :doc:`../syllabi/syllabi`.
 """
