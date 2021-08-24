@@ -1,5 +1,5 @@
 
-Summer 2019 Schedule 
+Summer 2019 Schedule
 ==========================================================================
 Updated 12/18/2018 15:53:02
 
@@ -13,12 +13,12 @@ For open/full status and latest changes, see
 Textbook information will be linked in later.
 
 Section titles lines link to the course description page,
-except for special topics courses.  
+except for special topics courses.
 Some of those later show a link to a related course description.
 
-The 4-digit number in parentheses after the section is the Locus registration code.
+The 4-digit number in parentheses after the section is the LOCUS registration code.
 
-Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
+Be sure to look at the section's notes or LOCUS for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
 You can skip over undergrad courses to :ref:`summer_graduate_courses_list`.
@@ -46,9 +46,9 @@ Undergraduate Courses
 
     **Notes:**
     ***This is a writing intensive class.***  This is an online class.  More details will be forthcoming.
-    
-    
-    
+
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -60,17 +60,17 @@ Undergraduate Courses
 
     **Notes:**
     This is an online class.  The instructor will provide more scheduling details shortly before the beginning of the session.
-    
-    
-    
+
+
+
     This course, intended primarily for non-majors, provides an introduction to computer programming using P5.js (https://p5js.org/), a toolkit for animation,
     multimedia, and more. P5.js is based on Processing, a flexible software sketchbook and a language for learning how to code within the context of the visual"
     arts(http://processing.org).  It is intended for beginning programmers, artists, designers, and researchers. P5.js runs entirely in a web browser and
     requires no special software to download. Students will be able to create code sketches and interactive animations using virtually any web-accessible
     device. No previous coding or programming experience is necessary.
-    
-    
-    
+
+
+
     Outcome: Understanding of computer mechanisms for representing and analyzing numerical and logical information and the power of programmability; practical
     ability to implement useful computing tools. Online portfolio of interactive web animations.
 
@@ -83,9 +83,9 @@ Undergraduate Courses
     **Notes:**
     This is an online class.  Synchronous (online) meeting times:  Mondays, Tuesdays, Thursdays:  5:30 pm - 6:00 pm.  See
     http://anh.cs.luc.edu/150/summerintro.html
-    
-    
-    
+
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -97,9 +97,9 @@ Undergraduate Courses
 
     **Notes:**
     This is an online class.  More details will be forthcoming.
-    
-    
-    
+
+
+
     This course is restricted to undergraduate students.  Graduate students wishing to enroll in a section of this course should contact their departmental
     graduate advisor.
 
@@ -111,13 +111,13 @@ Undergraduate Courses
 
     **Notes:**
     This is a blended class.  More details will be forthcoming.
-    
-    
-    
+
+
+
     This class satisfies the Engaged Learning requirement in the Undergraduate Research category.
-    
-    
-    
+
+
+
     Combined with COMP 412-001.
 
 
@@ -246,9 +246,9 @@ Graduate Courses
 
     **Notes:**
     This is a blended class.  More details will be forthcoming.
-    
-    
-    
+
+
+
     Combined with COMP 312-01E.
 
 

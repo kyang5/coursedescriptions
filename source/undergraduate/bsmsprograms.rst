@@ -42,7 +42,7 @@ The academic prerequisites to be considered for admission to the BS/MS programs 
 -   Satisfactory progress towards completion of Loyola’s core.
 
 .. important::
-    Before the undergraduate deadlines do apply to graduate with your B.S in the semester you will actually finish! Otherwise, you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in Locus can be fixed.
+    Before the undergraduate deadlines do apply to graduate with your B.S in the semester you will actually finish! Otherwise, you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in LOCUS can be fixed.
 
 .. _application_information:
 

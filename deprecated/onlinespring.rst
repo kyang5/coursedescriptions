@@ -13,12 +13,12 @@ For open/full status and latest changes, see
 See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
 
 Section titles lines link to the course description page,
-except for special topics courses.  
+except for special topics courses.
 Some of those later show a link to a related course description.
 
-The 4-digit number in parentheses after the section is the Locus registration code.
+The 4-digit number in parentheses after the section is the LOCUS registration code.
 
-Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
+Be sure to look at the section's notes or LOCUS for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
 You can skip over undergrad courses to :ref:`onlinespring_graduate_courses_list`.
@@ -39,7 +39,7 @@ Undergraduate Courses
 
 
 
-:doc:`../courses/comp125` 
+:doc:`../courses/comp125`
     | Section 003 (6110) Credits: 3; Online; Laboratory
     | Instructor: David Wetzel
     | Online Times: TBA
@@ -82,19 +82,19 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`../courses/comp306` 
+:doc:`../courses/comp306`
     | Section 002 (6002) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
-    
-    
+
+
     Combined with COMP 400-002.
 
 
-:doc:`../courses/comp317` 
+:doc:`../courses/comp317`
     | Section 001 (4086) Credits: 3; Online; Lecture
     | Instructor: Nicoletta Christina Montaner
     | Online Times: TBA
@@ -113,7 +113,7 @@ Undergraduate Courses
     http://www.luc.edu/adult-education/admission/nonscps-enrollment/
 
 
-:doc:`../courses/comp340` 
+:doc:`../courses/comp340`
     | Section 001 (5966) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
@@ -122,7 +122,7 @@ Undergraduate Courses
     This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.  Combined with COMP 488-340.
 
 
-:doc:`../courses/comp348` 
+:doc:`../courses/comp348`
     | Section 002 (5978) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -132,25 +132,25 @@ Undergraduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 448-002.
 
 
-:doc:`../courses/comp390` 
+:doc:`../courses/comp390`
     | Section 01E (5990) Credits: 1 - 3; Online; Lecture
     | Instructor: Ronald I Greenberg
     | Online Times: TBA
 
     **Notes:**
     Broadening Participation in STEM (Computing, Mathematics, and Science).
-    
-    
+
+
     This class is online and fully asynchronous, but students must complete service learning activities in-person at a site of their choosing to be approved by
     the instructor in accord with the course design.  To complete the full course (incorporating at least 25 hours of service and other requirements) in one
     semester, register for 3 credits; to spread over two semesters, register for 1 or 2 credits in the first semester (requiring 6 or 14 service hours in the
     first semester, respectively).
-    
-    
+
+
     This class satisfies the Engaged Learning requirement in the Service Learning category.
 
 
-:doc:`../courses/comp391` 
+:doc:`../courses/comp391`
     | Section 02E (4287) Credits: 1 - 6; Online; Field Studies
     | Instructor: Ronald I Greenberg, Robert Yacobellis
     | Online Times: TBA
@@ -175,19 +175,19 @@ Graduate Courses
 
 
 
-:doc:`../courses/comp400` 
+:doc:`../courses/comp400`
     | Section 002 (5993) Credits: 3; Online; Lecture
     | Instructor: Channah Naiman
     | Online Times: TBA
 
     **Notes:**
     This class is a totally online, asynchronous course.  Exams may be synchronous and in person.
-    
-    
+
+
     Combined with COMP 300-002.
 
 
-:doc:`../courses/comp448` 
+:doc:`../courses/comp448`
     | Section 002 (5980) Credits: 3; Online; Lecture
     | Instructor: Corby Schmitz
     | Online Times: TBA
@@ -197,7 +197,7 @@ Graduate Courses
     will also be recorded and made available.  Students may participate synchronously or asynchronously at their discretion.  Combined with COMP 348-002.
 
 
-:doc:`../courses/comp474` 
+:doc:`../courses/comp474`
     | Section 001 (3185) Credits: 3; Online; Lecture
     | Instructor: Christopher Stone
     | Online Wednesday 07:00PM-09:30
@@ -207,7 +207,7 @@ Graduate Courses
 
 
 
-COMP 488 Topic : Comp Forensics Investigations 
+COMP 488 Topic : Comp Forensics Investigations
     | Section 340 (5967) Credits: 3; Online; Lecture
     | Instructor: Thomas Yarrish
     | Online Tuesday 07:00PM-09:30
@@ -215,20 +215,20 @@ COMP 488 Topic : Comp Forensics Investigations
 
     **Notes:**
     Computer Forensics
-    
-    
-    
+
+
+
     This is an online, synchronous class.  Synchronous meeting time:  Tuesdays, 7:00 pm - 9:30 pm.
-    
-    
+
+
     Combined with COMP 340-001.
-    
-    
-    
+
+
+
     Prerequisite: (COMP 150 or COMP 170 or COMP/MATH 215) and (COMP 264 or COMP 317 or COMP 343)
-    
-    
-    
+
+
+
     The course introduces the fundamentals of computer/network/internet forensics, analysis and investigations.
 
 
@@ -240,7 +240,7 @@ COMP 488 Topic : Comp Forensics Investigations
     *supervisor arranges to get you registered*.  Possible supervisors are: Mark Albert, David Eric Chan-Tin, Dmitriy Dligach, Peter L Dordal, Ronald I Greenberg, Andrew N Harrington, Nicholas J Hayward, William Honig, Konstantin Laufer, Channah Naiman, Catherine Putonti, Chandra N Sekharan, George Thiruvathukal, Heather E. Wheeler, Robert Yacobellis
 
 
-:doc:`../courses/comp499` 
+:doc:`../courses/comp499`
     | Section 002 (5157) Credits: 1 - 6; Online; Independent Study
     | Instructor: Andrew N Harrington, Channah Naiman
     | Online Times: TBA
