@@ -18,6 +18,10 @@ from datetime import date
 rst_epilog = (
     """
 
+.. |acct201| replace:: `ACCT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccounting/#692265>`_
+
+.. |mgmt201| replace:: `MGMT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/#675009>`_
+
 .. |math100| replace:: `MATH 100: Intermediate Algebra <http://luc.edu/math/academics/courses/math100/index.shtml>`_
 
 .. |math117| replace:: `MATH 117: College Algebra <http://luc.edu/math/academics/courses/math117/index.shtml>`_
@@ -100,7 +104,11 @@ rst_epilog = (
 
 .. |phys351| replace:: `PHYS 351: Electricity & Magnetism I <http://www.luc.edu/physics/courses.shtml#351>`_
 
+.. |phys366| replace:: `PHYS 366 <https://www.luc.edu/physics/courses.shtml#366>`_
+
 .. |biol101| replace:: `BIOL 101: General Biology I <http://luc.edu/biology/bsinbiology/courseofferings/>`_
+
+.. |biol102| replace:: `BIOL 102 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_
 
 .. |biol282| replace:: `BIOL 282: Genetics <http://luc.edu/biology/bsinbiology/courseofferings/>`_
 
@@ -125,6 +133,8 @@ rst_epilog = (
 .. |cjc323| replace:: `CJC 323: Criminal Procedure <http://www.luc.edu/criminaljustice/undergradcourses.shtml>`_
 
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`_. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
+
+.. |locus| replace::`Locus <https://locus.luc.edu>`_
 
 .. |see-syllabi| replace:: See the :doc:`../syllabi/syllabi`.
 """

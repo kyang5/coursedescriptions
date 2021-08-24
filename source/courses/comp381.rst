@@ -21,8 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * `BIOL 101 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_ (or equivalent)
-    * `BIOL 102 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_
+    * |biol101| (or equivalent)
+    * |biol102|
 
 About
 =====
