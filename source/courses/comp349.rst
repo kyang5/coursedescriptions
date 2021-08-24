@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp301`
+    * :doc:`comp301`
 
 About
 =====

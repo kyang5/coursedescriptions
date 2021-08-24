@@ -25,9 +25,9 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-        * :doc:`../courses/comp264`
-        * :doc:`../courses/comp170`
-        * :doc:`../courses/comp447`
+        * :doc:`comp264`
+        * :doc:`comp170`
+        * :doc:`comp447`
 
 About
 =====

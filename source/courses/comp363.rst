@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp272`
+    * :doc:`comp272`
     * |math131| or |math161|
 
 About

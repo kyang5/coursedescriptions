@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
     * |math131| or |math161|
     * One or more of the following:
         * |stat103|

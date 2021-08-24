@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp330`
+    * :doc:`comp330`
 
 About
 =====

@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`comp313`
 
 About
 =====

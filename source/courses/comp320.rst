@@ -30,7 +30,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp163` **and** :doc:`../courses/comp170`
+    * :doc:`comp163` **and** :doc:`comp170`
 
 Description
 ===========

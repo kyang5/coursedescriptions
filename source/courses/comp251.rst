@@ -27,10 +27,10 @@ Course Information
 
     * One of the following:
 
-        * :doc:`../courses/comp125`
-        * :doc:`../courses/comp150`
-        * :doc:`../courses/comp170`
-        * :doc:`../courses/comp215`
+        * :doc:`comp125`
+        * :doc:`comp150`
+        * :doc:`comp170`
+        * :doc:`comp215`
 
 About
 =====

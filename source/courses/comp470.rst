@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271` or permission of Instructor.
+    * :doc:`comp271` or permission of Instructor.
 
 About
 =====

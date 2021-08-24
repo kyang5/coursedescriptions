@@ -21,8 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231`
-    * :doc:`../courses/comp271`
+    * :doc:`comp231`
+    * :doc:`comp271`
 
 About
 =====

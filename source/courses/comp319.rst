@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp170`
+    * :doc:`comp170`
 
 About
 =====

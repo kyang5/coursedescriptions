@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp343` or instructor permission
+    * :doc:`comp343` or instructor permission
 
 About
 =====

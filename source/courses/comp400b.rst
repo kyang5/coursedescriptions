@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp170` or :doc:`../courses/comp215` or :doc:`../courses/comp400a`
+    * :doc:`comp170` or :doc:`comp215` or :doc:`comp400a`
 
 About
 =====

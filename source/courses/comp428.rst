@@ -29,7 +29,7 @@ Course Information
     **Prerequisites**
 
     * |math212|
-    * :doc:`../courses/comp163` or |math313|
+    * :doc:`comp163` or |math313|
 
 
 About

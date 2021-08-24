@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 
 About

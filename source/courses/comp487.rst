@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp379` or :doc:`../courses/comp479`
+    * :doc:`comp379` or :doc:`comp479`
     * Coursework in basic calculus, statistics, and linear algebra
 
 About
