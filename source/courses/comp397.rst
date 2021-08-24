@@ -47,4 +47,4 @@ Regular progress on research projects and final presentations of results for a d
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

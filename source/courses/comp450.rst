@@ -52,4 +52,4 @@ Students will have an understanding of microprocessor design and interfacing.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

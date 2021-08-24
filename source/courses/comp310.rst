@@ -48,4 +48,4 @@ Students will learn the different parts of an operating system at a functional l
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

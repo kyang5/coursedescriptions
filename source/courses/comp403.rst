@@ -41,4 +41,4 @@ Understanding of the role of operations management in organizations, and applyin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

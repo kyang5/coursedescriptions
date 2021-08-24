@@ -48,4 +48,4 @@ The goal is to gain an understanding of how to secure computers and computing en
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -49,4 +49,4 @@ Students in this course will learn how to apply sophisticated algorithms to larg
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

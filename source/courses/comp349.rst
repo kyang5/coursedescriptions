@@ -46,4 +46,4 @@ Students will gain an understanding of wireless networking, protocols, and stand
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

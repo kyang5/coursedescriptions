@@ -54,4 +54,4 @@ Syllabi
 *******
 
 There is no syllabus at this time.
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

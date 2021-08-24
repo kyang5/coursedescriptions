@@ -44,4 +44,4 @@ Understanding of computer mechanisms for representing and analyzing numerical an
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

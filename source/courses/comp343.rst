@@ -44,4 +44,4 @@ Students will understand how the Internet is constructed, how data is routed to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

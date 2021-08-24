@@ -49,4 +49,4 @@ An exposure to microcomputer design and interfacing.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -51,4 +51,4 @@ The objective is to provide management with relevant information for constructin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

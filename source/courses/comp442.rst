@@ -46,4 +46,4 @@ Pervasive issues such as integration, testing, security, and performance are dis
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

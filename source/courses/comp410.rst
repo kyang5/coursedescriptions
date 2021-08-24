@@ -51,4 +51,4 @@ The course covers: processes and threads (particularly the concepts of kernel th
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

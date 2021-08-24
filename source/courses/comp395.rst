@@ -45,4 +45,4 @@ Students should acquire skills to professionally brand themselves, successfully 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

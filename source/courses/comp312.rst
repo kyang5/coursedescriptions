@@ -45,4 +45,4 @@ Students will learn to implement projects involving Free and Open Source softwar
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

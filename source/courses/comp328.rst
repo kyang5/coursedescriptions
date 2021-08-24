@@ -50,4 +50,4 @@ Students will learn both the theory and application of error-correcting codes.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

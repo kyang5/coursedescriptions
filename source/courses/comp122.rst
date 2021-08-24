@@ -50,4 +50,4 @@ Students who complete this course will have:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

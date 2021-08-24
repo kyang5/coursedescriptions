@@ -43,4 +43,4 @@ The student will learn the basic theory of artificial intelligence and be able t
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

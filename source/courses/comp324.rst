@@ -48,4 +48,4 @@ We shall also consider client-side usage of tools and technologies such as Node.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

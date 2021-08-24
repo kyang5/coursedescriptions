@@ -47,4 +47,4 @@ Students will gain enhanced skills in object-oriented programming and developmen
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

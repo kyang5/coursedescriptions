@@ -42,4 +42,4 @@ Students will gain hands-on experience with metagenomic methodologies while work
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

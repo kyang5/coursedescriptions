@@ -46,4 +46,4 @@ At the end of this course, students will be well versed in the use of a specific
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

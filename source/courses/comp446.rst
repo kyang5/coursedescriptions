@@ -45,4 +45,4 @@ Underlying engineering principles of telephone networks, computer networks and i
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

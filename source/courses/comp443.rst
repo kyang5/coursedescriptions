@@ -44,4 +44,4 @@ The course introduces basic issues in network security and real-time communicati
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

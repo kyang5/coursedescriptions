@@ -126,6 +126,7 @@ rst_epilog = (
 
 .. |see-locus| replace:: The scheduling information you see here is an export from `LOCUS <https://locus.luc.edu>`__. LOCUS is the authoritative source of information for university course scheduling. What you see here is subject to change at any time.
 
+.. |see-syllabi| replace:: See the :doc:`../syllabi/syllabi`.
 """
     % vars()
 )

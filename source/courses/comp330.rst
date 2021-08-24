@@ -44,4 +44,4 @@ Students will experience process-based development, understand the dynamics of a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

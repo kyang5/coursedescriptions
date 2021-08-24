@@ -47,4 +47,4 @@ Students will learn fundamental data structures and algorithms frequently used i
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

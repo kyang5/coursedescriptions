@@ -46,4 +46,4 @@ The ability to design and analyze efficient algorithms; understanding of the nec
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

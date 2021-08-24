@@ -49,4 +49,4 @@ Experience with Internet tools, desktop publishing, spreadsheets, databases, sta
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

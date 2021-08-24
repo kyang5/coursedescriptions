@@ -43,4 +43,4 @@ After taking this course, students will develop a working knowledge of Unix and 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

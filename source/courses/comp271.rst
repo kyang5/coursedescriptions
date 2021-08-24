@@ -51,4 +51,4 @@ Students learn linear data structures and the performance of their operations, a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

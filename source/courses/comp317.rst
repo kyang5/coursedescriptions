@@ -47,4 +47,4 @@ Understanding of laws and issues in areas such as privacy, encryption, freedom o
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

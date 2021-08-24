@@ -70,4 +70,4 @@ Application of classroom skills to real-world situations.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

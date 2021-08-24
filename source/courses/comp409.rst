@@ -51,4 +51,4 @@ Students will have an understanding of advanced numerical analysis and its appli
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

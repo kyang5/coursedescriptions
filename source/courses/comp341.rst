@@ -46,4 +46,4 @@ Students will acquire an awareness of different design and evaluation methods as
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

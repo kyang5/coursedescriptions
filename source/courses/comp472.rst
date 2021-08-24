@@ -46,4 +46,4 @@ Students will learn the theory and practice of how to build a compiler.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

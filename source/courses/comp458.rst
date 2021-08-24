@@ -45,4 +45,4 @@ Python or R will be used with parallel frameworks to perform proper model select
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

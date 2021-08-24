@@ -43,4 +43,4 @@ Students can define and critically analyze data mining approaches for fields suc
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -43,4 +43,4 @@ Students will be able to use theory and pragmatic approaches to define and imple
 Syllabi
 =======
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

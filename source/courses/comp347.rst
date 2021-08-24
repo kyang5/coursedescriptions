@@ -45,4 +45,4 @@ Students will learn to configure ID systems (e.g. SNORT) and analyze their outpu
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -36,7 +36,7 @@ This programming-intensive course provides a foundation for computer programming
 Description
 ===========
 
-This course provides a foundation for computer programming using the Java object-oriented (OO) programming language. 
+This course provides a foundation for computer programming using the Java object-oriented (OO) programming language.
 
 The course addresses the following questions:
 
@@ -64,4 +64,4 @@ Upon successful completion of the course, the student will be able to:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

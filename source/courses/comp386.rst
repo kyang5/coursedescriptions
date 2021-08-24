@@ -46,4 +46,4 @@ An appreciation that many aspects of neuroscience cannot be understood without a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

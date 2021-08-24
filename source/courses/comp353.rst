@@ -44,4 +44,4 @@ Students will learn SQL, database design, and application development using the 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

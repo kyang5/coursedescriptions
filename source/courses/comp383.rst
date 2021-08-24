@@ -44,4 +44,4 @@ Students will learn, in detail, foundational methods and algorithms in bioinform
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

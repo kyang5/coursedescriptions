@@ -43,4 +43,4 @@ Students will learn to configure ID systems (eg., snort) and analyze their outpu
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

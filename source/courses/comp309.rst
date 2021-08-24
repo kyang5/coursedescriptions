@@ -53,4 +53,4 @@ Students will have an understanding of numerical methods and their application.
 Syllabi
 ----------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

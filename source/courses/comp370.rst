@@ -54,4 +54,4 @@ As well as:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

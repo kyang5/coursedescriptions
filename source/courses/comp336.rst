@@ -50,4 +50,4 @@ After taking this course, students will have a working knowledge of XML and its 
 Syllabus
 ********
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -46,4 +46,4 @@ An understanding of the standards that influence world-wide growth of technology
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -73,4 +73,4 @@ Proficiency in the use of object-oriented languages, frameworks, and patterns; a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

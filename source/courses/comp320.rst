@@ -46,4 +46,4 @@ Students will be able to use techniques of analysis and design, document results
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

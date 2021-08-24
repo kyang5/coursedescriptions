@@ -45,4 +45,4 @@ Students will have an understanding of wireless networks and the security issues
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

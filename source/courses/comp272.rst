@@ -46,4 +46,4 @@ Students learn non-linear data structures and runtime performance of their opera
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

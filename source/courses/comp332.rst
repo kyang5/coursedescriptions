@@ -43,4 +43,4 @@ Students will learn and apply the current state of the art in requirements engin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

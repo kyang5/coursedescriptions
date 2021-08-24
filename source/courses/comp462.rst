@@ -49,4 +49,4 @@ Students gain an understanding of the design of the memory hierarchy in modern d
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

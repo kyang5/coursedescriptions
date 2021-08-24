@@ -43,4 +43,4 @@ An understandin of the ethical issues that involve the field of Computer Science
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

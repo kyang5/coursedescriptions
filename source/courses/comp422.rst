@@ -46,4 +46,4 @@ Students will learn how to create a mobile application.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

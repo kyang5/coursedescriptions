@@ -47,4 +47,4 @@ Students will understand how and why cryptography is used and the theory behind 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

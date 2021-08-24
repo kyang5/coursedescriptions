@@ -70,4 +70,4 @@ Ability to work in small groups, quickly and accurately assessing and solving fo
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

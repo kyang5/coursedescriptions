@@ -50,4 +50,4 @@ An understanding of Markup languages and their applications.
 Syllabus
 ---------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -51,4 +51,4 @@ Students will organize data in ways to emphasize relationships, write simple pro
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

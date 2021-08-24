@@ -44,4 +44,4 @@ Understanding of the role of operations management in organizations, and the abi
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

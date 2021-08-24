@@ -47,4 +47,4 @@ Students will learn how to engineer solutions to practical problems in multiproc
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -59,4 +59,4 @@ This course studies the architectures, frameworks, and tools required to develop
 Syllabus
 ********
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

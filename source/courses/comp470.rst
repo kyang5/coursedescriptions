@@ -45,4 +45,4 @@ Students will be able to perform rigorous testing techniques that contribute to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

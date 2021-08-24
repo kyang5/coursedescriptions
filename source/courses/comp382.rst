@@ -45,4 +45,4 @@ Students will learn how a compiler is built.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

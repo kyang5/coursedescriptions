@@ -47,4 +47,4 @@ An understanding of the theoretical underpinnings of computability and complexit
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

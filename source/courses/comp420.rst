@@ -39,4 +39,4 @@ Students will have an udnerstanding of UML and its applications.
 Syllabi
 ----------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

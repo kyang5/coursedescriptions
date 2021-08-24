@@ -44,4 +44,4 @@ Students will have a business understaning of project management.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

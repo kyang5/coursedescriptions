@@ -51,4 +51,4 @@ Students will be able to develop applications for mobile and portable devices.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

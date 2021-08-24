@@ -45,4 +45,4 @@ Students will be able to visualize ideas via sketching basic shapes, create 3D m
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

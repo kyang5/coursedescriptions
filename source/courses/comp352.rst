@@ -46,4 +46,4 @@ Run a virus in a virtual-machine sandbox with appropriate monitoring.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

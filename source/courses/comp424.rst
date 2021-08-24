@@ -47,4 +47,4 @@ Students will acquire an awareness of different client-side design and developme
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

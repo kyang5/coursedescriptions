@@ -45,4 +45,4 @@ An understanding of key principles and paradigms underlying the design and imple
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

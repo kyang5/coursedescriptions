@@ -53,4 +53,4 @@ Understand an emerging area of Computer Science.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

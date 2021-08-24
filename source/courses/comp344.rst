@@ -46,4 +46,4 @@ TBD
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

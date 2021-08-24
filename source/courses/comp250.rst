@@ -53,4 +53,4 @@ Students will learn to write clear technical documentation.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

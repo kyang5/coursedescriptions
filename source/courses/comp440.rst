@@ -52,4 +52,4 @@ The student will learn Computer Software and hardware relevant for analysis and 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

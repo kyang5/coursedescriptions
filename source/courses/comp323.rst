@@ -49,4 +49,4 @@ Students will acquire an awareness of different game design and development meth
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

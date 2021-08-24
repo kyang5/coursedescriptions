@@ -52,4 +52,4 @@ Understanding of system issues that affect the performance, correctness, or util
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

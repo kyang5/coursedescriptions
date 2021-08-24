@@ -45,4 +45,4 @@ Students will explore the history of robotics, overview the theory of autonomous
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

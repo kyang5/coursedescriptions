@@ -68,4 +68,4 @@ Students will have an understanding of Design Patterns, Implementations, and Com
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

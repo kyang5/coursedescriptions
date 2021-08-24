@@ -43,4 +43,4 @@ An understanding of how to secure networks using encryption, authentication, fir
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

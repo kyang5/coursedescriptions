@@ -42,4 +42,4 @@ Students will learn time management, work-flow management, and team dynamics to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

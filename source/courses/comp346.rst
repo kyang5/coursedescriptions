@@ -44,4 +44,4 @@ Students will understand how modern telephone systems work.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

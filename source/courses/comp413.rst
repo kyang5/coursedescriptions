@@ -73,4 +73,4 @@ You will learn to design and implement more complex programs using good software
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

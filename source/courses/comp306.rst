@@ -48,4 +48,4 @@ Students will be able to define and critically analyze data warehouse and mining
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

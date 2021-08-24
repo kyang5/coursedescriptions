@@ -57,4 +57,4 @@ Knowledge of an advanced topic.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

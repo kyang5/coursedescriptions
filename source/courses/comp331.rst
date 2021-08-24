@@ -55,4 +55,4 @@ Students will gain an understanding of cryptosystems widely used to protect data
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

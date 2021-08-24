@@ -44,4 +44,4 @@ Students will have an understanding of database programming and administration.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

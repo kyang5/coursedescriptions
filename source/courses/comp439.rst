@@ -46,4 +46,4 @@ Students will have an understanding of various distributed frameworks and techno
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -64,4 +64,4 @@ Upon successful completion of the course, the student will be able to:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

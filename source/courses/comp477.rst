@@ -45,4 +45,4 @@ The investigation requires the application of project-management tools covered i
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

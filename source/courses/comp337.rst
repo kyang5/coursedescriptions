@@ -44,4 +44,4 @@ An in-depth understanding of event-based and thread-based views of concurrency; 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

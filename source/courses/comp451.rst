@@ -58,4 +58,4 @@ Students will become familiar with the SNMP protocol, with how large-scale Netwo
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

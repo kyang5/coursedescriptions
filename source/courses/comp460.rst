@@ -44,4 +44,4 @@ Students will have an understanding of algorithms and algorithmic complexity.
 Syllabi
 --------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

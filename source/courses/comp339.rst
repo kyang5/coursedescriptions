@@ -46,4 +46,4 @@ After taking this course, students should understand the essential ingredients o
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

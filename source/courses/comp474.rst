@@ -45,4 +45,4 @@ Students will have a project that they created using Software Enginering practic
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

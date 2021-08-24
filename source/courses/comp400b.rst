@@ -46,4 +46,4 @@ Students will be able to describe linear data structures and analyze the perform
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

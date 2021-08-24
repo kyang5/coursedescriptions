@@ -46,4 +46,4 @@ Students gain first-hand experience with broadening STEM participation and see h
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

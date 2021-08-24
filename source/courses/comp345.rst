@@ -48,4 +48,4 @@ It introduces the Internet of Things (IoT) comprising embedded devices and cloud
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

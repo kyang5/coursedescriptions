@@ -43,4 +43,4 @@ Students will be able to apply their understanding of genetic and evolutionary p
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -48,4 +48,4 @@ The course will cover a majority of the following topics: regular languages, fin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

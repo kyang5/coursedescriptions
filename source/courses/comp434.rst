@@ -45,4 +45,4 @@ Students will be able to build enterprise software.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|
