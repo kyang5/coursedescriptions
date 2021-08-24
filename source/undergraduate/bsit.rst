@@ -68,19 +68,19 @@ Electives
     .. note::
         You must take one of these classes as part of the Major requirements. The second one can be used as an elective if taken.
 
--   MGMT 315: International Management
--   MGMT 318: Organizational Development and Change
--   MGMT 320: Leading and Managing Team
--   MGMT 335: Micro-enterprise Consulting
--   MGMT 360: Values-Based Leadership
--   ENTR 201: Introduction to Entrepreneurship
--   ENTR 311: Social Entrepreneurship (Not for Profit ventures)
--   ENTR 312: Intellectual Property & Commercialization
--   ENTR 313: Entrepreneurship-Global Opportunity Scan
--   ENTR 345: Entrepreneurial Marketing
--   ENTR 390: Entrepreneurship Strategies
--   ISSCM 393: Requirements Analysis and Communication
--   Any COMP 300 level electives
+-   `MGMT 315 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/>`_: International Management
+-   `MGMT 318 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/>`_: Organizational Development and Change
+-   `MGMT 320 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/>`_: Leading and Managing Team
+-   `MGMT 335 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/>`_: Micro-enterprise Consulting
+-   `MGMT 360 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/>`_: Values-Based Leadership
+-   `ENTR 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Introduction to Entrepreneurship
+-   `ENTR 311 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Social Entrepreneurship (Not for Profit ventures)
+-   `ENTR 312 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Intellectual Property & Commercialization
+-   `ENTR 313 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Entrepreneurship-Global Opportunity Scan
+-   `ENTR 345 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Entrepreneurial Marketing
+-   `ENTR 390 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/>`_: Entrepreneurship Strategies
+-   `ISSCM 393 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininformationsystems/>`_: Requirements Analysis and Communication
+-   Any :doc:`COMP 300 <../courses/undergraduate-courses>` level electives
 
     .. note::
         A special case is :doc:`../courses/comp390`, :doc:`../courses/comp391` and :doc:`../courses/comp398` : Three additional units beyond the practicum can be counted as an elective, as long as you take no more than 6 units of 391 and no more than 6 units of 398.
