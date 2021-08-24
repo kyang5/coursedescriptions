@@ -46,4 +46,4 @@ An understanding of the technologies behind web sites and the ability to use the
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

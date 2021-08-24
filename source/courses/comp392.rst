@@ -21,7 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * `BIOL 282 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_ **and** Instructor Permission
+    * |biol282|
+    * Instructor Permission
 
 About
 =====
@@ -42,4 +43,4 @@ Students will gain hands-on experience with metagenomic methodologies while work
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -40,4 +40,4 @@ The student will be prepared for the study of advanced ideas in computer science
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

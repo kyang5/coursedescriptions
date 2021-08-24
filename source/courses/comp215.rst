@@ -46,4 +46,4 @@ with the goal of being able to solve mathematical and scientific problems.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

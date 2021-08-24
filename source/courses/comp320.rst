@@ -30,7 +30,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp163` **and** :doc:`../courses/comp170`
+    * :doc:`comp163` **and** :doc:`comp170`
 
 Description
 ===========
@@ -46,4 +46,4 @@ Students will be able to use techniques of analysis and design, document results
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

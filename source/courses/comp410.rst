@@ -22,8 +22,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp271`
+    * :doc:`comp264`
+    * :doc:`comp271`
 
 
 About
@@ -51,4 +51,4 @@ The course covers: processes and threads (particularly the concepts of kernel th
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

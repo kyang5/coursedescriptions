@@ -23,8 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`.
-    * :doc:`../courses/comp313`
+    * :doc:`comp271`.
+    * :doc:`comp313`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will explore the history of robotics, overview the theory of autonomous
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

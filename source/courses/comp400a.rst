@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math118| or :doc:`../courses/comp125` or :doc:`../courses/comp150` or :doc:`../courses/comp163` or :doc:`../courses/comp400e` or permission from the instructor.
+    * |math118| or :doc:`comp125` or :doc:`comp150` or :doc:`comp163` or :doc:`comp400e` or permission from the instructor.
     * Recommended - Experience programming in a procedural or object-oriented language.
 
 About
@@ -36,7 +36,7 @@ This programming-intensive course provides a foundation for computer programming
 Description
 ===========
 
-This course provides a foundation for computer programming using the Java object-oriented (OO) programming language. 
+This course provides a foundation for computer programming using the Java object-oriented (OO) programming language.
 
 The course addresses the following questions:
 
@@ -64,4 +64,4 @@ Upon successful completion of the course, the student will be able to:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

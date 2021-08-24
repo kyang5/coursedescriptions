@@ -43,4 +43,4 @@ The student will have real world experience of working within the industry of th
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -26,7 +26,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -47,4 +47,4 @@ Students will gain enhanced skills in object-oriented programming and developmen
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

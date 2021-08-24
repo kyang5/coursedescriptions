@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271` or permission of Instructor.
+    * :doc:`comp271` or permission of Instructor.
 
 About
 =====
@@ -45,4 +45,4 @@ Students will be able to perform rigorous testing techniques that contribute to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

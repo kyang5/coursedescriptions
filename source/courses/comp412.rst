@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -43,4 +43,4 @@ Students will work on a significant development project involving free and open-
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

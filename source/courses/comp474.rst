@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will have a project that they created using Software Enginering practic
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

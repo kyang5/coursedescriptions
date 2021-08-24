@@ -22,8 +22,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp405` or :doc:`../courses/comp453`
-    * :doc:`../courses/comp406` or :doc:`../courses/comp479` or |stat338| or |stat408|
+    * :doc:`comp405` or :doc:`comp453`
+    * :doc:`comp406` or :doc:`comp479` or |stat338| or |stat408|
     * Instructor permission
 
 About
@@ -45,4 +45,4 @@ Python or R will be used with parallel frameworks to perform proper model select
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

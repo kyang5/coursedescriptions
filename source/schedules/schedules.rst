@@ -2,7 +2,7 @@ Course Schedules / Information
 ==============================
 
 .. note::
-    Visitors are expected to use `Locus <https://locus.luc.edu>`_ to see authoritative course schedule information. The links below also can be used for additional informal information.
+    Visitors are expected to use `LOCUS <https://locus.luc.edu>`_ to see authoritative course schedule information. The links below also can be used for additional informal information.
 
 Long Term Schedule
 ------------------

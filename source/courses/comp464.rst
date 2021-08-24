@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`comp313`
 
 About
 =====
@@ -44,4 +44,4 @@ This course will use a blend of foundational understanding as well as a set of p
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

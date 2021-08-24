@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+    * :doc:`comp264` or :doc:`comp271`
 
 About
 =====
@@ -44,4 +44,4 @@ The course introduces basic issues in network security and real-time communicati
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

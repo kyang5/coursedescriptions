@@ -23,8 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp272`
+    * :doc:`comp264`
+    * :doc:`comp272`
 
 About
 =====
@@ -45,4 +45,4 @@ An understanding of key principles and paradigms underlying the design and imple
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

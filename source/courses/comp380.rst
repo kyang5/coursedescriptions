@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -53,4 +53,4 @@ The student will learn how to program real-time interactive applications using l
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

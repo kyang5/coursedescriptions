@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -43,4 +43,4 @@ Students will learn to configure ID systems (eg., snort) and analyze their outpu
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

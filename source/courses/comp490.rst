@@ -45,4 +45,4 @@ The student will conduct research on a project with the support of Loyola facult
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

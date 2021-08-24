@@ -14,7 +14,7 @@ Undergraduate Courses
 
 .. important::
 
-    Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in `Locus <https://locus.luc.edu>`_ to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
+    Some course prereqs and other details are in transition, and you may see details that are slightly past or slightly futuristic. You can look in |short-locus|  to see what is in force at the moment, and you can inquire about the possibility of overriding certain prereqs during the transition period.
 
 *****************
 100 Level Courses

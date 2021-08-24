@@ -24,13 +24,13 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp141`
-    * :doc:`../courses/comp163`
-    * :doc:`../courses/comp170` or :doc:`../courses/comp215`
+    * :doc:`comp141`
+    * :doc:`comp163`
+    * :doc:`comp170` or :doc:`comp215`
 
     **Co-Requisites**
 
-    * :doc:`../courses/comp163`
+    * :doc:`comp163`
 
 
 About
@@ -52,4 +52,4 @@ Understanding of system issues that affect the performance, correctness, or util
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

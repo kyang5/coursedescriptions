@@ -29,7 +29,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp301`
+    * :doc:`comp301`
 
 About
 =====
@@ -48,4 +48,4 @@ It introduces the Internet of Things (IoT) comprising embedded devices and cloud
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

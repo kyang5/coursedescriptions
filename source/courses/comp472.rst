@@ -24,8 +24,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp313`
+    * :doc:`comp264`
+    * :doc:`comp313`
 
 About
 =====
@@ -46,4 +46,4 @@ Students will learn the theory and practice of how to build a compiler.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

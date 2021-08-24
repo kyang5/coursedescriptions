@@ -25,8 +25,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp215` or :doc:`../courses/comp170`
-    * :doc:`../courses/comp141`
+    * :doc:`comp215` or :doc:`comp170`
+    * :doc:`comp141`
 
 About
 =====
@@ -47,4 +47,4 @@ Students will learn fundamental data structures and algorithms frequently used i
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

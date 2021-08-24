@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp330`
+    * :doc:`comp330`
 
 About
 =====
@@ -54,4 +54,4 @@ As well as:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

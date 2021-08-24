@@ -45,4 +45,4 @@ Students will gain an understanding of digital electronic components and amicrop
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

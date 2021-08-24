@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` and :doc:`../courses/comp272`
+    * :doc:`comp264` and :doc:`comp272`
 
 About
 =====
@@ -48,4 +48,4 @@ Students will learn the different parts of an operating system at a functional l
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

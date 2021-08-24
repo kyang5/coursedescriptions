@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp272`
+    * :doc:`comp272`
     * |math131| or |math161|
 
 About
@@ -46,4 +46,4 @@ The ability to design and analyze efficient algorithms; understanding of the nec
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

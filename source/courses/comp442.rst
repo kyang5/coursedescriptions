@@ -24,8 +24,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp313`
+    * :doc:`comp264`
+    * :doc:`comp313`
 
 About
 =====
@@ -46,4 +46,4 @@ Pervasive issues such as integration, testing, security, and performance are dis
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp413`
+    * :doc:`comp413`
     * Instructor permission if the prerequisite is missing
 
 About
@@ -59,4 +59,4 @@ This course studies the architectures, frameworks, and tools required to develop
 Syllabus
 ********
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

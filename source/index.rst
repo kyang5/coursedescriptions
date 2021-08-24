@@ -14,31 +14,31 @@ This site is aimed at helping *current* students find detailed information about
 
 .. note::
 
-   See the main `Computer Science Department`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
+    See the main `Computer Science Department`_ web site for general program information and how to *apply* for admission to our undergraduate and graduate programs, including our professional certificate programs.
 
 Schedules and Syllabi
 ---------------------
 
 .. note::
 
-   |see-locus|
+    |see-locus|
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
-   schedules/schedules
-   syllabi/syllabi
-   syllabi/legacy-syllabi
+    schedules/schedules
+    syllabi/syllabi
+    syllabi/legacy-syllabi
 
 
 Undergraduate Student Resources
 -------------------------------
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
-   courses/undergraduate-courses
-   undergraduate/undergraduate-degree-programs
+    courses/undergraduate-courses
+    undergraduate/undergraduate-degree-programs
 
 Graduate Student Resources
 --------------------------

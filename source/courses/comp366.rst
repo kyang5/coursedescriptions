@@ -20,7 +20,7 @@ Course Information
 
     **Alias**
 
-    * `PHYS 366 <https://www.luc.edu/physics/courses.shtml#366>`_
+    * |phys366|
 
     **Credit Hours**
 
@@ -49,4 +49,4 @@ An exposure to microcomputer design and interfacing.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

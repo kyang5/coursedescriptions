@@ -21,7 +21,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp150` or :doc:`../courses/comp170`
+    * :doc:`comp150` or :doc:`comp170`
 
 About
 =====
@@ -41,4 +41,4 @@ Understanding of the role of operations management in organizations, and applyin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

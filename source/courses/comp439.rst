@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313` or :doc:`../courses/comp310`
+    * :doc:`comp313` or :doc:`comp310`
 
 About
 =====
@@ -46,4 +46,4 @@ Students will have an understanding of various distributed frameworks and techno
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

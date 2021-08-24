@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp251` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp251` or :doc:`comp271`
 
 About
 =====
@@ -42,4 +42,4 @@ Students will learn time management, work-flow management, and team dynamics to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

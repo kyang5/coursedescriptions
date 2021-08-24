@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp271`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will learn to implement projects involving Free and Open Source softwar
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

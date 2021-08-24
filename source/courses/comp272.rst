@@ -23,8 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
-    * :doc:`../courses/comp163` or |math201|
+    * :doc:`comp271`
+    * :doc:`comp163` or |math201|
     * |math131| or |math161|
 
 About
@@ -46,4 +46,4 @@ Students learn non-linear data structures and runtime performance of their opera
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

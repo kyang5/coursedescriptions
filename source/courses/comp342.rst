@@ -27,7 +27,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp170`
+    * :doc:`comp170`
 
 About
 =====
@@ -48,4 +48,4 @@ Students will be able to create webpages using JavaScript and related tools and 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

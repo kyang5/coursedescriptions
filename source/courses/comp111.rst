@@ -44,4 +44,4 @@ Students who complete this course will learn the key vocabulary of the computing
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

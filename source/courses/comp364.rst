@@ -23,8 +23,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp272`
+    * :doc:`comp264`
+    * :doc:`comp272`
 
 About
 =====
@@ -47,4 +47,4 @@ Students will learn how to engineer solutions to practical problems in multiproc
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

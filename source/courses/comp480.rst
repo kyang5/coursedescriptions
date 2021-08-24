@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -44,4 +44,4 @@ Understanding of the role of operations management in organizations, and the abi
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

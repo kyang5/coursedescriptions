@@ -24,14 +24,14 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-        * :doc:`../courses/comp150`
-        * :doc:`../courses/comp170`
-        * :doc:`../courses/comp215`
+        * :doc:`comp150`
+        * :doc:`comp170`
+        * :doc:`comp215`
         * |math215|
     * One or more of the following:
-        * :doc:`../courses/comp264`
-        * :doc:`../courses/comp317`
-        * :doc:`../courses/comp343`
+        * :doc:`comp264`
+        * :doc:`comp317`
+        * :doc:`comp343`
 
 About
 =====
@@ -52,4 +52,4 @@ The student will learn Computer Software and hardware relevant for analysis and 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -21,7 +21,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp271`
     * One or more of the following:
         * |stat103|
         * |stat203|
@@ -46,4 +46,4 @@ Students in this course will learn how to apply sophisticated algorithms to larg
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

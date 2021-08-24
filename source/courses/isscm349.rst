@@ -22,8 +22,8 @@ Course Information
     **Prerequisites**
 
     * Junior Standing
-    * `ACCT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccounting/#692265>`_
-    * `MGMT 201 <https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/#675009>`_
+    * |acct201|
+    * |mgmt201|
 
 About
 =====
@@ -44,4 +44,4 @@ Students will have a business understaning of project management.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp379` or :doc:`../courses/comp479`
+    * :doc:`comp379` or :doc:`comp479`
     * Coursework in basic calculus, statistics, and linear algebra
 
 About
@@ -33,8 +33,8 @@ This course will cover techniques involved in deep learning.
 Description
 ===========
 
- 	
-Deep learning is part of a broader family of machine learning methods based on artificial neural networks. This course will include key concepts of neural network algorithms as well as their applications in computer vision and natural language processing. The topics will include popular building blocks of neural networks including fully-connected, convolutional, recurrent, and transformer layers. 
+
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks. This course will include key concepts of neural network algorithms as well as their applications in computer vision and natural language processing. The topics will include popular building blocks of neural networks including fully-connected, convolutional, recurrent, and transformer layers.
 
 Outcome
 =======
@@ -51,4 +51,4 @@ Students will:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` and :doc:`../courses/comp301`
+    * :doc:`comp264` and :doc:`comp301`
 
 About
 =====
@@ -46,4 +46,4 @@ Run a virus in a virtual-machine sandbox with appropriate monitoring.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -31,8 +31,8 @@ Course Information
     * |math264|
     * One or more of the following:
         * |math215|
-        * :doc:`../courses/comp215`
-        * :doc:`../courses/comp170`
+        * :doc:`comp215`
+        * :doc:`comp170`
 
 
 About
@@ -53,4 +53,4 @@ Students will have an understanding of numerical methods and their application.
 Syllabi
 ----------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

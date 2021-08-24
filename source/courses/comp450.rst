@@ -21,7 +21,7 @@ Course Information
 
     **Alias**
 
-    * `PHYS 366 <https://www.luc.edu/physics/courses.shtml#366>`_
+    * |phys366|
 
     **Credit Hours**
 
@@ -30,8 +30,8 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-        * :doc:`../courses/comp264`
-        * :doc:`../courses/comp271`
+        * :doc:`comp264`
+        * :doc:`comp271`
 
 About
 =====
@@ -52,4 +52,4 @@ Students will have an understanding of microprocessor design and interfacing.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -22,7 +22,7 @@ Course Information
     * 3
 
     **Prerequisites**
-    * :doc:`../courses/comp301`
+    * :doc:`comp301`
 
 About
 =====
@@ -43,4 +43,4 @@ An understanding of how to secure networks using encryption, authentication, fir
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

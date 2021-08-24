@@ -43,4 +43,4 @@ Students will be able to pursue their Master of Science education while not bein
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

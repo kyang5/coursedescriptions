@@ -48,4 +48,4 @@ We plan to examine the following topics: permutations and combinations, the incl
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

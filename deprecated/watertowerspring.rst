@@ -13,12 +13,12 @@ For open/full status and latest changes, see
 See `Textbook Information <https://docs.google.com/spreadsheets/d/14Hc2m97IDiBYxVjJ6Tz9kOz-RxWYl74LrBh8oj-7VR8/edit#gid=0>`_.
 
 Section titles lines link to the course description page,
-except for special topics courses.  
+except for special topics courses.
 Some of those later show a link to a related course description.
 
-The 4-digit number in parentheses after the section is the Locus registration code.
+The 4-digit number in parentheses after the section is the LOCUS registration code.
 
-Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
+Be sure to look at the section's notes or LOCUS for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
 You can skip over undergrad courses to :ref:`watertowerspring_graduate_courses_list`.

@@ -21,8 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * `BIOL 101 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_ (or equivalent)
-    * `BIOL 102 <https://www.luc.edu/biology/bsinbiology/courseofferings/>`_
+    * |biol101| (or equivalent)
+    * |biol102|
 
 About
 =====
@@ -43,4 +43,4 @@ Students will be able to apply their understanding of genetic and evolutionary p
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

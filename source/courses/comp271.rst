@@ -23,14 +23,14 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp141`
-    * :doc:`../courses/comp163` or |math201| or declared Bioinfomatics or SCPS student
-    * :doc:`../courses/comp170`
-    * or :doc:`../courses/comp215`
+    * :doc:`comp141`
+    * :doc:`comp163` or |math201| or declared Bioinfomatics or SCPS student
+    * :doc:`comp170`
+    * or :doc:`comp215`
 
     **Co-Requisites**
 
-    * :doc:`../courses/comp163`
+    * :doc:`comp163`
 
 About
 =====
@@ -51,4 +51,4 @@ Students learn linear data structures and the performance of their operations, a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

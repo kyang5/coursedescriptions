@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`comp313`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will have an uderstanding of process algebras, formal specification,, t
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

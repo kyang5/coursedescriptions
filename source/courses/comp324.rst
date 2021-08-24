@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp271`
 
 About
 =====
@@ -48,4 +48,4 @@ We shall also consider client-side usage of tools and technologies such as Node.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

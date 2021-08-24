@@ -21,8 +21,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231`
-    * :doc:`../courses/comp271`
+    * :doc:`comp231`
+    * :doc:`comp271`
 
 About
 =====
@@ -43,4 +43,4 @@ The student will learn the basic theory of artificial intelligence and be able t
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

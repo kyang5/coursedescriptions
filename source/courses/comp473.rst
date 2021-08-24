@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp413` or :doc:`../courses/comp313`
+    * :doc:`comp413` or :doc:`comp313`
 
 About
 =====
@@ -68,4 +68,4 @@ Students will have an understanding of Design Patterns, Implementations, and Com
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

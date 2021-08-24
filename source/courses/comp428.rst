@@ -29,7 +29,7 @@ Course Information
     **Prerequisites**
 
     * |math212|
-    * :doc:`../courses/comp163` or |math313|
+    * :doc:`comp163` or |math313|
 
 
 About
@@ -50,4 +50,4 @@ Students will learn both the theory and application of error-correcting codes.
 Syllabi
 ----------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

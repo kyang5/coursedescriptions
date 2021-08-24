@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` or :doc:`../courses/comp362` or comparable background, including **but not limited to** the following:
+    * :doc:`comp264` or :doc:`comp362` or comparable background, including **but not limited to** the following:
         * Understanding of basic computer organization, including familiarity with such components as CPU, ALU, multiplexers, registers, main memory, caches, and buses,
         * Familiarity with the roles of compilers, assemblers, and operating systems,
         * Some familiarity with assembly language
@@ -49,4 +49,4 @@ Students gain an understanding of the design of the memory hierarchy in modern d
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

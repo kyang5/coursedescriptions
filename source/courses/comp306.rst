@@ -24,7 +24,7 @@ Course Information
 
     * One of more of the following:
 
-        * :doc:`../courses/comp231` or :doc:`../courses/comp251` or :doc:`../courses/comp271`
+        * :doc:`comp231` or :doc:`comp251` or :doc:`comp271`
         * |stat103| or |stat203| or |isscm241| or |psyc304| or instructor permission.
 
 About
@@ -48,4 +48,4 @@ Students will be able to define and critically analyze data warehouse and mining
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -29,12 +29,12 @@ Course Information
 
     **Prerequisites**
 
-    * |math201| or :doc:`../courses/comp363`
+    * |math201| or :doc:`comp363`
     * One or more of the following:
-        * :doc:`../courses/comp125`
-        * :doc:`../courses/comp150`
-        * :doc:`../courses/comp170`
-        * :doc:`../courses/comp215`
+        * :doc:`comp125`
+        * :doc:`comp150`
+        * :doc:`comp170`
+        * :doc:`comp215`
 
 About
 =====
@@ -55,4 +55,4 @@ Students will gain an understanding of cryptosystems widely used to protect data
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

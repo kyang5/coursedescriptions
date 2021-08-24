@@ -25,9 +25,9 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-        * :doc:`../courses/comp264`
-        * :doc:`../courses/comp170`
-        * :doc:`../courses/comp447`
+        * :doc:`comp264`
+        * :doc:`comp170`
+        * :doc:`comp447`
 
 About
 =====
@@ -48,4 +48,4 @@ The goal is to gain an understanding of how to secure computers and computing en
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

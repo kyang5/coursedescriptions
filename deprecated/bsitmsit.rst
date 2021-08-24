@@ -29,7 +29,7 @@ The academic prerequisites for BA-IT students to be considered for admission to 
     A cumulative GPA of 3.3 or higher for all course work at Loyola;
     Satisfactory progress towards completion of Loyola's core.
 
-Further notes on BA completion: Before the undergraduate deadlines do apply to graduate with your B.A. in the semester you will actually finish! Otherwise you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in Locus can be fixed.
+Further notes on BA completion: Before the undergraduate deadlines do apply to graduate with your B.A. in the semester you will actually finish! Otherwise you complicate the conversion to graduate status. If the date when you will start graduate status changes from your original application, notify the GPD ahead of time so data in LOCUS can be fixed.
 Application Information
 
 Current Loyola BA-IT students who have met the above academic prerequisites are encouraged to apply . Students who have an interest in the program are encouraged to consult with the Graduate Program Director (GPD) for Information Technology, Dr. Peter Lars Dordal, in the semester prior to their application. The application will be evaluated upon completion of the following:

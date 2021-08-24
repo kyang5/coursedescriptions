@@ -46,4 +46,4 @@ Empowerment to manage and transform masses of data; understanding of technical, 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

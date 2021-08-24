@@ -25,7 +25,7 @@ Course Information
 
     **Prerequisites**
 
-    * |math131| or |math161| or :doc:`../courses/comp125` or :doc:`../courses/comp180` or permission from the instructor.
+    * |math131| or |math161| or :doc:`comp125` or :doc:`comp180` or permission from the instructor.
     * Recommended - Experience programming in a procedural or object-oriented language.
 
 About
@@ -64,4 +64,4 @@ Upon successful completion of the course, the student will be able to:
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

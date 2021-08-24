@@ -27,7 +27,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp313`
+    * :doc:`comp313`
 
 About
 =====
@@ -48,4 +48,4 @@ An understanding of the role of formal methods in the construction of software s
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

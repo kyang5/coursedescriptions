@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -45,4 +45,4 @@ The investigation requires the application of project-management tools covered i
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

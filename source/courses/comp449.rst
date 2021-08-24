@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp343` or instructor permission
+    * :doc:`comp343` or instructor permission
 
 About
 =====
@@ -45,4 +45,4 @@ Students will have an understanding of wireless networks and the security issues
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

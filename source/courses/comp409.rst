@@ -30,7 +30,7 @@ Course Information
 
     * |math212|
     * |math264|
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -51,4 +51,4 @@ Students will have an understanding of advanced numerical analysis and its appli
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

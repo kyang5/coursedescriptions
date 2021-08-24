@@ -23,8 +23,8 @@ Course Information
     **Prerequisites**
 
     * One or more of the following:
-        * :doc:`../courses/comp150`
-        * :doc:`../courses/comp170`
+        * :doc:`comp150`
+        * :doc:`comp170`
         * Instructor permission
 
 About
@@ -46,4 +46,4 @@ An appreciation that many aspects of neuroscience cannot be understood without a
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

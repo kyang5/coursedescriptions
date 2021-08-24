@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp363`
+    * :doc:`comp363`
 
 About
 =====
@@ -44,4 +44,4 @@ Students will have an understanding of algorithms and algorithmic complexity.
 Syllabi
 --------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 
 About
@@ -50,4 +50,4 @@ An understanding of Markup languages and their applications.
 Syllabus
 ---------------------
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

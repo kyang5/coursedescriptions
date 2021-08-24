@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -43,4 +43,4 @@ The student will learn the theory of artificial intelligence and be able to buil
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

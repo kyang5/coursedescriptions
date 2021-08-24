@@ -30,7 +30,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp271`
 
 About
 =====
@@ -51,4 +51,4 @@ Students will be able to develop applications for mobile and portable devices.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

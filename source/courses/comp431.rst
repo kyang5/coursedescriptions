@@ -22,9 +22,9 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
     * One or more of the following:
-        * :doc:`../courses/comp163`
+        * :doc:`comp163`
         * |math313|
         * |math201|
 
@@ -47,4 +47,4 @@ Students will understand how and why cryptography is used and the theory behind 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

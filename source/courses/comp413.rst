@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -36,14 +36,14 @@ Description
 
 **Overall Series of Object-Oriented Courses**
 
-* :doc:`../courses/comp170` (CS1) - simple objects representing scalars
-* :doc:`../courses/comp271` (CS2) - collections of simple objects
-* :doc:`../courses/comp313` / :doc:`../courses/comp413` - complex, interacting objects; basic design patterns
-* :doc:`../courses/comp373` / :doc:`../courses/comp473` - advanced design patterns and topics such as AOP(Aspect-Oriented programming)
+* :doc:`comp170` (CS1) - simple objects representing scalars
+* :doc:`comp271` (CS2) - collections of simple objects
+* :doc:`comp313` / :doc:`comp413` - complex, interacting objects; basic design patterns
+* :doc:`comp373` / :doc:`comp473` - advanced design patterns and topics such as AOP(Aspect-Oriented programming)
 
 
 .. note::
-    :doc:`../courses/comp313` / :doc:`../courses/comp413` is also a prerequisite for other advanced software courses. Students interested in advanced software courses are encouraged to take :doc:`../courses/comp313` / :doc:`../courses/comp413` as soon as they have completed :doc:`../courses/comp271` so as to be eligible for these further courses.
+    :doc:`comp313` / :doc:`comp413` is also a prerequisite for other advanced software courses. Students interested in advanced software courses are encouraged to take :doc:`comp313` / :doc:`comp413` as soon as they have completed :doc:`comp271` so as to be eligible for these further courses.
 
 **Course Topics**
 
@@ -73,4 +73,4 @@ You will learn to design and implement more complex programs using good software
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

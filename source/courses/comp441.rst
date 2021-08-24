@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will acquire an awareness of different design and evaluation methods as
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

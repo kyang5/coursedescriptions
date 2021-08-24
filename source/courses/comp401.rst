@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp170`
+    * :doc:`comp170`
 
 About
 =====
@@ -45,4 +45,4 @@ Students will learn to think like an adversary, find and exploit vulnerabilities
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -23,7 +23,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264` or :doc:`../courses/comp271`
+    * :doc:`comp264` or :doc:`comp271`
 
 About
 =====
@@ -44,4 +44,4 @@ Students will understand how the Internet is constructed, how data is routed to 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

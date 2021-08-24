@@ -44,4 +44,4 @@ Students will learn how a program can be put together quickly and efficiently to
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp251` or :doc:`../courses/comp271`
+    * :doc:`comp251` or :doc:`comp271`
 
 About
 =====
@@ -44,4 +44,4 @@ Students will be able to use theory and pragmatic approaches to define and imple
 Syllabi
 =======
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

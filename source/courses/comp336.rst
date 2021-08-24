@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp231` or :doc:`../courses/comp271`
+    * :doc:`comp231` or :doc:`comp271`
 
 About
 =====
@@ -50,4 +50,4 @@ After taking this course, students will have a working knowledge of XML and its 
 Syllabus
 ********
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

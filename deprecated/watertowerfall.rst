@@ -15,14 +15,14 @@ See `Textbook Information <https://docs.google.com/spreadsheets/d/138_JN8WEP8Pv5
 Section titles lines link to the course description page,
 except for some labeled special topics courses related to an existing course.
 
-The 4-digit number in parentheses after the section is the Locus registration code.
+The 4-digit number in parentheses after the section is the LOCUS registration code.
 
-Be sure to look at the section's notes or Locus for an 8-week courses with more than one schedule line:
+Be sure to look at the section's notes or LOCUS for an 8-week courses with more than one schedule line:
 Friday line(s) are likely to be isolated makeup days, not every week.
 
 
 You can skip down to
-:ref:`fall_graduate_courses_list_Water Tower`. 
+:ref:`fall_graduate_courses_list_Water Tower`.
 
 **View Campus Specific Courses below :**
 
@@ -30,7 +30,7 @@ You can skip down to
 
 :doc:`lakeShorefall`
 
-:doc:`onlineFall` 
+:doc:`onlineFall`
 
 
 
@@ -41,7 +41,7 @@ Undergraduate Courses
 
 
 
-:doc:`../courses/comp324` 
+:doc:`../courses/comp324`
     | Section 001 (6286) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0105 (Water Tower) Tuesday 07:00PM-09:30
@@ -50,7 +50,7 @@ Undergraduate Courses
     Combined with COMP 424-001.
 
 
-:doc:`../courses/comp333` 
+:doc:`../courses/comp333`
     | Section 001 (6288) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0321 (Water Tower) Monday 07:00PM-09:30
@@ -59,7 +59,7 @@ Undergraduate Courses
     Combined with COMP 433-001.
 
 
-:doc:`../courses/comp336` 
+:doc:`../courses/comp336`
     | Section 001 (6289) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0522 (Water Tower) Wednesday 04:15PM-06:45
@@ -68,7 +68,7 @@ Undergraduate Courses
     Combined with COMP 436-001.
 
 
-:doc:`../courses/comp343` 
+:doc:`../courses/comp343`
     | Section 001 (6290) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Corboy Law Center:0208 (Water Tower) Tuesday 04:15PM-06:45
@@ -77,7 +77,7 @@ Undergraduate Courses
     Combined with COMP 443-001.
 
 
-:doc:`../courses/comp347` 
+:doc:`../courses/comp347`
     | Section 001 (6292) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
     | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
@@ -86,7 +86,7 @@ Undergraduate Courses
     Combined with COMP 447-001.
 
 
-:doc:`../courses/comp377` 
+:doc:`../courses/comp377`
     | Section 001 (6324) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
     | Corboy Law Center:0523 (Water Tower) Monday 04:15PM-06:45
@@ -111,7 +111,7 @@ Graduate Courses
 
 
 
-:doc:`../courses/comp403` 
+:doc:`../courses/comp403`
     | Section 001 (6329) Credits: 3; In person; Lecture
     | Instructor: Channah Naiman
     | Corboy Law Center:0423 (Water Tower) Wednesday 07:00PM-09:30
@@ -119,7 +119,7 @@ Graduate Courses
 
 
 
-:doc:`../courses/comp424` 
+:doc:`../courses/comp424`
     | Section 001 (6377) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0105 (Water Tower) Tuesday 07:00PM-09:30
@@ -128,7 +128,7 @@ Graduate Courses
     Combined with COMP 324-001.
 
 
-:doc:`../courses/comp433` 
+:doc:`../courses/comp433`
     | Section 001 (6340) Credits: 3; In person; Lecture
     | Instructor: Berhane Zewdie
     | Corboy Law Center:0321 (Water Tower) Monday 07:00PM-09:30
@@ -137,7 +137,7 @@ Graduate Courses
     Combined with COMP 333-001.
 
 
-:doc:`../courses/comp436` 
+:doc:`../courses/comp436`
     | Section 001 (6341) Credits: 3; In person; Lecture
     | Instructor: Nicholas J Hayward
     | Corboy Law Center:0522 (Water Tower) Wednesday 04:15PM-06:45
@@ -146,7 +146,7 @@ Graduate Courses
     Combined with COMP 336-001.
 
 
-:doc:`../courses/comp443` 
+:doc:`../courses/comp443`
     | Section 001 (6342) Credits: 3; In person; Lecture
     | Instructor: Peter L Dordal
     | Corboy Law Center:0208 (Water Tower) Tuesday 04:15PM-06:45
@@ -155,7 +155,7 @@ Graduate Courses
     Combined with COMP 343-001.
 
 
-:doc:`../courses/comp447` 
+:doc:`../courses/comp447`
     | Section 001 (6358) Credits: 3; In person; Lecture
     | Instructor: Corby Schmitz
     | School of Communicat:013 (Water Tower) Friday 05:45PM-08:15
@@ -164,7 +164,7 @@ Graduate Courses
     Combined with COMP 347-001.
 
 
-:doc:`../courses/comp477` 
+:doc:`../courses/comp477`
     | Section 001 (6362) Credits: 3; In person; Lecture
     | Instructor: Conrad Weisert
     | Corboy Law Center:0523 (Water Tower) Monday 04:15PM-06:45

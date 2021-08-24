@@ -22,7 +22,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp251` or :doc:`../courses/comp271`
+    * :doc:`comp251` or :doc:`comp271`
 
 About
 =====
@@ -43,4 +43,4 @@ Students can define and critically analyze data mining approaches for fields suc
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

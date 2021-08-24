@@ -35,11 +35,11 @@ Course Information
 
     * For COMP 314:
 
-        * :doc:`../courses/comp271`
+        * :doc:`comp271`
 
     * For COMP 315:
 
-        * :doc:`../courses/comp314-315`
+        * :doc:`comp314-315`
 
 About
 =====
@@ -70,4 +70,4 @@ Ability to work in small groups, quickly and accurately assessing and solving fo
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -29,8 +29,8 @@ Course Information
     * |stat203|
     * One or more of the following:
         * |math215|
-        * :doc:`../courses/comp215`
-        * :doc:`../courses/comp170`
+        * :doc:`comp215`
+        * :doc:`comp170`
 
 About
 =====
@@ -51,4 +51,4 @@ The objective is to provide management with relevant information for constructin
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

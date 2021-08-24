@@ -24,7 +24,7 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp271`
+    * :doc:`comp271`
     * Section specific requirements
 
 About
@@ -60,4 +60,4 @@ Students will have an understand of an emerging area of Computer Science.
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

@@ -46,4 +46,4 @@ Students who complete this course will develop fluency in the Unix (Linux) envir
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|

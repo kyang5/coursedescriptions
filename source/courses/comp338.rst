@@ -26,8 +26,8 @@ Course Information
 
     **Prerequisites**
 
-    * :doc:`../courses/comp264`
-    * :doc:`../courses/comp313`
+    * :doc:`comp264`
+    * :doc:`comp313`
 
 About
 =====
@@ -48,4 +48,4 @@ An understanding of software architecture and integration in the development of 
 Syllabi
 *******
 
-See :doc:`../syllabi/syllabi`.
+|see-syllabi|
