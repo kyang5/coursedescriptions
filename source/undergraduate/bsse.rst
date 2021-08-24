@@ -72,7 +72,7 @@ Six (6) credits taken from one or more of :doc:`../courses/comp312`, :doc:`../co
 Computer Science Electives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- 3 credits of COMP 125 or COMP 150 or COMP 3xx
+- 3 credits of :doc:`COMP 125 <../courses/comp125>` or :doc:`COMP 150 <../courses/comp150>` or :doc:`COMP 3xx <../courses/undergraduate-courses>`
 - 10 credits of COMP 3xx.
 
 General Notes
