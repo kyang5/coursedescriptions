@@ -9,6 +9,13 @@ M.S. in Computer Science
 .. note::
 
   If you declared your major prior to Fall 2021, please follow the :doc:`mscs_old` page.
+  
+* :ref:`Curriculum<curriculum>`
+* :ref:`Major Prerequisites<prereq>`
+* :ref:`Preparation Courses<prep>`
+* :ref:`Major Requirements<req>`
+* :ref:`Major Electives<electives>`
+* :ref:`Thesis Option<thesis>`
 
 ********
 Overview
@@ -22,6 +29,8 @@ The M.S. in Computer Science offers the following concentrations of specializati
 * :ref:`Artificial Intelligence<ai>`
 * :ref:`Cybersecurity<cybersecurity>`
 * :ref:`Computer Systems<computerSystems>`
+
+.. _curriculum:
 
 **********
 Curriculum
@@ -51,10 +60,14 @@ Overall, to achieve depth and breadth, Computer Science students must complete t
 * Four (4) electives restricted to a concentration
 * Four (4) general electives
 
+.. _prereq:
+
 Major Prerequisites
 ===================
 
 A four-year undergraduate degree in any field. Computer science, software engineering, computer engineering, or related background recommended.
+
+.. _prep:
 
 Preparation Courses
 -------------------
@@ -84,6 +97,8 @@ A student may place out of an introductory course under any of the following con
 
 If a student has had a preparatory course waived, departmental assistance will usually be necessary to allow the student to register for any other course having that preparatory course as a prerequisite.
 
+.. _req:
+
 Major Requirements
 ==================
 
@@ -97,6 +112,8 @@ The following two (2) courses are required by the program:
     :doc:`../courses/comp460` has the prereq :doc:`../courses/comp363`.
 
 Either class above can be substituted with another graduate course under the discretion of GPD if students had their equivalent in their undergraduate program.
+
+.. _electives:
 
 Major Electives
 ===============
@@ -211,6 +228,8 @@ Computer Systems Concentration (12 Credits)
 * :doc:`../courses/comp462`
 * :doc:`../courses/comp464`
 * :doc:`../courses/comp472`
+
+.. _thesis:
 
 *************
 Thesis Option
