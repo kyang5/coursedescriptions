@@ -236,7 +236,7 @@ Computer Systems Concentration (12 Credits)
 |                     COMP 417: Social and Ethical Issues in Computing (3 credit hours)                    |
 |                      COMP 460: Algorithms and Complexity (3 credit hours)*                               |
 +----------------------------------------------------------------------------------------------------------+
-| **Chosing four out of** | **Choose four out of**    | **Choose four out of**  | **Choose four out of**   | 
+| **Chosing four out of** | **Choose four out of**    | **Choose four out of**  | **Choose four out of**   |
 | **the following (3***   | **the following (3**      | **the following (3**    | **the following (3**     |
 | **credit hours each)**  | **credit hours each)**    | **credit hours each**   | **credit hours each)**   |
 |  COMP 413 (required) 	  |  COMP 479 (required)      |  COMP 401 (required)    |  COMP 410 (required)     |
