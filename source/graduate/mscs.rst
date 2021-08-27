@@ -250,11 +250,11 @@ Computer Systems Concentration (12 Credits)
 |  COMP 464               | **Two of the following**  |  COMP 488               |  COMP 464                |
 |  COMP 471               | **courses from the 3**    |                         |  COMP 472                |
 |  COMP 473               | **the 3 choices above:**  |                         |                          |
-|  COMP 474               |                           |  *Students may          |  *Students may           |
-|                         |  COMP 406                 |	 petiition the GPD to   |  petition the GPD to     |
-|                         |  COMP 458                 |  substitute COMP 460    |  substitute COMP 460     |
-|                         |  COMP 488                 |  with a course from     |  with a course from      |
-|                         |                           |  the list above.        |  the list above.         |
+|  COMP 474               |                           |  *Students may*         |  *Students may*          |
+|                         |  COMP 406                 |	 *petiition the GPD to* |  *petition the GPD to*   |
+|                         |  COMP 458                 |  *substitute COMP 460*  |  *substitute COMP 460*   |
+|                         |  COMP 488                 |  *with a course from*   |  *with a course from*    |
+|                         |                           |  *the list above.       |  *the list above.*       |
 |                         |                           |                         |                          |
 +----------------------------------------------------------------------------------------------------------+
 |                              Four 400-level COMP three-credit electives                                  |
