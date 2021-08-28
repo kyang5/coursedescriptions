@@ -260,6 +260,7 @@ Computer Systems Concentration (12 Credits)
 |                              Four 400-level COMP three-credit electives                                  |
 +----------------------------------------------------------------------------------------------------------+
 
+=======
 .. _thesis:
 
 *************
