@@ -230,37 +230,46 @@ Computer Systems Concentration (12 Credits)
 * :doc:`../courses/comp472`
 
 +-------------------------+---------------------------+-------------------------+--------------------------+
-| *Default Eelctives for* | *Artificial Intelligence* |     *Cybersecurity*     |    *Computer Systems*    |
-|    *General MS in CS*   |     *Concentration*       |     *Concentration*     |      *Concentration*     |
+|*Default Eelctives for*  |*Artificial Intelligence*  |*Cybersecurity*          |*Computer Systems*        |
+|*General MS in CS*       |*Concentration*            |*Concentration*          |*Concentration*           |
 +=========================+===========================+=========================+==========================+
 |                     COMP 417: Social and Ethical Issues in Computing (3 credit hours)                    |
 |                      COMP 460: Algorithms and Complexity (3 credit hours)*                               |
-+----------------------------------------------------------------------------------------------------------+
-| **Chosing four out of** | **Choose four out of**    | **Choose four out of**  | **Choose four out of**   |
-| **the following (3***   | **the following (3**      | **the following (3**    | **the following (3**     |
-| **credit hours each)**  | **credit hours each)**    | **credit hours each**   | **credit hours each)**   |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|**Choose four out of**   |**Choose four out of**     |**Choose four out of**   |**Choose four out of**    |
+|**the following (3***    |**the following (3**       |**the following (3**     |**the following (3**      |
+|**credit hours each)**   |**credit hours each)**     |**credit hours each**    |**credit hours each)**    |
++-------------------------+---------------------------+-------------------------+--------------------------+
 |  COMP 413 (required) 	  |  COMP 479 (required)      |  COMP 401 (required)    |  COMP 410 (required)     |
-|  COMP 410               | **One of the following**  |  COMP 431               |  COMP 405                |
-|  COMP 433               | **courses from the**      |  COMP 440               |  COMP 413                |
-|  COMP 436               | **three choices below:**  |  COMP 445               |  COMP 439                |
-|  COMP 439               |                           |  COMP 447               |  COMP 443                |
-|  COMP 442               |  COMP 429                 |  COMP 448               |  COMP 451                |
-|  COMP 443               |  COMP 487                 |  COMP 449               |  COMP 453                |
-|  COMP 453               |  COMP 488                 |  COMP 452               |  COMP 462                |
-|  COMP 464               | **Two of the following**  |  COMP 488               |  COMP 464                |
-|  COMP 471               | **courses from the 3**    |                         |  COMP 472                |
-|  COMP 473               | **the 3 choices above:**  |                         |                          |
-|  COMP 474               |                           |  *Students may          |  *Students may           |
-|                         |  COMP 406                 |	 petiition the GPD to   |  petition the GPD to     |
-|                         |  COMP 458                 |  substitute COMP 460    |  substitute COMP 460     |
-|                         |  COMP 488                 |  with a course from     |  with a course from      |
-|                         |                           |  the list above.        |  the list above.         |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 410               |                           |  COMP 431               |  COMP 405                |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 433               |**One of the following**   |  COMP 445               |                          |
++-------------------------+**courses from the**       +-------------------------+------------------------- +
+| COMP 436                |**three choices below:**   |  COMP 447               |                          |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 439               |  COMP 429                 |  COMP 448               |  COMP 443                |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 442               |  COMP 487                 |  COMP 449               |  COMP 451                |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 443               |  COMP 488                 |  COMP 452               |  COMP 453                |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 453               |                           |  COMP 488               |  COMP 462                |
++-------------------------+---------------------------+-------------------------+--------------------------+
+|  COMP 464               |**Two of the following**   |*Students may            |  COMP 464                |
++-------------------------+**courses from the 3**     |petiition the GPD to     +--------------------------+
+|  COMP 471               |**the 3 choices above:**   |substitute COMP 460      |  COMP 472                |
++-------------------------+---------------------------+with a course from       +--------------------------+
+|  COMP 473               |  COMP 406                 |the list above.          |*Students may             |
++-------------------------+---------------------------+                         |petition the GPD to       |
+|  COMP 474               |  COMP 458                 |                         |substitute COMP 460       |
+|                         +---------------------------+                         |with a course from        |
+|                         |  COMP 488                 |                         |the list above.           |
 |                         |                           |                         |                          |
-+----------------------------------------------------------------------------------------------------------+
++-------------------------+---------------------------+-------------------------+--------------------------+
 |                              Four 400-level COMP three-credit electives                                  |
 +----------------------------------------------------------------------------------------------------------+
 
-=======
 .. _thesis:
 
 *************
